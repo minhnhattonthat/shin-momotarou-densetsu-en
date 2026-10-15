@@ -522,27 +522,27 @@
   {
    "id": "b002_0103",
    "jp": "なんと!{n}つづらの なかには{n}{arg}が いた!",
-   "en": "What's this!?{n}Inside the basket{n}was {arg}!"
+   "en": "What's this!?{n}Inside the wicker chest{n}was {arg}!"
   },
   {
    "id": "b002_0104",
    "jp": "{arg}が{n}つづらの中に{n}ひきずりこまれた!",
-   "en": "{arg} was dragged{n}into the basket!"
+   "en": "{arg} was dragged{n}into the wicker chest!"
   },
   {
    "id": "b002_0105",
    "jp": "{arg}は{n}つづらの なかから{n}{arg}を 取り出した!",
-   "en": "{arg} took{n}{arg}{n}out of the basket!"
+   "en": "{arg} took{n}{arg}{n}out of the wicker chest!"
   },
   {
    "id": "b002_0106",
    "jp": "{arg}は {arg}を{n}つづらの なかに もどした!{n}",
-   "en": "{arg} put {arg}{n}back in the basket!{n}"
+   "en": "{arg} put {arg}{n}back in the wicker chest!{n}"
   },
   {
    "id": "b002_0107",
    "jp": "{arg}は{n}つづらの なかから{n}{num}両 取り出した!",
-   "en": "{arg} took{n}{num} ryo{n}out of the basket!"
+   "en": "{arg} took{n}{num} ryo{n}out of the wicker chest!"
   },
   {
    "id": "b002_0108",
@@ -552,7 +552,7 @@
   {
    "id": "b002_0109",
    "jp": "しかし つづらは からっぽだった!",
-   "en": "But the basket was empty!"
+   "en": "But the wicker chest was empty!"
   },
   {
    "id": "b002_0110",
@@ -722,7 +722,7 @@
   {
    "id": "b002_0143",
    "jp": "つづらの数",
-   "en": "Basket Count"
+   "en": "Chest Count"
   },
   {
    "id": "b002_0144",
