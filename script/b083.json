@@ -87,42 +87,42 @@
   {
    "id": "b083_0016",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー!{n} やはり {sub:A0}さんが{n} おさがしの品でしたか!」{n}「{sub:A0}さんに{n} ごおんがえしが できて{n} 甚八は うれしゅうございます!」",
-   "en": null
+   "en": "\"Chuu, chuu! So it was the very thing you were looking for, Momotaro!\"{n}\"I, Jinpachi, am so happy to repay your kindness, Momotaro!\""
   },
   {
    "id": "b083_0017",
    "jp": "「どうぞ この村で{n} ごゆるりと 旅のつかれを{n} いやして{sub:C5}!」",
-   "en": null
+   "en": "\"Please stay in this village as long as you like and rest from the weariness of your journey!\""
   },
   {
    "id": "b083_0018",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! {sub:A0}さん!{n} おむすび村の 名物{n} {sub:C0}を どうぞ!」",
-   "en": null
+   "en": "\"Chuu, chuu! Momotaro! Please have a rice ball, the specialty of Omusubi Village!\""
   },
   {
    "id": "b083_0019",
    "jp": "「もうひとつ どうぞ!」{n}{n}",
-   "en": null
+   "en": "\"Have another!\"{n}{n}"
   },
   {
    "id": "b083_0020",
    "jp": "「もうひとつ どうぞ!」{n}{n}",
-   "en": null
+   "en": "\"Have another!\"{n}{n}"
   },
   {
    "id": "b083_0021",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! たまには{n} うちの 茶店の きびだんごも{n} 食べて{sub:C5}ね おいしいですよ!」",
-   "en": null
+   "en": "\"Chuu, chuu! Once in a while, please try the millet dumplings at our teahouse too. They're delicious!\""
   },
   {
    "id": "b083_0022",
    "jp": "「{sub:C0}も さることながら{n} {kata}ネズミ{hira}たちの やさしさが{n} 村いちばんの ごちそうじゃ!」",
-   "en": null
+   "en": "\"The rice balls are mighty fine, but the kindness of these mice is the best treat in the village!\""
   },
   {
    "id": "b083_0023",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! 旅立ちの村の{n} みなさんが わざわざ おいわいに{n} 米だわらを はこんでくれました」",
-   "en": null
+   "en": "\"Chuu, chuu! The folks of Journey's Start Village came all this way to celebrate, carrying bales of rice for us!\""
   }
  ]
 }

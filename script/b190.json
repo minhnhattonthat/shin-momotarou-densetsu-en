@@ -7,657 +7,657 @@
   {
    "id": "b190_0000",
    "jp": "右魂鬼{n}「{kata}グルルルルル{hira}!」{n}",
-   "en": null
+   "en": "Ukonki{n}\"Grrrrrrr!\"{n}"
   },
   {
    "id": "b190_0001",
    "jp": "左魂鬼{n}「{kata}ガルルルルル{hira}!」{n}",
-   "en": null
+   "en": "Sakonki{n}\"Garrrrrr!\"{n}"
   },
   {
    "id": "b190_0002",
    "jp": "{kata}アジャセ{hira}王子{n}「{kata}カルラ{hira}ー{kata}ッ{hira}!{n} かぐや姫に 何をする!」{n}{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!」{n}{n}「にて 食おうと{n} 焼いて 食おうと{n} {kata}オレ{hira}様の 勝手だっ!」{0B}",
-   "en": null
+   "en": "Prince Ajase{n}\"Karuraaa! What are you doing to Princess Kaguya!\"{n}Karura{n}\"Keeh, keh-keh-keh!\"{n}{n}\"Boil her or roast her, I'll eat her any way I please!\"{0B}"
   },
   {
    "id": "b190_0003",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} {sub:A0}たちも 来たか!」{0B}",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! So Momotaro and his friends have come too!\"{0B}"
   },
   {
    "id": "b190_0004",
    "jp": "「ちょうど よい!{n} {sub:B6}たちに 聞きたい!」{n}{n}「{sub:B6}たちは なぜ{n} こんな 力もない 小娘を{n} 助けようとする?」{n}「その ひっしに なり方は{n} あまりにも おかしい!」{n}",
-   "en": null
+   "en": "\"How convenient! I have a question for you all!\"{n}{n}\"Why do you all try so hard to save this powerless little girl?\"{n}\"Such desperation is far too strange!\"{n}"
   },
   {
    "id": "b190_0005",
    "jp": "{kata}アジャセ{hira}王子{n}「くっ……………!」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Ngh..............!\"{n}"
   },
   {
    "id": "b190_0006",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! どうした?{n} みんな あおざめた顔をして!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! What's the matter? You've all gone so pale!\""
   },
   {
    "id": "b190_0007",
    "jp": "「この小娘が 死ぬと{n} 大地が くずれることくらい{n} {kata}オレ{hira}様は 知っているよ!」{0B}",
-   "en": null
+   "en": "\"Oh, I know full well that if this little girl dies, the earth will crumble!\"{0B}"
   },
   {
    "id": "b190_0008",
    "jp": "「だが じっさい{n} どのくらい どうなるのかを{n} {sub:B6}た{sub:CD} 聞きたいのさ!」{0B}",
-   "en": null
+   "en": "\"But I want to hear from you exactly how much, and how it all happens!\"{0B}"
   },
   {
    "id": "b190_0009",
    "jp": "「もちろん{n} いいたくなければ{n} いわなくても よいのだぞ!」{0B}",
-   "en": null
+   "en": "\"Of course, if you'd rather not say, you needn't say a thing!\"{0B}"
   },
   {
    "id": "b190_0010",
    "jp": "「ここで 小娘を{n} 殺してみれば すむ!」{n}",
-   "en": null
+   "en": "\"I can simply kill the girl right here and find out!\"{n}"
   },
   {
    "id": "b190_0011",
    "jp": "{kata}アジャセ{hira}王子{n}「くっ……………!」{n}{n}かぐや姫{n}「話しては なりません!」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Ngh..............!\"{n}{n}Princess Kaguya{n}\"You mustn't tell him!\"{n}"
   },
   {
    "id": "b190_0012",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! どうした!{n} 誰も いわぬのか?」{n}「かぐや姫が どうなっても{n} いいということだな?」{n}",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! What's this! Nobody will talk?\"{n}\"So you don't care what happens to Princess Kaguya, eh?\"{n}"
   },
   {
    "id": "b190_0013",
    "jp": "{kata}アジャセ{hira}王子{n}「くっ……………!」{n}{n}かぐや姫{n}「おねがい! いわないで!」{n}{n}{kata}カルラ{n}{hira}「しかたのない やつらだ!{n} 5つ かぞえてやる!」{n}「それまでに いわねば…!{n} {kata}ケ{hira}ー{kata}ケッケッ{hira}! わかっているな!」{n}{n}「1つ!」{n}{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Ngh..............!\"{n}{n}Princess Kaguya{n}\"Please! Don't tell him!\"{n}{n}Karura{n}\"What a hopeless lot! I'll count to five!\"{n}\"If you haven't talked by then...! Keeh, keh-keh-keh! You know what happens!\"{n}{n}\"One!\"{n}{n}"
   },
   {
    "id": "b190_0014",
    "jp": "「2つ!」{n}{n}",
-   "en": null
+   "en": "\"Two!\"{n}{n}"
   },
   {
    "id": "b190_0015",
    "jp": "「3つ!」{n}{n}",
-   "en": null
+   "en": "\"Three!\"{n}{n}"
   },
   {
    "id": "b190_0016",
    "jp": "「4つ!」{n}{n}",
-   "en": null
+   "en": "\"Four!\"{n}{n}"
   },
   {
    "id": "b190_0017",
    "jp": "{kata}アジャセ{hira}王子{n}「くっ……………!」{n}{n}{kata}カルラ{n}{hira}「5………」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Ngh..............!\"{n}{n}Karura{n}\"Fiiive.........\"{n}"
   },
   {
    "id": "b190_0018",
    "jp": "{kata}アジャセ{hira}王子{n}「まて! まってくれ!」{n}{n}{kata}カルラ{n}{hira}「どうした! {kata}アジャセ{hira}王子{n} びっしょり あせを かいて!」{n}「体に よくないぞ!{n} はやく しゃべって{n} すっきりすることだな!」{n}{kata}アジャセ{hira}王子{n}「たのむ! いうから かぐや姫を{n} 月に かえすと ちかってくれ!」{n}{kata}カルラ{n}{hira}「よかろう!」{n}{n}{kata}アジャセ{hira}王子{n}「かぐや姫は {sub:C9}と おなじく{n} 月の民の まつえいなのだ!」{n}「夜空に光る 月は その昔{n} 月の民たちの 意志が{n} まとまって 形になったという!」{n}「その月から 生まれたのが{n} この大地だと いわれている」{n}{n}「なかでも かぐや姫の 祖先の血が{n} 月や 大地を ささえるには{n} もっとも 強いと いわれていた!」{n}「だから かぐや姫は{n} 月と 地上と 何度も{n} 行ったり 来たり していたのだ!」{n}{kata}カルラ{n}{hira}「おもしろい! じつに{n} おもしろい 話ではないか!」{n}{kata}アジャセ{hira}王子{n}「……だから!」{n}{n}「かぐや姫に もしものことがあると…{n} 月と 竹取りの村を 残して…{n} すべて 沈んでしまう!」{n}{kata}カルラ{n}{hira}「ほう! ほう! では{n} この鬼が島は どうなる?」",
-   "en": null
+   "en": "Prince Ajase{n}\"Wait! Please, wait!\"{n}{n}Karura{n}\"What's wrong, Prince Ajase? You're drenched in sweat!\"{n}\"That's bad for your health! Better spit it out quick and get it off your chest!\"{n}Prince Ajase{n}\"I beg you! I'll tell you, so swear you'll send Princess Kaguya back to the Moon!\"{n}Karura{n}\"Very well!\"{n}{n}Prince Ajase{n}\"Princess Kaguya, like me, is descended from the Moon folk!\"{n}\"They say the Moon shining in the night sky was born long ago when the will of the Moon folk came together and took shape!\"{n}\"And it is said this earth was born from that Moon.\"{n}{n}\"Of all of them, the blood of Princess Kaguya's ancestors was said to be the strongest at holding up the Moon and the earth!\"{n}\"That is why Princess Kaguya has gone back and forth between the Moon and the earth so many times!\"{n}Karura{n}\"Fascinating! Truly a fascinating tale, isn't it?\"{n}Prince Ajase{n}\"...And so!\"{n}{n}\"If anything should happen to Princess Kaguya... save for the Moon and Bamboo Village... everything will sink!\"{n}Karura{n}\"Oho! Oho! Then what becomes of Onigashima here?\""
   },
   {
    "id": "b190_0019",
    "jp": "{kata}アジャセ{hira}王子{n}「……くっ!」{n}{0B}",
-   "en": null
+   "en": "Prince Ajase{n}\"...Ngh!\"{n}{0B}"
   },
   {
    "id": "b190_0020",
    "jp": "「…{sub:C9}も 月の民の まつえい{n} 少しながら 鬼の世界にも{n} 月の血は ながれている…」{n}「だから わずかながら{n} ……………残るだろう!」{n}{n}{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! {kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} おもしろい! おもしろすぎる!」{n}「まさに {kata}オレ{hira}様のために{n} 作られたような 話ではないか!」{n}{n}「たしかに {sub:B6}たちが{n} むきになるわけだ!」{n}{n}「そして…」{n}{n}{0B}",
-   "en": null
+   "en": "\"...I too am descended from the Moon folk. A little of the Moon's blood flows in the world of the oni as well...\"{n}\"So a small part... ...............will remain!\"{n}{n}Karura{n}\"Keeh, keh-keh-keh! Keeh, keh-keh-keh! Fascinating! Too fascinating!\"{n}\"Why, it's a tale made just for me!\"{n}{n}\"No wonder you all got so worked up!\"{n}{n}\"And so...\"{n}{n}{0B}"
   },
   {
    "id": "b190_0021",
    "jp": "「{kata}オレ{hira}様には この小娘は{n} ひつよう ないことが{n} よ～く わかった!」",
-   "en": null
+   "en": "\"Now I understand perfectly that I have no need for this little girl!\""
   },
   {
    "id": "b190_0022",
    "jp": "{kata}アジャセ{hira}王子{n}「{kata}カルラ{hira}…………!」{n}{n}かぐや姫{n}「はなして! はなして{sub:C5}!」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Karura..........!\"{n}{n}Princess Kaguya{n}\"Let go! Let go of me, please!\"{n}"
   },
   {
    "id": "b190_0023",
    "jp": "金太郎{n}「やいやい! 鳥野郎!{n} かぐや姫さまを かえせー!」",
-   "en": null
+   "en": "Kintaro{n}\"Hey, hey! You birdbrain! Give Princess Kaguya back!\""
   },
   {
    "id": "b190_0024",
    "jp": "浦島{n}「おねがいです! {sub:C9}たちの{n} 希望を かえして{sub:C5}!」",
-   "en": null
+   "en": "Urashima{n}\"Please! Give us back our hope!\""
   },
   {
    "id": "b190_0025",
    "jp": "夜叉姫{n}「{kata}カルラ{hira}! 誰に 手をかけているか{n} わかっているのですか?」",
-   "en": null
+   "en": "Yasha{n}\"Karura! Do you understand whom you're laying hands on?\""
   },
   {
    "id": "b190_0026",
    "jp": "えんま様{n}「{kata}カルラ{hira}! そこまでだ!{n} これ以上 はじを さらすな!」",
-   "en": null
+   "en": "King Enma{n}\"Karura! That's enough! Disgrace yourself no further!\""
   },
   {
    "id": "b190_0027",
    "jp": "{sub:CE}{n}「{kata}カルラ{hira}め! かぐや姫さまを{n} どうしようと いうのだ?」",
-   "en": null
+   "en": "Ashura{n}\"Curse you, Karura! What do you mean to do with Princess Kaguya?\""
   },
   {
    "id": "b190_0028",
    "jp": "風神{n}「ぴゅるるるるぅ! {kata}カルラ{hira}!{n} かぐや姫さまから はなれろ!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! Karura! Get away from Princess Kaguya!\""
   },
   {
    "id": "b190_0029",
    "jp": "雷神{n}「ぐゎらり ぐゎらり! {kata}カルラ{hira}!{n} 鬼族の はじを さらすな!」",
-   "en": null
+   "en": "Raijin{n}\"Rumble, rumble! Karura! Stop disgracing the oni!\""
   },
   {
    "id": "b190_0030",
    "jp": "銀次{n}「{kata}カルラ{hira}! かぐや姫さまに{n} 手をふれるんじゃねえ!」",
-   "en": null
+   "en": "Ginji{n}\"Karura! Keep your hands off Princess Kaguya!\""
   },
   {
    "id": "b190_0031",
    "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} その きたない手を はなせ!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} かぐや姫さまを どうする気だ!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} かぐや姫さまを かえして!」",
-   "en": null
+   "en": "{arg}{n}\"Woof woof! Take those filthy hands off her!\"{n}{arg}{n}\"Eek eek! What are you gonna do to Princess Kaguya?\"{n}{arg}{n}\"Ken ken! Give Princess Kaguya back!\""
   },
   {
    "id": "b190_0032",
    "jp": "金太郎{n}「そんなこと いえるかー!」{n}",
-   "en": null
+   "en": "Kintaro{n}\"Like I'd tell you!\"{n}"
   },
   {
    "id": "b190_0033",
    "jp": "夜叉姫{n}「そ… それは…」{n}",
-   "en": null
+   "en": "Yasha{n}\"Th... that is...\"{n}"
   },
   {
    "id": "b190_0034",
    "jp": "浦島{n}「みなさん! いってはいけません!」{n}",
-   "en": null
+   "en": "Urashima{n}\"Everyone! You mustn't tell him!\"{n}"
   },
   {
    "id": "b190_0035",
    "jp": "えんま様{n}「ぐ……ぐぬぬぬ…」{n}",
-   "en": null
+   "en": "King Enma{n}\"Ngh... grrrr...\"{n}"
   },
   {
    "id": "b190_0036",
    "jp": "{sub:CE}{n}「だまれ! {kata}カルラ{hira}!」{n}",
-   "en": null
+   "en": "Ashura{n}\"Silence, Karura!\"{n}"
   },
   {
    "id": "b190_0037",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} {sub:B6}の 知ったことか!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! That's none of your business!\""
   },
   {
    "id": "b190_0038",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} ぬ……ぐむむむむ…!」",
-   "en": null
+   "en": "Raijin{n}\"Rumble, rumble! Nngh... grrrrr...!\""
   },
   {
    "id": "b190_0039",
    "jp": "銀次{n}「てめえなんかに いえるか!」{n}",
-   "en": null
+   "en": "Ginji{n}\"Like I'd ever tell the likes of you!\"{n}"
   },
   {
    "id": "b190_0040",
    "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} ぜったい おしえるもんか!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} ううう……{kata}キィ{hira}ーーー!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} だめよ! いっては だめ!」",
-   "en": null
+   "en": "{arg}{n}\"Woof woof! I'll never tell you!\"{n}{arg}{n}\"Eek eek! Uuugh... Kiiiiiii!\"{n}{arg}{n}\"Ken ken! No! Don't tell him!\""
   },
   {
    "id": "b190_0041",
    "jp": "金太郎{n}「き きたない やつめ!」{n}",
-   "en": null
+   "en": "Kintaro{n}\"Y-you dirty rat!\"{n}"
   },
   {
    "id": "b190_0042",
    "jp": "夜叉姫{n}「なんてことを…」{n}",
-   "en": null
+   "en": "Yasha{n}\"How could you...\"{n}"
   },
   {
    "id": "b190_0043",
    "jp": "浦島{n}「や やめて{sub:C5}!」{n}",
-   "en": null
+   "en": "Urashima{n}\"P-please stop!\"{n}"
   },
   {
    "id": "b190_0044",
    "jp": "えんま様{n}「{kata}カルラ{hira}… {sub:B6}の{n} ひれつさは 底知れぬ!」",
-   "en": null
+   "en": "King Enma{n}\"Karura... your cowardice knows no bounds!\""
   },
   {
    "id": "b190_0045",
    "jp": "{sub:CE}{n}「だ 誰が いうか!」{n}",
-   "en": null
+   "en": "Ashura{n}\"Wh-who'd tell you!\"{n}"
   },
   {
    "id": "b190_0046",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} ひきょう者め～～～!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! You cowaaaard!\""
   },
   {
    "id": "b190_0047",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} そこまで 苦しむ顔が 見たいか!」",
-   "en": null
+   "en": "Raijin{n}\"Rumble, rumble! Do you want to see us suffer that badly?\""
   },
   {
    "id": "b190_0048",
    "jp": "銀次{n}「{kata}カ{hira}…{kata}ル{hira}…{kata}ラ{hira}!」{n}",
-   "en": null
+   "en": "Ginji{n}\"Ka... ru... ra!\"{n}"
   },
   {
    "id": "b190_0049",
    "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} {kata}グ{hira}…{kata}グルルル{hira}……!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} ううう……{kata}キィ{hira}ーーー!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} いっては だめ! だめ!」",
-   "en": null
+   "en": "{arg}{n}\"Woof woof! Grr... grrrrr...!\"{n}{arg}{n}\"Eek eek! Uuugh... Kiiiiiii!\"{n}{arg}{n}\"Ken ken! Don't tell! Don't!\""
   },
   {
    "id": "b190_0050",
    "jp": "金太郎{n}「きたねえ! きたねえど!」{n}",
-   "en": null
+   "en": "Kintaro{n}\"Dirty! That's dirty, ya hear!\"{n}"
   },
   {
    "id": "b190_0051",
    "jp": "夜叉姫{n}「なんて むごい…!」{n}",
-   "en": null
+   "en": "Yasha{n}\"How cruel...!\"{n}"
   },
   {
    "id": "b190_0052",
    "jp": "浦島{n}「あなたには 命の とうとさが{n} わからないのですかーーっ!」",
-   "en": null
+   "en": "Urashima{n}\"Don't you understand how precious life iiis?!\""
   },
   {
    "id": "b190_0053",
    "jp": "えんま様{n}「{kata}カルラ{hira}! 血まようたか!」{n}",
-   "en": null
+   "en": "King Enma{n}\"Karura! Have you lost your mind?!\"{n}"
   },
   {
    "id": "b190_0054",
    "jp": "{sub:CE}{n}「うぬぬぬっ…うすぎたないやつ!」{n}",
-   "en": null
+   "en": "Ashura{n}\"Grrr... you filthy wretch!\"{n}"
   },
   {
    "id": "b190_0055",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} 鬼の 風上にも おけぬやつ!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! You're a disgrace to all oni!\""
   },
   {
    "id": "b190_0056",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} うれしそうな 顔を しおって!」",
-   "en": null
+   "en": "Raijin{n}\"Rumble, rumble! Look at that gleeful face of his!\""
   },
   {
    "id": "b190_0057",
    "jp": "銀次{n}「{kata}カ{hira}…{kata}ル{hira}…{kata}ラ{hira}!」{n}          ",
-   "en": null
+   "en": "Ginji{n}\"Ka... ru... ra!\"{n}"
   },
   {
    "id": "b190_0058",
    "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} 何てことを…!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} きたない! きたない!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}! {n} もう やめて!」",
-   "en": null
+   "en": "{arg}{n}\"Woof woof! How could you...!\"{n}{arg}{n}\"Eek eek! Dirty! Dirty!\"{n}{arg}{n}\"Ken ken!{n} Please stop!\""
   },
   {
    "id": "b190_0059",
    "jp": "金太郎{n}「やめろ! やめるんだ!」{n}",
-   "en": null
+   "en": "Kintaro{n}\"Stop! Stop it right now!\"{n}"
   },
   {
    "id": "b190_0060",
    "jp": "夜叉姫{n}「{kata}カルラ{hira}! あまりにも{n} ひきょうな! くっ!」",
-   "en": null
+   "en": "Yasha{n}\"Karura! How utterly cowardly! Ngh!\""
   },
   {
    "id": "b190_0061",
    "jp": "浦島{n}「いけません!{n} あの目は 本気です!」",
-   "en": null
+   "en": "Urashima{n}\"No! Those eyes mean it!\""
   },
   {
    "id": "b190_0062",
    "jp": "えんま様{n}「どこまでも きたないやつめ!」{n}",
-   "en": null
+   "en": "King Enma{n}\"You rotten wretch, to the very core!\"{n}"
   },
   {
    "id": "b190_0063",
    "jp": "{sub:CE}{n}「かぐや姫さまの ためには{n} いうしか ないのか…!」",
-   "en": null
+   "en": "Ashura{n}\"For Princess Kaguya's sake, have we no choice but to tell...!\""
   },
   {
    "id": "b190_0064",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} どうしたら よいのだ!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! What are we to do?!\""
   },
   {
    "id": "b190_0065",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} このままでは かぐや姫さまが…」",
-   "en": null
+   "en": "Raijin{n}\"Rumble, rumble! At this rate, Princess Kaguya will...\""
   },
   {
    "id": "b190_0066",
    "jp": "銀次{n}「{sub:A0}さん! あっしは{n} もう がまん できねえ!」",
-   "en": null
+   "en": "Ginji{n}\"Momotaro! I can't take it no more!\""
   },
   {
    "id": "b190_0067",
    "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} この ひきょう者め!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} どうしよう どうしよう!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}! まずいわ!」{n}",
-   "en": null
+   "en": "{arg}{n}\"Woof woof! You coward!\"{n}{arg}{n}\"Eek eek! What do we do? What do we do?\"{n}{arg}{n}\"Ken ken! This is bad!\"{n}"
   },
   {
    "id": "b190_0068",
    "jp": "金太郎{n}「てめえ! 話がちがうじゃねえか!」{n}",
-   "en": null
+   "en": "Kintaro{n}\"Hey, you! That ain't what we agreed!\"{n}"
   },
   {
    "id": "b190_0069",
    "jp": "夜叉姫{n}「{kata}カルラ{hira}! {sub:B6}{n} 何を かんがえてるの!」",
-   "en": null
+   "en": "Yasha{n}\"Karura! What are you thinking?!\""
   },
   {
    "id": "b190_0070",
    "jp": "浦島{n}「あなたには 親の気持ちが{n} わからないのですか!」",
-   "en": null
+   "en": "Urashima{n}\"Don't you understand how a parent feels?!\""
   },
   {
    "id": "b190_0071",
    "jp": "えんま様{n}「{kata}カルラ{hira}! ゆるさんぞ!」{n}",
-   "en": null
+   "en": "King Enma{n}\"Karura! I won't forgive this!\"{n}"
   },
   {
    "id": "b190_0072",
    "jp": "{sub:CE}{n}「おろかな…! ま! まさか!{n} 本気で いっているのか?」",
-   "en": null
+   "en": "Ashura{n}\"You fool...! Wh-what?! Surely you're not serious?\""
   },
   {
    "id": "b190_0073",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} やくそくを たがえる気か!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! You'd break your promise?!\""
   },
   {
    "id": "b190_0074",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} まてい! 血まようたか!」",
-   "en": null
+   "en": "Raijin{n}\"Rumble, rumble! Hold it! Have you lost your mind?!\""
   },
   {
    "id": "b190_0075",
    "jp": "銀次{n}「やめろ! やめてくれ!」{n}",
-   "en": null
+   "en": "Ginji{n}\"Stop! Please, stop!\"{n}"
   },
   {
    "id": "b190_0076",
    "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} どういう いみだ!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} そんなの ずるい! ずるい!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} やめなさい! ひきょうよ!」",
-   "en": null
+   "en": "{arg}{n}\"Woof woof! What's that supposed to mean?!\"{n}{arg}{n}\"Eek eek! That's not fair! Not fair!\"{n}{arg}{n}\"Ken ken! Stop it! You coward!\""
   },
   {
    "id": "b190_0077",
    "jp": "夜叉姫{n}「{kata}キャアアアアアアアア{hira}!」{n}",
-   "en": null
+   "en": "Yasha{n}\"Kyaaaaaaaaah!\"{n}"
   },
   {
    "id": "b190_0078",
    "jp": "金太郎{n}「て! てめえ!」{n}",
-   "en": null
+   "en": "Kintaro{n}\"Y-! You...!\"{n}"
   },
   {
    "id": "b190_0079",
    "jp": "浦島{n}「かぐや姫さまーーーー{kata}ッ{hira}!」{n}",
-   "en": null
+   "en": "Urashima{n}\"Princess Kaguyaaaaaa!\"{n}"
   },
   {
    "id": "b190_0080",
    "jp": "{sub:CE}{n}「うおおおおおおおっ!」{n}",
-   "en": null
+   "en": "Ashura{n}\"Raaaaaaaaagh!\"{n}"
   },
   {
    "id": "b190_0081",
    "jp": "えんま{n}「{kata}カルラ{hira}! お {sub:B6}は!」{n}",
-   "en": null
+   "en": "Enma{n}\"Karura! You...!\"{n}"
   },
   {
    "id": "b190_0082",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} まっ! まさか!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! N-no! It can't be!\""
   },
   {
    "id": "b190_0083",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} な…何ということをーーー!」",
-   "en": null
+   "en": "Raijin{n}\"Rumble, rumble! Wh... what have you doooone!\""
   },
   {
    "id": "b190_0084",
    "jp": "銀次{n}「う! うそだ!{n} かぐや姫さまーーーーーー{kata}ッ{hira}!」",
-   "en": null
+   "en": "Ginji{n}\"N-no! It can't be! Princess Kaguyaaaaaaa!\""
   },
   {
    "id": "b190_0085",
    "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!」{n}{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} かぐや姫さまーーーーー{kata}ッ{hira}!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} うそでしょ! うそでしょ!」",
-   "en": null
+   "en": "{arg}{n}\"Woof woof!\"{n}{n}{arg}{n}\"Eek eek! Princess Kaguyaaaaaa!\"{n}{arg}{n}\"Ken ken! This can't be! It can't be!\""
   },
   {
    "id": "b190_0086",
    "jp": "夜叉姫{n}「かぐや姫さま!」{n}",
-   "en": null
+   "en": "Yasha{n}\"Princess Kaguya!\"{n}"
   },
   {
    "id": "b190_0087",
    "jp": "金太郎{n}「うえ～～～～～～ん!{n} かぐや姫さまーーーーー{kata}ッ{hira}!」",
-   "en": null
+   "en": "Kintaro{n}\"Waaaaaaaah! Princess Kaguyaaaaaa!\""
   },
   {
    "id": "b190_0088",
    "jp": "浦島{n}「私が かぐや姫さまに{n} {sub:B0}の術を… あっ!」",
-   "en": null
+   "en": "Urashima{n}\"I'll use the Kintan Art on Princess Kaguya... Ah!\""
   },
   {
    "id": "b190_0089",
    "jp": "{sub:CE}{n}「うおおおおおおおっ!」{n}",
-   "en": null
+   "en": "Ashura{n}\"Raaaaaaaaagh!\"{n}"
   },
   {
    "id": "b190_0090",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} 誰か! 医者を呼べ!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! Somebody! Call a doctor!\""
   },
   {
    "id": "b190_0091",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} 何とか… 何とかせねば!」",
-   "en": null
+   "en": "Raijin{n}\"Rumble, rumble! Something... we must do something!\""
   },
   {
    "id": "b190_0092",
    "jp": "えんま{n}「この世が はめつしてしまうのか!」{n}",
-   "en": null
+   "en": "Enma{n}\"Is this world going to be destroyed?!\"{n}"
   },
   {
    "id": "b190_0093",
    "jp": "銀次{n}「かぐや姫さま…! あっしは…{n} あっしは… うおおおおおおっ!」",
-   "en": null
+   "en": "Ginji{n}\"Princess Kaguya...! I... I... Waaaaaaaagh!\""
   },
   {
    "id": "b190_0094",
    "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} かぐや姫さまーーーーー{kata}ッ{hira}!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} 死なないで 死なないで!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} だめです! しっかりして!」",
-   "en": null
+   "en": "{arg}{n}\"Woof woof! Princess Kaguyaaaaaa!\"{n}{arg}{n}\"Eek eek! Don't die! Don't die!\"{n}{arg}{n}\"Ken ken! No! Hold on!\""
   },
   {
    "id": "b190_0095",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} じたばた しおって!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! Struggling, are we?\""
   },
   {
    "id": "b190_0096",
    "jp": "{kata}アジャセ{hira}王子{n}「やめろ! やめるんだ!{n} その手を はなせーーーっ!」",
-   "en": null
+   "en": "Prince Ajase{n}\"Stop! Stop it! Let go of heeeer!\""
   },
   {
    "id": "b190_0097",
    "jp": "{kata}カルラ{n}{hira}「ん? 何だ?{n} {kata}アジャセ{hira}王子! 何か いったか?」{n}「手を はなせ だと?」{n}{n}{n}「はなして いいんだな!」{n}{n}{0B}",
-   "en": null
+   "en": "Karura{n}\"Hm? What's that? Prince Ajase! Did you say something?\"{n}\"Let go of her, you say?\"{n}{n}{n}\"So it's fine if I let go!\"{n}{n}{0B}"
   },
   {
    "id": "b190_0098",
    "jp": "「そーーーーーーーれっ!」{n}{n}",
-   "en": null
+   "en": "\"Here she goooooooes!\"{n}{n}"
   },
   {
    "id": "b190_0099",
    "jp": "{kata}アジャセ{hira}王子{n}「姫ーーーーーーーー{kata}ッ{hira}!」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Princeeeeeeeess!\"{n}"
   },
   {
    "id": "b190_0100",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! さあ!{n} この世は どうなるんだ!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! Now then! What becomes of this world?!\""
   },
   {
    "id": "b190_0101",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! 来た! 来た!{n} おもしろいぞ! おもしろいぞ!」{n}「大地よ 沈め!」{n}{n}{n}「山よ くずれろ!」{n}{n}{n}「川よ みだれろ!」{n}{n}{n}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} {kata}ケ{hira}ー{kata}ッケッケッ{hira}!」{n}",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! Here it comes! Here it comes!{n} What fun! What fun!\"{n}\"Earth, sink!\"{n}{n}{n}\"Mountains, crumble!\"{n}{n}{n}\"Rivers, rage!\"{n}{n}{n}\"Keeeh, keh-keh-keh!{n} Keeeh, keh-keh-keh!\"{n}"
   },
   {
    "id": "b190_0102",
    "jp": "{kata}アジャセ{hira}王子{n}「姫!」{n}{n}かぐや姫{n}「運命は… かえられませんが…{n} やわらげる…こと…くらいは…」{n}「どう…か…{n} 竹取の…村へ…」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Princess!\"{n}{n}Princess Kaguya{n}\"Fate... cannot be changed... but it can... at least... be softened...\"{n}\"Please... take me... to the Bamboo... Village...\"{n}"
   },
   {
    "id": "b190_0103",
    "jp": "{kata}アジャセ{hira}王子{n}「姫ーーーーーーーー{kata}ッ{hira}!」{n}{n}かぐや姫{n}「さ…よ…な…ら…」{n}{n}かぐや姫は こときれた…!{n}{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Princeeeeeeess!\"{n}{n}Princess Kaguya{n}\"Fare... well...\"{n}{n}Princess Kaguya breathed her last...!{n}{n}"
   },
   {
    "id": "b190_0104",
    "jp": "{kata}アジャセ{hira}王子{n}「かぐや姫…… なんてことだ!」{n}{n}「{sub:C9}は とうとう{n} あなたを 守れなかった……」{n}{n}「かぐや姫が 力つきるとき{n} 天地は はりさけてしまう!」{n}{n}「{sub:C9}の 心も……」{n}{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Princess Kaguya...... How could this happen!\"{n}{n}\"In the end... I couldn't protect you......\"{n}{n}\"When Princess Kaguya's strength fails, heaven and earth will be torn apart!\"{n}{n}\"And my heart too......\"{n}{n}"
   },
   {
    "id": "b190_0105",
    "jp": "{kata}アジャセ{hira}王子{n}「{sub:A0}!」{n}{n}「姫を! かぐや姫を{n} 竹取りの村まで はこぶんだ!」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Momotaro!\"{n}{n}\"The princess! Carry Princess Kaguya to the Bamboo Village!\"{n}"
   },
   {
    "id": "b190_0106",
    "jp": "{kata}アジャセ{hira}王子{n}「{kata}ダメ{hira}で もともとなら 何を{n} ためしても よいではないかー{kata}ッ{hira}!」",
-   "en": null
+   "en": "Prince Ajase{n}\"If it's hopeless anyway, then what's the harm in trying anything at all?!\""
   },
   {
    "id": "b190_0107",
    "jp": "{kata}アジャセ{hira}王子{n}「{sub:A0} すまない…!」{n}{n}「おさない姫を はぐくんだ{n} 竹林の中ならば…{n} 姫も ゆっくり やすめよう!」",
-   "en": null
+   "en": "Prince Ajase{n}\"Momotaro, I'm sorry...!\"{n}{n}\"In the bamboo grove where she was raised as a little girl... perhaps there the princess can rest in peace!\""
   },
   {
    "id": "b190_0108",
    "jp": "夜叉姫{n}「お兄さま! かぐや姫さまは{n} もう…… もう…… ううっ!」",
-   "en": null
+   "en": "Yasha{n}\"Brother! Princess Kaguya is... she's... she's... *sob*!\""
   },
   {
    "id": "b190_0109",
    "jp": "えんま{n}「この えんまが{n} 力のなさを かんじるとは!」{n}「もはや この世は{n} ほろびの時を 待つだけだ!」{n}",
-   "en": null
+   "en": "Enma{n}\"To think that I, Enma, would ever feel so powerless!\"{n}\"Now this world can only wait for its time of ruin!\"{n}"
   },
   {
    "id": "b190_0110",
    "jp": "金太郎{n}「なあ! 天地が さけるって{n} どうなっちまうんだよ!」{n}「{kata}オラ{hira}の村も! 浦島んとこも!{n} {sub:A0}んちも! みーんな{n} 海に 沈んじまうのか?」",
-   "en": null
+   "en": "Kintaro{n}\"Hey! Heaven and earth gonna split? What's gonna happen?!\"{n}\"My village! Urashima's place! Momotaro's house! Is it all gonna sink into the sea?\""
   },
   {
    "id": "b190_0111",
    "jp": "浦島{n}「かぐや姫さま… 本当に もう{n} いきたえて しまわれたのですか?」{n}「生きているときと かわらず{n} お美しいままなのに…」{n}",
-   "en": null
+   "en": "Urashima{n}\"Princess Kaguya... has she truly breathed her last?\"{n}\"She's still as beautiful as when she was alive...\"{n}"
   },
   {
    "id": "b190_0112",
    "jp": "{sub:CE}{n}「ゆれる! 天地が さける!」{n}",
-   "en": null
+   "en": "Ashura{n}\"It's shaking! Heaven and earth are splitting!\"{n}"
   },
   {
    "id": "b190_0113",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} 風が 泣いている!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu!{n} The wind is weeping!\""
   },
   {
    "id": "b190_0114",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} われらの旅は むだだったのか…!」",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari!{n} Was our whole journey for nothing...?!\""
   },
   {
    "id": "b190_0115",
    "jp": "銀次{n}「…………………………!」{n}{n}銀次は 声もない……{n}{n}",
-   "en": null
+   "en": "Ginji{n}\"..............................!\"{n}{n}Ginji is speechless......{n}{n}"
   },
   {
    "id": "b190_0116",
    "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} かぐや姫さまが… そんな…」",
-   "en": null
+   "en": "{arg}{n}\"Woof, woof!{n} Princess Kaguya... no...\""
   },
   {
    "id": "b190_0117",
    "jp": "{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} 本当に 死んじゃったの?」",
-   "en": null
+   "en": "{arg}{n}\"Kyak, kyak!{n} Is she really dead?\""
   },
   {
    "id": "b190_0118",
    "jp": "{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} {sub:C9}たち どうしたら…!」",
-   "en": null
+   "en": "{arg}{n}\"Ken, ken! Momotaro!{n} What should we do...!\""
   },
   {
    "id": "b190_0119",
    "jp": "金太郎{n}「笛吹きの 兄ちゃんよー!{n} 何てこと いい出すんだよ!」",
-   "en": null
+   "en": "Kintaro{n}\"Hey, flute guy!{n} What kinda crazy talk is that?!\""
   },
   {
    "id": "b190_0120",
    "jp": "浦島{n}「もう 手おくれですよ!{n} {kata}アジャセ{hira}王子さん…!」",
-   "en": null
+   "en": "Urashima{n}\"It's already too late!{n} Prince Ajase...!\""
   },
   {
    "id": "b190_0121",
    "jp": "夜叉姫{n}「お兄さまが こんなに{n} とりみだすなんて!」",
-   "en": null
+   "en": "Yasha{n}\"I've never seen my brother{n} so beside himself!\""
   },
   {
    "id": "b190_0122",
    "jp": "えんま様{n}「{kata}アジャセ{hira}王子! どうしたのだ!{n} 気でも ふれてしまったか!」",
-   "en": null
+   "en": "King Enma{n}\"Prince Ajase! What's gotten into you?!{n} Have you lost your mind?!\""
   },
   {
    "id": "b190_0123",
    "jp": "風神{n}「ぴゅるるるるぅ! とつぜん{n} 何を おっしゃられるか!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! What are you saying{n} all of a sudden?!\""
   },
   {
    "id": "b190_0124",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} {kata}アジャセ{hira}王子! もはや…」",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari!{n} Prince Ajase! It's already...\""
   },
   {
    "id": "b190_0125",
    "jp": "{sub:CE}{n}「{sub:A0}! どうしたらよいのだ!」{n}",
-   "en": null
+   "en": "Ashura{n}\"Momotaro! What should we do?!\"{n}"
   },
   {
    "id": "b190_0126",
    "jp": "銀次{n}「…………………………!」{n}{n}銀次は 声もない……{n}{n}",
-   "en": null
+   "en": "Ginji{n}\"..............................!\"{n}{n}Ginji is speechless......{n}{n}"
   },
   {
    "id": "b190_0127",
    "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} どうか おちついて!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} もう 手おくれなんです!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} どうしようと いうのですか?」",
-   "en": null
+   "en": "{arg}{n}\"Woof, woof!{n} Please, calm down!\"{n}{arg}{n}\"Kyak, kyak!{n} It's already too late!\"{n}{arg}{n}\"Ken, ken!{n} What do you mean to do?\""
   },
   {
    "id": "b190_0128",
    "jp": "金太郎{n}「{sub:A0}! 笛吹きの 兄ちゃんの{n} いうとおりだ! 行こう!」",
-   "en": null
+   "en": "Kintaro{n}\"Momotaro! The flute guy's{n} right! Let's go!\""
   },
   {
    "id": "b190_0129",
    "jp": "えんま様{n}「うむ! たしかに{n} {kata}アジャセ{hira}王子の いうとおりだ!」",
-   "en": null
+   "en": "King Enma{n}\"Hmm! Indeed,{n} Prince Ajase is right!\""
   },
   {
    "id": "b190_0130",
    "jp": "{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} 無理でも やってみましょうよ!」",
-   "en": null
+   "en": "{arg}{n}\"Ken, ken! Momotaro!{n} Even if it's impossible, let's try!\""
   }
  ]
 }

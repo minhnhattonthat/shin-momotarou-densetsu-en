@@ -7,42 +7,42 @@
   {
    "id": "b208_0000",
    "jp": "「{kata}ピョピョン{hira}! {kata}ピョピョン{hira}!{n} たいへんです! {sub:A0}さん!{n} たったいま 鬼が やってきて!」{n}「月の舟を いっせき 残らず{n} こわして しまったんです!」{n}",
-   "en": null
+   "en": "\"Pyopyon! Pyopyon! This is terrible, Momotaro! Some oni just came by!\"{n}\"They smashed every last one of the Moon Boats!\"{n}"
   },
   {
    "id": "b208_0001",
    "jp": "「さっきも {kata}アジャセ{hira}という方が{n} 月の舟を さがしに{n} いらっしゃったんです!」{n}「でも こわされたあとを{n} ごらんになって あわてて{n} おたちになりました!」",
-   "en": null
+   "en": "\"Just a little while ago, someone called Ajase came looking for a Moon Boat too!\"{n}\"But when he saw they'd been wrecked, he left in a great hurry!\""
   },
   {
    "id": "b208_0002",
    "jp": "「{kata}ピョピョン{hira}! {kata}アジャセ{hira}王子が{n} 西の山に むかいました!」{n}{n}「山を くりぬいて{n} 月の宮殿へ むかう{n} おつもりです!」",
-   "en": null
+   "en": "\"Pyopyon! Prince Ajase headed for the western mountain!\"{n}{n}\"He means to tunnel through the mountain and make his way to the Moon Palace!\""
   },
   {
    "id": "b208_0003",
    "jp": "「鬼たちは 月鬼船(げっきせん)と{n} 呼ばれる 空飛ぶ舟まで 作って{n} 月を 荒らしています!」{n}「{kata}カルラ{hira}と 呼ばれる 鬼は{n} おだやかなる 月で{n} 何を 手に入れたいのでしょう?」",
-   "en": null
+   "en": "\"The oni have even built flying ships called Moon Oni Ships, and they're ravaging the Moon!\"{n}\"What could that oni called Karura want to get his hands on here on the peaceful Moon?\""
   },
   {
    "id": "b208_0004",
    "jp": "「{kata}ピョピョン{hira}! {sub:A0}さん!{n} 月の舟を 守れませんでした!{n} ごめんなさい! {kata}ピョピョン{hira}!」{n}「せめて これを{n} お持ち{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Pyopyon! Momotaro! We couldn't protect the Moon Boats! I'm so sorry! Pyopyon!\"{n}\"At least please take this with you!\"{n}"
   },
   {
    "id": "b208_0005",
    "jp": "「{kata}ピョピョン{hira}! {sub:A0}さん!{n} 月の水晶が あつまれば{n} 何かが おきるのでは?」",
-   "en": null
+   "en": "\"Pyopyon! Momotaro! If you gather the Moon Quartz, maybe something will happen?\""
   },
   {
    "id": "b208_0006",
    "jp": "「かぐや姫さまは{n} この世を ささえる{n} かなめなのです!」{n}「鬼たちが どんなに 悪かろうと{n} かぐや姫さまの 身を{n} あやめては いけないのです!」",
-   "en": null
+   "en": "\"Princess Kaguya is the keystone that holds up this world!\"{n}\"No matter how wicked the oni may be, they must not harm Princess Kaguya!\""
   },
   {
    "id": "b208_0007",
    "jp": "「{kata}ピョピョン{hira}! {n} 月の舟さえ あれば{n} 月の宮殿に 行けたのに!」",
-   "en": null
+   "en": "\"Pyopyon! If only we had a Moon Boat, you could have gone to the Moon Palace!\""
   }
  ]
 }

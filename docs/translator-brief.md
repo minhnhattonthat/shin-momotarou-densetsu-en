@@ -63,6 +63,7 @@ Run `python -X utf8 tools/batches.py check <batch>` from the repo root and fix e
   in its praise, / the dream-seeing flower'; 黄金さす みほとけまもる つばくらめ -> 'Golden-gleaming, / guarding
   the holy Buddha, the tsubakurame'. 仙豆 = sage bean; 智将 = the Wise General; 稲妻仙人 = the Bolt Sage.
   {sub:A0}のおじいさん / おばあさん = "Momotaro's Grandpa" / "Momotaro's Grandma" (other old folk: Old Man / Old Woman).
+  Karura is male (カルラ様 = "Lord Karura"). Ashura is female.
   "{arg}'s" (possessive) is fine. Keep each speaker line's name exactly as the glossary.
 
 ## Consistency

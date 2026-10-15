@@ -7,532 +7,532 @@
   {
    "id": "b089_0000",
    "jp": "「{sub:A8}!{n} おそいぞ! {sub:A0}!{n} わしは どくけし仙人{sub:A7}{n}「さっそく {sub:B6}に{n} どくけしの術を さずけてやる!{n} とっとと ついてくるの{sub:A7}",
-   "en": null
+   "en": "\"Uhyahya...!{n} You're late, Momotaro!{n} I am the Detox Sage!\"{n}\"I shall teach you the Antidote Art at once! Now hurry up and follow me!\""
   },
   {
    "id": "b089_0001",
    "jp": "「まだまだぢゃ!{n} いま少し 強くなってから{n} まいるが よい! {sub:A8}!」",
-   "en": null
+   "en": "\"Not yet! Not yet!{n} Come back once you've grown a little stronger! Uhyahya...!\""
   },
   {
    "id": "b089_0002",
    "jp": "「{sub:A8}!{n} よく来たな {sub:A0}!{n} わしは ぬけだし仙人{sub:A7}{n}「この術は どんなに{n} 深い 洞窟でも 地上に{n} 戻ることが できるの{sub:A7}{n}「{sub:B6}に この術を{n} さずけよう!」{n}{n}「この修行を うけてからな!」{n}{n}",
-   "en": null
+   "en": "\"Uhyahya...!{n} Welcome, Momotaro!{n} I am the Escape Sage!\"{n}\"With this Art, you can return to the surface from even the deepest cave!\"{n}\"I shall teach you this Art!\"{n}{n}\"Once you've finished this training, that is!\"{n}{n}"
   },
   {
    "id": "b089_0003",
    "jp": "「{sub:A8}! {sub:A0}!{n} {sub:B6}が ここに 来るのは{n} わかって おったわ!」{n}「わしは まよけ仙人じゃ!」{n}{n}{n}「わしは 世の中のことは{n} なんでも おみとおし{sub:A7}{n}{n}「わしは {sub:B6}のことも{n} すべて おみとおし{sub:A7}{n}{n}「たとえばのう…」{n}{n}",
-   "en": null
+   "en": "\"Uhyahya...! Momotaro!{n} I knew you would come here!\"{n}\"I am the Charm Sage!\"{n}{n}{n}\"I see through everything in this world!\"{n}{n}\"And I see through everything about you, too!\"{n}{n}\"For instance...\"{n}{n}"
   },
   {
    "id": "b089_0004",
    "jp": "「{sub:B6}が いままでに{n} 宿屋に とまった 回数は{n} {num}回{sub:A7}",
-   "en": null
+   "en": "\"The number of times you've stayed at an inn so far is... {num}!\""
   },
   {
    "id": "b089_0005",
    "jp": "「{sub:B6}が 毒を くらった{n} 回数は {num}回{sub:A7}{n}{n}「どうぢゃ! {sub:A0}!{n} わしは なんでも{n} 知っておるぢゃろ?」{n}「わしは {sub:B6}に まよけの術を{n} さずけることに なるはずぢゃ!{n} それも 知っている!」{n}「だから すぐ さずけたいが{n} が! その前に…{n} ちょっと 待て…」{n}「ふむふむ! ほうほう!{n} なるほど なるほど!」{n}",
-   "en": null
+   "en": "\"The number of times you've been poisoned is... {num}!\"{n}{n}\"Well, Momotaro! I know everything, don't I?\"{n}\"I'm bound to teach you the Ward Evil Art! I know that too!\"{n}\"So I'd like to teach it to you right away, but! Before that... wait a moment...\"{n}\"Hmm, hmm! Oho! I see, I see!\"{n}"
   },
   {
    "id": "b089_0006",
    "jp": "「{sub:B6}は ここに 来るまでに{n} {kata}ノヅチ{hira}を {num}匹{n} こらしめておるな!」{n}「この 数では まよけの術を{n} さずけるには ちと{n} 修行が たりない!」",
-   "en": null
+   "en": "\"On your way here, you've punished this many Nozuchi: {num}!\"{n}\"With that count, you lack the training for me to teach you the Ward Evil Art!\""
   },
   {
    "id": "b089_0007",
    "jp": "「修行として {kata}ノヅチ{hira}を{n} あと {num}匹{n} こらしめて 来るのじゃ!」",
-   "en": null
+   "en": "\"For your training, go and punish this many more Nozuchi: {num}!\""
   },
   {
    "id": "b089_0008",
    "jp": "「{num}匹 こらしめたら{n} また わしの{n} ところへ 来るがよい」{n}「行け! {sub:A0}!{n} たのしみに しておるぞ!{n} {sub:A8}!」",
-   "en": null
+   "en": "\"Once you've punished {num} of them, come see me again.\"{n}\"Go, Momotaro! I'm looking forward to it! Uhyahya...!\""
   },
   {
    "id": "b089_0009",
    "jp": "「な な なんとな! {sub:B6}は{n} すでに {kata}ノヅチ{hira}を 50匹以上{n} こらしめているのか!」{n}「なんと いうか!{n} ひまな やつと いうか!{n} あきれかえって しまったぞ!」{n}「さずけようぞ! まよけの術を!」{n}{n}{0B}",
-   "en": null
+   "en": "\"Wh-wh-what?! You've already punished more than 50 Nozuchi?!\"{n}\"What can I say! What an idle fellow! I'm utterly flabbergasted!\"{n}\"I shall teach you! The Ward Evil Art!\"{n}{n}{0B}"
   },
   {
    "id": "b089_0010",
    "jp": "「よくぞ たおした {sub:A0}!」{n}{n}{n}「わしは ずっと{n} {sub:B6}の がんばりを{n} みておったぞ!」{n}「つらかったぢゃろう{n} よく がんばったのう」{n}{n}「{sub:B6}なら どんな呪いも{n} この術で ふせぐことが{n} できるぢゃろうて!」{0B}",
-   "en": null
+   "en": "\"Well done defeating them, Momotaro!\"{n}{n}{n}\"I've been watching your hard work all along!\"{n}\"It must have been tough. You did well.\"{n}{n}\"With this Art, you should be able to fend off any curse!\"{0B}"
   },
   {
    "id": "b089_0011",
    "jp": "「ん? {sub:A0}! いままでに{n} {kata}ノヅチ{hira}を こらしめた 数は{n} まだ {num}匹ではないか!」",
-   "en": null
+   "en": "\"Hm? Momotaro! The number of Nozuchi you've punished so far is still only {num}!\""
   },
   {
    "id": "b089_0012",
    "jp": "「やくそくの 数に{n} {num}匹 たりんではないか!」{n}",
-   "en": null
+   "en": "\"You're still short of our agreed number by {num}!\"{n}"
   },
   {
    "id": "b089_0013",
    "jp": "「もう一度 行け! {sub:A0}!{n} かならず {num}匹{n} こらしめてくるの{sub:A7}",
-   "en": null
+   "en": "\"Go once more, Momotaro! Be sure to punish {num} of them and come back!\""
   },
   {
    "id": "b089_0014",
    "jp": "「{kata}ウヒャプププ{hira}…!{n} わしは ほうひ仙人{sub:A7}{n}{n}「ところで すまんこったが{n} わしの 術は おぼえるのが{n} ひじょうに むずかしい!」{n}「にんたいと どうさつりょくと{n} しんびがんと こうきしんを{n} ひつようとするの{sub:A7}{n}「なかには わからん 単語も{n} あったぢゃろうが あとで{n} じしょで 調べるのぢゃぞ!」{n}「されば 苦しい{n} 修行の はじまりぢゃ!{n} {kata}ウヒャプププ{hira}…!」",
-   "en": null
+   "en": "\"Uhyapupupu...!{n} I am the Fart Sage!\"{n}{n}\"Now, sorry to say, my Art is extremely difficult to learn!\"{n}\"It requires patience, insight, a discerning aesthetic eye and curiosity!\"{n}\"Some of those words may have been new to you, so look them up in a dictionary later!\"{n}\"And so, let the grueling training begin! Uhyapupupu...!\""
   },
   {
    "id": "b089_0015",
    "jp": "「どうぢゃ! わが おしりより{n} いでし たえなる しらべは!」{n}{n}「さて! 問題{sub:A7}{n}{n}{n}「わしが かなでた 音の 中で{n} {kata}オナラ{hira}は 何回ぢゃったかの?{n} こたえるのぢゃ {kata}ウヒャプププ{hira}…!」",
-   "en": null
+   "en": "\"Well? How was that exquisite melody issuing forth from my behind!\"{n}{n}\"Now! Here's the question!\"{n}{n}{n}\"Of the sounds I played, how many were farts? Answer me! Uhyapupupu...!\""
   },
   {
    "id": "b089_0016",
    "jp": "「正解{sub:A7}{n}{n}{0B}",
-   "en": null
+   "en": "\"Correct!\"{n}{n}{0B}"
   },
   {
    "id": "b089_0017",
    "jp": "「ぶわっかもん! まちがえるな!{n} {kata}オナラ{hira}を 何回も すると{n} おしりが {kata}ヒリヒリ{hira}するの{sub:A7}{n}「はやく 修行を{n} こなしてくれい!{n} {kata}ウヒャプププ{hira}…!」",
-   "en": null
+   "en": "\"You nincompoop! Don't get it wrong! When I fart that many times, my bottom gets all sore!\"{n}\"Hurry up and finish the training! Uhyapupupu...!\""
   },
   {
    "id": "b089_0018",
    "jp": "{kata}プ{hira}ー!",
-   "en": null
+   "en": "Pbbbt!"
   },
   {
    "id": "b089_0019",
    "jp": "{kata}プ{hira}ー!",
-   "en": null
+   "en": "Pbbbt!"
   },
   {
    "id": "b089_0020",
    "jp": "{kata}プ{hira}ー!",
-   "en": null
+   "en": "Pbbbt!"
   },
   {
    "id": "b089_0021",
    "jp": "{kata}チロリロリン{hira}!",
-   "en": null
+   "en": "Chirorin-rin!"
   },
   {
    "id": "b089_0022",
    "jp": "{kata}プ{hira}ー!",
-   "en": null
+   "en": "Pbbbt!"
   },
   {
    "id": "b089_0023",
    "jp": "{kata}チロリロリン{hira}!",
-   "en": null
+   "en": "Chirorin-rin!"
   },
   {
    "id": "b089_0024",
    "jp": "{kata}チロリロリン{hira}!",
-   "en": null
+   "en": "Chirorin-rin!"
   },
   {
    "id": "b089_0025",
    "jp": "{kata}プ{hira}ー!",
-   "en": null
+   "en": "Pbbbt!"
   },
   {
    "id": "b089_0026",
    "jp": "{kata}プ{hira}ー!",
-   "en": null
+   "en": "Pbbbt!"
   },
   {
    "id": "b089_0027",
    "jp": "{kata}チロリロリン{hira}!",
-   "en": null
+   "en": "Chirorin-rin!"
   },
   {
    "id": "b089_0028",
    "jp": "{kata}プ{hira}ー!",
-   "en": null
+   "en": "Pbbbt!"
   },
   {
    "id": "b089_0029",
    "jp": "{kata}プ{hira}ー!",
-   "en": null
+   "en": "Pbbbt!"
   },
   {
    "id": "b089_0030",
    "jp": "「{sub:A8}!{n} わしは おによけ仙人{sub:A7}{n}{n}「わかっておる! わかっておる!{n} 術を さずけてやるぞ!{n} わしのあとを ついて来るの{sub:A7}",
-   "en": null
+   "en": "\"Uhyahya...!{n} I am the Repel Sage!\"{n}{n}\"I know, I know! I'll teach you the Art! Follow after me!\""
   },
   {
    "id": "b089_0031",
    "jp": "「残急ぢゃったな! {sub:A0}!{n} 地面の 色に{n} 気をつけること{sub:A7}{n}「もう一度 やり直すのぢゃ!{n} よいな! {sub:A0}!」{n}",
-   "en": null
+   "en": "\"Too bad, Momotaro!{n} Watch the color of the ground!\"{n}\"Do it over again! Got that, Momotaro!\"{n}"
   },
   {
    "id": "b089_0032",
    "jp": "「どうした {sub:A0}!{n} 巻き物は まだ{n} 見つからんのか?」{n}「仕方の ないやつだな!{n} 少し {kata}ヒント{hira}を 出してやるか…」{n}{n}「巻き物は どうやら{n} 村のなかに{n} 飛んで行ったよう{sub:A7}{n}「村人に 話を 聞いて{n} 村のなかを{n} さがすことぢゃな {sub:A8}!」",
-   "en": null
+   "en": "\"What's the matter, Momotaro! Haven't you found the scroll yet?\"{n}\"You hopeless fellow! Guess I'll give you a little hint...\"{n}{n}\"It seems the scroll flew off into the village!\"{n}\"Ask the villagers and search around the village! Uhyahya...!\""
   },
   {
    "id": "b089_0033",
    "jp": "「{sub:A8}!{n} やはり きおったか!{n} {sub:A0}! 天の仙人{sub:A7}{n}「まえの 鬼たいじで{n} かつやくした ひえんの術を{n} さらに すごいものにしたぞ!」{n}「こんどの ひえんの術は{n} いままで 行った 村は もちろん{n} 月まで 行けるの{sub:A7}{n}「どうぢゃ? すごいぢゃろ!{n} では さっそく 修行{sub:A7}{n}{n}「ここに 新しい{n} ひえんの術の 飛び方を しるした{n} ひえんの巻き物が ある!」",
-   "en": null
+   "en": "\"Uhyahya...!{n} So you came after all! Momotaro! It is I, the Heavenly Sage!\"{n}\"I've made the Swallow Wing Art, which served you so well in the last oni hunt, even more amazing!\"{n}\"The new Swallow Wing Art can take you to every village you've visited, and even all the way to the Moon!\"{n}\"Well? Amazing, eh! Now then, on to your training!\"{n}{n}\"Here I have the Swallow Scroll, which records the new way to fly with the Swallow Wing Art!\""
   },
   {
    "id": "b089_0034",
    "jp": "「この 巻き物を {n} よむだけで よいの{sub:A7}{n}",
-   "en": null
+   "en": "\"All you need do is read this scroll!\"{n}"
   },
   {
    "id": "b089_0035",
    "jp": "「{sub:A8}!{n} ずいぶんと 遠くへ{n} 飛んで行って しまったよう{sub:A7}{n}「さあ! これが{n} 修行{sub:A7}{n}{n}「ひえんの巻き物を{n} 見つけて わしの所まで{n} 持って来るの{sub:A7}",
-   "en": null
+   "en": "\"Uhyahya...!{n} It seems to have flown off quite a long way!\"{n}\"Now! This is your training!\"{n}{n}\"Find the Swallow Scroll and bring it back to me!\""
   },
   {
    "id": "b089_0036",
    "jp": "「{sub:A8}! わしは{n} 海の仙人ぢゃ!{n} わしの 話を 聞きにきたのか?」",
-   "en": null
+   "en": "\"Uhyahya...! I am the Sea Sage! Have you come to hear me talk?\""
   },
   {
    "id": "b089_0037",
    "jp": "「いつでも えんえんと{n} 話してあげるぞ {sub:A8}!」{n}",
-   "en": null
+   "en": "\"I'll talk to you on and on and on, anytime! Uhyahya...!\"{n}"
   },
   {
    "id": "b089_0038",
    "jp": "「{sub:A8}!{n} わしか? 釣りを 愛する{n} その名も 海の仙人{sub:A7}{n}「もっとも 昔は {kata}ダメ{hira}仙人とも{n} 呼ばれておった! 知っておるか?」{n}",
-   "en": null
+   "en": "\"Uhyahya...!{n} Me? I'm the one who loves fishing, the Sea Sage by name!\"{n}\"Though back in the day I was also called the Dud Sage! Did you know that?\"{n}"
   },
   {
    "id": "b089_0039",
    "jp": "「さて… わしの{n} ありがたい 話を 聞きたいか?」{n}",
-   "en": null
+   "en": "\"Now... would you like to hear my most gracious talk?\"{n}"
   },
   {
    "id": "b089_0040",
    "jp": "「{kata}ネズミ{hira}が 作ったという{n} 村には 行ったか?」{n}",
-   "en": null
+   "en": "\"Have you been to the village they say was built by mice?\"{n}"
   },
   {
    "id": "b089_0041",
    "jp": "「松葉山の ながめは{n} すばらしかったか?」{n}",
-   "en": null
+   "en": "\"Was the view from Mt. Matsuba wonderful?\"{n}"
   },
   {
    "id": "b089_0042",
    "jp": "「花咲か村の さくらで{n} どんちゃんさわぎを やったか?」{n}",
-   "en": null
+   "en": "\"Did you have a rowdy party under the cherry blossoms of Hanasaka Village?\"{n}"
   },
   {
    "id": "b089_0043",
    "jp": "「雪 食って おなかを{n} こわしたこと ないか?」{n}",
-   "en": null
+   "en": "\"Ever upset your tummy eating snow?\"{n}"
   },
   {
    "id": "b089_0044",
    "jp": "「だじゃれ大会で{n} ゆうしょう したか?」{n}",
-   "en": null
+   "en": "\"Did you win the pun contest?\"{n}"
   },
   {
    "id": "b089_0045",
    "jp": "「順安のつけものは うまかったか?」{n}{n}",
-   "en": null
+   "en": "\"Were Jun'an's pickles tasty?\"{n}{n}"
   },
   {
    "id": "b089_0046",
    "jp": "「神のみぞ汁は うまかったか?」{n}{n}",
-   "en": null
+   "en": "\"Was the God-Knows Soup tasty?\"{n}{n}"
   },
   {
    "id": "b089_0047",
    "jp": "「鬼の つめあとで{n} まいごに なったろう?」{n}",
-   "en": null
+   "en": "\"You got lost at the Oni's Claw Marks, didn't you?\"{n}"
   },
   {
    "id": "b089_0048",
    "jp": "「おっと! つい{n} 話しこんで しまった!{n} じじいの 長話は いかんな!」",
-   "en": null
+   "en": "\"Whoops! I got carried away talking! An old geezer's long-winded tales are no good!\""
   },
   {
    "id": "b089_0049",
    "jp": "「{kata}アジャセ{hira}王子と かぐや姫は{n} あやしいと 思うか?」{n}",
-   "en": null
+   "en": "\"Do you think there's something fishy between Prince Ajase and Princess Kaguya?\"{n}"
   },
   {
    "id": "b089_0050",
    "jp": "「かぐや姫さまより{n} 夜叉姫のほうが かわいいか?」{n}",
-   "en": null
+   "en": "\"Is Princess Yasha cuter than Princess Kaguya?\"{n}"
   },
   {
    "id": "b089_0051",
    "jp": "「えんま様の 家族は えんまん!{n} どうぢゃ? おもしろいぢゃろ?」{n}",
-   "en": null
+   "en": "\"King Enma's family lives in perfect harmony... Enma-ny! Well? Funny, ain't it?\"{n}"
   },
   {
    "id": "b089_0052",
    "jp": "「ひとつ前の{n} 日本の 総理大臣の{n} 名前が いえるか?」",
-   "en": null
+   "en": "\"Can you tell me the name of Japan's previous Prime Minister?\""
   },
   {
    "id": "b089_0053",
    "jp": "「電話を してるときに{n} {kata}プッ{hira}と {kata}オナラ{hira}を{n} こいてしまったことは ないか?」",
-   "en": null
+   "en": "\"Have you ever let out a little toot while you were on the phone?\""
   },
   {
    "id": "b089_0054",
    "jp": "「EC統合に おける{n} {kata}リ{hira}ー{kata}ジャナリズム{hira}に ついて{n} {sub:B6}は どうおもうかね?」",
-   "en": null
+   "en": "\"What is your view on regionalism in the context of EC integration?\""
   },
   {
    "id": "b089_0055",
    "jp": "「{kata}ランドサット{hira}衛星は{n} {kata}トランスファ{hira}軌道に 打ち上げて{n} {kata}ドリフト{hira}軌道に 投入するんだな?」",
-   "en": null
+   "en": "\"So a Landsat satellite is launched into a transfer orbit, then put into a drift orbit, correct?\""
   },
   {
    "id": "b089_0056",
    "jp": "「もうしわけございません!{n} 会員の方 以外は ちょっと…」{n}",
-   "en": null
+   "en": "\"We're terribly sorry! Members only, I'm afraid...\"{n}"
   },
   {
    "id": "b089_0057",
    "jp": "「ごはんの おかわりは{n} ごえんりょなく!」{n}",
-   "en": null
+   "en": "\"Please, don't be shy about second helpings of rice!\"{n}"
   },
   {
    "id": "b089_0058",
    "jp": "「ごめんなさい!{n} ともだちのままで いましょうね!」{n}",
-   "en": null
+   "en": "\"I'm sorry! Let's just stay friends, okay?\"{n}"
   },
   {
    "id": "b089_0059",
    "jp": "「{kata}ファウル{hira}・{kata}ボ{hira}ー{kata}ル{hira}には{n} じゅうぶん お気をつけ{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Please watch out for foul balls!\"{n}"
   },
   {
    "id": "b089_0060",
    "jp": "「今年度 全米{n} {kata}ナンバ{hira}ー{kata}ワン{hira}・{kata}ヒット{hira}!」{n}",
-   "en": null
+   "en": "\"This year's number one hit in all America!\"{n}"
   },
   {
    "id": "b089_0061",
    "jp": "「先生! それは{n} よくないと おもいます!」{n}",
-   "en": null
+   "en": "\"Teacher! I don't think that's right!\"{n}"
   },
   {
    "id": "b089_0062",
    "jp": "「{kata}ナタ{hira}・{kata}デ{hira}・{kata}ココ{hira}って{kata}ェ{hira}～{n} とっても{kata}ォ{hira} おいしいし{kata}ィ{hira}～!」{n}",
-   "en": null
+   "en": "\"Nata de coco is, like~ sooo yummy, y'knowww~!\"{n}"
   },
   {
    "id": "b089_0063",
    "jp": "「星くん!」{n}{n}",
-   "en": null
+   "en": "\"Hoshi, my boy!\"{n}{n}"
   },
   {
    "id": "b089_0064",
    "jp": "「きみ! きみ!{n} どこの 学校の 生徒?」{n}",
-   "en": null
+   "en": "\"Hey! Hey, you! Which school do you go to?\"{n}"
   },
   {
    "id": "b089_0065",
    "jp": "「ちかんに ちゅうい!{n} 車の {kata}ナンバ{hira}ーを おぼえて!」{n}",
-   "en": null
+   "en": "\"Beware of perverts! Remember the license plate number!\"{n}"
   },
   {
    "id": "b089_0066",
    "jp": "「{kata}ジャン{hira}! 電気を 大切にね!」{n}{n}",
-   "en": null
+   "en": "\"Ta-da! Don't waste electricity!\"{n}{n}"
   },
   {
    "id": "b089_0067",
    "jp": "「お! おくさん! 米屋です!」{n}{n}",
-   "en": null
+   "en": "\"Oh! Ma'am! It's the rice man!\"{n}{n}"
   },
   {
    "id": "b089_0068",
    "jp": "「文書{kata}フロッピ{hira}ーが いっぱいです!」{n}{n}",
-   "en": null
+   "en": "\"The document floppy is full!\"{n}{n}"
   },
   {
    "id": "b089_0069",
    "jp": "「もう一度 わしの 話を{n} 聞きなおしたいか?」{n}",
-   "en": null
+   "en": "\"Would you like to hear my story all over again?\"{n}"
   },
   {
    "id": "b089_0070",
    "jp": "「よくぞ! わしの 長い話を{n} 最後まで 聞いたもの{sub:A7}{n}",
-   "en": null
+   "en": "\"Well done! You listened to my long story all the way to the end!\"{n}"
   },
   {
    "id": "b089_0071",
    "jp": "「これを もって行け!{n} かならずや 役に立つぢゃろう!」{n}",
-   "en": null
+   "en": "\"Take this with you! It's sure to come in handy!\"{n}"
   },
   {
    "id": "b089_0072",
    "jp": "「この 釣りざおは{n} 浦島が {sub:B3}と{n} よいぢゃろう!」",
-   "en": null
+   "en": "\"This fishing rod would be best used by Urashima!\""
   },
   {
    "id": "b089_0073",
    "jp": "「そうか それは{n} よかったの{kata}ォ{hira}! {sub:A8}!」{n}",
-   "en": null
+   "en": "\"Is that so? Well, that's good to hear! Uhyahya...!\"{n}"
   },
   {
    "id": "b089_0074",
    "jp": "「{sub:A8}!{n} {sub:B0}仙人{sub:A7}{n}{n}「{sub:B0}の術が ほしければ{n} わしと 戦って 勝つことぢゃな!」{n}",
-   "en": null
+   "en": "\"Uhyahya...!{n} I am Sage Kintan!\"{n}{n}\"If you want the Kintan Art, you'll have to fight me and win!\"{n}"
   },
   {
    "id": "b089_0075",
    "jp": "「{sub:A8}!{n} ひさしぶりぢゃの! {sub:A0}!」{n}{n}「どうじゃ? この鹿角の里は?」{n}{n}{n}「村のみんなが 梅のかおりのする{n} うつくしい里に してくれての!」{n}{n}「そんな 心やさしき 村人たちを{n} また 鬼どもが おそいよる!{n} かなしいこと{sub:A7}{n}「{sub:A0}! また でかけるのぢゃろ?{n} 鹿角の術に さらに {n} みがきを かけておいたぞ!」{n}「術を さずける前に{n} {sub:B6}の力 ためさせてもらうぞ!」{n}",
-   "en": null
+   "en": "\"Uhyahya...!{n} Long time no see, Momotaro!\"{n}{n}\"Well? How do you like Rokkaku Hamlet?\"{n}{n}{n}\"The villagers all worked to make it a lovely hamlet filled with the scent of plum blossoms!\"{n}{n}\"And now the oni are attacking those kindhearted villagers again! It's a sad thing!\"{n}\"Momotaro! You're setting out again, aren't you? I've polished my Antlers Art even further!\"{n}\"But before I teach you the art, let me test your strength!\"{n}"
   },
   {
    "id": "b089_0076",
    "jp": "「{sub:A8}!{n} よく来た {sub:A0}!{n} わしは ふゆう仙人{sub:A7}{n}「ふゆうの術は 自分の{n} 体を ちゅうに {n} うかすことが できるのじゃ!」{n}「毒の沼地や 落し穴なぞ{n} {kata}ヘッチャラチャラ{hira} ぢゃぞ!」{n}{n}「この術を さずける前に{n} わしが {sub:B6}の 力を{n} 見てやるわい! {sub:A8}!」",
-   "en": null
+   "en": "\"Uhyahya...!{n} Welcome, Momotaro!{n} I am Sage Fuyu!\"{n}\"The Float Art lets you lift your own body up into the air!\"{n}\"Poison swamps and pitfalls? No sweaty-sweat at all!\"{n}{n}\"Before I teach you this art, I'll see what you're made of! Uhyahya...!\""
   },
   {
    "id": "b089_0077",
    "jp": "「{sub:A8}!{n} 待ちわびたぞ! {sub:A0}!{n} わしは まんきん仙人{sub:A7}{n}「さすがに ここまで 来ると{n} 鬼どもの 攻撃も{n} かなり きついぢゃろ!」{n}「まん{sub:B0}の術を おぼえよ!{n} 鬼たいじが 楽になる!」{n}{n}「しかし この術の 修行は{n} ちと かわっておる!」{n}",
-   "en": null
+   "en": "\"Uhyahya...!{n} I've been waiting for you, Momotaro!{n} I am Sage Mankin!\"{n}\"Having come this far, you must find the oni's attacks pretty tough!\"{n}\"Learn the Mankintan Art! It'll make defeating the oni easier!\"{n}{n}\"But the training for this art is a bit unusual!\"{n}"
   },
   {
    "id": "b089_0078",
    "jp": "「{sub:A8}!{n} 待っておったぞ! {sub:A0}!{n} わしは きんそう仙人{sub:A7}{n}「いままで 仲間が 大{kata}ケガ{hira}をして{n} ずいぶん つらいおもいを{n} してきたぢゃろう!」{n}「いまこそ!{n} 仲間を 助ける術を{n} さずけようぞ!」{n}「もはや {sub:B6}には{n} この術を つかいこなすだけの{n} 心・技・体が そなわっている!」{n}「あとは この 修行に{n} たえられるか どうかだけぢゃ!{n} {sub:A8}!」",
-   "en": null
+   "en": "\"Uhyahya...!{n} I've been expecting you, Momotaro!{n} I am Sage Kinso!\"{n}\"Until now, you must have suffered a great deal whenever your friends were badly hurt!\"{n}\"Now is the time! I shall teach you an art to save your friends!\"{n}\"You already have the heart, skill and body to master this art!\"{n}\"All that's left is whether you can endure this training!{n} Uhyahya...!\""
   },
   {
    "id": "b089_0079",
    "jp": "「まだまだぢゃ!{n} いま少し 強くなってから{n} まいるが よい! {sub:A8}!」",
-   "en": null
+   "en": "\"Not yet! Come back once you've grown a little stronger! Uhyahya...!\""
   },
   {
    "id": "b089_0080",
    "jp": "「あっぱれぢゃ! {sub:A0}!」{n}{n}{n}{sub:A0}は はじめて この修行を{n}うけたにもかかわらず{n}修行を こなしてしまった!",
-   "en": null
+   "en": "\"Splendid, Momotaro!\"{n}{n}{n}Even though it was his first time{n}taking this training, Momotaro{n}made it through!"
   },
   {
    "id": "b089_0081",
    "jp": "「でかした! {sub:A0}!」{n}{n}{0B}",
-   "en": null
+   "en": "\"Well done, Momotaro!\"{n}{n}{0B}"
   },
   {
    "id": "b089_0082",
    "jp": "「{sub:A8}! すでに 術を{n} さずけたでは ないか!{n} 鬼たいじを いそぐの{sub:A7}",
-   "en": null
+   "en": "\"Uhyahya...! I've already taught you the art! Hurry along and defeat the oni!\""
   },
   {
    "id": "b089_0083",
    "jp": "「{sub:B0}の術を{n} さずけるぞ! {sub:A8}!」{n}",
-   "en": null
+   "en": "\"I shall teach you the Kintan Art! Uhyahya...!\"{n}"
   },
   {
    "id": "b089_0084",
    "jp": "「この術は きんたーーーーーん!と{n} となえるだけで{n} 体力が {num}回復 するの{sub:A7}{n}「これで 鬼たいじも{n} 少しは 楽になるぢゃろ!{n} がんばるのぢゃ! {sub:A0}!」",
-   "en": null
+   "en": "\"Just chant 'Kintaaaaan!' and this art restores {num} Health!\"{n}\"With this, defeating the oni should get a little easier! Do your best, Momotaro!\""
   },
   {
    "id": "b089_0085",
    "jp": "「稲妻の術を{n} さずけるぞ! {sub:A8}!」{n}",
-   "en": null
+   "en": "\"I shall teach you the Lightning Art! Uhyahya...!\"{n}"
   },
   {
    "id": "b089_0086",
    "jp": "「この術は いなずまーーーーーん!と{n} となえるだけで 小さな岩を{n} くだくことが できるの{sub:A7}{n}「高い 所にいる{n} 鬼たちに 打撃を{n} あたえることも できるぞ!」{n}「さらに 固い 鬼などには{n} 大きな 打撃を あたえられるのぢゃ!{n} べんりぢゃろ? {sub:A8}!」{n}「そして いちばん{n} 大切なこと{sub:A7}{n}{n}「稲妻の術は 天気に 左右される!{n} 雷雨のときは 強力だが{n} 日照りのときは まるで 効かん!」{n}「これは もちろん 敵もおなじ!{n} 天気の 変化にも{n} 気をつけて 戦うのぢゃぞ!」",
-   "en": null
+   "en": "\"Just chant 'Lightniiiiing!' and this art can smash small rocks!\"{n}\"It can also strike oni who are up high!\"{n}\"What's more, it deals big damage to tough oni and the like! Handy, eh? Uhyahya...!\"{n}\"And now, the most important thing!\"{n}{n}\"The Lightning Art depends on the weather! It's powerful in a thunderstorm, but useless in a drought!\"{n}\"Of course, the same goes for your enemies! Keep an eye on changes in the weather as you fight!\""
   },
   {
    "id": "b089_0087",
    "jp": "「この術は ろっかくーーーーーん!と{n} となえるだけで 敵全員に{n} 大打撃を あたえられるの{sub:A7}{n}「この先 この術が{n} すべての 行く末を{n} 決めてくれる はず{sub:A7}{n}「この術! 大切に せいよ!」{n}{n}",
-   "en": null
+   "en": "\"Just chant 'Antleeeeers!' and this art deals heavy damage to all enemies!\"{n}\"From here on, this art should decide how everything turns out!\"{n}\"Treasure this art!\"{n}{n}"
   },
   {
    "id": "b089_0088",
    "jp": "「この巻き物に 毒を消す{n} 極意(ごくい)が 書かれておる!」{n}{n}「これで {sub:B6}も{n} どくけしの術が{n} つかえるように なるはず{sub:A7}",
-   "en": null
+   "en": "\"The secret of curing poison is written in this scroll!\"{n}{n}\"With this, you should be able to use the Antidote Art too!\""
   },
   {
    "id": "b089_0089",
    "jp": "「さあ とりあえず{n} わしに その術を かけてくれ!」{n}{n}「このままでは わしは{n} 1歩も うごけん!」{n}{n}{sub:A0}は{n}どくけしの術を となえた!{n}",
-   "en": null
+   "en": "\"Now then, first of all, cast that art on me!\"{n}{n}\"As I am, I can't move a single step!\"{n}{n}Momotaro{n}cast the Antidote Art!{n}"
   },
   {
    "id": "b089_0090",
    "jp": "どくけし仙人の 体から{n}毒が 消えた!{n}{n}「{sub:A8}!{n} たすかった…」{n}{n}「この術は どくけしーーーーーん!と{n} となえるだけで 毒でも 猛毒でも{n} 回復することが できるの{sub:A7}{n}「がんばって 鬼を{n} たいじ してくれ{n} {sub:A0}!」",
-   "en": null
+   "en": "The poison vanished from{n}the Detox Sage's body!{n}{n}\"Uhyahya...!{n} What a relief...\"{n}{n}\"Just chant 'Antidoooote!' and this art cures poison, even deadly poison!\"{n}\"Do your best and defeat the oni, Momotaro!\""
   },
   {
    "id": "b089_0091",
    "jp": "「これで {sub:B6}も{n} 抜け出しの 極意(ごくい)を{n} 身につけた はず{sub:A7}{n}「ぬけだしの術を さずけよう!」{n}{n}",
-   "en": null
+   "en": "\"With this, you should have mastered the secret of escaping too!\"{n}\"I shall teach you the Escape Art!\"{n}{n}"
   },
   {
    "id": "b089_0092",
    "jp": "「この術は ぬけだしーーーーーん!と{n} となえるだけで 洞窟から{n} 抜け出すことが できるの{sub:A7}{n}「{sub:B6}の かつやくを{n} きたい しておるぞ!」{n}",
-   "en": null
+   "en": "\"Just chant 'Escaaaaape!' and this art gets you out of caves!\"{n}\"I'm expecting great things from you!\"{n}"
   },
   {
    "id": "b089_0093",
    "jp": "「おによけの術を{n} さずけるぞ! {sub:A8}!」{n}",
-   "en": null
+   "en": "\"I shall teach you the Oni Ward Art! Uhyahya...!\"{n}"
   },
   {
    "id": "b089_0094",
    "jp": "「この術は おによけーーーーーん!と{n} となえるだけで {sub:B6}より よわい{n} 鬼と あわなくてすむの{sub:A7}{n}「これで よけいな{n} 戦いを しなくて{n} すむぢゃろう!」{n}「では がんばるのぢゃぞ!」{n}{n}",
-   "en": null
+   "en": "\"Just chant 'Oni waaaaard!' and you won't run into oni weaker than you!\"{n}\"With this, you'll be spared needless fights!\"{n}\"Now then, do your best!\"{n}{n}"
   },
   {
    "id": "b089_0095",
    "jp": "「まよけの術は まよけーーーん!と{n} となえるだけで 敵からの{n} 呪い攻撃を ふせげるの{sub:A7}{n}「この術を 役立てて{n} 鬼たいじに はげむのじゃ!」{n}{n}「わしは {sub:B6}の{n} がんばりを これからも{n} 見守って おるからな!」",
-   "en": null
+   "en": "\"Just chant 'Ward eviiiil!' and the Ward Evil Art blocks enemy curse attacks!\"{n}\"Put this art to use and press on with defeating the oni!\"{n}{n}\"I'll keep watching over your efforts from here on!\""
   },
   {
    "id": "b089_0096",
    "jp": "「この術は そらひえーーーーーん!と{n} となえるだけで いままで{n} 行った村まで 戻れるの{sub:A7}{n}「あまりの すごさに{n} おしっこ ちびるかも しれんぞ!{n} {sub:A8}! 行け!」",
-   "en": null
+   "en": "\"Just chant 'Sky swallow wiiiiing!' and this art takes you back to any village you've visited!\"{n}\"It's so amazing you might wet yourself! Uhyahya...! Go!\""
   },
   {
    "id": "b089_0097",
    "jp": "「でかした! {sub:A0}!」{n}{n}{n}「{sub:A8}{n} いやあ! まいった! まいった!{n} まいったぞ! {sub:A0}!」{n}「さすがの わしも{n} ぎっくり腰に なるところ{sub:A7}{n}{n}「わしは {sub:B6}に{n} この術を さずけられるのを{n} うれしく 思うぞ!」",
-   "en": null
+   "en": "\"Well done, Momotaro!\"{n}{n}{n}\"Uhyahya... Whew! You got me! You got me! I give up, Momotaro!\"{n}\"Even I nearly threw my back out!\"{n}{n}\"I'm delighted to teach you this art!\""
   },
   {
    "id": "b089_0098",
    "jp": "「{sub:A8}!{n} この術を 鬼たいじに{n} 役立てて くれ!」{n}「{sub:B6}の かつやく{n} 心待ちに しておるぞ!」{n}",
-   "en": null
+   "en": "\"Uhyahya...!{n} Put this art to use defeating the oni!\"{n}\"I look forward to your heroics!\"{n}"
   },
   {
    "id": "b089_0099",
    "jp": "「ほうひの術を さずけようぞ!{n} {sub:A0}!」{n}",
-   "en": null
+   "en": "\"I shall teach you the Pass Gas Art, Momotaro!\"{n}"
   },
   {
    "id": "b089_0100",
    "jp": "「この術は {kata}ブ{hira}ー{kata}ス{hira}ー{kata}ピ{hira}ー!と{n} となえるだけで 村人を どかしたり{n} 鬼の力を 下げたりできるの{sub:A7}{n}「鬼に くさーーーい 1発を{n} くらわせてやれーーー!{n} {kata}ウヒャプププ{hira}…!」",
-   "en": null
+   "en": "\"Just chant 'Brrr... Sss... Pfff!' and this art moves villagers out of the way or lowers the oni's strength!\"{n}\"Give the oni a reeeally stinky one! Let 'em haaave it! Uhyapupupu...!\""
   },
   {
    "id": "b089_0101",
    "jp": "「まん{sub:B0}の術を{n} さずけるぞ! {sub:A8}!」{n}",
-   "en": null
+   "en": "\"I shall teach you the Mankintan Art! Uhyahya...!\"{n}"
   },
   {
    "id": "b089_0102",
    "jp": "「この術は まんきんたーーーーーん!{n} と となえるだけで 仲間の{n} 体力が 全回復するの{sub:A7}{n}「これさえ あれば 鬼も{n} こわく ないはずぢゃ!{n} 行け! {sub:A0}!」",
-   "en": null
+   "en": "\"Just chant 'Maaan-kintaaaaan!' and this art fully restores a friend's Health!\"{n}\"With this, you've nothing to fear from the oni! Go, Momotaro!\""
   },
   {
    "id": "b089_0103",
    "jp": "「きんそうの術を{n} さずけるぞ! {sub:A8}!」{n}",
-   "en": null
+   "en": "\"I shall teach you the Heal Wounds Art! Uhyahya...!\"{n}"
   },
   {
    "id": "b089_0104",
    "jp": "「この術は きーんそーーーーーう!と{n} となえるだけで 大{kata}ケガ{hira}してる{n} 仲間を 助けられるの{sub:A7}{n}「友を いたわり{n} 鬼たいじを 続けるのぢゃ!{n} よいな! {sub:A0}!」",
-   "en": null
+   "en": "\"Just chant 'Heeeal wouuuunds!' and this art can save a badly hurt friend!\"{n}\"Care for your friends and keep up the oni hunt! Understand, Momotaro?\""
   },
   {
    "id": "b089_0105",
    "jp": "{sub:A0}は {arg}の術を{n}さずかった!{n}",
-   "en": null
+   "en": "Momotaro learned{n}the {arg} Art!{n}"
   }
  ]
 }

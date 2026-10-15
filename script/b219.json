@@ -7,97 +7,97 @@
   {
    "id": "b219_0000",
    "jp": "{c1}{kata}カルラ{n}{c0}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} やはり 来たか! {sub:A0}!」{n}{c1}{kata}カルラ{n}{c0}{hira}「光栄に 思うがいい!」{n}{n}{c1}{kata}カルラ{n}{c0}{hira}「伐折羅(ばさら)王さまの{n} 第1王子で… しかも!」{n}{c1}{kata}カルラ{n}{c0}{hira}「鬼神(きしん)と よばれるほど{n} 武'勇にたけた {kata}ダイダ{hira}王子が!」{n}{c1}{kata}カルラ{n}{c0}{hira}「みずから 剣'を おとりになって{n} {sub:B6}と 戦ってくださる!」{n}{c1}{kata}カルラ{n}{c0}{hira}「本来なら 剣'を まじえるなど{n} けっして かなわぬ お方だ!」{n}{c1}{kata}カルラ{n}{c0}{hira}「えんま王を たおした力を{n} {kata}ダイダ{hira}王子に 見せてみよ!」{n}{c1}{kata}カルラ{n}{c0}{hira}「{kata}ダイダ{hira}王子は 強い者を{n} もとめておられる!」{n}{c1}{kata}カルラ{n}{c0}{hira}「もし {sub:B6}に{n} 力が あれば…」{n}{c1}{kata}カルラ{n}{c0}{hira}「{kata}ダイダ{hira}王子の 馬番(うまばん)に{n} とりたてて やっても よいぞ!」",
-   "en": null
+   "en": "{c1}Karura{n}{c0}\"Keeh, keh-keh-keh! So you came after all! Momotaro!\"{n}{c1}Karura{n}{c0}\"You should be honored!\"{n}{n}{c1}Karura{n}{c0}\"The first prince of King Basara... and what's more!\"{n}{c1}Karura{n}{c0}\"Prince Daida, so mighty in battle he's called a war god!\"{n}{c1}Karura{n}{c0}\"He will take up the sword himself and fight you!\"{n}{c1}Karura{n}{c0}\"Normally, the likes of you could never hope to cross swords with him!\"{n}{c1}Karura{n}{c0}\"Show Prince Daida the power that defeated King Enma!\"{n}{c1}Karura{n}{c0}\"Prince Daida seeks the strong!\"{n}{c1}Karura{n}{c0}\"If you have any power at all...\"{n}{c1}Karura{n}{c0}\"he might even take you on as Prince Daida's stable boy!\""
   },
   {
    "id": "b219_0001",
    "jp": "「かぐや姫さまが いつ{n} もどられても よいように{n} ととのえて いるのです!」{n}「きっと きっと 無事に{n} おもどりに なられるわ…」{n}",
-   "en": null
+   "en": "\"We're keeping everything in order so that Princess Kaguya may return at any time!\"{n}\"Surely, surely she'll come back safe and sound...\"{n}"
   },
   {
    "id": "b219_0002",
    "jp": "「ああ! {sub:A0}さん!{n} とつぜん 月のすべてが{n} はげしく ゆれだしたんです!」{n}「この 宮殿だけは{n} かろうじて のこっていますが…」{n}",
-   "en": null
+   "en": "\"Oh! Momotaro! All of a sudden, the whole Moon began to shake violently!\"{n}\"Only this palace barely remains standing...\"{n}"
   },
   {
    "id": "b219_0003",
    "jp": "「勇気の剣'に 力を あたえるなら{n} 豊かの村に 落ちる 青の星で{n} きたえては いかがでしょう!」",
-   "en": null
+   "en": "\"If you wish to give the Valor Sword power, why not temper it with the Blue Star that falls in Plenty Village?\""
   },
   {
    "id": "b219_0004",
    "jp": "「{sub:A0}さん! 鬼たいじを{n} あきらめないで {sub:C5}まし!」{n}{n}「かぐや姫さまは あなたに{n} 希望を たくされました!」{n}{n}「どうか あの {kata}カルラ{hira}を…!{n} そして 伐折羅王を………!」{n}{n}「勇気の剣'で{n} こらしめて{sub:C5}!」{n}{n}「あなたなら きっと!{n} わたくしたちも 信じております!」{n}",
-   "en": null
+   "en": "\"Momotaro! Please don't give up on defeating the oni!\"{n}{n}\"Princess Kaguya entrusted her hopes to you!\"{n}{n}\"Please, that Karura...! And King Basara.........!\"{n}{n}\"Please punish them with the Valor Sword!\"{n}{n}\"You can surely do it! We believe in you too!\"{n}"
   },
   {
    "id": "b219_0005",
    "jp": "「{kata}ピョピョン{hira}!{n} 青の星は ふしぎな星!」{n}{n}「ときおり 落ちて来て{n} 月にめぐみを もたらすと{n} いわれています!」",
-   "en": null
+   "en": "\"Pyopyon! The Blue Star is a mysterious star!\"{n}{n}\"They say it falls now and then and brings blessings to the Moon!\""
   },
   {
    "id": "b219_0006",
    "jp": "「{kata}ピョピョン{hira}!{n} 月で たすかっているのは{n} ここと 豊かの村だけ!」{n}「でも 地上は もっとひどい{n} ありさま なんですね?」{n}",
-   "en": null
+   "en": "\"Pyopyon! The only places on the Moon that were spared are here and Plenty Village!\"{n}\"But the surface is in even worse shape, isn't it?\"{n}"
   },
   {
    "id": "b219_0007",
    "jp": "「{kata}カルラ{hira}という鬼!{n} 宮殿を 荒らしほうだい{n} 荒らして 行きましたわ!」",
-   "en": null
+   "en": "\"That oni called Karura! He ransacked the palace to his heart's content and then left!\""
   },
   {
    "id": "b219_0008",
    "jp": "「黄泉の塔に つづく 嵐の村も{n} うしなわれて しまいました…」{n}{n}「そこから 地上の人々をと{n} おもいましたが…{n} それも かないませぬ!」",
-   "en": null
+   "en": "\"Even Storm Village, which leads to the Tower of Yomi, has been lost...\"{n}{n}\"I thought to reach the people of the surface from there... but even that cannot be done!\""
   },
   {
    "id": "b219_0009",
    "jp": "「かぐや姫さま……!{n} どうか ご無事で{n} おもどりなされて {sub:C5}まし!」",
-   "en": null
+   "en": "\"Princess Kaguya...! Please, come back to us safe and sound!\""
   },
   {
    "id": "b219_0010",
    "jp": "「月が くだけ{n} もえたぎる はへんが{n} 地上に ふりそそぎます!」{n}「それが… この世の{n} 最後の すがたと{n} いわれています!」",
-   "en": null
+   "en": "\"The Moon will shatter, and its burning fragments will rain down upon the surface!\"{n}\"That... is said to be the final fate of this world!\""
   },
   {
    "id": "b219_0011",
    "jp": "「{kata}ピョピョン{hira}! {sub:A0}さん!{n} 鳳凰を よみがえらせたのですね!」{n}{n}「ならば 山にかこまれた{n} 豊かの村にも 飛んで行けますよ!」{n}",
-   "en": null
+   "en": "\"Pyopyon! Momotaro! You brought the Phoenix back to life!\"{n}{n}\"Then you can fly to Plenty Village too, even though it's ringed by mountains!\"{n}"
   },
   {
    "id": "b219_0012",
    "jp": "「{kata}ピョピョン{hira}!{n} かぐや姫さまが… そんな!」{n}{n}「……でも あきらめません!{n} それは 姫さまが いちばん{n} 悲しむことだもん! ぐす!」",
-   "en": null
+   "en": "\"Pyopyon! Princess Kaguya... no way!\"{n}{n}\"...But I won't give up! That's what would make the princess saddest of all! Sniff!\""
   },
   {
    "id": "b219_0013",
    "jp": "「{sub:A0}さん! かぐや姫さまは{n} {sub:A0}さんに すべてを{n} おあずけする おつもりでしたわ!」{n}「ここにある宝は ようやく{n} 鬼の目を のがれた宝!」{n}{n}「どうぞ 鬼たいじの{n} お役に立てて {sub:C5}ませ!」{n}",
-   "en": null
+   "en": "\"Momotaro! Princess Kaguya meant to entrust everything to you, Momotaro!\"{n}\"The treasures here are the ones that barely escaped the eyes of the oni!\"{n}{n}\"Please, put them to use in defeating the oni!\"{n}"
   },
   {
    "id": "b219_0014",
    "jp": "「姫さま… かぐや姫さま…」{n}{n}{n}「いくら 涙を 流したとて{n} あの お方は{n} もう もどりませぬ…」",
-   "en": null
+   "en": "\"Princess... Princess Kaguya...\"{n}{n}{n}\"No matter how many tears we shed, she will never come back...\""
   },
   {
    "id": "b219_0015",
    "jp": "「{kata}ピョピョン{hira}! かぐや姫さまー!{n} どこに 行っちゃったのー!」{n}",
-   "en": null
+   "en": "\"Pyopyon! Princess Kagu-yaaa! Where did you goooo!\"{n}"
   },
   {
    "id": "b219_0016",
    "jp": "「{kata}ピョピョン{hira}!{n} 静かの村も 夢の村からも{n} 何の 知らせも ないの!」",
-   "en": null
+   "en": "\"Pyopyon! There's been no word at all from Quiet Village or Dream Village!\""
   },
   {
    "id": "b219_0017",
    "jp": "「{kata}ピョピョン{hira}! {sub:A0}さん!{n} {kata}カルラ{hira}は 月のめぼしい宝を{n} みんな かすめとってしまいました!」{n}「ここに あるのは なんとか{n} かくしとおした宝です!{n} {sub:A0}さんが お持ち{sub:C5}!」",
-   "en": null
+   "en": "\"Pyopyon! Momotaro! Karura snatched away every treasure worth having on the Moon!\"{n}\"These are the treasures we somehow managed to keep hidden! Please take them, Momotaro!\""
   },
   {
    "id": "b219_0018",
    "jp": "「{kata}ピョピョン{hira}!{n} 竜宮城の 乙姫さまは{n} ごぶじ でしょうか…」{n}「まさか あの 赤い海の{n} なかに おられるのでは?」{n}",
-   "en": null
+   "en": "\"Pyopyon! I wonder if Princess Otohime of the Dragon Palace is all right...\"{n}\"Surely she isn't somewhere inside that red sea?\"{n}"
   }
  ]
 }

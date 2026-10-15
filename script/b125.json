@@ -7,27 +7,27 @@
   {
    "id": "b125_0000",
    "jp": "「{kata}キシシシシシッ{hira}!{n} 来たな! {sub:A0}!」{n}{n}「{sub:B6}を たおせば{n} この{kata}キジ{hira}を 食ってよいと{n} {kata}カルラ{hira}様が もうされた!」{n}「{kata}キジ{hira}は さぞかし うまいだろな!{n} もちろん あとで {sub:B6}も{n} 食べるがな! {kata}キシシシシシッ{hira}!」",
-   "en": null
+   "en": "\"Kishishishishishi!{n} So you came, Momotaro!\"{n}{n}\"Lady Karura said that if I beat you,{n} I could eat this Pheasant!\"{n}\"I bet Pheasant tastes delicious!{n} And of course, I'll eat you{n} afterward too! Kishishishishishi!\""
   },
   {
    "id": "b125_0001",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} {sub:C9}です!{n} {kata}キジ{hira}の {arg}です!」{n}「とっても こわかったけど{n} きっと たすけてくださるって{n} {arg}は 信じてました!」{n}「おこしに つけた きびだんご!{n} ひとつ {sub:C9}に {sub:C5}な?{n} 旅のおともを いたしましょう!」",
-   "en": null
+   "en": "\"Ken, ken! Momotaro!{n} It's me!{n} {arg} the Pheasant!\"{n}\"I was so scared, but{n} {arg} believed you'd{n} surely come to save me!\"{n}\"That millet dumpling at your waist!{n} Won't you give one to me?{n} I'll join you on your journey!\""
   },
   {
    "id": "b125_0002",
    "jp": "{sub:A0}は きびだんごを{n}{kata}キジ{hira}の {arg}に 手{sub:C9}た!{n}",
-   "en": null
+   "en": "Momotaro handed a millet dumpling{n}to {arg} the Pheasant!{n}"
   },
   {
    "id": "b125_0003",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} どうか きびだんごを!」{n}",
-   "en": null
+   "en": "\"Ken, ken! Momotaro!{n} Please, a millet dumpling!\"{n}"
   },
   {
    "id": "b125_0004",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}!{n} {sub:A0}さんの {kata}ケチ{hira}!」{n}",
-   "en": null
+   "en": "\"Ken, ken!{n} Momotaro, you cheapskate!\"{n}"
   }
  ]
 }

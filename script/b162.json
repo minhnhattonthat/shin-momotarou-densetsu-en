@@ -7,32 +7,32 @@
   {
    "id": "b162_0000",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}! {sub:A0}!」{n}{n}「もう あきらめて 旅立ちの村で{n} 畑でも たがやしているかと{n} おもっていたぞ! ほめてやる!」{n}「ほめついでに ふしぎな話を{n} 聞かせてやろう! 3つのうち{n} ひとつだけ えらべ!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! Momotaro!\"{n}{n}\"I thought you'd have given up by now and gone back to Journey's Start Village to till the fields! I'll give you credit for that!\"{n}\"And while I'm at it, I'll tell you some strange tales! There are three, but you may pick only one!\""
   },
   {
    "id": "b162_0001",
    "jp": "「{kata}ケ{hira}ー{kata}ッケッケッ{hira}! {n} 2の話を 聞くべきだったな!」{n}",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh!{n} You should have heard tale number 2!\"{n}"
   },
   {
    "id": "b162_0002",
    "jp": "「{kata}ケ{hira}ー{kata}ッケッケッ{hira}! {n} 3の話を 聞くべきだったな!」{n}",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh!{n} You should have heard tale number 3!\"{n}"
   },
   {
    "id": "b162_0003",
    "jp": "「{kata}ケ{hira}ー{kata}ッケッケッ{hira}! {n} 1の話を 聞くべきだったな!」{n}",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh!{n} You should have heard tale number 1!\"{n}"
   },
   {
    "id": "b162_0004",
    "jp": "{sub:A0}は 石板を 調べた!{n}{n}{n}{sub:A0}は 石板の文字を よんだ!{n}{n}{n}まいがい はいだあらい{n}はいだあらい あうあえ{n}まいがい さいたあ まいがい",
-   "en": null
+   "en": "Momotaro examined the stone tablet!{n}{n}{n}Momotaro read the words on the stone tablet!{n}{n}{n}thgir tfel{n}tfel pu{n}thgir nwod thgir"
   },
   {
    "id": "b162_0005",
    "jp": "{sub:A0}は 石板を 調べた!{n}{n}{n}{sub:A0}は 石板の文字を よんだ!{n}{n}{n}日のいづるところ それは{n}『はい があ さい』なり{n}{n}この 言葉の 謎をとき{n}言葉どおりに 石を 動かせ!{n}さすれば 道は 開かれん!",
-   "en": null
+   "en": "Momotaro examined the stone tablet!{n}{n}{n}Momotaro read the words on the stone tablet!{n}{n}{n}The place where the sun rises{n}is 'tsae'.{n}{n}Solve the riddle of these words{n}and move the stones as they say!{n}Then the way shall be opened!"
   }
  ]
 }

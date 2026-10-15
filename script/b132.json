@@ -7,47 +7,47 @@
   {
    "id": "b132_0000",
    "jp": "「ああ! {sub:A0}さん!{n} かぐやを かぐやを 助けると言って{n} 村のみなさんが 黄泉の塔へ……!」{n}「勇気の剣'ですか…」{n}{n}{n}「この村の 近くに{n} 飛んだとは 聞いておりますが{n} とんと わかりませぬ」",
-   "en": null
+   "en": "\"Oh! Momotaro! The villagers all said they'd save Kaguya, our Kaguya, and went off to the Tower of Yomi...!\"{n}\"The Valor Sword, you say...\"{n}{n}{n}\"I've heard it flew down somewhere near this village, but I haven't the faintest idea where.\""
   },
   {
    "id": "b132_0001",
    "jp": "「そうですか…勇気の剣'は{n} さびてましたか…」{n}{n}「もっと はやく{n} {sub:C9}たちが{n} さがしだしていれば…」",
-   "en": null
+   "en": "\"I see... so the Valor Sword had rusted...\"{n}{n}\"If only we had found it sooner...\""
   },
   {
    "id": "b132_0002",
    "jp": "「ううっ…!かぐやーーー!」{n}{n}{n}「かぐやが… 大地をささえる{n} そんな えらい娘……とは{n} おもっても いませんでした…」{n}「きだてのいい どこにでもいる{n} 明るい 子じゃった!{n} かぐやーーー! ううっ…!」",
-   "en": null
+   "en": "\"Sniff...! Kaguyaaaa!\"{n}{n}{n}\"Kaguya... a girl so important she holds up the earth... I never dreamed it...\"{n}\"She was just a good-natured, cheerful girl like any other! Kaguyaaaa! Sniff...!\""
   },
   {
    "id": "b132_0003",
    "jp": "「{sub:A0}さん!{n} 来て{sub:C5}ましたか!」{n}{n}「かぐやから {sub:A0}さんに{n} ことづてが あるのです!」{n}{n}「勇気の剣'に もしものことが{n} あったときは {sub:A0}さんに{n} これを {sub:C9}てほしいと!」",
-   "en": null
+   "en": "\"Momotaro! You've come!\"{n}{n}\"Kaguya left a message for you, Momotaro!\"{n}{n}\"She said if anything ever happened to the Valor Sword, I was to give you this!\""
   },
   {
    "id": "b132_0004",
    "jp": "「勇気の鏡を つかえば{n} 勇気の剣'が みつかるはず …と{n} かぐやは もうしておりました!」",
-   "en": null
+   "en": "\"Kaguya told us that if you use the Courage Mirror, you should be able to find the Valor Sword!\""
   },
   {
    "id": "b132_0005",
    "jp": "「勇気の剣'を 月の どこかの村で{n} きたえなおせると かぐやに{n} 聞いたことがあります」{n}「くわしい 場所まで わからなくて{n} すみません {sub:A0}さん!」{n}",
-   "en": null
+   "en": "\"I once heard from Kaguya that the Valor Sword can be reforged in some village on the Moon.\"{n}\"I'm sorry I don't know exactly where, Momotaro!\"{n}"
   },
   {
    "id": "b132_0006",
    "jp": "「かぐやーーー! かぐやーーー!{n} 月へ 行ってるなら ああ…!{n} かえってくるのにーーー!」{n}「いつもの ように{n} 笑って かえってきて{n} おくれよーーー! ああ…!」",
-   "en": null
+   "en": "\"Kaguyaaaa! Kaguyaaaa! If you'd just gone to the Moon... oh...! you'd come back to us someday!\"{n}\"Come home laughing like you always do! Oh...!\""
   },
   {
    "id": "b132_0007",
    "jp": "竹取の翁{n}「かぐや! かぐや!」{n}{n}おばあさん{n}「こんなに ひどいめに!{n} さぞや つらかった ろうに……」",
-   "en": null
+   "en": "Old Bamboo Cutter{n}\"Kaguya! Kaguya!\"{n}{n}Old Woman{n}\"How cruelly she's suffered! It must have been so hard for her...\""
   },
   {
    "id": "b132_0008",
    "jp": "{kata}アジャセ{hira}王子{n}「おじいさん! おばあさん!」{n}{n}「かぐや姫が 生まれた{n} 竹林を おしえて{sub:C5}!」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Grandfather! Grandmother!\"{n}{n}\"Please show me the bamboo grove where Princess Kaguya was born!\"{n}"
   }
  ]
 }

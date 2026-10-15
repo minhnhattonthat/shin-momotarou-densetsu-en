@@ -7,42 +7,42 @@
   {
    "id": "b171_0000",
    "jp": "「{sub:A0}さん! この先へは{n} 行かないほうが いいですよ!」{n}{n}「人気度が いっぺんに{n} 13も下がってしまう 洞窟です!」{n}{n}「行かなくても {kata}ゲ{hira}ー{kata}ムクリア{hira}には{n} かんけい ありません!{n} それでも 行きますか?」",
-   "en": null
+   "en": "\"Momotaro! You'd best not go any further!\"{n}{n}\"This cave makes your Popularity drop by 13 all at once!\"{n}{n}\"You don't need to go in to beat the game! Will you go anyway?\""
   },
   {
    "id": "b171_0001",
    "jp": "「それが なによりです!{n} はやく 鬼を こらしめ{sub:C5}」{n}",
-   "en": null
+   "en": "\"That's the wisest choice! Hurry and teach the oni a lesson, please.\"{n}"
   },
   {
    "id": "b171_0002",
    "jp": "「では どうぞ!」{n}{n}{n}「この 階段を{n} 降りるたびに 人気度が{n} 落ちるので 気をつけて{sub:C5}」{n}「そういえば {sub:A0}さん!{n}{n}{n}「あなたの お名前を{n} おきかせ{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Then go right ahead!\"{n}{n}{n}\"Your Popularity drops each time you go down these stairs, so please be careful.\"{n}\"Oh, by the way, Momotaro!\"{n}{n}{n}\"Please tell me your name!\"{n}"
   },
   {
    "id": "b171_0003",
    "jp": "「では 怨みの洞窟を{n} 心ゆくまで おたのしみ{sub:C5}」{n}",
-   "en": null
+   "en": "\"Now then, please enjoy Grudge Cave to your heart's content.\"{n}"
   },
   {
    "id": "b171_0004",
    "jp": "「では 次に あなたが この世で{n} いちばん 嫌(きら)いな人の{n} 名前を お聞かせ{sub:C5}!」",
-   "en": null
+   "en": "\"Next, please tell me the name of the person you hate most in all the world!\""
   },
   {
    "id": "b171_0005",
    "jp": "「続いて 2番目に{n} 嫌いな人の 名前を{n} お聞かせ{sub:C5}!」",
-   "en": null
+   "en": "\"Next, please tell me the name of the person you hate second most!\""
   },
   {
    "id": "b171_0006",
    "jp": "「最後に 3番目に{n} 嫌いな人の 名前を{n} お聞かせ{sub:C5}!」",
-   "en": null
+   "en": "\"Finally, please tell me the name of the person you hate third most!\""
   },
   {
    "id": "b171_0007",
    "jp": "「では 怨みの洞窟を{n} 心ゆくまで おたのしみ{sub:C5}」{n}",
-   "en": null
+   "en": "\"Now then, please enjoy Grudge Cave to your heart's content.\"{n}"
   }
  ]
 }

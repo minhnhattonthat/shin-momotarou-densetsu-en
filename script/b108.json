@@ -7,67 +7,67 @@
   {
    "id": "b108_0000",
    "jp": "「つららが ふってくるなんて{n} どうしちまっただ!{n} これでは 村も おしまいじゃ!」",
-   "en": null
+   "en": "\"Icicles fallin' from the sky? What in the world's goin' on! This'll be the end of the village!\""
   },
   {
    "id": "b108_0001",
    "jp": "「{sub:A0}さん!{n} つららは 氷の塔の方から{n} ふって こなかっただか?」",
-   "en": null
+   "en": "\"Momotaro! Didn't them icicles come from the direction of the Ice Tower?\""
   },
   {
    "id": "b108_0002",
    "jp": "「{sub:A0}さん! 寝太郎が いないよ!{n} まだ ねてるんだよ! おねがい!{n} 寝太郎を たすけてよ!」",
-   "en": null
+   "en": "\"Momotaro! Netaro's not here! He's still asleep! Please! Save Netaro!\""
   },
   {
    "id": "b108_0003",
    "jp": "「えーん! えーん!{n} 暗いの やだよう!{n} おうちに かえりたいよー!」{n}「えーん! えーん!{n} 南の国に 生まれたかったよー!」{n}",
-   "en": null
+   "en": "\"Waaah! Waaah! I don't like the dark! I wanna go home!\"{n}\"Waaah! Waaah! I wish I was born in the south!\"{n}"
   },
   {
    "id": "b108_0004",
    "jp": "「{kata}オイラ{hira}の 作った{n} 雪だるまが くずれちゃったよ!{n} なんで つららなんか ふるんだ!」",
-   "en": null
+   "en": "\"The snowman I made fell apart! Why are icicles fallin' anyway!\""
   },
   {
    "id": "b108_0005",
    "jp": "「風の音が かわったのは{n} このことが おきる{n} 前ぶれだったのね!」",
-   "en": null
+   "en": "\"So the change in the wind's sound was a sign this was going to happen!\""
   },
   {
    "id": "b108_0006",
    "jp": "「こりゃ とんだ さいなんだ!{n} 旅先では 本当に{n} 何が おこるか わからん!」",
-   "en": null
+   "en": "\"What a disaster this is! You truly never know what'll happen when you're on the road!\""
   },
   {
    "id": "b108_0007",
    "jp": "「かぎなわは 氷の塔の{n} 木のくいに むかって なげて{n} {sub:B3}と いわれています」",
-   "en": null
+   "en": "\"They say the Grappling Hook is used by throwing it at the wooden stakes in the Ice Tower.\""
   },
   {
    "id": "b108_0008",
    "jp": "「氷の塔は その名の とおり{n} 氷に とざされた 塔! その{n} いでたちでは のぼれますまい!」{n}「かぎなわでも あればなあ!{n} でも かぎなわ 持ってるのは{n} へんくつな でか太郎だからな!」",
-   "en": null
+   "en": "\"The Ice Tower is, as its name says, a tower locked in ice! You'll never climb it dressed like that!\"{n}\"If only ya had a Grappling Hook! But the one who's got a Grappling Hook is that cranky Dekataro!\""
   },
   {
    "id": "b108_0009",
    "jp": "「寝太郎を おこすなら{n} 氷室のけずりひが{n} いちばんじゃな!」{n}「氷の塔の しこめ様に{n} 話せば わけてくださるじゃろ!」{n}{n}「とけないように 氷室のきんちゃくに{n} いれてくれる はずじゃよ!」{n}",
-   "en": null
+   "en": "\"If you want to wake Netaro, Icehouse Shaved Ice is the best thing for it!\"{n}\"Talk to Shikome in the Ice Tower and she'll share some with you!\"{n}{n}\"She ought to put it in an Icehouse Pouch for you so it won't melt!\"{n}"
   },
   {
    "id": "b108_0010",
    "jp": "「こまったときは でか太郎さんに{n} たのめば きっと{n} 力に なってくれるわ!」{n}「でか太郎さんの 家は{n} 西の みさきに あるわ!」{n}",
-   "en": null
+   "en": "\"When you're in trouble, ask Dekataro and I'm sure he'll lend you a hand!\"{n}\"Dekataro's house is out on the western cape!\"{n}"
   },
   {
    "id": "b108_0011",
    "jp": "「この穴に たどりつくまで{n} 何度つららが 耳をかすめたことか!{n} まったく 鬼たちめ!」",
-   "en": null
+   "en": "\"I lost count of how many icicles grazed my ears before I got to this cave! Those blasted oni!\""
   },
   {
    "id": "b108_0012",
    "jp": "「村が {kata}ムチャクチャ{hira}じゃあ!{n} わしらは もう{n} 村に もどれんのじゃあ!」{n}「こんな 暗い 穴で{n} 死ぬのは いやじゃあ!」{n}",
-   "en": null
+   "en": "\"The village is a total wreck! We can't ever go back to it now!\"{n}\"I don't wanna die in a dark cave like this!\"{n}"
   }
  ]
 }

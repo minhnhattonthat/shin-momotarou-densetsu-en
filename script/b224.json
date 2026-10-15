@@ -7,267 +7,267 @@
   {
    "id": "b224_0000",
    "jp": "{kata}カメ{n}{hira}「{sub:A0}さん!{n} 竜宮城に つきました!」{n}「乙姫さまは 奥の間です!{n} おいそぎくだされー!」{n}",
-   "en": null
+   "en": "Turtle{n}\"Momotaro! We've reached the Dragon Palace!\"{n}\"Princess Otohime is in the inner chamber! Please hurry!\"{n}"
   },
   {
    "id": "b224_0001",
    "jp": "「{sub:A0}さん! いったん{n} 地上に かえって{n} したくを ととのえますか?」",
-   "en": null
+   "en": "\"Momotaro! Shall we return to the surface for now and get ready?\""
   },
   {
    "id": "b224_0002",
    "jp": "「それでは 地上へ{n} まいりましょう!」{n}",
-   "en": null
+   "en": "\"Then let's head for the surface!\"{n}"
   },
   {
    "id": "b224_0003",
    "jp": "「門を くぐれば{n} 竜宮の広間です! どうか{n} 乙姫さまを お助け{sub:C5}!」",
-   "en": null
+   "en": "\"Pass through the gate and you'll be in the Great Hall of the Dragon Palace! Please, save Princess Otohime!\""
   },
   {
    "id": "b224_0004",
    "jp": "「鬼たちめ! この竜宮を{n} 土足で けがすとは!」{n}",
-   "en": null
+   "en": "\"Those oni! How dare they trample the Dragon Palace with their dirty feet!\"{n}"
   },
   {
    "id": "b224_0005",
    "jp": "「乙姫さまを 助けていただき{n} {sub:BD}した!」{n}",
-   "en": null
+   "en": "\"Thank you for saving Princess Otohime!\"{n}"
   },
   {
    "id": "b224_0006",
    "jp": "「{sub:A0}さん! 鬼は どこに{n} ひそんでいるか わかりません!{n} どうか お気をつけて!」",
-   "en": null
+   "en": "\"Momotaro! There's no telling where the oni are lurking! Please be careful!\""
   },
   {
    "id": "b224_0007",
    "jp": "「{sub:A0}さん! 鬼たいじの旅{n} がんばって{sub:C5}ね!」{n}",
-   "en": null
+   "en": "\"Momotaro! Good luck on your journey to defeat the oni!\"{n}"
   },
   {
    "id": "b224_0008",
    "jp": "「乙姫さまの 笑顔は{n} {sub:C9}たちの しあわせです!」{n}{n}「鬼どもは われわれの しあわせを{n} うばおうと いうのでしょうか!」{n}",
-   "en": null
+   "en": "\"Princess Otohime's smile is our happiness!\"{n}{n}\"Do the oni mean to steal our happiness away?\"{n}"
   },
   {
    "id": "b224_0009",
    "jp": "「海の底には おもわぬ宝が{n} 沈んでいることも あるそうです!」{n}{n}「{sub:A0}さんが おさがしの品も{n} どこかに 沈んで{n} いるかもしれませんね!」",
-   "en": null
+   "en": "\"They say unexpected treasures sometimes lie sunken on the sea floor!\"{n}{n}\"Maybe whatever you're looking for, Momotaro, is sunk somewhere too!\""
   },
   {
    "id": "b224_0010",
    "jp": "「乙姫さま～!{n} どこに おわしますか～!」{n}",
-   "en": null
+   "en": "\"Princess Otohime~! Where are you~?\"{n}"
   },
   {
    "id": "b224_0011",
    "jp": "「竜宮を お助けくださり{n} {sub:BD}した!{n} どうか これを お持ち{sub:C5}」",
-   "en": null
+   "en": "\"Thank you for saving the Dragon Palace! Please, take this.\""
   },
   {
    "id": "b224_0012",
    "jp": "「{sub:A0}さんたちには{n} おれいの言葉も ございません」{n}{n}「魚は くさりやすいので{n} はやめに お食べ{sub:C5}ね」{n}",
-   "en": null
+   "en": "\"We have no words to thank you enough, Momotaro.\"{n}{n}\"Fish spoils quickly, so please eat it soon.\"{n}"
   },
   {
    "id": "b224_0013",
    "jp": "「{sub:A0}さん!{n} みごとな お城を{n} 手に入れられましたね!」",
-   "en": null
+   "en": "\"Momotaro! What a splendid castle you've gotten yourself!\""
   },
   {
    "id": "b224_0014",
    "jp": "「あ! {sub:A0}さん!{n} 浦島さんも ごいっしょですか!」{n}{n}「どうか 乙姫さまを{n} お助け{sub:C5}ませ!」{n}",
-   "en": null
+   "en": "\"Ah! Momotaro! And Urashima's with you too!\"{n}{n}\"Please, save Princess Otohime!\"{n}"
   },
   {
    "id": "b224_0015",
    "jp": "「竜宮を お助けくださり{n} {sub:BD}した!{n} どうか これを お持ち{sub:C5}」",
-   "en": null
+   "en": "\"Thank you for saving the Dragon Palace! Please, take this.\""
   },
   {
    "id": "b224_0016",
    "jp": "「{sub:A0}さんたちには{n} おれいの言葉も ございません」{n}{n}「魚は くさりやすいので{n} はやめに お食べ{sub:C5}ね」{n}",
-   "en": null
+   "en": "\"We have no words to thank you enough, Momotaro.\"{n}{n}\"Fish spoils quickly, so please eat it soon.\"{n}"
   },
   {
    "id": "b224_0017",
    "jp": "「まさか 城に のって{n} 竜宮を たずねる方が あろうとは{n} おもいもよらぬことでした!」{n}「しかも {sub:A0}さんなので{n} 二度 びっくりです!」{n}",
-   "en": null
+   "en": "\"Never did I dream someone would come visiting the Dragon Palace riding a castle!\"{n}\"And that it's you, Momotaro, makes it twice the surprise!\"{n}"
   },
   {
    "id": "b224_0018",
    "jp": "「乙姫さまが なくなれば{n} 海のめぐみは あわのように{n} きえてしまうのです!」",
-   "en": null
+   "en": "\"If Princess Otohime were to perish, the bounty of the sea would vanish like sea foam!\""
   },
   {
    "id": "b224_0019",
    "jp": "「竜宮を お助けくださり{n} {sub:BD}した!{n} どうか これを お持ち{sub:C5}」",
-   "en": null
+   "en": "\"Thank you for saving the Dragon Palace! Please, take this.\""
   },
   {
    "id": "b224_0020",
    "jp": "「{sub:A0}さんたちには{n} おれいの言葉も ございません」{n}{n}「魚は くさりやすいので{n} はやめに お食べ{sub:C5}ね」{n}",
-   "en": null
+   "en": "\"We have no words to thank you enough, Momotaro.\"{n}{n}\"Fish spoils quickly, so please eat it soon.\"{n}"
   },
   {
    "id": "b224_0021",
    "jp": "「乙姫さまは いつも{n} {sub:A0}さんたちの ゆくすえを{n} あんじておられます!」{n}「ぜひ 乙姫さまに{n} おあいになって {sub:C5}ませ!」{n}",
-   "en": null
+   "en": "\"Princess Otohime always worries about what lies ahead for you all, Momotaro!\"{n}\"Please, do go and see Princess Otohime!\"{n}"
   },
   {
    "id": "b224_0022",
    "jp": "「鬼などに この美しい 竜宮を{n} {sub:C9}て なるものですか!」{n}",
-   "en": null
+   "en": "\"As if we'd ever hand this beautiful Dragon Palace over to the likes of the oni!\"{n}"
   },
   {
    "id": "b224_0023",
    "jp": "「竜宮を お助けくださり{n} {sub:BD}した!{n} どうか これを お持ち{sub:C5}」",
-   "en": null
+   "en": "\"Thank you for saving the Dragon Palace! Please, take this.\""
   },
   {
    "id": "b224_0024",
    "jp": "「{sub:A0}さんたちには{n} おれいの言葉も ございません」{n}{n}「魚は くさりやすいので{n} はやめに お食べ{sub:C5}ね」{n}",
-   "en": null
+   "en": "\"We have no words to thank you enough, Momotaro.\"{n}{n}\"Fish spoils quickly, so please eat it soon.\"{n}"
   },
   {
    "id": "b224_0025",
    "jp": "「何度も 竜の形をした船が{n} 竜宮城に 近づいて来ています!」{n}{n}「{sub:C9}たちも いざというときは{n} 戦う かくごです!」{n}",
-   "en": null
+   "en": "\"Ships shaped like dragons keep coming close to the Dragon Palace!\"{n}{n}\"If it comes to it, we're ready to fight too!\"{n}"
   },
   {
    "id": "b224_0026",
    "jp": "「{kata}カルラ{hira}の 部下たちが{n} 竜宮を あらしに来ました!{n} 私たちは どうなるのでしょう!」",
-   "en": null
+   "en": "\"Karura's underlings came to ravage the Dragon Palace! What will become of us?\""
   },
   {
    "id": "b224_0027",
    "jp": "「竜宮を お助けくださり{n} {sub:BD}した!{n} どうか これを お持ち{sub:C5}」",
-   "en": null
+   "en": "\"Thank you for saving the Dragon Palace! Please, take this.\""
   },
   {
    "id": "b224_0028",
    "jp": "「こわかった…!{n} 助かったなんて{n} まだ 信じられません!」{n}「魚は くさりやすいので{n} はやめに お食べ{sub:C5}ね」{n}",
-   "en": null
+   "en": "\"That was so scary...! I still can't believe we were saved!\"{n}\"Fish spoils quickly, so please eat it soon.\"{n}"
   },
   {
    "id": "b224_0029",
    "jp": "「{sub:A0}さん! 海のかなたに{n} 神仙卿という 仙人の島が{n} あるのは ごぞんじですか?」{n}「神仙卿は 8人の仙人が すむ{n} とこよの島だそうです!{n} たずねてみては いかがですか?」",
-   "en": null
+   "en": "\"Momotaro! Did you know that across the sea there's an island of sages called Shinsenkyo?\"{n}\"They say Shinsenkyo is an island of eternity where eight sages live! Why not pay it a visit?\""
   },
   {
    "id": "b224_0030",
    "jp": "「鬼は 竜宮が ほしいのでなく{n} ただ 海の宝を{n} うばいに来たのです!」",
-   "en": null
+   "en": "\"The oni don't want the Dragon Palace itself... They only came to steal the treasures of the sea!\""
   },
   {
    "id": "b224_0031",
    "jp": "「竜宮を お助けくださり{n} {sub:BD}した!{n} どうか これを お持ち{sub:C5}」",
-   "en": null
+   "en": "\"Thank you for saving the Dragon Palace! Please, take this with you.\""
   },
   {
    "id": "b224_0032",
    "jp": "「こわかった…!{n} 助かったなんて{n} まだ 信じられません!」{n}「魚は くさりやすいので{n} はやめに お食べ{sub:C5}ね」{n}",
-   "en": null
+   "en": "\"That was so scary...! I still can't believe we were saved!\"{n}\"Fish spoil quickly, so please eat them soon.\"{n}"
   },
   {
    "id": "b224_0033",
    "jp": "「人魚の村へは 行きましたか?{n} 人を村に 入れたがりませんが{n} 左源内さんだけは 大丈夫なんです」",
-   "en": null
+   "en": "\"Have you been to Mermaid Village? They don't like letting people into their village, but Sagennai is the one exception.\""
   },
   {
    "id": "b224_0034",
    "jp": "「竜宮城の まわりに{n} 咲きみだれる {kata}サンゴ{hira}が{n} こんなに 美しいなんて!」",
-   "en": null
+   "en": "\"I never knew the coral blooming all around the Dragon Palace could be so beautiful!\""
   },
   {
    "id": "b224_0035",
    "jp": "「{kata}カルラ{hira}が 竜宮に 来ても{n} まもりぬきます!{n} われらにも いじが あります!」",
-   "en": null
+   "en": "\"Even if Karura comes to the Dragon Palace, we'll defend it to the end! We have our pride too!\""
   },
   {
    "id": "b224_0036",
    "jp": "「いいか! 金目の物だけ うばえ!{n} {kata}カルラ{hira}様が およろこびになる!」{n}{n}「お?」{n}{n}{n}「{sub:B6}は {sub:A0}!」{n}{n}",
-   "en": null
+   "en": "\"Listen up! Only grab the valuables! That'll please Lord Karura!\"{n}{n}\"Huh?\"{n}{n}{n}\"You're Momotaro!\"{n}{n}"
   },
   {
    "id": "b224_0037",
    "jp": "「いままで {kata}サンゴ{hira}を美しいと{n} かんじたことなど なかった!{n} {sub:A0}さんと あってからです」",
-   "en": null
+   "en": "\"I'd never once thought coral was beautiful! Not until I met you, Momotaro.\""
   },
   {
    "id": "b224_0038",
    "jp": "「竹取りの島が 少しづつ{n} せりあがってる ですって?」{n}{n}「さすがに そこまでの 力は{n} {kata}カルラ{hira}にも 鬼にも{n} ありませんよ! ではなぜ…?」",
-   "en": null
+   "en": "\"Bamboo Island is rising up little by little, you say?\"{n}{n}\"Not even Karura or the oni have that kind of power! Then why...?\""
   },
   {
    "id": "b224_0039",
    "jp": "「{kata}カルラ{hira}様は 大江山に{n} あのお方を 呼ぶに ちがいない!{n} 軍神と 呼ばれる あのお方を!」",
-   "en": null
+   "en": "\"Lord Karura's sure to summon that one to Mt. Oe! The one they call the War God!\""
   },
   {
    "id": "b224_0040",
    "jp": "「鬼の 三軍神といえば{n} 酒香童子さま! 三千世界さま!{n} 羅生門(らしょうもん)さまだ!」{n}「三千世界さまは もう{n} 引退なさっているから いちばん{n} 強いのは 羅生門さまだ!」",
-   "en": null
+   "en": "\"When you talk of the oni's Three War Gods, that's Shuko Doji! Sanzen Sekai! And Rashomon!\"{n}\"Sanzen Sekai's already retired, so the strongest one is Rashomon!\""
   },
   {
    "id": "b224_0041",
    "jp": "「{sub:A0}さん! これを どうぞ!{n} 鬼に であっても かならず{n} 逃げることが できます!」",
-   "en": null
+   "en": "\"Momotaro! Here, take this! Even if you run into oni, you'll always be able to escape!\""
   },
   {
    "id": "b224_0042",
    "jp": "「{kata}カルラ{hira}様は 大江山を{n} 鬼の世界で いちばん 大きな{n} 砦に するんだと いってました」{n}「くれぐれも{n} お気をつけ{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Lord Karura said he's going to make Mt. Oe the biggest fortress in the whole oni world.\"{n}\"Please, do take care!\"{n}"
   },
   {
    "id": "b224_0043",
    "jp": "「鬼の 三軍神も 強いが{n} {kata}ダイダ{hira}王子の 強さは{n} 伐折羅王さま ゆずりだからな!」",
-   "en": null
+   "en": "\"The oni's Three War Gods are strong, but Prince Daida's strength comes straight from King Basara himself!\""
   },
   {
    "id": "b224_0044",
    "jp": "「{sub:A0}さん! この 竜宮のことを{n} お気にかけていただいて{n} 乙姫は うれしゅうございます!」{n}「ひとときの なぐさめに{n} まいを ひとさし{n} ごらんに{sub:D8}」",
-   "en": null
+   "en": "\"Momotaro! Otohime is so glad that you have been concerned for our Dragon Palace!\"{n}\"As a moment's comfort, would you care to watch a dance?\""
   },
   {
    "id": "b224_0045",
    "jp": "「では ごゆるりと!」{n}{n}",
-   "en": null
+   "en": "\"Then please, take your ease!\"{n}{n}"
   },
   {
    "id": "b224_0046",
    "jp": "「では いつでも{n} おより{sub:C5}! たいした{n} もてなしも できませんが」",
-   "en": null
+   "en": "\"Then please drop by anytime! Though we can't offer much in the way of hospitality.\""
   },
   {
    "id": "b224_0047",
    "jp": "「おや? {sub:A0}さん!{n} 鬼たいじで いそがしいのに{n} よく たずねて{sub:C5}ました!」{n}「そうそう 浦島さんの{n} お役に立つ品が 見つかりましたの!{n} ぜひ 浦島さんを ここへ!」",
-   "en": null
+   "en": "\"Oh my? Momotaro! How kind of you to visit when you're so busy with your oni hunt!\"{n}\"Oh yes, we've found something that will be of use to Urashima! Please, do bring Urashima here!\""
   },
   {
    "id": "b224_0048",
    "jp": "「おや? {sub:A0}さん!{n} 鬼たいじで いそがしいのに{n} よく たずねて{sub:C5}ました!」{n}「ちょうど よいところでした!{n} 浦島さんに ふさわしい品が{n} 竜宮城で 見つかったんですの!」{n}「地下の 宝の間に{n} 用意してありますので{n} どうぞ お持ち{sub:C5}ませ!」{n}「鬼たいじの お役に{n} 立てて {sub:C5}ね!」{n}",
-   "en": null
+   "en": "\"Oh my? Momotaro! How kind of you to visit when you're so busy with your oni hunt!\"{n}\"You've come at just the right time! We found something in the Dragon Palace perfectly suited to Urashima!\"{n}\"It's been prepared for you in the treasure room below, so please take it with you!\"{n}\"Please, put it to good use in your oni hunt!\"{n}"
   },
   {
    "id": "b224_0049",
    "jp": "「乙姫は 信じております!」{n}{n}{n}「{sub:A0}さんたちが かならずや{n} 鬼たいじを なしとげることを!」{n}",
-   "en": null
+   "en": "\"Otohime believes in you!\"{n}{n}{n}\"Believes that you and your friends, Momotaro, will surely defeat the oni!\"{n}"
   },
   {
    "id": "b224_0050",
    "jp": "乙姫{n}「もうひとさし まいを{n} ごらんに{sub:D8}」",
-   "en": null
+   "en": "Princess Otohime{n}\"Would you care to watch one more dance?\""
   },
   {
    "id": "b224_0051",
    "jp": "「では ごゆるりと!」{n}{n}",
-   "en": null
+   "en": "\"Then please, take your ease!\"{n}{n}"
   },
   {
    "id": "b224_0052",
    "jp": "「{sub:A0}さん! じつは{n} この うたげは 月の社(やしろ)を{n} ひらく 儀式(ぎしき)なのです!」{n}「竜宮城の あかずの間は{n} 100年の 長きに わたり{n} とじていたのです!」{n}「あかずの間に ある 月の社からは{n} 月の 静かの村へ つうじる{n} 空の道が あるのです」{n}「月の社から 静かの村へ!」{n}{n}{n}「静かの村から かぐや姫さまが{n} とらわれている 月の宮殿まで{n} 行くことが できるかもしれません」{n}「どうぞ こちらへ!」{n}{n}",
-   "en": null
+   "en": "\"Momotaro! The truth is, this banquet is a ritual to open the Moon Shrine!\"{n}\"The Sealed Room of the Dragon Palace has been shut for a long 100 years!\"{n}\"From the Moon Shrine in the Sealed Room, there is a sky road that leads to Quiet Village on the Moon.\"{n}\"From the Moon Shrine to Quiet Village!\"{n}{n}{n}\"And from Quiet Village, you may be able to reach the Moon Palace, where Princess Kaguya is held captive.\"{n}\"Please, this way!\"{n}{n}"
   }
  ]
 }

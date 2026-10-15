@@ -7,132 +7,132 @@
   {
    "id": "b215_0000",
    "jp": "「{kata}ピョピョン{hira}! {sub:A0}さん!{n} 青き隕星(いんせい)を さがしに{n} この村へ 来たのですね!」{n}「でも… {sub:A0}さん!{n} 隕星(いんせい)に ぶつかった人は{n} みんな 死んでしまうのですよ!」",
-   "en": null
+   "en": "\"Pyopyon! Momotaro! You came to this village looking for the Blue Meteor, didn't you!\"{n}\"But... Momotaro! Everyone who's been hit by the meteor has died!\""
   },
   {
    "id": "b215_0001",
    "jp": "「{kata}ピョピョン{hira}! {sub:A0}さん!{n} 青き隕星に たえたのですね!{n} なんて すごい人なの!」{n}「{sub:A0}さん! 今度こそ{n} 鬼との 戦いも 最後ですよね!」{n}",
-   "en": null
+   "en": "\"Pyopyon! Momotaro! You survived the Blue Meteor! What an amazing person you are!\"{n}\"Momotaro! This time the battle with the oni is finally coming to an end, right?\"{n}"
   },
   {
    "id": "b215_0002",
    "jp": "「{kata}ピョピョン{hira}!{n} ああ! {sub:A0}さん!」{n}{n}「山が くずれそうです!{n} 村が 谷もろとも{n} うもれてしまいます!」",
-   "en": null
+   "en": "\"Pyopyon! Oh! Momotaro!\"{n}{n}\"The mountain's about to collapse! The village will be buried along with the whole valley!\""
   },
   {
    "id": "b215_0003",
    "jp": "「{kata}ピョピョン{hira}! ここ 豊かの村は{n} 青き隕星(いんせい)が 落ちると{n} 伝えられる 谷底の村です!」{n}「こんな所に {sub:A0}さんが{n} 来ると いうことは{n} よほどの かくごですね!」",
-   "en": null
+   "en": "\"Pyopyon! This is Plenty Village, at the bottom of the valley where the Blue Meteor is said to fall!\"{n}\"If you've come to a place like this, Momotaro, you must be very determined!\""
   },
   {
    "id": "b215_0004",
    "jp": "「{kata}ピョピョン{hira}! あなたの{n} 死を おそれぬ 勇気には{n} あたまが さがります!」{n}「最後の戦いの ご武'運を{n} おいのり いたしております!」{n}",
-   "en": null
+   "en": "\"Pyopyon! I bow my head to your courage that doesn't fear death!\"{n}\"I'm praying for your good fortune in the final battle!\"{n}"
   },
   {
    "id": "b215_0005",
    "jp": "「{kata}ピョピョン{hira}!{n} 月からも 見えました!」{n}{n}「青い光を たたえていた海が{n} またたくまに{n} 赤く 染まったんです!」",
-   "en": null
+   "en": "\"Pyopyon! We could see it even from the Moon!\"{n}{n}\"The sea that once shimmered with blue light turned red in the blink of an eye!\""
   },
   {
    "id": "b215_0006",
    "jp": "「青き隕星は いつ 落ちてくるか{n} {sub:C9}どもにも わかりませんの!」{n}{n}「とにかく 谷へ 勇気の剣'を{n} お持ちになって {sub:C5}まし!」{n}",
-   "en": null
+   "en": "\"Even we cannot tell when the Blue Meteor will fall!\"{n}{n}\"In any case, please take the Valor Sword to the valley!\"{n}"
   },
   {
    "id": "b215_0007",
    "jp": "「{kata}カルラ{hira}とかいう 鬼も{n} あなたの 勇気の前には{n} ひれふすことでしょう!」{n}「最後の戦いは {sub:A0}さん!{n} 笑顔で 戦って{sub:C5}ね!」{n}",
-   "en": null
+   "en": "\"Even that oni called Karura will surely fall on his face before your courage!\"{n}\"Momotaro! In the final battle, please fight with a smile!\"{n}"
   },
   {
    "id": "b215_0008",
    "jp": "「地上には 鬼が島と{n} 竹取りの村の 島のほか{n} 大地が 見あたりません!」{n}「あとの すべては…{n} あの 血のような海が{n} のみこんで しまったのですか?」",
-   "en": null
+   "en": "\"On the earth, there's no land to be seen except Onigashima and the island of Bamboo Village!\"{n}\"All the rest... was it all swallowed up by that blood-red sea?\""
   },
   {
    "id": "b215_0009",
    "jp": "「{sub:A0}さんが 鳳凰を{n} よみがえらせたと 聞きました!{n} まるで 夢のようですわ!」{n}「鳳凰が したがう者は{n} 本当に 勇気のある人に{n} かぎられているのです!」{n}「かぐや姫さまは {sub:A0}さんの{n} 勇気を 信じて 月の水晶を{n} たくされたのでしょうね…」",
-   "en": null
+   "en": "\"I heard that Momotaro brought the Phoenix back to life! It's like a dream!\"{n}\"The Phoenix obeys only those with true courage!\"{n}\"Princess Kaguya must have believed in your courage, Momotaro, and entrusted the Moon Quartz to you...\""
   },
   {
    "id": "b215_0010",
    "jp": "「かぐや姫さまが {sub:A0}さんを{n} 信じる 気持ちが{n} わかったような 気がします!」{n}「その すばらしさを 地獄の{n} 鬼たちにも お伝え{sub:C5}!」{n}",
-   "en": null
+   "en": "\"I think I understand now why Princess Kaguya believed in you, Momotaro!\"{n}\"Please show how wonderful that is to the oni of Hell, too!\"{n}"
   },
   {
    "id": "b215_0011",
    "jp": "「そうですか… 月の宮殿を{n} のこして あとの 村々は…」{n}{n}「ここも どうなることやら!{n} {sub:A0}さん!{n} はやく 鬼が島へ!」",
-   "en": null
+   "en": "\"I see... All the villages but the Moon Palace are...\"{n}{n}\"Who knows what will become of this place! Momotaro! Hurry to Onigashima!\""
   },
   {
    "id": "b215_0012",
    "jp": "「{kata}ピョピョン{hira}! {sub:A0}さん!{n} 青き隕星は 100回に 1回しか{n} 落ちて来ないと いわれています!」",
-   "en": null
+   "en": "\"Pyopyon! Momotaro! They say the Blue Meteor falls only once in a hundred tries!\""
   },
   {
    "id": "b215_0013",
    "jp": "「{kata}ピョピョン{hira}! {sub:A0}さん!{n} 生きていたんですね!{n} おばけじゃ ないでしょうね?」",
-   "en": null
+   "en": "\"Pyopyon! Momotaro! You're alive! You're not a ghost, are you?\""
   },
   {
    "id": "b215_0014",
    "jp": "「{kata}ピョピョン{hira}!{n} 星が 弱まっていくの!{n} 暗く なっていくの!」{n}「何だか… こわい!」{n}{n}",
-   "en": null
+   "en": "\"Pyopyon! The stars are getting weaker! They're getting darker!\"{n}\"Somehow... I'm scared!\"{n}{n}"
   },
   {
    "id": "b215_0015",
    "jp": "「{kata}ピョピョン{hira}! {sub:A0}さん!{n} この 砂の中に{n} 剣'を さして{sub:C5}な!」",
-   "en": null
+   "en": "\"Pyopyon! Momotaro! Please stick your sword into this sand!\""
   },
   {
    "id": "b215_0016",
    "jp": "「{kata}ピョピョン{hira}! {sub:A0}さん!{n} 勇気の剣'は {sub:A0}さんに{n} とっても おにあいです!」",
-   "en": null
+   "en": "\"Pyopyon! Momotaro! The Valor Sword really suits you!\""
   },
   {
    "id": "b215_0017",
    "jp": "「{kata}ピョピョン{hira}!{n} これが この世の おわりなの?」{n}{n}「月と 大地が なくなって{n} だれが よろこぶって いうの?」{n}",
-   "en": null
+   "en": "\"Pyopyon! Is this the end of the world?\"{n}{n}\"If the Moon and the earth are gone, who's going to be happy about that?\"{n}"
   },
   {
    "id": "b215_0018",
    "jp": "「{kata}ピョピョン{hira}! {sub:A0}さん!{n} 青き隕星が 落ちて来ることを{n} おいのりしています!」",
-   "en": null
+   "en": "\"Pyopyon! Momotaro! I'm praying the Blue Meteor will fall!\""
   },
   {
    "id": "b215_0019",
    "jp": "「{kata}ピョピョン{hira}! {sub:A0}さん!{n} わきで 見ていて{n} いきが 止まりそうでした!」",
-   "en": null
+   "en": "\"Pyopyon! Momotaro! Watching from the side, I almost stopped breathing!\""
   },
   {
    "id": "b215_0020",
    "jp": "「{kata}ピョピョン{hira}!{n} 青き隕星が ふったとき かならず{n} しあわせが やってきました!」{n}「今度も そうなると{n} きっと 信じています!」{n}",
-   "en": null
+   "en": "\"Pyopyon! Whenever the Blue Meteor fell, happiness always followed!\"{n}\"I'm sure it'll be the same this time!\"{n}"
   },
   {
    "id": "b215_0021",
    "jp": "「わたくしは 白砂の泉を{n} まもっている 星夜です」{n}{n}「{sub:A0}さん! 青き隕星で{n} 勇気の剣'を きたえる{n} かくごなのですね?」{n}「それでは ここに 勇気の剣'を{n} さして {sub:C5}ませ!」{n}",
-   "en": null
+   "en": "\"I am Seiya, guardian of the White Sand Spring.\"{n}{n}\"Momotaro! You are prepared to forge the Valor Sword with the Blue Meteor?\"{n}\"Then please plant the Valor Sword here!\"{n}"
   },
   {
    "id": "b215_0022",
    "jp": "「勇気 あるところに 希望あり!」{n}{n}{n}「古くから いいつたえられた{n} 言葉を いま 目の前で{n} 形にして 見せていただきました!」{n}「{sub:A0}さん! どうか{n} お気をつけて……! いよいよ{n} 最後の戦いですね!」",
-   "en": null
+   "en": "\"Where there is courage, there is hope!\"{n}{n}{n}\"Those words, handed down since ancient times, you have just shown me in true form, before my very eyes!\"{n}\"Momotaro! Please, take care...! At last, the final battle is upon you!\""
   },
   {
    "id": "b215_0023",
    "jp": "「勇気の剣'は この世に{n} のこされた さいごの光明!」{n}{n}「剣'に かがやきが あるかぎり{n} 正義は 死んでいません!」{n}",
-   "en": null
+   "en": "\"The Valor Sword is the last ray of hope left in this world!\"{n}{n}\"So long as the sword still shines, justice is not dead!\"{n}"
   },
   {
    "id": "b215_0024",
    "jp": "星夜{n}「あとは 青き隕星が{n} 落ちるのを ねがうばかり…」",
-   "en": null
+   "en": "Seiya{n}\"Now all we can do is pray for the Blue Meteor to fall...\""
   },
   {
    "id": "b215_0025",
    "jp": "星夜{n}「青き隕星が まことに{n} 落ちて来るとは……!」{n}「{sub:A0}さんが すべての世を{n} すくわれる お方だという{n} あかしの ようですね!」{n}「青き隕星が あれほどの{n} かがやきを もって{n} 落ちて来たのは はじめてです!」{n}「さあ! {sub:A0}さん!{n} 勇気の剣'を!」{n}",
-   "en": null
+   "en": "Seiya{n}\"To think the Blue Meteor truly fell...!\"{n}\"It seems to be proof that you, Momotaro, are the one who will save all the worlds!\"{n}\"Never before has the Blue Meteor fallen with such brilliance!\"{n}\"Now! Momotaro! Take up the Valor Sword!\"{n}"
   }
  ]
 }

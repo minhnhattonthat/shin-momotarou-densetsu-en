@@ -7,42 +7,42 @@
   {
    "id": "b094_0000",
    "jp": "「海は ひろいぞ! {sub:A0}!{n} こまったら ひえんの術で{n} 東西南北を たしかめることじゃ!」",
-   "en": null
+   "en": "\"The sea is vast, Momotaro! If you get lost, use the Swallow Wing Art to check north, south, east and west!\""
   },
   {
    "id": "b094_0001",
    "jp": "「{sub:B5}{n} からくりの村は どうも{n} 鬼のつめあとの 下にあるそうよ!」",
-   "en": null
+   "en": "\"Chuchun!{n} They say Gadget Village is somewhere below the Oni's Claw Marks!\""
   },
   {
    "id": "b094_0002",
    "jp": "「{sub:B5} 海には{n} いろんな村が いっぱいよ!」{n}{n}「仙人だけの村! からくりの村!{n} 七夕の村! 人魚の村! まずは{n} からくりの村へ 行くといいわ!」",
-   "en": null
+   "en": "\"Chuchun! There are lots of different villages out on the sea!\"{n}{n}\"A village of nothing but sages! Gadget Village! Tanabata Village! Mermaid Village! You should head for Gadget Village first!\""
   },
   {
    "id": "b094_0003",
    "jp": "「びっくりしたよ! {sub:A0}さん!{n} 舟で 旅してたら いきなり{n} 竜の形した 船がういて来てさ!」{n}「あっというまに あっしらは{n} 海に {kata}ドブン{hira}! でさあ!」{n}",
-   "en": null
+   "en": "\"What a shock, Momotaro! We were travelin' by boat when all of a sudden a dragon-shaped ship came floatin' up!\"{n}\"Before we knew it, we went into the sea with a big splash!\"{n}"
   },
   {
    "id": "b094_0004",
    "jp": "「竹取りの村の 地面が{n} 高くなって 舟でも{n} 行けなくなっちまった!」{n}「まさか 鬼のせいじゃないだろな!{n} おっと! {sub:A0}さん!{n} 旅の おともに 持ってってくれ!」",
-   "en": null
+   "en": "\"The ground around Bamboo Village rose up, and now ya can't even get there by boat!\"{n}\"Don't tell me the oni did this! Oh, right! Momotaro! Take this along on your journey!\""
   },
   {
    "id": "b094_0005",
    "jp": "「{sub:A0}さん! 七夕の村に{n} 行ったことあるかい?」{n}{n}「{kata}タネ{hira}を うえると{n} 木がのびて 村に 行けるって{n} 話だけど 本当かねえ?」",
-   "en": null
+   "en": "\"Momotaro! Ever been to Tanabata Village?\"{n}{n}\"They say if ya plant a seed, a tree grows and ya can reach the village. Wonder if that's true?\""
   },
   {
    "id": "b094_0006",
    "jp": "「{sub:B5}{n} 海の底に 人魚の村が{n} あるんですって!」{n}「でも みんな おくびょうだから{n} 村に なかなか{n} 入れてくれないそうよ!」",
-   "en": null
+   "en": "\"Chuchun!{n} They say there's a Mermaid Village at the bottom of the sea!\"{n}\"But they're all so timid, they hardly ever let anyone into their village!\""
   },
   {
    "id": "b094_0007",
    "jp": "「{sub:B5} からくりの村は{n} 鬼たいじを お手伝いするために{n} 作られた ひみつの村だそうです!」",
-   "en": null
+   "en": "\"Chuchun! They say Gadget Village is a secret village built to help defeat the oni!\""
   }
  ]
 }

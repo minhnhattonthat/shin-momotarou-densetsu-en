@@ -7,17 +7,17 @@
   {
    "id": "b100_0000",
    "jp": "「{sub:A0}さん! 花咲かじいさんの家に{n} 行きましたか? 鬼たちが しきりに{n} 水の牢屋(ろうや)が どうとか…」{n}「かべが どうとか…{n} いってました!{n} お役に立たないかしら?」",
-   "en": null
+   "en": "\"Momotaro! Have you been to Old Man Hanasaka's house? The oni kept going on about a water prison or some such...\"{n}\"Something about a wall... that's what they said! Is that any help to you?\""
   },
   {
    "id": "b100_0001",
    "jp": "「{sub:A0}さん!{n} 旅の とちゅうで{n} 役立てて{sub:C5}!」",
-   "en": null
+   "en": "\"Momotaro! Please, put this to use on your journey!\""
   },
   {
    "id": "b100_0002",
    "jp": "「音無し洞窟を ぬけたら{n} 仙人の庵が 3つも あります{n} わすれず よって{sub:C5}ね!」",
-   "en": null
+   "en": "\"Once you get through Silent Cave, there are three whole sage huts! Be sure to stop by, won't you!\""
   }
  ]
 }

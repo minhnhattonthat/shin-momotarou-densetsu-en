@@ -7,42 +7,42 @@
   {
    "id": "b212_0000",
    "jp": "「{sub:A0}さんが はじめての{n} 鬼たいじの旅をして{n} えんま様を こらしめたころ…」{n}「{kata}カルラ{hira}は 伐折羅王に{n} とりいって 地獄を{n} 出ようと しなかったのですわ!」",
-   "en": null
+   "en": "\"Back when Momotaro went on his first oni hunt and taught King Enma a lesson...\"{n}\"Karura was busy currying favor with King Basara and never once tried to leave Hell!\""
   },
   {
    "id": "b212_0001",
    "jp": "「{kata}カルラ{hira}は 鬼の世界で{n} いちばん たっとばれる{n} 戦いが にがてでした」{n}「そのため 多くの 武'勇の鬼を{n} 伐折羅王の名で したがわせ{n} {kata}カルラ{hira}のために はたらかせました」",
-   "en": null
+   "en": "\"Karura was poor at fighting, which oni prize above all else.\"{n}\"So he used King Basara's name to bring many brave oni under his command, and made them work for Karura.\""
   },
   {
    "id": "b212_0002",
    "jp": "「月の鏡を さがしに{n} いらしたのですね!」{n}{n}「では 臥龍(がりゅう)のしれんを{n} うけていただかねば なりません!」{n}",
-   "en": null
+   "en": "\"You have come in search of the Moon Mirror!\"{n}{n}\"Then you must undergo the trial of Garyu, the Sleeping Dragon!\"{n}"
   },
   {
    "id": "b212_0003",
    "jp": "「臥龍のしれんを{n} うけるものは ただひとり!」{n}{n}{sub:D5}まいりますか?」{n}{n}",
-   "en": null
+   "en": "\"Only one may undergo Garyu's trial!\"{n}{n}\"Who will go?\"{n}{n}"
   },
   {
    "id": "b212_0004",
    "jp": "「{arg}さんが{n} 行くのですね!」{n}",
-   "en": null
+   "en": "\"So {arg} will go!\"{n}"
   },
   {
    "id": "b212_0005",
    "jp": "「まよわなくなったら{n} おいでなさいませ!」{n}",
-   "en": null
+   "en": "\"Come back once you've made up your mind!\"{n}"
   },
   {
    "id": "b212_0006",
    "jp": "「では そこの穴から{n} お入り{sub:C5}!」{n}{n}「{arg}さんが{n} 臥龍の みこころに{n} かないますように!」",
-   "en": null
+   "en": "\"Then please enter through that hole there!\"{n}{n}\"May {arg} find favor in Garyu's heart!\""
   },
   {
    "id": "b212_0007",
    "jp": "「月の鏡を つかえば{n} 月の水晶のありかが わかります!」{n}{n}「すべての 月の水晶を あつめれば{n} 世を 鬼の手から すくう{n} てだてが 生まれましょう!」{n}「{sub:A0}さんに{n} 月の ごかごが ありますように!」{n}",
-   "en": null
+   "en": "\"With the Moon Mirror, you can find where the Moon Quartz lies!\"{n}{n}\"Gather all the Moon Quartz, and a way to save the world from the oni's grasp will be born!\"{n}\"May the blessing of the Moon be with you, Momotaro!\"{n}"
   }
  ]
 }

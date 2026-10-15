@@ -7,67 +7,67 @@
   {
    "id": "b133_0000",
    "jp": "かぐや姫は まるで{n}ねむっているかの ように 見える!{n}",
-   "en": null
+   "en": "Princess Kaguya looks{n}as if she were only sleeping!{n}"
   },
   {
    "id": "b133_0001",
    "jp": "竹取の翁{n}{sub:C2} 竹の花がこんなに……」{n}{n}{kata}アジャセ{hira}王子{n}「竹には 神が 宿ると{n} 伝えられている!」{n}「120年に 一度{n} いっせいに 花ひらき{n} そして 枯れてしまう…」{n}「だが! たとえ 枯れはてても{n} 竹は おそろしい はやさで{n} よみがえる力を もっている!」{n}「かぐや姫は{n} 竹から 生まれた姫!」{n}{n}「あるいは 姫も……」{n}{n}",
-   "en": null
+   "en": "Old Bamboo Cutter{n}\"Oh! So many bamboo flowers...\"{n}{n}Prince Ajase{n}\"It's said that a god dwells in bamboo!\"{n}\"Once every 120 years, it all blooms at once, and then it withers...\"{n}\"But! Even withered away, bamboo has the power to come back to life at a fearsome speed!\"{n}\"Princess Kaguya is a princess born from bamboo!\"{n}{n}\"Perhaps the princess too...\"{n}{n}"
   },
   {
    "id": "b133_0002",
    "jp": "「すまない! {sub:A0}!」{n}{n}{n}「目を はなしたら かぐや姫が{n} 今にも 消えてしまいそうで……!」{n}{n}「鬼の血を 引きながら{n} あまりにも 心弱い{n} {sub:C9}を 笑ってくれ!」{n}「いますこし 姫の そばに{n} いさせてくれ…………{n} かならず あとから 行く!」",
-   "en": null
+   "en": "\"Forgive me, Momotaro!\"{n}{n}{n}\"If I take my eyes off her, I fear Princess Kaguya will vanish at any moment...!\"{n}{n}\"Laugh at me, so faint of heart though I carry oni blood!\"{n}\"Let me stay by her side a little longer... I promise I'll follow after you!\""
   },
   {
    "id": "b133_0003",
    "jp": "「{sub:A0}さん! かぐやの{n} かたきを とってくだされ!」{n}",
-   "en": null
+   "en": "\"Momotaro! Avenge our Kaguya!\"{n}"
   },
   {
    "id": "b133_0004",
    "jp": "「{sub:A0}さん! あなたは{n} 鬼たいじを! それが{n} 残された人たちの 願いです!」",
-   "en": null
+   "en": "\"Momotaro! You must defeat the oni! That is the wish of all who are left behind!\""
   },
   {
    "id": "b133_0005",
    "jp": "おっ! 何か 地面に{n}うまっているようだ!{n}{n}ほって みますか?{n}{n}",
-   "en": null
+   "en": "Oh! Something seems to be{n}buried in the ground!{n}{n}Dig it up?{n}{n}"
   },
   {
    "id": "b133_0006",
    "jp": "{sub:A0}は ほるのを{n}あきらめてしまった!{n}",
-   "en": null
+   "en": "Momotaro gave up{n}on digging!{n}"
   },
   {
    "id": "b133_0007",
    "jp": "地面から さびた刀が 出てきた!{n}{n}{n}勇気の剣'だ!{n}{n}",
-   "en": null
+   "en": "A rusty sword came out of the ground!{n}{n}{n}It's the Valor Sword!{n}{n}"
   },
   {
    "id": "b133_0008",
    "jp": "どうやら この 近くに{n}勇気の剣'が あるようだ!{n}",
-   "en": null
+   "en": "It seems the Valor Sword{n}is somewhere near here!{n}"
   },
   {
    "id": "b133_0009",
    "jp": "西に {num}歩!",
-   "en": null
+   "en": "West: {num} steps!"
   },
   {
    "id": "b133_0010",
    "jp": "東に {num}歩!",
-   "en": null
+   "en": "East: {num} steps!"
   },
   {
    "id": "b133_0011",
    "jp": "北に {num}歩!{n}",
-   "en": null
+   "en": "North: {num} steps!{n}"
   },
   {
    "id": "b133_0012",
    "jp": "南に {num}歩!{n}",
-   "en": null
+   "en": "South: {num} steps!{n}"
   }
  ]
 }

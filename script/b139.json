@@ -7,117 +7,117 @@
   {
    "id": "b139_0000",
    "jp": "「びろびろ びろ～ん!{n} わし びろ～ん おさ」{n}{n}「この ひかるもの{n} てんから さずかりもの」{n}{n}「{kata}ハラホロヒレハレ{hira}～!」{n}{n}",
-   "en": null
+   "en": "\"Birobiro biroooon! Me Biroon chief.\"{n}{n}\"This shiny thing, gift from heaven.\"{n}{n}\"Harahoro-hirehare~!\"{n}{n}"
   },
   {
    "id": "b139_0001",
    "jp": "「あなたたちが おがんでいる{n} その 光るものは{n} {sub:A0}さんの ものなんです!」{n}「それが なければ 鬼を{n} たいじすることが できないのです!{n} かえして いただけませんか?」",
-   "en": null
+   "en": "\"That shining thing you're all worshipping belongs to Momotaro!\"{n}\"Without it he can't defeat the oni! Won't you please give it back?\""
   },
   {
    "id": "b139_0002",
    "jp": "「これ {sub:B6} もちもの{n} ほんとうか?」{n}",
-   "en": null
+   "en": "\"This you thing? True?\"{n}"
   },
   {
    "id": "b139_0003",
    "jp": "「では わたすわけ{n} いかない!」{n}",
-   "en": null
+   "en": "\"Then no can give!\"{n}"
   },
   {
    "id": "b139_0004",
    "jp": "「では {sub:B6}のもの{n} あかし みせよ」{n}{n}いままで 集めた{n}月の水晶の かけらを{n}びろ～んの長に 見せますか?",
-   "en": null
+   "en": "\"Then show proof it you thing.\"{n}{n}Show the Moon Quartz shards{n}you've collected so far{n}to the Biroon chief?"
   },
   {
    "id": "b139_0005",
    "jp": "「では わたすわけ{n} いかない!」{n}",
-   "en": null
+   "en": "\"Then no can give!\"{n}"
   },
   {
    "id": "b139_0006",
    "jp": "「{sub:B6} なにも{n} ない! うそつき!」{n}",
-   "en": null
+   "en": "\"You have nothing! Liar!\"{n}"
   },
   {
    "id": "b139_0007",
    "jp": "{sub:C2} {sub:B6}!{n} はらだし なかよし!」{n}{n}「ひかるもの もってる!{n} ほんとうに もちぬし!」{n}{n}「もちもの もちぬし{n} もつ とうぜん!」{n}{n}「もっていく よい!」{n}{n}",
-   "en": null
+   "en": "\"Ooh! You! Bellyman friend!\"{n}{n}\"You have shiny things! You true owner!\"{n}{n}\"Thing go to owner, of course!\"{n}{n}\"You take, good!\"{n}{n}"
   },
   {
    "id": "b139_0008",
    "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!{n} {g1AB4}{g1A9E}{g1AB0}{g1AA5}{g1AA6} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}{n} {g1AAC}{g1AB0}{g1A9E}!」{n}「{g1AA8}{g1AAC}{g1AAB}{g1AAC} {g1AA5}{g1AA6}{g1AA8}{g1A9E}{g1AAF}{g1AB2}{g1AAA}{g1AAC}{g1AAB}{g1AAC}{n} {g1AB1}{g1AA2}{g1AAB}{g1AA8}{g1A9E}{g1AAF}{g1A9E}{n} {g1AB0}{g1A9E}{g1AB7}{g1AB2}{g1AA8}{g1A9E}{g1AAF}{g1AA6}{g1AAA}{g1AAC}{g1AAB}{g1AAC}!」",
-   "en": null
+   "en": "\"birobiro biro~n!{n} washi biro~n{n} osa!\"{n}\"kono hikarumono{n} tenkara{n} sazukarimono!\""
   },
   {
    "id": "b139_0009",
    "jp": "「びろびろ びろ～ん!{n} {sub:B6}たち もちもの{n} もどって よかった!」",
-   "en": null
+   "en": "\"Birobiro biroooon! You things come back, good!\""
   },
   {
    "id": "b139_0010",
    "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!」{n}{n}{n}「{g1AAC}{g1AAA}{g1A9E}{g1AA2}{g1AB1}{g1A9E}{g1AA0}{g1AA5}{g1AA6}{n} {g1AAA}{g1AAC}{g1AA0}{g1AA5}{g1AA6}{g1AAA}{g1AAC}{g1AAB}{g1AAC}{n} {g1AAA}{g1AAC}{g1AA1}{g1AAC}{g1AB1}{g1AB1}{g1AA2} {g1AB6}{g1AAC}{g1AA8}{g1A9E}{g1AB1}{g1AB1}{g1A9E}!」",
-   "en": null
+   "en": "\"birobiro biro~n!\"{n}{n}{n}\"omaetachi{n} mochimono{n} modotte yokatta!\""
   },
   {
    "id": "b139_0011",
    "jp": "「びろびろ びろ～ん!{n} また さずかりもの{n} おちてこないか?」",
-   "en": null
+   "en": "\"Birobiro biroooon! More gift fall from heaven, maybe?\""
   },
   {
    "id": "b139_0012",
    "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!」{n}{n}{n}「{g1AAA}{g1A9E}{g1AB1}{g1A9E}{n} {g1AB0}{g1A9E}{g1AB7}{g1AB2}{g1AA8}{g1A9E}{g1AAF}{g1AA6}{g1AAA}{g1AAC}{g1AAB}{g1AAC}{n} {g1AAC}{g1AA0}{g1AA5}{g1AA6}{g1AB1}{g1AA2}{g1AA8}{g1AAC}{g1AAB}{g1A9E}{g1AA6}{g1AA8}{g1A9E}?」",
-   "en": null
+   "en": "\"birobiro biro~n!\"{n}{n}{n}\"mata{n} sazukarimono{n} ochitekonaika?\""
   },
   {
    "id": "b139_0013",
    "jp": "「びろびろ びろ～ん!」{n}{n}{n}「このまえ てんから{n} さずかりもの{n} おちてきた!」",
-   "en": null
+   "en": "\"Birobiro biroooon!\"{n}{n}{n}\"Other day, gift fall from heaven!\""
   },
   {
    "id": "b139_0014",
    "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!」{n}{n}{n}「{g1AA8}{g1AAC}{g1AAB}{g1AAC}{g1AAA}{g1A9E}{g1AA2} {g1AB1}{g1AA2}{g1AAB}{g1AA8}{g1A9E}{g1AAF}{g1A9E}{n} {g1AB0}{g1A9E}{g1AB7}{g1AB2}{g1AA8}{g1A9E}{g1AAF}{g1AA6}{g1AAA}{g1AAC}{g1AAB}{g1AAC}{n} {g1AAC}{g1AA0}{g1AA5}{g1AA6}{g1AB1}{g1AA2}{g1AA8}{g1AA6}{g1AB1}{g1A9E}!」",
-   "en": null
+   "en": "\"birobiro biro~n!\"{n}{n}{n}\"konomae tenkara{n} sazukarimono{n} ochitekita!\""
   },
   {
    "id": "b139_0015",
    "jp": "「びろびろ びろ～ん!{n} てんから さずかりもの{n} ちがった ざんねん!」",
-   "en": null
+   "en": "\"Birobiro biroooon! Gift from heaven, wrong one. Too bad!\""
   },
   {
    "id": "b139_0016",
    "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!」{n}{n}{n}「{g1AB1}{g1AA2}{g1AAB}{g1AA8}{g1A9E}{g1AAF}{g1A9E}{n} {g1AB0}{g1A9E}{g1AB7}{g1AB2}{g1AA8}{g1A9E}{g1AAF}{g1AA6}{g1AAA}{g1AAC}{g1AAB}{g1AAC}{n} {g1AA0}{g1AA5}{g1AA6}{g1AA4}{g1A9E}{g1AB1}{g1AB1}{g1A9E} {g1AB7}{g1A9E}{g1AAB}{g1AAB}{g1AA2}{g1AAB}!」",
-   "en": null
+   "en": "\"birobiro biro~n!\"{n}{n}{n}\"tenkara{n} sazukarimono{n} chigatta zannen!\""
   },
   {
    "id": "b139_0017",
    "jp": "「びろびろ びろ～ん!{n} てんから さずかりもの{n} とても きれい!」",
-   "en": null
+   "en": "\"Birobiro biroooon! Gift from heaven very pretty!\""
   },
   {
    "id": "b139_0018",
    "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!」{n}{n}{n}「{g1AB1}{g1AA2}{g1AAB}{g1AA8}{g1A9E}{g1AAF}{g1A9E}{n} {g1AB0}{g1A9E}{g1AB7}{g1AB2}{g1AA8}{g1A9E}{g1AAF}{g1AA6}{g1AAA}{g1AAC}{g1AAB}{g1AAC}{n} {g1AB1}{g1AAC}{g1AB1}{g1AA2}{g1AAA}{g1AAC} {g1AA8}{g1AA6}{g1AAF}{g1AA2}{g1AA6}!」",
-   "en": null
+   "en": "\"birobiro biro~n!\"{n}{n}{n}\"tenkara{n} sazukarimono{n} totemo kirei!\""
   },
   {
    "id": "b139_0019",
    "jp": "「びろびろ びろ～ん!{n} {sub:B6}たち{n} てんから つかい?」",
-   "en": null
+   "en": "\"Birobiro biroooon! You all messenger from heaven?\""
   },
   {
    "id": "b139_0020",
    "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!」{n}{n}{n}「{g1AAC}{g1AAA}{g1A9E}{g1AA2}{g1AB1}{g1A9E}{g1AA0}{g1AA5}{g1AA6}{n} {g1AB1}{g1AA2}{g1AAB}{g1AA8}{g1A9E}{g1AAF}{g1A9E}{n} {g1AB1}{g1AB0}{g1AB2}{g1AA8}{g1A9E}{g1AA6}?」",
-   "en": null
+   "en": "\"birobiro biro~n!\"{n}{n}{n}\"omaetachi{n} tenkara{n} tsukai?\""
   },
   {
    "id": "b139_0021",
    "jp": "「びろびろ びろ～ん!{n} てんから さずかりもの{n} うれしい!」",
-   "en": null
+   "en": "\"Birobiro biroooon! Gift from heaven, happy!\""
   },
   {
    "id": "b139_0022",
    "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!」{n}{n}{n}「{g1AB1}{g1AA2}{g1AAB}{g1AA8}{g1A9E}{g1AAF}{g1A9E}{n} {g1AB0}{g1A9E}{g1AB7}{g1AB2}{g1AA8}{g1A9E}{g1AAF}{g1AA6}{g1AAA}{g1AAC}{g1AAB}{g1AAC}{n} {g1AB2}{g1AAF}{g1AA2}{g1AB0}{g1AA5}{g1AA6}{g1AA6}!」",
-   "en": null
+   "en": "\"birobiro biro~n!\"{n}{n}{n}\"tenkara{n} sazukarimono{n} ureshii!\""
   }
  ]
 }

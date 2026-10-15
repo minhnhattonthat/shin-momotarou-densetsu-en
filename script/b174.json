@@ -7,107 +7,107 @@
   {
    "id": "b174_0000",
    "jp": "{kata}ダイダ{hira}王子{n}「強くなったか? {sub:A0}!」{n}",
-   "en": null
+   "en": "Prince Daida{n}\"Have you grown stronger, Momotaro?\"{n}"
   },
   {
    "id": "b174_0001",
    "jp": "「どうしたのだ!{n} わが 妹 夜叉を{n} はやくも 見捨てたのか?」{n}「夜叉を おきざりにして{n} 先に 行くつもりか?」{n}",
-   "en": null
+   "en": "\"What's this?! Have you abandoned my sister Yasha already?\"{n}\"Do you mean to leave Yasha behind and go on ahead?\"{n}"
   },
   {
    "id": "b174_0002",
    "jp": "「では 夜叉を 助けに{n} もどるが よかろう!」{n}",
-   "en": null
+   "en": "\"Then you had best go back and rescue Yasha!\"{n}"
   },
   {
    "id": "b174_0003",
    "jp": "「では {kata}オレ{hira}と{n} 戦うことに なってしまうが{n} それでも よいのか?」",
-   "en": null
+   "en": "\"Then you will have to fight me. Is that truly what you want?\""
   },
   {
    "id": "b174_0004",
    "jp": "「わが妹 夜叉に{n} {sub:CE}まで 仲間にしたそうだな{n} それが 友情の力と いうやつか?」",
-   "en": null
+   "en": "\"I hear you've made allies of my sister Yasha and even Ashura. Is that what they call the power of friendship?\""
   },
   {
    "id": "b174_0005",
    "jp": "夜叉姫{n}「{kata}ダイダ{hira}兄さま!」{n}{n}「はやく 気がついて!{n} いまの 地獄は まちがってるわ!」{n}",
-   "en": null
+   "en": "Yasha{n}\"Brother Daida!\"{n}{n}\"Please, open your eyes! Hell as it is now is wrong!\"{n}"
   },
   {
    "id": "b174_0006",
    "jp": "{sub:CE}{n}「{kata}ダイダ{hira}王子!」{n}{n}「悪いのは {kata}カルラ{hira}です!{n} {kata}カルラ{hira}の 言葉は すべて うそで{n} ぬりかためられて いたのです!」{n}「気づいて{sub:C5}!{n} ただしく 鬼たちを{n} みちびいて {sub:C5}!」{n}「あなたは お世つぎ ですぞ!{n} あなたが まちがえば {n} 鬼の世界は ほろぶのです!」",
-   "en": null
+   "en": "Ashura{n}\"Prince Daida!\"{n}{n}\"Karura is the guilty one!{n} Every word Karura spoke was a lie plastered over with more lies!\"{n}\"Please, open your eyes!{n} Please lead the oni down the right path!\"{n}\"You are the heir to the throne!{n} If you go astray, the world of the oni will perish!\""
   },
   {
    "id": "b174_0007",
    "jp": "{kata}ダイダ{hira}王子{n}「{kata}カルラ{hira}が めざす 鬼の世界が{n} {sub:B6}たちには わからぬようだな」{n}「{kata}オレ{hira}たちに 力が なければ{n} 人間のほうが えらくなって{n} 鬼が 虫けらと なるのだ!」{n}「人間でなければ ほかの{n} 動物が 鬼の上に 立つだけだ!」{n}{n}「こんな かんたんな ことが{n} どうして わからぬのだ?」{n}{n}「戦え! {sub:A0}!」{n}{n}",
-   "en": null
+   "en": "Prince Daida{n}\"It seems you lot can't understand the oni world Karura is striving for.\"{n}\"If we had no power, humans would rise above us and the oni would become mere insects!\"{n}\"And if not humans, then some other animal would simply stand over the oni!\"{n}{n}\"Why can't you understand something this simple?\"{n}{n}\"Fight, Momotaro!\"{n}{n}"
   },
   {
    "id": "b174_0008",
    "jp": "{kata}ダイダ{hira}王子{n}「安心しろ! {sub:A0}! みねうちだ!{n} もっと 修行を つんでこい!」",
-   "en": null
+   "en": "Prince Daida{n}\"Relax, Momotaro! I struck with the back of my blade!{n} Go and train some more!\""
   },
   {
    "id": "b174_0009",
    "jp": "「{kata}ケ{hira}ー{kata}ッケッケッ{hira}! {sub:A0}!{n} {kata}イヌ{hira} {kata}サル{hira} {kata}キジ{hira}は わしが{n} 大切に あずかっておいた!」{n}「ところで そろそろ{n} よい へんじが ききたい!」{n}{n}「{sub:A0}! 鬼に したがえ!」{n}{n}{n}「村人が いままで {sub:B6}に{n} 何を してくれた?{n} おれいを いうだけではないか!」{n}「鬼の世界では{n} {sub:B6}の はたらきならば{n} 5万両の 金を出してもいい!」{n}「どうだ? 鬼にしたがえ!」{n}{n}",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh! Momotaro!{n} I've been taking very good care of the Dog, the Monkey and the Pheasant for you!\"{n}\"Now then, I'd like to hear a nice answer soon!\"{n}{n}\"Momotaro! Serve the oni!\"{n}{n}{n}\"What have the villagers ever done for you?{n} Nothing but say thank you!\"{n}\"In the oni world, work like yours would be worth 50,000 ryo in gold!\"{n}\"Well? Serve the oni!\"{n}{n}"
   },
   {
    "id": "b174_0010",
    "jp": "「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} そうやって だんだん{n} 鬼の心を もつのだ!」{n}「まだまだ {sub:B6}は{n} 心のそこから わしに{n} したがう気が ない!」",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh!{n} That's it, little by little, you'll come to have an oni's heart!\"{n}\"But you still have no wish to obey me from the bottom of your heart!\""
   },
   {
    "id": "b174_0011",
    "jp": "{kata}カルラ{n}{hira}「強情な 男だ!」{n}{n}「人間は 人間どうし{n} みじめに 死んでゆくがいい!」{n}{n}「者ども かかれ!」{n}{n}",
-   "en": null
+   "en": "Karura{n}\"What a stubborn man!\"{n}{n}\"Then go die miserably, humans among humans!\"{n}{n}\"At them, my men!\"{n}{n}"
   },
   {
    "id": "b174_0012",
    "jp": "{kata}イヌ{hira}の{arg}は {kata}ニセ{hira}ものだった!{n}{n}{n}{kata}サル{hira}の{arg}は {kata}ニセ{hira}ものだった!{n}{n}{n}{kata}キジ{hira}の{arg}は {kata}ニセ{hira}ものだった!{n}{n}",
-   "en": null
+   "en": "The Dog {arg} was a fake!{n}{n}{n}The Monkey {arg} was a fake!{n}{n}{n}The Pheasant {arg} was a fake!{n}{n}"
   },
   {
    "id": "b174_0013",
    "jp": "「鬼に はむかうやつは{n} こうして くれる!」{n}",
-   "en": null
+   "en": "\"This is what happens to anyone who defies the oni!\"{n}"
   },
   {
    "id": "b174_0014",
    "jp": "「おぼえてますか? 前に{n} 花咲かの村で {sub:A0}さんに{n} こらしめられた 銀の鬼です!」{n}「えんま様が ああなったあと{n} {kata}カルラ{hira}の 部下になるのを{n} こばんだら この ありさまです」",
-   "en": null
+   "en": "\"Remember me? I'm the Silver Oni you taught a lesson to back in Hanasaka Village, Momotaro!\"{n}\"After what happened to King Enma, I refused to become Karura's underling, and look at me now.\""
   },
   {
    "id": "b174_0015",
    "jp": "「{kata}カルラ{hira}は さいしょ{n} いいことばかり いって{n} あとは {kata}ウソ{hira}ばかりだ!」",
-   "en": null
+   "en": "\"At first Karura says nothing but nice things, and after that it's nothing but lies!\""
   },
   {
    "id": "b174_0016",
    "jp": "「{kata}カルラ{hira}と いっしょに いると{n} 何が いいか 悪いのか{n} わからなく なってしまう…」{n}「そして 気がつくと{n} ここに いるって わけさ!」{n}",
-   "en": null
+   "en": "\"When you stick with Karura, you can't tell what's good and what's bad anymore...\"{n}\"And next thing you know, here you are!\"{n}"
   },
   {
    "id": "b174_0017",
    "jp": "「人間は おろかな いきものだ!{n} {kata}オレ{hira}さまの いうことを信じろ!」{n}{n}「{kata}カルラ{hira}の 言葉を 信じるうちに{n} {sub:C9}は じぶんで ものを{n} かんがえることを わすれました」",
-   "en": null
+   "en": "\"Humans are foolish creatures!{n} Believe what I, the great one, tell you!\"{n}{n}\"While I went on believing Karura's words, I forgot how to think for myself.\""
   },
   {
    "id": "b174_0018",
    "jp": "「伐折羅王さまは 悪くない!{n} {kata}カルラ{hira}の {kata}ウソ{hira}を あばけない{n} {kata}オレ{hira}たちが 悪いんだ!」",
-   "en": null
+   "en": "\"King Basara isn't to blame!{n} We're the ones to blame, for not exposing Karura's lies!\""
   },
   {
    "id": "b174_0019",
    "jp": "「{kata}カルラ{hira}は いま {kata}ダイダ{hira}王子を{n} あやつることに ひっしだ!」{n}{n}「{kata}ダイダ{hira}王子は 武'勇の人だから{n} うたがうことを 知らない!{n} {kata}アジャセ{hira}王子は どこに…」",
-   "en": null
+   "en": "\"Right now Karura is desperate to keep Prince Daida under his control!\"{n}{n}\"Prince Daida is a man of valor, so he doesn't know how to doubt!{n} If only Prince Ajase were here...\""
   },
   {
    "id": "b174_0020",
    "jp": "「{kata}カルラ{hira}は {kata}ダイダ{hira}王子を あやつり{n} 伐折羅王さまなきあとの 鬼の世界を{n} 自分の物に したいのだ!」",
-   "en": null
+   "en": "\"Karura means to control Prince Daida and take the oni world for himself once King Basara is gone!\""
   }
  ]
 }

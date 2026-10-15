@@ -7,277 +7,277 @@
   {
    "id": "b184_0000",
    "jp": "やまんば{n}「{kata}イッヒッヒッヒ{hira}!{n} ひさしぶりだね! {sub:A0}!」{n}「{sub:B6}が まさか{n} えんま様を だましているとは{n} おもわなかったよ!」{n}「何が 愛だ! 勇気だじゃ!{n} うそを つくことが{n} 愛と 勇気なのかい?」{n}「あぶなく あたしまで{n} だまされる とこじゃった!{n} いい子だと おもったんじゃがの!」",
-   "en": null
+   "en": "Mountain Hag{n}\"Eeh-hee-hee-hee! Long time no see, Momotaro!\"{n}\"Never thought you'd be the one deceivin' King Enma!\"{n}\"Love this, courage that! Is tellin' lies what you call love and courage?\"{n}\"I nearly got fooled myself! And here I thought you were a good boy!\""
   },
   {
    "id": "b184_0001",
    "jp": "{sub:CE}{n}「やまんば! うそを ついているのは{n} {kata}カルラ{hira}のほうだ! だまされるな!」",
-   "en": null
+   "en": "Ashura{n}\"Mountain Hag! Karura is the one who's lying! Don't be fooled!\""
   },
   {
    "id": "b184_0002",
    "jp": "夜叉姫{n}「やまんば! 鬼どうしが うそを{n} つくわけがないと おもってるわね」{n}「{kata}カルラ{hira}は 鬼のなかで はじめて{n} うそをつく 鬼なのよ!」{n}",
-   "en": null
+   "en": "Yasha{n}\"Mountain Hag! You think oni would never lie to each other, don't you?\"{n}\"Karura is the very first oni ever to tell lies!\"{n}"
   },
   {
    "id": "b184_0003",
    "jp": "金太郎{n}「ばあちゃんよ! こんな穴にいるから{n} 世間知らずに なってっど!」",
-   "en": null
+   "en": "Kintaro{n}\"Hey, Granny! Livin' in a hole like this has made ya clueless 'bout the world!\""
   },
   {
    "id": "b184_0004",
    "jp": "風神{n}「ぴゅるるるるぅ! {sub:B6}まで{n} {kata}カルラ{hira}に だまされるとは!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! To think even you were fooled by Karura!\""
   },
   {
    "id": "b184_0005",
    "jp": "「うるさい! 鬼は 戦いのなかで{n} まことを さがすのじゃ!」{n}{n}「戦え! 戦えば わかるわい!{n} {kata}イッヒッヒッヒ{hira} {kata}イッヒッヒッヒ{hira}!」{n}",
-   "en": null
+   "en": "\"Silence! Oni seek the truth in battle!\"{n}{n}\"Fight! Fight, and you'll see! Eeh-hee-hee-hee! Eeh-hee-hee-hee!\"{n}"
   },
   {
    "id": "b184_0006",
    "jp": "風神{n}「ぴゅるるるるぅ! おう!{n} のぞむところだ! やまんば!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! Very well! Gladly, Mountain Hag!\""
   },
   {
    "id": "b184_0007",
    "jp": "雷神{n}「ぐゎらり ぐゎらり! やまんば!{n} 戦いのなかで まことを 見よ!」",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! Mountain Hag! See the truth in battle!\""
   },
   {
    "id": "b184_0008",
    "jp": "やまんば{n}「どうやら あたしのほうが{n} まちがって いたようじゃな!」{n}「朝から 晩まで {kata}カルラ{hira}に{n} {sub:A0}は うそをついていたと{n} いわれつづけると つい…」{n}「{kata}イッヒッヒッヒ{hira}!{n} また {sub:A0}に{n} おしえられたわい!」",
-   "en": null
+   "en": "Mountain Hag{n}\"Seems I was the one who had it wrong!\"{n}\"When Karura tells ya from mornin' to night that Momotaro's been lyin', ya just...\"{n}\"Eeh-hee-hee-hee! Momotaro's taught me a lesson again!\""
   },
   {
    "id": "b184_0009",
    "jp": "船大工{n}「{sub:A0}さん!{n} {sub:BD}すだ!」{n}「{sub:A0}さんも これから{n} 海に 出ると ききました!」{n}{n}「{sub:A0}さんも 船が{n} ひつようでしょう!」{n}{n}「わしら 大いそぎで{n} この船を つくりあげますだ!」{n}{n}「どうか {kata}サルカニ{hira}の村で{n} まっててくんろ!」{n}",
-   "en": null
+   "en": "Shipwright{n}\"Momotaro! Thank ya kindly!\"{n}\"We heard you're headin' out to sea too, Momotaro!\"{n}{n}\"You'll be needin' a ship too, I reckon!\"{n}{n}\"We'll hurry and finish buildin' this ship!\"{n}{n}\"So please, wait for us in Sarukani Village!\"{n}"
   },
   {
    "id": "b184_0010",
    "jp": "「いくら {kata}カルラ{hira}が{n} 何でも 独占するのが{n} 好きだからと いってさ!」{n}「100せき分の 船の{n} 材料残して あとの 材木を{n} 全部 水びたしに するか?」",
-   "en": null
+   "en": "\"Sure, Karura loves hoggin' everything for himself, but still!\"{n}\"Leave just enough material for 100 ships and soak all the rest of the lumber in water?\""
   },
   {
    "id": "b184_0011",
    "jp": "「{kata}トン{hira} {kata}テン{hira}! {kata}トン{hira} {kata}テン{hira}!{n} 海で 出会った つりの 好きな{n} 仙人さまは どうしてるかなあ!」",
-   "en": null
+   "en": "\"Tonk-tank! Tonk-tank! I wonder how that sage we met at sea, the one who loved fishin', is doin'!\""
   },
   {
    "id": "b184_0012",
    "jp": "「金太郎さん! あんたの{n} 怪力は もったいねえ!{n} あんたなら いい船 作れますよ!」{n}金太郎{n}「えっ! そっかー? でも {kata}オイラ{hira}を{n} 村のやつらが 待ってっからなあ!」{n}船大工{n}「そいつは 残急だね!」{n}{n}「じゃあ! いつか あっしらが{n} 大きな 船を 作って{n} 金太郎の村に 遊びに 行くよ!」",
-   "en": null
+   "en": "\"Kintaro! That strength of yours is goin' to waste! You could build fine ships!\"{n}Kintaro{n}\"Huh! Ya think so? But the folks in my village are waitin' on me!\"{n}Shipwright{n}\"Now that's a shame!\"{n}{n}\"Well then! Someday we'll build a big ship and come visit your village, Kintaro!\""
   },
   {
    "id": "b184_0013",
    "jp": "「海に 出ると 宿がないから{n} 昔の村で 休むといいよ!」{n}",
-   "en": null
+   "en": "\"There's no inns out at sea, so rest up at the old village!\"{n}"
   },
   {
    "id": "b184_0014",
    "jp": "「海に 出たら 北東の{n} すゞめのお宿に 行くといい!{n} 海のことが わかるはずでさあ!」",
-   "en": null
+   "en": "\"Once you're at sea, go to the Sparrow Inn to the northeast! They'll tell ya all about the sea!\""
   },
   {
    "id": "b184_0015",
    "jp": "「海を あらす 鬼の船を{n} わしらが 作ることになるとは{n} なんとも ひにくな ものよ!」",
-   "en": null
+   "en": "\"Us buildin' the very oni ships that ravage the sea... Ain't that ironic!\""
   },
   {
    "id": "b184_0016",
    "jp": "「{kata}トン{hira} {kata}テン{hira}! {kata}トン{hira} {kata}テン{hira}!{n} やあ! {sub:A0}さん! つかれは{n} どこかへ ふっとびましたよ!」",
-   "en": null
+   "en": "\"Tonk-tank! Tonk-tank! Hey there, Momotaro! All my tiredness just flew right off!\""
   },
   {
    "id": "b184_0017",
    "jp": "「さあ! のった! のった!」{n}{n}",
-   "en": null
+   "en": "\"Come on! All aboard! All aboard!\"{n}{n}"
   },
   {
    "id": "b184_0018",
    "jp": "「からくりの村は{n} 鬼のつめあと あたりの{n} 浜辺から {kata}ボコッ{hira}と 入れるぞ!」",
-   "en": null
+   "en": "\"Ya can pop right into Gadget Village from the beach near the Oni's Claw Marks!\""
   },
   {
    "id": "b184_0019",
    "jp": "「ねむい… 寒い… ひもじい…{n} ああ… いつまで ここで{n} 船を 作らされるだ…………」",
-   "en": null
+   "en": "\"Sleepy... cold... hungry... Ohh... how long are they gonna make me build ships here............\""
   },
   {
    "id": "b184_0020",
    "jp": "「{kata}トン{hira} {kata}テン{hira}! {kata}トン{hira} {kata}テン{hira}!{n} 嵐にも 大波にも まけない{n} りっぱな 船を 作ります!」",
-   "en": null
+   "en": "\"Tonk-tank! Tonk-tank! We'll build a fine ship that won't lose to storms or big waves!\""
   },
   {
    "id": "b184_0021",
    "jp": "「この船は 30年に{n} いっせき できるか できないかの{n} だいけっさくですぜ!」",
-   "en": null
+   "en": "\"This ship's a masterpiece, the kind that comes along once in thirty years, if that!\""
   },
   {
    "id": "b184_0022",
    "jp": "「{sub:A0}さん! 竹取りの村は{n} 高い所に あって まわりを{n} がんぺきで かこまれてるだ!」{n}「船じゃ 行くことが できねえだ!{n} どうやって 行くんだろね!」{n}",
-   "en": null
+   "en": "\"Momotaro! Bamboo Village sits up high, walled in by sheer cliffs!\"{n}\"Ya can't get there by ship! How d'ya suppose folks get there?\"{n}"
   },
   {
    "id": "b184_0023",
    "jp": "「ああ! ふとんで… ねむりてえ…」{n}{n}",
-   "en": null
+   "en": "\"Ahh! I wanna sleep... in a futon...\"{n}{n}"
   },
   {
    "id": "b184_0024",
    "jp": "「{kata}トン{hira} {kata}テン{hira}! {kata}トン{hira} {kata}テン{hira}!{n} {sub:A0}さんの ために{n} そら! もう ひとはたらきだ!」",
-   "en": null
+   "en": "\"Tonk-tank! Tonk-tank! For Momotaro's sake, come on! Let's get some more work done!\""
   },
   {
    "id": "b184_0025",
    "jp": "「そのうち 海の 話を{n} たっぷり 聞かせて{sub:C5}ね!」{n}",
-   "en": null
+   "en": "\"Someday, tell us all about the sea, won'tcha!\"{n}"
   },
   {
    "id": "b184_0026",
    "jp": "「{sub:A0}さん!{n} 浦島さんが いると{n} つりが できますね!」{n}「なんでも めっぽう{n} 魚が つれる 場所が{n} あるそうですよ!」{n}「月の水晶が つれたりして!{n} {kata}ハハハッ{hira}! んなわけねっか!」{n}",
-   "en": null
+   "en": "\"Momotaro! With Urashima along, you can go fishin'!\"{n}\"They say there's a spot where the fish practically bite on their own!\"{n}\"Maybe you'll even reel in some Moon Quartz! Hahaha! Nah, no way!\"{n}"
   },
   {
    "id": "b184_0027",
    "jp": "「もう20日間 おなじ 着物だよ{n} くさいよー! あらいたいよー!」{n}",
-   "en": null
+   "en": "\"I've worn the same kimono for twenty days now! It stinks! I wanna wash it!\"{n}"
   },
   {
    "id": "b184_0028",
    "jp": "「{kata}トン{hira} {kata}テン{hira}! {kata}トン{hira} {kata}テン{hira}!{n} そういえば 漁師の仲間から{n} 小耳に はさんだんですがね…」{n}「北の 海のほうで {kata}フラフラ{hira}と{n} さまよう島を 見たっていうんだけど{n} そんな島 あるわけねえっすよね!」",
-   "en": null
+   "en": "\"Bang-tap! Bang-tap! Oh, speakin' of which, I caught a little somethin' from my fisherman pals...\"{n}\"They say up in the northern sea they saw an island driftin' around all wobbly-like... but there ain't no such island, right?\""
   },
   {
    "id": "b184_0029",
    "jp": "「浦島さん! いつか{n} あんたが こぐ 舟も{n} 作らせて{sub:C5}ね!」",
-   "en": null
+   "en": "\"Urashima! Someday, let me build a boat for you to row, too!\""
   },
   {
    "id": "b184_0030",
    "jp": "「海に 出たら{n} からくりの村に{n} 行くと いいよ!」",
-   "en": null
+   "en": "\"Once you're out at sea, you oughta visit Gadget Village!\""
   },
   {
    "id": "b184_0031",
    "jp": "「{sub:A0}さん! すゞめのお宿6から{n} 浜辺ぞいに 北へ 行くといい!{n} からくりの村の 入り口がある!」",
-   "en": null
+   "en": "\"Momotaro! Head north along the beach from Sparrow Inn 6! That's where the entrance to Gadget Village is!\""
   },
   {
    "id": "b184_0032",
    "jp": "「こんな りっぱな 船があれば{n} さぞや たくさんの{n} 魚が とれるだろうに!」",
-   "en": null
+   "en": "\"With a fine ship like this, you'd catch a whole heap of fish!\""
   },
   {
    "id": "b184_0033",
    "jp": "「{kata}トン{hira} {kata}テン{hira}! {kata}トン{hira} {kata}テン{hira}!{n} {sub:A0}さん!{n} いい船に なりまっせー!」",
-   "en": null
+   "en": "\"Bang-tap! Bang-tap! Momotaro! She's gonna be a fine ship!\""
   },
   {
    "id": "b184_0034",
    "jp": "「さあ! {sub:A0}さん!{n} いまなら 波も おだやかだ!{n} 船を こぎだして{sub:C5}!」",
-   "en": null
+   "en": "\"Come on, Momotaro! The waves are calm right now! Row her out to sea!\""
   },
   {
    "id": "b184_0035",
    "jp": "「{sub:A0}さん! からくりの村には{n} 行ったかね? あそこで{n} 城を 作りかえてくれるはずさ!」",
-   "en": null
+   "en": "\"Momotaro! You been to Gadget Village yet? They oughta be able to rebuild your castle there!\""
   },
   {
    "id": "b184_0036",
    "jp": "「船は 海を わたるものだ!{n} 人を 殺すための物で ねーだよ!」{n}",
-   "en": null
+   "en": "\"Ships are for crossin' the sea! They ain't made for killin' folks!\"{n}"
   },
   {
    "id": "b184_0037",
    "jp": "「{kata}トン{hira} {kata}テン{hira}! {kata}トン{hira} {kata}テン{hira}!{n} 海を 出て 北にむかうと{n} すゞめのお宿が ありますよ!」",
-   "en": null
+   "en": "\"Bang-tap! Bang-tap! Head out to sea and go north, and you'll find a Sparrow Inn!\""
   },
   {
    "id": "b184_0038",
    "jp": "「どうです! {sub:A0}さん!{n} なかなかの ものでしょう?」{n}{n}「鬼に 作らされた船より{n} 100倍も うでに よりを かけて{n} しあげさせて いただきました!」{n}「さあ! {sub:A0}さん!{n} 波も いいあんばいだ!{n} 船を こぎだして{sub:C5}!」",
-   "en": null
+   "en": "\"Well, Momotaro? Ain't she somethin'?\"{n}{n}\"I put a hundred times more skill into finishin' her than any ship the oni made me build!\"{n}\"Now, Momotaro! The waves are just right! Row her out to sea!\""
   },
   {
    "id": "b184_0039",
    "jp": "「{sub:A0}さん! 海は ひろい!{n} 誰も 知らない島に 何かが ある」{n}{n}「それを 見つけるのが{n} 海の たのしさってもんだね!」{n}",
-   "en": null
+   "en": "\"Momotaro! The sea is wide! Somethin's waitin' on islands nobody knows about.\"{n}{n}\"Findin' it -- that's the joy of the sea!\"{n}"
   },
   {
    "id": "b184_0040",
    "jp": "「なにを なまけている!{n} 竜鬼船(りゅうきせん)は{n} 何せきでも ひつようなのだ!」{n}「{kata}ムムッ{hira}! なにやつ! {sub:A0}か!」{n}{n}",
-   "en": null
+   "en": "\"What are you slacking for?! We need as many Dragon Oni Ships as we can get!\"{n}\"Hmm?! Who goes there?! Momotaro!\"{n}{n}"
   },
   {
    "id": "b184_0041",
    "jp": "「なにを なまけている!{n} 竜鬼船(りゅうきせん)は{n} 何せきでも ひつようなのだ!」{n}「{kata}ムムッ{hira}! なにやつ! {sub:A0}か!」{n}{n}",
-   "en": null
+   "en": "\"What are you slacking for?! We need as many Dragon Oni Ships as we can get!\"{n}\"Hmm?! Who goes there?! Momotaro!\"{n}{n}"
   },
   {
    "id": "b184_0042",
    "jp": "「なにを なまけている!{n} 竜鬼船(りゅうきせん)は{n} 何せきでも ひつようなのだ!」{n}「{kata}ムムッ{hira}! なにやつ! {sub:A0}か!」{n}{n}",
-   "en": null
+   "en": "\"What are you slacking for?! We need as many Dragon Oni Ships as we can get!\"{n}\"Hmm?! Who goes there?! Momotaro!\"{n}{n}"
   },
   {
    "id": "b184_0043",
    "jp": "「みせしめだ! こうしてくれる!」{n}{n}",
-   "en": null
+   "en": "\"Let this be a lesson to you all! Take that!\"{n}{n}"
   },
   {
    "id": "b184_0044",
    "jp": "「ぬっ!? きさま{n} じゃまだてするか!」{n}",
-   "en": null
+   "en": "\"Nngh!? You dare get in my way?!\"{n}"
   },
   {
    "id": "b184_0045",
    "jp": "「なんだ? きさま!{n} じゃまする つもりか!」{n}",
-   "en": null
+   "en": "\"What's this? You! You mean to interfere?!\"{n}"
   },
   {
    "id": "b184_0046",
    "jp": "「う ううう…{n} ごめんよ 浦島さん!」{n}{n}「{kata}オイラ{hira}を かばったばっかりに{n} こんな ひどい目に…」{n}{n}「ああ! 金太郎さん くらい{n} 力が あれば 助けられるのに!」{n}",
-   "en": null
+   "en": "\"Uu... uuu... I'm sorry, Urashima!\"{n}{n}\"You got hurt this bad just for standin' up for me...\"{n}{n}\"Ah! If only I was as strong as Kintaro, I could help you!\"{n}"
   },
   {
    "id": "b184_0047",
    "jp": "「う ううう…{n} よかっただ 浦島さん!」{n}{n}「で でも 気をつけてくだせえ!」{n}{n}{n}「台の あたりに まだ{n} 鬼が かくれてるだ!」{n}",
-   "en": null
+   "en": "\"Uu... uuu... Thank goodness you're all right, Urashima!\"{n}{n}\"B-but be careful!\"{n}{n}{n}\"There's still oni hidin' around the platform!\"{n}"
   },
   {
    "id": "b184_0048",
    "jp": "洞窟の奥から{n}鬼の声が 聞こえてきた……{n}{n}見張りの鬼{n}「なまいきな こぞうだ!{n} みせしめに こうしてくれる!」",
-   "en": null
+   "en": "From deep within the cave{n}came the voice of an oni...{n}{n}Oni Lookout{n}\"Cheeky little brat! I'll make an example of you!\""
   },
   {
    "id": "b184_0049",
    "jp": "「{kata}ハァ{hira}…… {kata}ハァ{hira}……{n} {sub:A0}さん… みなさん…{n} だいじょ…ぶ…です…か…?」",
-   "en": null
+   "en": "\"Hah... hah... Momotaro... everyone... are... you... all... right...?\""
   },
   {
    "id": "b184_0050",
    "jp": "金太郎{n}「{kata}バカ{hira}だなあ!」{n}{n}「おめえは 体弱いくせに{n} 人の 不幸を 見ると{n} 勝手に 体が動くんだからよ!」{n}「まってろよー! {kata}オラ{hira}が{n} いま 助けてやっから!」{n}{0B}",
-   "en": null
+   "en": "Kintaro{n}\"You big dummy!\"{n}{n}\"Your body's weak, but the second you see somebody in trouble, you just go and jump in!\"{n}\"Hang in there! I'll save ya right now!\"{n}{0B}"
   },
   {
    "id": "b184_0051",
    "jp": "「うりゃりゃりゃりゃりゃっ!{n} うりゃりゃりゃりゃりゃっ!」{n}",
-   "en": null
+   "en": "\"Hyaaah-yah-yah-yah-yah-yah!{n} Hyaaah-yah-yah-yah-yah-yah!\"{n}"
   },
   {
    "id": "b184_0052",
    "jp": "浦島{n}「金太郎さん!{n} いつも すみません!」",
-   "en": null
+   "en": "Urashima{n}\"Kintaro! Sorry to always be a burden!\""
   },
   {
    "id": "b184_0053",
    "jp": "浦島{n}「{sub:A0}さん! やまんばは 鬼の船を{n} 何100せきも 作らせています!」{n}「海に あんな船が あらわれたら{n} 漁師が 魚を とれなくなります!」{n}{n}「竜鬼船を 早く こわさないと{n} たいへんなことに なります!」{n}{n}「{sub:A0}さん! どうか {sub:C9}を{n} また 旅の仲間に 加えて{sub:C5}」{n}",
-   "en": null
+   "en": "Urashima{n}\"Momotaro! The Mountain Hag is making the oni build hundreds of ships!\"{n}\"If ships like that appear at sea, the fishermen won't be able to catch any fish!\"{n}{n}\"If we don't destroy the Dragon Oni Ships soon, it'll be a disaster!\"{n}{n}\"Momotaro! Please, let me join your journey again!\"{n}"
   },
   {
    "id": "b184_0054",
    "jp": "船大工{n}「どうです! {sub:A0}さん!{n} なかなかの ものでしょう?」{n}「鬼に 作らされた船より{n} 100倍も 腕に よりを かけて{n} しあげさせて いただきました!」{n}「さあ! {sub:A0}さん!{n} いまなら 波も おだやかだ!{n} 船を こぎだして{sub:C5}!」",
-   "en": null
+   "en": "Shipwright{n}\"Well, Momotaro? Ain't she somethin'?\"{n}\"I put a hundred times more skill into finishin' her than any ship the oni made me build!\"{n}\"Now, Momotaro! The waves are calm right now! Row her out to sea!\""
   }
  ]
 }

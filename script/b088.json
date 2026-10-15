@@ -7,27 +7,27 @@
   {
    "id": "b088_0000",
    "jp": "「{sub:A8}! {sub:A0}!{n} ひさしぶりでは ないか!{n} どうしたのじゃ?」{n}「何? わしのうしろの{n} ぶつぞうを ほしいとな!{n} う～む! まいったなあ!」{n}「なかなか これは{n} 高かったのじゃ!」{n}",
-   "en": null
+   "en": "\"Uhyahya...! Momotaro!{n} Long time no see! What brings you here?\"{n}\"What? You want the Buddha statue behind me! Hmmm! Now that's a fix!\"{n}\"This thing cost me a pretty penny, you know!\"{n}"
   },
   {
    "id": "b088_0001",
    "jp": "金太郎{n}「おいおい! おっさん!{n} 都の 一大事なんだぜ!」{n}天の仙人{n}「{sub:A8}! なかなか{n} きついことをいうな お{kata}デブ{hira}さん!」",
-   "en": null
+   "en": "Kintaro{n}\"Hey, hey! Old man! The Capital's in big trouble here!\"{n}Heavenly Sage{n}\"Uhyahya...! You've got a sharp tongue, Tubby!\""
   },
   {
    "id": "b088_0002",
    "jp": "「持って行くが よい!{n} しかし けっして {sub:CE}に{n} 負けるでないぞ! {sub:A8}!」",
-   "en": null
+   "en": "\"Take it with you!{n} But don't you ever lose to Ashura! Uhyahya...!\""
   },
   {
    "id": "b088_0003",
    "jp": "{sub:A0}たちは{n}黄金のぶつぞうを 手に入れた!{n}",
-   "en": null
+   "en": "Momotaro and friends{n}obtained the golden Buddha statue!{n}"
   },
   {
    "id": "b088_0004",
    "jp": "きれいな 黄金のぶつぞうだ!{n}{n}",
-   "en": null
+   "en": "A beautiful golden Buddha statue!{n}{n}"
   }
  ]
 }

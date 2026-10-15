@@ -7,92 +7,92 @@
   {
    "id": "b157_0000",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}! よくにあうぞ!{n} {sub:A0}じいさんの おでましだ!」{n}「残急ながら 滝の水は{n} これ このとおり!{n} 一滴(いってき)もない!」{n}「どうだ? {kata}オレ{hira}様の{n} 部下に ならんか?{n} なれば 水を かけてやる!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! It suits you well!{n} Behold, Grandpa Momotaro has arrived!\"{n}\"Sadly, as you can see, the falls haven't a single drop of water!\"{n}\"Well? How about becoming my underling? Do that, and I'll pour the water on you!\""
   },
   {
    "id": "b157_0001",
    "jp": "「やせがまんは 体に よくないぞ!{n} されば しかたあるまい!」{n}",
-   "en": null
+   "en": "\"Toughing it out is bad for your health!{n} Then there's no helping it!\"{n}"
   },
   {
    "id": "b157_0002",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! {sub:A0}!」{n}{n}「{kata}オレ{hira}様の 部下に{n} とりたててやるから{n} 1000両 出せ!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! Momotaro!\"{n}{n}\"I'll take you on as one of my underlings, so hand over 1000 ryo!\""
   },
   {
    "id": "b157_0003",
    "jp": "「金に 欲のないやつは{n} 出世しないぞ!{n} いでよ! 3兄弟!」",
-   "en": null
+   "en": "\"A man with no greed for money will never get ahead!{n} Come forth! Three Brothers!\""
   },
   {
    "id": "b157_0004",
    "jp": "「1000両 もってないではないか!{n} うそまでつくように なっては{n} おしまいだな! {sub:A0}!」",
-   "en": null
+   "en": "\"You don't even have 1000 ryo!{n} Once you start telling lies, you're finished! Momotaro!\""
   },
   {
    "id": "b157_0005",
    "jp": "{sub:A0}は 持ち金 すべてを{n}{kata}カルラ{hira}に うばわれた!{n}",
-   "en": null
+   "en": "Momotaro had all his money{n}taken by Karura!{n}"
   },
   {
    "id": "b157_0006",
    "jp": "「{kata}ケ{hira}ー{kata}ケッケッ{hira}! お金だけ{n} ありがたく いただいておく!{n} いでよ! 3兄弟!」",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh! I'll gratefully take just the money!{n} Come forth! Three Brothers!\""
   },
   {
    "id": "b157_0007",
    "jp": "「怪鬼(けき)!{n} 魅鬼(みき)!{n} 魃鬼(ばっき)!」",
-   "en": null
+   "en": "\"Mystery Oni!{n} Bewitching Oni!{n} Drought Oni!\""
   },
   {
    "id": "b157_0008",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} 怪鬼! 魅鬼! 魃鬼よ!」{n}「{sub:A0}に 勝てば{n} 酒香童子(しゅてんどうじ)の{n} 四天王に とりたててやる!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh!{n} Mystery Oni! Bewitching Oni! Drought Oni!\"{n}\"Beat Momotaro, and I'll make you Shuko Doji's Four Heavenly Kings!\""
   },
   {
    "id": "b157_0009",
    "jp": "怪鬼・魅鬼・魃鬼{n}「{kata}カルラ{hira}様!」{n}{n}「われら! 力の かぎり{n} 戦わせて {sub:D3}る!」{n}",
-   "en": null
+   "en": "Mystery, Bewitching and Drought Oni{n}\"Lord Karura!\"{n}{n}\"We shall fight with all our might!\"{n}"
   },
   {
    "id": "b157_0010",
    "jp": "{kata}カルラ{n}{hira}「{sub:A0}! そろそろ{n} 遊びは おしまいだ!」{n}「大江山で 待っている!」{n}{n}{n}「大江山で {sub:B6}を{n} 本当の 敵として{n} あいてを してやる!」{n}「たのしみに しているぞ!{n} {kata}ケ{hira}ー{kata}ケッケッ{hira}! {kata}ケ{hira}ー{kata}ケッケッ{hira}!」{n}",
-   "en": null
+   "en": "Karura{n}\"Momotaro! Playtime is about over!\"{n}\"I'll be waiting at Mt. Oe!\"{n}{n}{n}\"At Mt. Oe, I'll face you as a true enemy!\"{n}\"I'm looking forward to it!{n} Keeh, keh-keh-keh! Keeh, keh-keh-keh!\"{n}"
   },
   {
    "id": "b157_0011",
    "jp": "怪鬼(けき){n}「ま… まさか… 鬼のなかでも{n} 軍神と 名高い 酒香童子様の!」",
-   "en": null
+   "en": "Mystery Oni{n}\"N-no way... of Shuko Doji, famed even among the oni as a god of war!\""
   },
   {
    "id": "b157_0012",
    "jp": "魅鬼(みき){n}「しかも 四天王に! 毎年 数千の{n} 鬼から えらばれる 四天王に!」",
-   "en": null
+   "en": "Bewitching Oni{n}\"And as Heavenly Kings! The Heavenly Kings chosen from thousands of oni every year!\""
   },
   {
    "id": "b157_0013",
    "jp": "魃鬼(ばっき){n}「兄弟 力を あわせれば{n} 四天王にと 夢みてきた…」",
-   "en": null
+   "en": "Drought Oni{n}\"We always dreamed that if us brothers joined forces, we'd become Heavenly Kings...\""
   },
   {
    "id": "b157_0014",
    "jp": "「{kata}ハァ{hira}… {kata}ハァ{hira}…{n} {sub:A0}さん!」{n}{n}「{sub:C9}です! 浦島です!」{n}{n}{n}「すみません! 鬼たちに{n} かんたんに だまされちゃって!」{n}{n}「とにかく これを{n} あびて{sub:C5}!」{n}{n}浦島は 竹筒を 取り出し{n}養老の滝の水を ふりまいた!{n}",
-   "en": null
+   "en": "\"Huff... huff...{n} Momotaro!\"{n}{n}\"It's me! Urashima!\"{n}{n}{n}\"I'm sorry! The oni fooled me so easily!\"{n}{n}\"Anyway, let this water pour over you!\"{n}{n}Urashima took out a bamboo flask{n}and sprinkled the water of Yoro Falls!{n}"
   },
   {
    "id": "b157_0015",
    "jp": "「おねがいです! {sub:C9}も{n} いっしょに 戦わせて{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Please! Let me{n} fight with you too!\"{n}"
   },
   {
    "id": "b157_0016",
    "jp": "{arg}は わかがえった!{n}{n}{n}攻撃力が {num}上がった!{n}{n}{n}守備力が {num}上がった!{n}{n}",
-   "en": null
+   "en": "{arg} grew young again!{n}{n}{n}Attack rose by {num}!{n}{n}{n}Defense rose by {num}!{n}{n}"
   },
   {
    "id": "b157_0017",
    "jp": "「おっと! まだ{n} やられちゃいねえか!」{n}{n}「あっしも くわわりますぜ!{n} {sub:A0}さん! まずは みなさんに{n} おいしい おみやげだ!」{n}{kata}スリ{hira}の銀次は{n}元気の玉を {sub:C4}{n}",
-   "en": null
+   "en": "\"Whoa there! Ain't finished yet, are ya!\"{n}{n}\"Count me in too!{n} Momotaro! First off, a tasty little present for everybody!\"{n}Ginji the Pickpocket{n}used a Vigor Orb!"
   }
  ]
 }

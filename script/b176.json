@@ -7,72 +7,72 @@
   {
    "id": "b176_0000",
    "jp": "「{kata}ケ{hira}ー{kata}ッケッケッ{hira}! {sub:A0}!{n} {kata}イヌ{hira} {kata}サル{hira} {kata}キジ{hira}だ!」{n}{n}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} ほんものだよ!」{n}{n}「しかし こんな やつらを{n} たすけて 何の とくがある?」{n}{n}「どうぶつだぞ! どうぶつが{n} 何を くれるのだ?{n} 金か? 土地か?」{n}「{sub:A0}!{n} わしと 手をくめ!」{n}{n}「わしは {sub:B6}を かつての{n} えんま王と おなじ 地位に{n} むかえても よいと 思っておる!」",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh! Momotaro!{n} Here are the Dog, the Monkey and the Pheasant!\"{n}{n}\"Keeh, keh-keh-keh!{n} They're the real ones!\"{n}{n}\"But what do you gain by saving the likes of them?\"{n}{n}\"They're animals! Animals!{n} What will they ever give you? Gold? Land?\"{n}\"Momotaro!{n} Join hands with me!\"{n}{n}\"I'm even willing to grant you the same rank King Enma once held!\""
   },
   {
    "id": "b176_0001",
    "jp": "「ぐゎらり ぐゎらり!{n} わが名は 雷神!」{n}",
-   "en": null
+   "en": "\"Gwarari, gwarari!{n} My name is Raijin!\"{n}"
   },
   {
    "id": "b176_0002",
    "jp": "「{kata}カルラ{hira}様!」{n}{n}{n}「話が ちがうのでは{n} ありませんか?」{n}{n}「{sub:A0}を たおせば{n} えんま様が たすかると{n} もうされたは いつわりか!」",
-   "en": null
+   "en": "\"Lord Karura!\"{n}{n}{n}\"This isn't what we agreed, is it?\"{n}{n}\"You said King Enma would be saved if I defeated Momotaro! Was that a lie?!\""
   },
   {
    "id": "b176_0003",
    "jp": "「……………くそっ! 雷神め!{n} ……………よけいな ことを!」{n}",
-   "en": null
+   "en": "\"...............Blast! That Raijin!{n} ...............Sticking his nose in!\"{n}"
   },
   {
    "id": "b176_0004",
    "jp": "「いや! あせるでない!{n} {sub:A0}を ゆだんさせ{n} {sub:B6}に うたせるためだ!」",
-   "en": null
+   "en": "\"No! Don't be hasty!{n} It was only to put Momotaro off guard so you could strike him down!\""
   },
   {
    "id": "b176_0005",
    "jp": "「ぐゎらり ぐゎらり! {sub:C9}に{n} こざいくなど ひつようない!」{n}",
-   "en": null
+   "en": "\"Gwarari, gwarari! I have no need for petty tricks!\"{n}"
   },
   {
    "id": "b176_0006",
    "jp": "{sub:CE}{n}「雷神よ! きけ!{n} きいてくれ!」{n}「なぜ わたくしが{n} {sub:A0}に 味方するのかを!」{n}",
-   "en": null
+   "en": "Ashura{n}\"Raijin! Listen!{n} Please hear me out!\"{n}\"Hear why I have sided with Momotaro!\"{n}"
   },
   {
    "id": "b176_0007",
    "jp": "「{kata}ケ{hira}ー{kata}ッケッケッ{hira}! うらぎりものの{n} 言葉をきく 雷神と おもうか!」{n}",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh! You think Raijin would listen to the words of a traitor?!\"{n}"
   },
   {
    "id": "b176_0008",
    "jp": "「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} さあ! 雷神よ!{n} {sub:A0}を たおすがよい!」{n}「{sub:A0}を たおせば{n} えんま王のこと ちかって わしが{n} 伐折羅王様に とりなしてやる!」",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh!{n} Now, Raijin!{n} Defeat Momotaro!\"{n}\"Defeat Momotaro, and I swear I'll put in a good word with King Basara about King Enma!\""
   },
   {
    "id": "b176_0009",
    "jp": "「えんま様の 汚名(おめい)を{n} はらすことが {kata}オレ{hira}の のぞみ!」{n}{n}「ゆるせ! {sub:A0}!」{n}{n}",
-   "en": null
+   "en": "\"My only wish is to clear King Enma's name!\"{n}{n}\"Forgive me, Momotaro!\"{n}{n}"
   },
   {
    "id": "b176_0010",
    "jp": "「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} 風神も 雷神も いらぬわっ!」{n}",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh!{n} I need neither Fujin nor Raijin!\"{n}"
   },
   {
    "id": "b176_0011",
    "jp": "「{kata}ワンワン{hira}! {sub:A0}さん!{n} おあいしとうございました!」{n}",
-   "en": null
+   "en": "\"Woof woof! Momotaro!{n} I've missed you so much!\"{n}"
   },
   {
    "id": "b176_0012",
    "jp": "「{kata}キャッキャッ{hira}! {sub:A0}さん!{n} ただいま すけだちいたします!」{n}",
-   "en": null
+   "en": "\"Kya kya! Momotaro!{n} I'll lend you a hand right away!\"{n}"
   },
   {
    "id": "b176_0013",
    "jp": "「{kata}ケンケン{hira}! {sub:A0}さん!{n} よく きて{sub:C5}ました!」{n}",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} Thank you for coming!\"{n}"
   }
  ]
 }

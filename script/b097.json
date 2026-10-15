@@ -7,27 +7,27 @@
   {
    "id": "b097_0000",
    "jp": "「{kata}バッバッバッ{hira}!{n} {kata}オレ{hira}の名は ばっかんき!」{n}{n}「{sub:B6}を たおせば{n} この村を いただけると{n} {kata}カルラ{hira}様が もうされた!」{n}「{sub:B6}とは あとで{n} ゆっくり 戦うとして…」{n}{n}「こいつらの 命が{n} おしくば ついてくることだ!{n} {kata}バッバッバッ{hira}! {kata}バッバッバッ{hira}!」",
-   "en": null
+   "en": "\"Bah-bah-bah! The name's Bakkanki!\"{n}{n}\"Lord Karura said if I beat you, this village is mine!\"{n}\"You and I can take our time fighting later...\"{n}{n}\"If you value these two's lives, you'll follow me! Bah-bah-bah! Bah-bah-bah!\""
   },
   {
    "id": "b097_0001",
    "jp": "「じじいと {kata}イヌ{hira}に{n} 口を きくこと{n} まかりならぬ!」",
-   "en": null
+   "en": "\"Talking to the old man and the dog is strictly forbidden!\""
   },
   {
    "id": "b097_0002",
    "jp": "「じじいと {kata}イヌ{hira}に{n} 口を きくこと{n} まかりならぬ!」",
-   "en": null
+   "en": "\"Talking to the old man and the dog is strictly forbidden!\""
   },
   {
    "id": "b097_0003",
    "jp": "「じじいと {kata}イヌ{hira}に{n} 口を きくこと{n} まかりならぬ!」",
-   "en": null
+   "en": "\"Talking to the old man and the dog is strictly forbidden!\""
   },
   {
    "id": "b097_0004",
    "jp": "花咲かじいさん{n}「{sub:A0}さん!{n} いつも すみません!」{n}「あなたには いつも この村を{n} たすけていただくばかりで{n} {sub:C9}た{sub:CD} 何もできません!」{n}「これから この 花咲かじじいが{n} さくらの木に 花を 咲かせます!」{n}{n}「せめて{n} いちばん いい場所で{n} ごらんになって くだされ!」",
-   "en": null
+   "en": "Old Man Hanasaka{n}\"Momotaro! I'm always in your debt!\"{n}\"You're forever saving this village, and we can do nothing for you in return!\"{n}\"Now this old Hanasaka geezer will make the cherry trees bloom!\"{n}{n}\"At the very least, please watch from the best spot!\""
   }
  ]
 }

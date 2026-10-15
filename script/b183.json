@@ -7,82 +7,82 @@
   {
    "id": "b183_0000",
    "jp": "{kata}ダイダ{hira}王子{n}「だいぶ 腕を{n} あげたようだな {sub:A0}!」{n}「どうしたのだ!{n} {kata}サルカニ{hira}の村の 人間たちを{n} 助けてやらないのか?」{n}「風神と 雷神から{n} まなぶことは おおいぞ!」{n}{n}「どうしても{n} 先へ 行きたいか?」{n}",
-   "en": null
+   "en": "Prince Daida{n}\"You've grown a good deal stronger, Momotaro!\"{n}\"What's the matter! Won't you help the humans of Sarukani Village?\"{n}\"There is much you can learn from Fujin and Raijin!\"{n}{n}\"Are you set on going on ahead?\"{n}"
   },
   {
    "id": "b183_0001",
    "jp": "「ならば {kata}サルカニ{hira}村へ かえり{n} 風神 雷神と 戦うのだ!」{n}",
-   "en": null
+   "en": "\"Then go back to Sarukani Village and fight Fujin and Raijin!\"{n}"
   },
   {
    "id": "b183_0002",
    "jp": "「では {kata}オレ{hira}と{n} 戦うことに なってしまうが{n} それでも よいのか?」",
-   "en": null
+   "en": "\"Then you'll have to fight me instead. Are you sure about that?\""
   },
   {
    "id": "b183_0003",
    "jp": "{kata}ダイダ{hira}王子{n}「風神 雷神との 戦いで{n} また 成長したようだな!」{n}「ところで {sub:A0}!{n} {sub:B6}は 本当に {kata}カルラ{hira}が{n} うそを ついてると おもうのか?」",
-   "en": null
+   "en": "Prince Daida{n}\"Your battle with Fujin and Raijin has made you grow yet again!\"{n}\"Tell me, Momotaro! Do you truly believe Karura is lying?\""
   },
   {
    "id": "b183_0004",
    "jp": "{kata}ダイダ{hira}王子{n}「気をつかわせて すまぬな!」{n}{n}「地獄でも {kata}カルラ{hira}のことを{n} 悪くいう者は ふえている」{n}{n}「しかし {kata}オレ{hira}は かりにも{n} 伐折羅王の よつぎだ!」{n}{n}「かるはずみに ものごとを{n} きめるわけには いかぬのだ!」{n}{n}「ただ いろいろ もう一度{n} かんがえなおしてみる{n} ひつようが ありそうだな!」",
-   "en": null
+   "en": "Prince Daida{n}\"Forgive me for troubling you!\"{n}{n}\"Even in Hell, more and more speak ill of Karura.\"{n}{n}\"But I am, after all, the heir of King Basara!\"{n}{n}\"I cannot decide such matters rashly!\"{n}{n}\"Still, it seems I need to think everything over once more!\""
   },
   {
    "id": "b183_0005",
    "jp": "「そうか… そこまで{n} {sub:B6}は いうのか…」{n}",
-   "en": null
+   "en": "\"I see... So you go that far...\"{n}"
   },
   {
    "id": "b183_0006",
    "jp": "「もう一度 かんがえなおしてみる{n} ひつようが ありそうだな!」{n}",
-   "en": null
+   "en": "\"It seems I need to think it over once more!\"{n}"
   },
   {
    "id": "b183_0007",
    "jp": "「どうだ! {sub:A0}!{n} {kata}オレ{hira}と 戦うか?」{n}",
-   "en": null
+   "en": "\"Well, Momotaro! Will you fight me?\"{n}"
   },
   {
    "id": "b183_0008",
    "jp": "「そうか! つぎに あうときは{n} 本気で 戦えそうだな!」{n}",
-   "en": null
+   "en": "\"I see! Next time we meet, I think we can fight in earnest!\"{n}"
   },
   {
    "id": "b183_0009",
    "jp": "{sub:CE}{n}「{kata}ダイダ{hira}王子! えんま様は いま{n} どこにいると おもわれますか!」{n}{kata}ダイダ{hira}王子{n}「黄泉の塔と 聞いておるが…」{n}{n}{sub:CE}{n}「奈落の底ですよ! {kata}ダイダ{hira}王子!」{n}{n}{kata}ダイダ{hira}王子{n}「まさか!」{n}",
-   "en": null
+   "en": "Ashura{n}\"Prince Daida! Where do you think King Enma is now?\"{n}Prince Daida{n}\"I heard he was in the Tower of Yomi...\"{n}{n}Ashura{n}\"He's at the bottom of the Abyss, Prince Daida!\"{n}{n}Prince Daida{n}\"Impossible!\"{n}"
   },
   {
    "id": "b183_0010",
    "jp": "夜叉姫{n}「お兄さま! {kata}アジャセ{hira}お兄さまも{n} {kata}カルラ{hira}たいじに 加わりましたよ!」{n}{kata}ダイダ{hira}王子{n}「何! {kata}アジャセ{hira}まで…!」{n}",
-   "en": null
+   "en": "Yasha{n}\"Brother! Brother Ajase has joined the fight against Karura too!\"{n}Prince Daida{n}\"What! Even Ajase...!\"{n}"
   },
   {
    "id": "b183_0011",
    "jp": "金太郎{n}「おう! おう! ねむそうな目の{n} 兄ちゃん! 何も 知らんのやなあ」",
-   "en": null
+   "en": "Kintaro{n}\"Oi! Oi! Sleepy-eyed big bro! Ya really don't know nothin', huh!\""
   },
   {
    "id": "b183_0012",
    "jp": "風神{n}「ぴゅるるるるぅ! {kata}ダイダ{hira}王子!{n} われら 目がさめましたぞ!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! Prince Daida! Our eyes have been opened!\""
   },
   {
    "id": "b183_0013",
    "jp": "雷神{n}「ぐゎらり ぐゎらり! {kata}ダイダ{hira}王子{n} やはり えんま様は 正しかった!」",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! Prince Daida, King Enma was right after all!\""
   },
   {
    "id": "b183_0014",
    "jp": "「あんしんしろ! {sub:A0}!{n} みねうちだ!{n} もっと 修行をつんでこい!」",
-   "en": null
+   "en": "\"Fear not, Momotaro! I struck with the back of my blade! Go and train some more!\""
   },
   {
    "id": "b183_0015",
    "jp": "{kata}ダイダ{hira}王子{n}「{sub:A0}! 心・技・体{n} いずれも 大きく 成長したな!」{n}「つぎに あうときは{n} 本気で 戦えそうだな!{n} たのしみに しているぞ!」",
-   "en": null
+   "en": "Prince Daida{n}\"Momotaro! Heart, skill and body -- all of them have grown greatly!\"{n}\"Next time we meet, I think we can fight in earnest! I look forward to it!\""
   }
  ]
 }

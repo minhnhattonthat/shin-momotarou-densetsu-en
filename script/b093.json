@@ -7,42 +7,42 @@
   {
    "id": "b093_0000",
    "jp": "「黒河童に てこずっておるようじゃな!{n} じゃが 心の数は 多い!{n} 戦って 学ぶことも 多いのじゃ!」",
-   "en": null
+   "en": "\"Having trouble with the Black Kappa, are ye? But he has many Hearts! There is much to learn by fighting!\""
   },
   {
    "id": "b093_0001",
    "jp": "「{sub:B5} 鬼のつめあとを{n} ぬけた所に 新しい村と 呼ばれる{n} 村が 作られているのです!」{n}「えんま様の おしえを うけた{n} 鬼たちが ついに{n} 立ち上がったそうです!」",
-   "en": null
+   "en": "\"Chuchun! Past the Oni's Claw Marks, they're building a village called New Village!\"{n}\"They say the oni who learned from King Enma's teachings have finally taken a stand!\""
   },
   {
    "id": "b093_0002",
    "jp": "「{sub:B5} {sub:A0}さんだ!{n} 黒河童は {kata}キュウリ{hira}が{n} 大好物なのよ!」",
-   "en": null
+   "en": "\"Chuchun! It's Momotaro! Cucumbers are the Black Kappa's favorite food!\""
   },
   {
    "id": "b093_0003",
    "jp": "「{sub:A0}さん! 鬼のつめあとを{n} ぬけた所に 新しい村が{n} できようと しているんです!」{n}「しかも うれしいじゃありませんか!{n} 人間と 鬼が 力を あわせて{n} 作っている 村なんです!」",
-   "en": null
+   "en": "\"Momotaro! Past the Oni's Claw Marks, a new village is being built!\"{n}\"And isn't this wonderful? Humans and oni are building that village together!\""
   },
   {
    "id": "b093_0004",
    "jp": "「ここの 茶店で 売ってる{n} {kata}キュウリ{hira}は おいしいよ!{n} 都の 順安でも 売らないかな?」{n}「{sub:A0}さんも おひとつ!」{n}{n}",
-   "en": null
+   "en": "\"The cucumbers they sell at the teahouse here are delicious! I wonder if Jun'an in the Capital would sell them too?\"{n}\"Have one yourself, Momotaro!\"{n}{n}"
   },
   {
    "id": "b093_0005",
    "jp": "「ああ! ごはんに つけもので{n} ばくばく 食べてえなあ!」{n}",
-   "en": null
+   "en": "\"Ahh! I wanna wolf down some rice with pickles!\"{n}"
   },
   {
    "id": "b093_0006",
    "jp": "「{sub:B5} 新しい村!{n} なんて 明るい ひびき!{n} みんなで 大切にしたいですね!」",
-   "en": null
+   "en": "\"Chuchun! New Village! What a bright-sounding name! Let's all take good care of it!\""
   },
   {
    "id": "b093_0007",
    "jp": "「{sub:B5} 新しい村が{n} {kata}カルラ{hira}に 荒らされないことを{n} いのりたいですね!」",
-   "en": null
+   "en": "\"Chuchun! Let's pray that Karura doesn't wreck New Village!\""
   }
  ]
 }

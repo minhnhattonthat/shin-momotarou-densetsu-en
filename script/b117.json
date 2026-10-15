@@ -7,587 +7,587 @@
   {
    "id": "b117_0000",
    "jp": "水以外の場所からは{n}潜ることが できない!{n}",
-   "en": null
+   "en": "You can't dive from anywhere{n}except the water!{n}"
   },
   {
    "id": "b117_0001",
    "jp": "{arg}城は まだ{n}動くことが できない!{n}",
-   "en": null
+   "en": "{arg} Castle{n}can't move yet!{n}"
   },
   {
    "id": "b117_0002",
    "jp": "「おう! {arg}を{n} 作っといたぜ!{n} だいじに つかってくれよ!」{n}「それじゃな!」{n}{n}",
-   "en": null
+   "en": "\"Hey! I've built your {arg}! Take good care of it, now!\"{n}\"See ya!\"{n}{n}"
   },
   {
    "id": "b117_0003",
    "jp": "「ふにふにっ! おそいぞ!{n} もう できあがって おるぞ!{n} だいじに つかえよ!」",
-   "en": null
+   "en": "\"Funi-funi! You're late! It's long since finished! Take good care of it!\""
   },
   {
    "id": "b117_0004",
    "jp": "{sub:C2} そうだ! 城は{n} 木の上や 山のてっぺんには{n} おりられんから きをつけろよ!」",
-   "en": null
+   "en": "\"Oh! That's right! Mind you, the castle can't land on treetops or mountain peaks, so be careful!\""
   },
   {
    "id": "b117_0005",
    "jp": "「もうしわけございません!{n} どういうわけか きょうは{n} 宿が いっぱいなんです!」",
-   "en": null
+   "en": "\"We're terribly sorry! For some reason the inn is full today!\""
   },
   {
    "id": "b117_0006",
    "jp": "「どうも おつかれさまでした!」{n}{n}{n}「{sub:A0}さん!{sub:D9}もう{n} おやすみに なられますか?」{n}",
-   "en": null
+   "en": "\"Thank you for all your hard work!\"{n}{n}{n}\"Momotaro! Will you be turning in for today?\"{n}"
   },
   {
    "id": "b117_0007",
    "jp": "「では ごゆっくり!」{n}{n}",
-   "en": null
+   "en": "\"Then rest well!\"{n}{n}"
   },
   {
    "id": "b117_0008",
    "jp": "「あまり むりを なさらずに!{n} がんばって {sub:C5}!」{n}",
-   "en": null
+   "en": "\"Don't push yourself too hard! Please do your best!\"{n}"
   },
   {
    "id": "b117_0009",
    "jp": "「大工の{kata}トメ{hira}さんが{n} ここは 城を うごかす部屋に{n} できるんだと いってましたよ!」{n}「まだ うごかす しかけは{n} できてないから{n} 中には 入れませんけどね!」",
-   "en": null
+   "en": "\"Tome the carpenter said this could be made into a room for moving the castle!\"{n}\"The machinery to move it isn't built yet, so you can't go inside, though!\""
   },
   {
    "id": "b117_0010",
    "jp": "「{sub:A0}さん! ここは{n} 城を うごかす部屋だ!」{n}{n}「城を 飛ばすなら{n} 中に お入り{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Momotaro! This is the room that moves the castle!\"{n}{n}\"If you want to fly the castle, please step inside!\"{n}"
   },
   {
    "id": "b117_0011",
    "jp": "「{sub:A0}さん! 今の{n} 城の耐久度は {num}だ!」{n}{n}「城の 修理をしますか?」{n}{n}",
-   "en": null
+   "en": "\"Momotaro! Right now the castle's durability is {num}!\"{n}{n}\"Shall I repair the castle?\"{n}{n}"
   },
   {
    "id": "b117_0012",
    "jp": "「修理道具を 持っていませんよ!」{n}{n}",
-   "en": null
+   "en": "\"You don't have any repair tools!\"{n}{n}"
   },
   {
    "id": "b117_0013",
    "jp": "「よっしゃ! 城の修理は{n} まかせて おくんなさい!」{n}",
-   "en": null
+   "en": "\"Alrighty! Leave the castle repairs to me!\"{n}"
   },
   {
    "id": "b117_0014",
    "jp": "{arg}城の 耐久度が{n}{num}{sub:B4}{n}",
-   "en": null
+   "en": "{arg} Castle's durability{n}recovered by {num}!{n}"
   },
   {
    "id": "b117_0015",
    "jp": "{arg}城の 耐久度が{n}全{sub:B4}{n}",
-   "en": null
+   "en": "{arg} Castle's durability{n}was fully restored!{n}"
   },
   {
    "id": "b117_0016",
    "jp": "「城修理道具を 使えば{n} 耐久度は 回復しますぜ!」{n}{n}「城の修理道具は{n} からくり村で 売ってますぜ!」{n}",
-   "en": null
+   "en": "\"Use a Castle Toolkit and the durability'll recover!\"{n}{n}\"Castle Toolkits are sold in Gadget Village!\"{n}"
   },
   {
    "id": "b117_0017",
    "jp": "「{sub:A0}さん! からくり村の{n} 孫市さんなら もっと 城を{n} 強くできる はずですよ!」",
-   "en": null
+   "en": "\"Momotaro! Magoichi in Gadget Village should be able to make your castle even stronger!\""
   },
   {
    "id": "b117_0018",
    "jp": "「{sub:A0}さん! 城で{n} 海底を 移動している時の{n} 戦いかたを ききますか?」",
-   "en": null
+   "en": "\"Momotaro! Want me to explain how to fight while the castle is moving along the seabed?\""
   },
   {
    "id": "b117_0019",
    "jp": "「わからなくなったら{n} いつでも 聞いて{sub:C5}!」{n}",
-   "en": null
+   "en": "\"If you ever get confused, please ask anytime!\"{n}"
   },
   {
    "id": "b117_0020",
    "jp": "「{sub:A0}さん! 城で 移動中に{n} 鬼に おそわれたら{n} えらぶ手段は 4つある!」{n}「突撃 大砲 修理 逃げる{n} この どれかだ!」{n}{n}「まず 突撃! これは{n} {sub:A0}さんが 城から出て{n} いつも通り 鬼と戦う 戦法だ!」{n}「大砲が あるなら {kata}スゴイ{hira}ぞ!{n} 大砲は 1発で 敵全部に 打撃を{n} あたえることが できますぜ!」{n}「大砲の玉は 10発まで 持てます!{n} からくり村で 買えますよ!」{n}{n}「ただし 城で 戦ってる時{n} 鬼に やられると{n} 城の耐久度が へっちまう!」{n}「でも 修理を えらべば{n} 持っている 城修理道具で{n} 城の耐久度を 回復できますぜ!」{n}「逃げる で 失敗しても{n} 敵からの 攻撃は 城が{n} うけてくれるから 安心だ!」{n}「だけど 耐久度が 0に{n} なったら 突撃に なりますぜ!{n} 気をつけて おくんなせい!」",
-   "en": null
+   "en": "\"Momotaro! If oni attack while the castle is on the move, you've got 4 options!\"{n}\"Charge, Cannon, Repair or Flee. It's one of those!\"{n}{n}\"First, Charge! That's the tactic where you leave the castle and fight the oni like always!\"{n}\"If you've got a cannon, it's amazing! One shot from the cannon hits every enemy!\"{n}\"You can carry up to 10 cannonballs! You can buy 'em in Gadget Village!\"{n}{n}\"But when you're fighting from the castle, if the oni land a hit, the castle's durability drops!\"{n}\"But if you pick Repair, the Castle Toolkits you're carrying will restore the castle's durability!\"{n}\"Even if you fail to Flee, the castle takes the enemy's attacks for you, so no worries!\"{n}\"But if the durability hits 0, you'll switch to Charge! So watch out!\""
   },
   {
    "id": "b117_0021",
    "jp": "「ここでは {sub:A0}さんの{n} 鬼たいじの すべてを{n} きろくしています!」{n}「だれにでも おきがるに{n} はなしかけて{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Here we keep a record of everything about Momotaro's oni hunt!\"{n}\"Feel free to talk to anyone!\"{n}"
   },
   {
    "id": "b117_0022",
    "jp": "「ここでは おもに {sub:A0}さんの{n} 鬼との 戦いの 記録を{n} かきしるしています」{n}「ごらんに {sub:D8}」{n}{n}",
-   "en": null
+   "en": "\"Here we mainly write down the records of Momotaro's battles with the oni.\"{n}\"Would you like to see them?\"{n}{n}"
   },
   {
    "id": "b117_0023",
    "jp": "「ここでは おもに {sub:A0}さんの{n} おともの みなさんに ついて{n} 記録しています」{n}「ごらんに {sub:D8}」{n}{n}",
-   "en": null
+   "en": "\"Here we mainly keep records about Momotaro's companions.\"{n}\"Would you like to see them?\"{n}{n}"
   },
   {
    "id": "b117_0024",
    "jp": "「ここでは おもに {sub:A0}さんが{n} 戦いのなかで くらったものを{n} 数えて 記録しています」{n}「どれを ごらんに {sub:D8}」{n}{n}",
-   "en": null
+   "en": "\"Here we mainly count up and record what Momotaro has been hit with in battle.\"{n}\"Which would you like to see?\"{n}{n}"
   },
   {
    "id": "b117_0025",
    "jp": "「ここでは {sub:A0}さんたちが{n} となえた 術に かんする{n} 記録を かきしるしています」{n}「ごらんに {sub:D8}」{n}{n}",
-   "en": null
+   "en": "\"Here we write down the records of the Arts that Momotaro and friends have cast.\"{n}\"Would you like to see them?\"{n}{n}"
   },
   {
    "id": "b117_0026",
    "jp": "「ここでは おもに 村に かんする{n} 記録を かきしるしています{n} ごらんに {sub:D8}」",
-   "en": null
+   "en": "\"Here we mainly write down records about the villages.{n} Would you like to see them?\""
   },
   {
    "id": "b117_0027",
    "jp": "「ここでは {sub:A0}さんが{n} こらしめた 鬼に かんする{n} 記録を かきしるしています」{n}「ごらんに {sub:D8}」{n}{n}",
-   "en": null
+   "en": "\"Here we write down the records of the oni that Momotaro has punished.\"{n}\"Would you like to see them?\"{n}{n}"
   },
   {
    "id": "b117_0028",
    "jp": "「ここでは おもに{n} {hero}さんたちの 仲間に かんする{n} 記録を かきしるしています」{n}「どれを ごらんに {sub:D8}」{n}{n}",
-   "en": null
+   "en": "\"Here we mainly write down records about the allies of {hero} and friends.\"{n}\"Which would you like to see?\"{n}{n}"
   },
   {
    "id": "b117_0029",
    "jp": "「ここは ひのきの風呂で ございます{n} お入りに{sub:D8}」{n}",
-   "en": null
+   "en": "\"This is the cypress bath. Would you care to take a soak?\"{n}"
   },
   {
    "id": "b117_0030",
    "jp": "「どなた様が 入られますか?」{n}{n}",
-   "en": null
+   "en": "\"Who will be bathing?\"{n}{n}"
   },
   {
    "id": "b117_0031",
    "jp": "「{arg}様ですね!{n} お風呂に 温泉のお湯を{n} 入れますか? あったまりますよ」",
-   "en": null
+   "en": "\"{arg}, is it? Shall I fill the bath with hot spring water? It'll warm you right up.\""
   },
   {
    "id": "b117_0032",
    "jp": "「では どうぞ ごゆっくり!」{n}{n}",
-   "en": null
+   "en": "\"Then please, take your time and enjoy!\"{n}{n}"
   },
   {
    "id": "b117_0033",
    "jp": "「あら? ばっかみたい!{n} お風呂 入るのに{n} 着物着てるなんて へんよね!」",
-   "en": null
+   "en": "\"Oh? How silly! Wearing your kimono to take a bath? That's so weird!\""
   },
   {
    "id": "b117_0034",
    "jp": "「あ～! いいお湯!」{n}{n}",
-   "en": null
+   "en": "\"Ahh~! What a lovely bath!\"{n}{n}"
   },
   {
    "id": "b117_0035",
    "jp": "{arg}の 体力と 技は{n}全{sub:B4}{n}",
-   "en": null
+   "en": "{arg}'s Health and Skill{n}were fully restored!{n}"
   },
   {
    "id": "b117_0036",
    "jp": "「{hero}さん!{n} お一人では 大変でしょうが{n} 鬼たいじ がんばって{sub:C5}!」",
-   "en": null
+   "en": "\"{hero}! It must be hard all on your own, but please do your best on the oni hunt!\""
   },
   {
    "id": "b117_0037",
    "jp": "「{hero}さん! ひとまず{n} 仲間と わかれますか?」{n}",
-   "en": null
+   "en": "\"{hero}! Will you part with a companion for now?\"{n}"
   },
   {
    "id": "b117_0038",
    "jp": "「では 誰と わかれますか?」{n}{n}",
-   "en": null
+   "en": "\"Then who will you part with?\"{n}{n}"
   },
   {
    "id": "b117_0039",
    "jp": "「{arg}さん ですね?」{n}{n}",
-   "en": null
+   "en": "\"{arg}, is it?\"{n}{n}"
   },
   {
    "id": "b117_0040",
    "jp": "「では そのままで いいのですね!{n} 鬼たいじ がんばって{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Then you'll keep things as they are! Please do your best on the oni hunt!\"{n}"
   },
   {
    "id": "b117_0041",
    "jp": "「{kata}フフフフッ{hira}… {sub:A0}さん!{n} ぜひとも この {sub:CE}を{n} 仲間として おつれ{sub:C5}!」{n}「すばやい動きと 美しい術は{n} きっと 力に なりましょう!」{n}",
-   "en": null
+   "en": "\"Fu-fu-fu-fu... Momotaro! By all means, take this Ashura along as a companion!\"{n}\"My swift moves and beautiful Arts will surely be of help!\"{n}"
   },
   {
    "id": "b117_0042",
    "jp": "「{sub:C9}を 仲間に{n} 加えて{sub:C5}! どうしても{n} {kata}カルラ{hira}を たおしたいのです!」",
-   "en": null
+   "en": "\"Please add me to your party! I must defeat Karura, no matter what!\""
   },
   {
    "id": "b117_0043",
    "jp": "「{kata}オラ{hira}の 怪力は{n} どんな 鬼も ぶっとばすのを{n} 知ってんだろ {sub:A0}!」{n}「{kata}オラ{hira}を 鬼たいじに{n} 加えてくれよー!{n} 腕が なまっちまうよ!」",
-   "en": null
+   "en": "\"Ya know my brute strength can send any oni flyin', right, Momotaro!\"{n}\"Let me in on the oni hunt! My arms are gettin' rusty!\""
   },
   {
    "id": "b117_0044",
    "jp": "「{sub:A0}! 最後は{n} {kata}オラ{hira}に まかせてくれ!」{n}",
-   "en": null
+   "en": "\"Momotaro! Leave the finish to me!\"{n}"
   },
   {
    "id": "b117_0045",
    "jp": "「{sub:A0}さん! 浦島です!{n} {sub:C9}を 鬼たいじの{n} おともに おくわえ{sub:C5}」",
-   "en": null
+   "en": "\"Momotaro! It's Urashima! Please let me join you on the oni hunt.\""
   },
   {
    "id": "b117_0046",
    "jp": "「{sub:C9}に みなさんを{n} 守らせて{sub:C5}!{n} おねがいです!」",
-   "en": null
+   "en": "\"Please let me protect everyone! I beg you!\""
   },
   {
    "id": "b117_0047",
    "jp": "「{sub:A0}さん!{n} お父様の 目を さまさせたいの!{n} どうか {sub:C9}を つれていって!」",
-   "en": null
+   "en": "\"Momotaro! I want to bring Father back to his senses! Please, take me with you!\""
   },
   {
    "id": "b117_0048",
    "jp": "「なき {kata}ダイダ{hira}お兄さまの{n} かたきを うたせて{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Let me avenge my late brother, Daida!\"{n}"
   },
   {
    "id": "b117_0049",
    "jp": "「{sub:A0}! この えんま!{n} いつ なんどきでも{n} 手助けするぞ!」",
-   "en": null
+   "en": "\"Momotaro! I, Enma, shall lend you a hand anytime, anywhere!\""
   },
   {
    "id": "b117_0050",
    "jp": "「わしも {kata}カルラ{hira}と 戦いたいが{n} うらみのあるものは おおかろう{n} ほかの ものにしてやってくれ!」",
-   "en": null
+   "en": "\"I too would fight Karura, but many others bear him a grudge. Take one of them instead!\""
   },
   {
    "id": "b117_0051",
    "jp": "「ぴゅるるるるぅ!{n} {sub:A0}とともに 鬼の世を{n} ただすと 心にきめた!」{n}「どうか わしも いっしょに{n} つれていってくれい!」{n}",
-   "en": null
+   "en": "\"Pyururururuu! I have resolved in my heart to set the oni world right together with Momotaro!\"{n}\"I beg you, take me along as well!\"{n}"
   },
   {
    "id": "b117_0052",
    "jp": "「ぴゅるるるるぅ!{n} 鬼たちの かたきを{n} うたせてくだされ!」",
-   "en": null
+   "en": "\"Pyururururuu! Let me avenge the oni!\""
   },
   {
    "id": "b117_0053",
    "jp": "「ぐゎらり ぐゎらり! {sub:A0}!{n} この 雷神の術を ためして{n} みては くれまいか!」",
-   "en": null
+   "en": "\"Gwarari, gwarari! Momotaro! Will you not put this Raijin's Arts to the test?\""
   },
   {
    "id": "b117_0054",
    "jp": "「ぐゎらり ぐゎらり!{n} この雷を {kata}カルラ{hira}に{n} くらわせてやりたい!」",
-   "en": null
+   "en": "\"Gwarari, gwarari! I would hurl this thunder straight at Karura!\""
   },
   {
    "id": "b117_0055",
    "jp": "「{sub:D0}{n} {kata}オレ{hira}様は 松・竹・梅 の{n} 3種類の 攻撃が できるぜ!」{n}「どうだい {kata}オレ{hira}様を 仲間に{n} したいか? {sub:D0}」{n}",
-   "en": null
+   "en": "\"Hey! Hey! The great me can do three kinds of attacks: Pine, Bamboo and Plum!\"{n}\"Well? Ya wanna make the great me your companion? Hey! Hey!\"{n}"
   },
   {
    "id": "b117_0056",
    "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}カルラ{hira}が{n} ばけものに なったか! それでも{n} {kata}オレ{hira}さまを つれてくのか?」",
-   "en": null
+   "en": "\"Hey hey! So Karura turned into a monster! And you still wanna take the great me along?\""
   },
   {
    "id": "b117_0057",
    "jp": "「{sub:A8}! {sub:A0}!{n} わしを つれて いくと{n} お金が たくさん 手に入るぞ!」",
-   "en": null
+   "en": "\"Uhyahya...! Momotaro! Take me along and you'll come into lots of money!\""
   },
   {
    "id": "b117_0058",
    "jp": "「{sub:A8}! わしを{n} つてれいっても あまり{n} 役には立たんが… のぞむなら」",
-   "en": null
+   "en": "\"Uhyahya...! Taking me along won't be of much use... but if that is your wish...\""
   },
   {
    "id": "b117_0059",
    "jp": "「{kata}ボンビ{hira}ー! 貧乏神 なのねん!{n} {sub:A0}さん! {kata}ボク{hira}も 鬼たいじに{n} つれていって ほしいのねん!」{n}「{sub:A0}さんと いっしょに{n} いないと さみしいのねん!{n} おそばに いさせてほしいのねん!」",
-   "en": null
+   "en": "\"Bonbiii! I'm the God of Poverty, nyen! Momotaro! I want you to take me on the oni hunt too, nyen!\"{n}\"I get lonely when I'm not with you, Momotaro, nyen! Please let me stay by your side, nyen!\""
   },
   {
    "id": "b117_0060",
    "jp": "「貧乏を {kata}カルラ{hira}に{n} うつして あげたいのねん!」{n}",
-   "en": null
+   "en": "\"I wanna pass my poverty on to Karura, nyen!\"{n}"
   },
   {
    "id": "b117_0061",
    "jp": "「{kata}グェッヘッヘッ{hira}!{n} {kata}キ{hira}ーーーーー{kata}ング{hira} {kata}ボンビ{hira}ー!」{n}{n}「{sub:B6}を {kata}ボンビラス{hira}の 世界に{n} いざなって やるぜ!」{n}",
-   "en": null
+   "en": "\"Gweh-heh-heh!{n} Kiiiiiing Bonbiii!\"{n}{n}\"I shall lead you into the world of Bonbiras!\"{n}"
   },
   {
    "id": "b117_0062",
    "jp": "「{kata}キ{hira}ーーーー{kata}ング{hira} {kata}ボンビ{hira}ー!」{n}{n}{n}「{kata}グェッヘッヘッ{hira}!{n} {sub:C9}を つれていかないと{n} と～～～んでもない目に あうぞ!」",
-   "en": null
+   "en": "\"Kiiiiing Bonbiii!\"{n}{n}{n}\"Gweh-heh-heh! If you don't take me along, something terrrrrible will happen to you!\""
   },
   {
    "id": "b117_0063",
    "jp": "「{kata}カパッパ{hira}! {kata}カパッパ{hira}!{n} {kata}オレ{hira}の 河童の 力を{n} 世の中の 役に 立てたいぜ!」",
-   "en": null
+   "en": "\"Kapappa! Kapappa! I wanna put my kappa powers to good use for the world!\""
   },
   {
    "id": "b117_0064",
    "jp": "「{kata}カパッパ{hira}! 最後の{n} ぬすみを きめてやりたいぜ!」{n}",
-   "en": null
+   "en": "\"Kapappa! I wanna pull off one last heist!\"{n}"
   },
   {
    "id": "b117_0065",
    "jp": "「{kata}キャハハハハハハ{hira}!{n} たいくつ しちゃった～!{n} ねえ どこか つれてって!」",
-   "en": null
+   "en": "\"Kyahahahahahaha! I'm so booored~! Hey, take me somewhere!\""
   },
   {
    "id": "b117_0066",
    "jp": "「もう あったま きたっ!{n} あたしだって {kata}カルラ{n}{hira} たおしたいって きもちー!」",
-   "en": null
+   "en": "\"I'm so mad now! I wanna beat Karura too, ya know!\""
   },
   {
    "id": "b117_0067",
    "jp": "「{sub:A0}さん! あっしにも{n} 何か 手伝わせて くだせえ!」{n}",
-   "en": null
+   "en": "\"Momotaro! Let this fella help out somehow too!\"{n}"
   },
   {
    "id": "b117_0068",
    "jp": "「あしでまとい なのは{n} わかっていやす! でも {kata}カルラ{hira}は{n} かぐや姫さまの かたきなんです!」",
-   "en": null
+   "en": "\"I know I'd only be draggin' ya down! But Karura's the one who did in Princess Kaguya!\""
   },
   {
    "id": "b117_0069",
    "jp": "「{kata}ハラホロヒレハレ{hira}ー!{n} どうか {kata}ボク{hira}も {sub:A0}さんの{n} 鬼たいじの 仲間にして{sub:C5}!」",
-   "en": null
+   "en": "\"Hara-horo-hire-hareee! Please let me join your oni hunt too, Momotaro!\""
   },
   {
    "id": "b117_0070",
    "jp": "「{kata}ハラホロヒレハレ{hira}ー!{n} 村のみんなの{n} とむらい合戦っちゃ!」",
-   "en": null
+   "en": "\"Hara-horo-hire-hareee! It's a battle to avenge everyone in the village, it is!\""
   },
   {
    "id": "b117_0071",
    "jp": "「{sub:A0}はん! わて といちやも{n} 金さえ はろて もろたら{n} なんでも やりまっせ!」{n}「どないでっしゃろ?{n} わても 鬼たいじで{n} もうけさせとくんなはれ!」",
-   "en": null
+   "en": "\"Momotaro! Me, Toichiya, I'll do anythin' so long as ya pay me!\"{n}\"Whaddaya say? Let me turn a profit on the oni hunt too!\""
   },
   {
    "id": "b117_0072",
    "jp": "「いよいよ 打ち上げでんな!{n} {kata}パ{hira}ーと 行きやしょう!{n} 金に いとめ つけんとね!」",
-   "en": null
+   "en": "\"Well, here's the grand finale at last! Let's go all out! And no sparin' expense!\""
   },
   {
    "id": "b117_0073",
    "jp": "「{kata}ドレミファシ{hira}! {kata}ファソミソシ{hira}!{n} {sub:C9}の たえなる しらべを{n} お役に 立てさせて{sub:C5}!」",
-   "en": null
+   "en": "\"Do-re-mi-fa-ti! Fa-sol-mi-sol-ti! Please let my exquisite melodies be of service!\""
   },
   {
    "id": "b117_0074",
    "jp": "「高まる 心 {kata}フォルテシモ{hira}!{n} いまこそ {kata}ファンファ{hira}ー{kata}レ{hira}!{n} そして {kata}フィナ{hira}ー{kata}レ{hira}を!」",
-   "en": null
+   "en": "\"My heart swells, fortissimo! Now is the time for a fanfare! And then the finale!\""
   },
   {
    "id": "b117_0075",
    "jp": "「{kata}オラ{hira}も {sub:A0}さんと{n} いっしょに 鬼たいじ{n} したいんだな {kata}アッポ{hira}ー!」",
-   "en": null
+   "en": "\"I wanna hunt oni with Momotaro too, I guess! Appooo!\""
   },
   {
    "id": "b117_0076",
    "jp": "「{kata}アッポ{hira}ー! {kata}オラ{hira}も{n} {kata}カルラ{hira} たおしたいんだなー!{n} {kata}アッポ{hira}ー! {kata}アッポ{hira}ー!」",
-   "en": null
+   "en": "\"Appooo! I wanna beat Karura too, I guess! Appooo! Appooo!\""
   },
   {
    "id": "b117_0077",
    "jp": "「{kata}ムニャ{hira} {kata}ムニャ{hira} {sub:A0}さん{n} {kata}オラ{hira}もー 鬼たーいーじーに{n} つーれーてってー おーくれーよー」",
-   "en": null
+   "en": "\"Mumble mumble... Momotaro... taaake meee on the ooni huuunt tooo, pleeease...\""
   },
   {
    "id": "b117_0078",
    "jp": "「うーん!{n} おーらーもー{n} いーくーかー?」",
-   "en": null
+   "en": "\"Mmmm! Shooould I gooo tooo?\""
   },
   {
    "id": "b117_0079",
    "jp": "「{kata}フフフフッ{hira}… では{n} さっそく まいりましょう!」{n}",
-   "en": null
+   "en": "\"Fu-fu-fu-fu... Then let us set off at once!\"{n}"
   },
   {
    "id": "b117_0080",
    "jp": "「よーーーっしゃ! 金太郎様の{n} でばん でーーーい!」{n}",
-   "en": null
+   "en": "\"Allll riiight! Time for the great Kintaro to shiiiine!\"{n}"
   },
   {
    "id": "b117_0081",
    "jp": "「ありがとう {sub:A0}さん!{n} いっしょけんめい がんばります!」{n}",
-   "en": null
+   "en": "\"Thank you, Momotaro! I'll do my very best!\"{n}"
   },
   {
    "id": "b117_0082",
    "jp": "「がんばりましょう! {sub:A0}さん!」{n}{n}",
-   "en": null
+   "en": "\"Let's do our best, Momotaro!\"{n}{n}"
   },
   {
    "id": "b117_0083",
    "jp": "「では まいると するか!」{n}{n}",
-   "en": null
+   "en": "\"Then let us be off!\"{n}{n}"
   },
   {
    "id": "b117_0084",
    "jp": "「かたじけない! {sub:A0}!{n} この風の力 ぞんぶんに{n} ふるって くれようぞ!」",
-   "en": null
+   "en": "\"Much obliged, Momotaro! I shall wield this power of wind to the fullest!\""
   },
   {
    "id": "b117_0085",
    "jp": "「ありがたい! {sub:A0}!{n} ぞんぶんに わが力{n} はっきして みせようぞ!」",
-   "en": null
+   "en": "\"I am grateful, Momotaro! Behold, I shall unleash my power to the fullest!\""
   },
   {
    "id": "b117_0086",
    "jp": "「{sub:D0} 痛い目に{n} あうかも しれないぜ!」{n}",
-   "en": null
+   "en": "\"Hey! Hey! You might get hurt, ya know!\"{n}"
   },
   {
    "id": "b117_0087",
    "jp": "「{sub:A8}! {sub:A0}!{n} やはり 苦しい時の{n} 神だのみじゃの!」",
-   "en": null
+   "en": "\"Uhyahya...! Momotaro! When times get tough, folks turn to the gods after all!\""
   },
   {
    "id": "b117_0088",
    "jp": "「うっ! うれしいのねん!{n} もう {sub:A0}さんから{n} はなれたくないのねん!」",
-   "en": null
+   "en": "\"Oh! I'm so happy, nyen! I never wanna leave your side again, Momotaro, nyen!\""
   },
   {
    "id": "b117_0089",
    "jp": "「{kata}キ{hira}ーーーーー{kata}ング{hira} {kata}ボンビ{hira}ー!{n} いい根性してるぜ!{n} よーし! ついていって やろう!」",
-   "en": null
+   "en": "\"Kiiiiiing Bonbiii! You've got some nerve! Very well! I'll tag along!\""
   },
   {
    "id": "b117_0090",
    "jp": "「{kata}カパッパ{hira}! {kata}オレ{hira}の{n} かれいな 盗みを ごらんあれ!」{n}",
-   "en": null
+   "en": "\"Kapappa! Behold my dazzling thievery!\"{n}"
   },
   {
    "id": "b117_0091",
    "jp": "「わーーーい! うれしい!{n} {sub:A0}さん 大好き! {kata}チュッ{hira}!」{n}",
-   "en": null
+   "en": "\"Yaaaay! I'm so happy! I love you, Momotaro! Smooch!\"{n}"
   },
   {
    "id": "b117_0092",
    "jp": "「そうこなくっちゃ!{n} 腕が なりますぜ!」{n}",
-   "en": null
+   "en": "\"That's more like it! I'm itchin' to get to work!\"{n}"
   },
   {
    "id": "b117_0093",
    "jp": "「{kata}ハラホロヒレハレ{hira}ー!{n} {sub:BD}す!{n} 力のかぎり がんばります!」",
-   "en": null
+   "en": "\"Hara-horo-hire-hareee! Thank you! I'll do my best with all my might!\""
   },
   {
    "id": "b117_0094",
    "jp": "「やっぱり そうこなあかんわ!{n} ほんなら あんじょう{n} たのんまっさ!」",
-   "en": null
+   "en": "\"That's more like it! Well then, I'm countin' on ya to do it right!\""
   },
   {
    "id": "b117_0095",
    "jp": "「{kata}ドレファソ{hira}! {kata}ミレミソシ{hira}!{n} {sub:C9}の よろこびの 歌です!」{n}",
-   "en": null
+   "en": "\"Do-re-fa-sol! Mi-re-mi-sol-ti! This is my song of joy!\"{n}"
   },
   {
    "id": "b117_0096",
    "jp": "「{kata}アッポ{hira}ー! うれしいんだな!{n} きっと がんばるんだな!」{n}",
-   "en": null
+   "en": "\"Appooo! I'm happy, I guess! I'll do my best for sure, I guess!\"{n}"
   },
   {
    "id": "b117_0097",
    "jp": "「{kata}ムニャ{hira} {kata}ムニャ{hira}…{n} 寝ないーように がんばるーだー」{n}",
-   "en": null
+   "en": "\"Mumble mumble... I'll trrry nooot to faaall asleeep...\"{n}"
   },
   {
    "id": "b117_0098",
    "jp": "「{sub:A0}! じょうだんは{n} よしてくれよ! かぐや姫さまが{n} 死んだって? やめてくれよ!」{n}「うそだろ! うそだと{n} いってくれよ!{n} {sub:A0}ーーーーー{kata}ッ{hira}!」",
-   "en": null
+   "en": "\"Momotaro! Quit jokin' around! Princess Kaguya's dead? Knock it off!\"{n}\"That's a lie! Tell me it's a lie! Momotarooooo!\""
   },
   {
    "id": "b117_0099",
    "jp": "「えっ? そ そんな{n} かぐや姫さま……」{n}{n}「いつも やさしかった…{n} かぐや姫さま… ああっ!」{n}",
-   "en": null
+   "en": "\"What? Th-that can't be... Princess Kaguya......\"{n}{n}\"She was always so kind... Princess Kaguya... Ahh!\"{n}"
   },
   {
    "id": "b117_0100",
    "jp": "「{kata}カルラ{hira}が かぐや姫さまを……!{n} そんな… そんなことが{n} ゆるされて よいのですか?」",
-   "en": null
+   "en": "\"Karura did that to Princess Kaguya......! How... how can such a thing be allowed?\""
   },
   {
    "id": "b117_0101",
    "jp": "「いったい どうしたことだ!{n} この世に 何が{n} おこっているのだ?」",
-   "en": null
+   "en": "\"What in the world has happened! What is going on in this world?\""
   },
   {
    "id": "b117_0102",
    "jp": "「ぴゅるるるるぅ!{n} 風が… くるしみの{n} うずを まいています!」{n}「{kata}カルラ{hira}が{n} かぐや姫さまを… ふぬぬ!」{n}",
-   "en": null
+   "en": "\"Pyururururuu! The wind... it swirls with suffering!\"{n}\"Karura did this to Princess Kaguya... Grrr!\"{n}"
   },
   {
    "id": "b117_0103",
    "jp": "「ぐわらり ぐわらり!{n} とうとう {kata}カルラ{hira}が…{n} おそれていたことが おこったか!」",
-   "en": null
+   "en": "\"Gwarari, gwarari! So Karura has finally... What I feared has come to pass!\""
   },
   {
    "id": "b117_0104",
    "jp": "「かぐや姫さまを 手にかけるとは…{n} {kata}カルラ{hira}め! 天に{n} つばする おろかものめが!」",
-   "en": null
+   "en": "\"To lay hands on Princess Kaguya... Karura! You fool who spits at the heavens!\""
   },
   {
    "id": "b117_0105",
    "jp": "「かぐや姫さまが {kata}フィ{hira}ー{kata}ネ{hira}!」{n}{n}{n}「おれの心 {kata}デクレシェンド{hira}!{n} この世は もう{n} {kata}ダ{hira}・{kata}カ{hira}ー{kata}ポ{hira} できないのか!」",
-   "en": null
+   "en": "\"Princess Kaguya has reached her Fine!\"{n}{n}{n}\"My heart goes decrescendo! Can this world never go back da capo?\""
   },
   {
    "id": "b117_0106",
    "jp": "「むにゃ むにゃ…{n} ……う～ん{n} ねぐるしいなや～～」",
-   "en": null
+   "en": "\"Mumble mumble... ...mmmm... can't get comfy...\""
   },
   {
    "id": "b117_0107",
    "jp": "「{kata}アッポ{hira}ー! 聞いたんだな!{n} か か か かぐや姫さま{n} 死んじまったんだな!」",
-   "en": null
+   "en": "\"Appooo! I heard, I guess! P-P-P-Princess Kaguya is dead, I guess!\""
   },
   {
    "id": "b117_0108",
    "jp": "「か… かぐや姫さまが!」{n}{n}{n}「うそでしよ? じょうだんは{n} なしに しましょうや!{n} {sub:A0}さん! うそでしょ…」",
-   "en": null
+   "en": "\"P... Princess Kaguya!\"{n}{n}{n}\"That's a lie, ain't it? Let's quit the jokin'! Momotaro! It's a lie...\""
   },
   {
    "id": "b117_0109",
    "jp": "「{kata}ハラホロヒレハレ{hira}ー!{n} かぐや姫さま 死んじまった!」{n}{n}「村の みんなが{n} 気がかりだっちゃ…」{n}",
-   "en": null
+   "en": "\"Hara-horo-hire-hareee! Princess Kaguya's dead!\"{n}{n}\"I'm worried 'bout everyone in the village, I am...\"{n}"
   },
   {
    "id": "b117_0110",
    "jp": "「この 天地の{n} あわてよう… そうか…{n} やはり かぐや姫さまがの…」",
-   "en": null
+   "en": "\"Heaven and earth in such turmoil... I see... So it was Princess Kaguya after all...\""
   },
   {
    "id": "b117_0111",
    "jp": "「悲{kata}ピ{hira}ーのねん!{n} かぐや姫さま {kata}ボク{hira}を{n} おいていかないで ほしいのねん!」",
-   "en": null
+   "en": "\"I'm un-happy, nyen! Princess Kaguya, please don't leave me behind, nyen!\""
   },
   {
    "id": "b117_0112",
    "jp": "「悲{kata}ピ{hira}ーのねん!{n} かぐや姫さま {kata}ボク{hira}を{n} おいていかないで ほしいのねん!」",
-   "en": null
+   "en": "\"I'm un-happy, nyen! Princess Kaguya, please don't leave me behind, nyen!\""
   },
   {
    "id": "b117_0113",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} かぐや姫が 死ぬと 大地が{n} しずむなんて きいてないぜ!」{n}「この せきにん だれがとるんだ!」{n}{n}",
-   "en": null
+   "en": "\"Hey! Hey! Nobody told me the land sinks when Princess Kaguya dies!\"{n}\"Who's gonna take responsibility for this!\"{n}{n}"
   },
   {
    "id": "b117_0114",
    "jp": "「{kata}カパッパ{hira}!{n} かぐや姫さまが 死んだから{n} 海が 赤く あふれたのか!」{n}「あんな きたねえ水じゃ おれたち{n} {kata}カッパ{hira}も およげやしねえ!」{n}",
-   "en": null
+   "en": "\"Kapappa! So the sea overflowed red 'cause Princess Kaguya died!\"{n}\"In water that filthy, even us kappa can't swim!\"{n}"
   },
   {
    "id": "b117_0115",
    "jp": "「信じらんなーい!{n} ふつう 殺したりするぅ?{n} かぐや姫さま かわいそー!」",
-   "en": null
+   "en": "\"Unbelieeevable! Who even kills people?! Poor Princess Kaguya!\""
   },
   {
    "id": "b117_0116",
    "jp": "「ほんまでっか!{n} かぐや姫さんが おなくなりに!{n} そら ごっつう えらいこってす!」",
-   "en": null
+   "en": "\"Is that so! Princess Kaguya's passed on! Well, that's a real big deal!\""
   }
  ]
 }

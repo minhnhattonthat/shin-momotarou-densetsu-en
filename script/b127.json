@@ -7,17 +7,17 @@
   {
    "id": "b127_0000",
    "jp": "「時間ぢゃよー!」{n}{n}",
-   "en": null
+   "en": "\"Time's up!\"{n}{n}"
   },
   {
    "id": "b127_0001",
    "jp": "「はやくせんと 時間がなくなるぞ{n}{n}",
-   "en": null
+   "en": "\"Hurry, or you'll run out of time!{n}{n}"
   },
   {
    "id": "b127_0002",
    "jp": "「ここに 8つの岩が ある」{n}{n}{n}「この岩を 100数えるうちに{n} 5つ以上 こわしてみよ!」{n}{n}「岩のまえに たって{n} A{kata}ボタン{hira}を れんだすると{n} 岩を たたくことができる!」{n}「岩のかたさは {kata}バラバラ{hira}ぢゃ!{n} もろい岩も あれば{n} かたい岩も ある!」{n}「どの岩が もろいか?{n} 心で みきわめよ!{n} では {kata}スタ{hira}ー{kata}ト{hira}{sub:A7}",
-   "en": null
+   "en": "\"Here there are 8 rocks.\"{n}{n}{n}\"Break 5 or more of these rocks{n} before I count to 100!\"{n}{n}\"Stand in front of a rock and{n} press the A Button repeatedly{n} to strike it!\"{n}\"The rocks vary in hardness!{n} Some are brittle,{n} and some are hard!\"{n}\"Which rocks are brittle?{n} Discern it with your Heart!{n} Now then, start!\""
   }
  ]
 }

@@ -7,17 +7,17 @@
   {
    "id": "b164_0000",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! {sub:A0}!{n} つかれた 顔をしておるぞ!」{n}「しかしな!」{n}{n}{n}「はやく 大江山を こえないと{n} たいへんなことが おきるのだ!」{n}{n}「わけを 知りたいか?」{n}{n}",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! Momotaro!{n} You look tired!\"{n}\"But listen!\"{n}{n}{n}\"If you don't get over Mt. Oe quickly, something terrible will happen!\"{n}{n}\"Want to know why?\"{n}{n}"
   },
   {
    "id": "b164_0001",
    "jp": "「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} {kata}オレ{hira}様が 地獄に かえるのが{n} おそくなってしまうのだ!」",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh!{n} I'll be late getting home to Hell, that's why!\""
   },
   {
    "id": "b164_0002",
    "jp": "「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} はいと いえば 本当のことを{n} おしえて やったものを!」",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh!{n} If you'd said yes, I'd have told you the truth!\""
   }
  ]
 }

@@ -7,17 +7,17 @@
   {
    "id": "b086_0000",
    "jp": "「{sub:A8}! {sub:A0}よ!{n} いちばん おくに{n} 大きな 木が あるぢゃろ!」",
-   "en": null
+   "en": "\"Uhyahya...! Momotaro!{n} You see the big tree at the very back, don't you!\""
   },
   {
    "id": "b086_0001",
    "jp": "「あそこの 木まで{n} 鬼に 出合わずに {n} 行ってくるの{sub:A7}",
-   "en": null
+   "en": "\"Go to that tree and back without running into a single oni!\""
   },
   {
    "id": "b086_0002",
    "jp": "「どうぢゃ! かんたんな{n} 修行ぢゃろ? {sub:A8}!」{n}",
-   "en": null
+   "en": "\"How's that! Easy training, eh? Uhyahya...!\"{n}"
   }
  ]
 }

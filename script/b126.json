@@ -7,27 +7,27 @@
   {
    "id": "b126_0000",
    "jp": "「{sub:A8}!{n} わしは 稲妻仙人ぢゃ!{n} よくここまで きたな!」{n}「稲妻の術を さずけるまえに{n} {sub:B6}の 力を ためしたい!」{n}",
-   "en": null
+   "en": "\"Uhyahya...!{n} I am the Bolt Sage!{n} You did well to come this far!\"{n}\"Before I grant you the Lightning Art,{n} I wish to test your strength!\"{n}"
   },
   {
    "id": "b126_0001",
    "jp": "「……そうそう!{n} 松葉山の ぬけ道を{n} おしえてやろうな!」{n}「ついてくるが よい!{n} {sub:A8}!」{n}",
-   "en": null
+   "en": "\"......Oh, yes!{n} I'll show you the secret path{n} through Mt. Matsuba!\"{n}\"Follow me!{n} Uhyahya...\"{n}"
   },
   {
    "id": "b126_0002",
    "jp": "「ちょいと しかけが あっての!」{n}{n}",
-   "en": null
+   "en": "\"There's a little trick to it, you see!\"{n}{n}"
   },
   {
    "id": "b126_0003",
    "jp": "「ここから もう{n} ひとふんばり{sub:A7}{n}{n}「がんばるのぢゃぞ {sub:A0}!{n} みんなが {sub:B6}の{n} がんばりを きたいしておる!」",
-   "en": null
+   "en": "\"From here on, just{n} one more push!\"{n}{n}\"Keep at it, Momotaro!{n} Everyone is counting on{n} your hard work!\""
   },
   {
    "id": "b126_0004",
    "jp": "「まだまだぢゃ!{n} いますこし 強くなってから{n} まいるが よい! {sub:A8}!」",
-   "en": null
+   "en": "\"Not yet, not yet!{n} Come back once you've{n} grown a bit stronger! Uhyahya...\""
   }
  ]
 }

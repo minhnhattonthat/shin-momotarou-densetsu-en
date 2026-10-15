@@ -7,37 +7,37 @@
   {
    "id": "b135_0000",
    "jp": "「{kata}ボンビ{hira}ー! 門番なのねん!{n} どうしたのねん? あなた まだ{n} お城 たてて ないのねん!」{n}「はやく お城{n} たてたほうが いいのねん!」{n}",
-   "en": null
+   "en": "\"Bonbiii! I'm the gatekeeper, nyen! What's wrong? You still haven't built a castle, nyen!\"{n}\"You'd better hurry up and build a castle, nyen!\"{n}"
   },
   {
    "id": "b135_0001",
    "jp": "「{kata}ボンビ{hira}ー! 門番なのねん!{n} 神のみぞ汁 飲ませてくれたら{n} この里に 入れてあげるのねん!」",
-   "en": null
+   "en": "\"Bonbiii! I'm the gatekeeper, nyen! Let me drink some God-Knows Soup and I'll let you into this hamlet, nyen!\""
   },
   {
    "id": "b135_0002",
    "jp": "「おやややや? あなた{n} 神のみぞ汁を 持ってるのねん!{n} 飲ませて ちょうだいなのねん!」",
-   "en": null
+   "en": "\"Oh-ho-ho-ho? You've got some God-Knows Soup, nyen! Let me drink it, pretty please, nyen!\""
   },
   {
    "id": "b135_0003",
    "jp": "「{kata}ゴクゴクゴクッ{hira}!{n} 神のみぞ汁の 味は{n} 神のみぞ知る なのねん!」",
-   "en": null
+   "en": "\"Glug-glug-glug!{n} What does God-Knows Soup taste like? God only knows, nyen!\""
   },
   {
    "id": "b135_0004",
    "jp": "「{kata}ケチ{hira}! {kata}ケチ{hira}! {kata}ケチ{hira}!{n} {kata}テケレッテ{hira} {kata}ステテケテ{hira}!」{n}",
-   "en": null
+   "en": "\"Cheapskate! Cheapskate! Cheapskate!{n} Tekerette, sutetekete!\"{n}"
   },
   {
    "id": "b135_0005",
    "jp": "「神のみぞ汁を もってるのねん!{n} のませて ちょうだいなのねん!」{n}",
-   "en": null
+   "en": "\"You've got some God-Knows Soup, nyen! Let me drink it, pretty please, nyen!\"{n}"
   },
   {
    "id": "b135_0006",
    "jp": "「{kata}ボンビ{hira}ー! ここは 神々の里!{n} 誰も あらそうことのない{n} 神様だらけの 里なのねん!」",
-   "en": null
+   "en": "\"Bonbiii! This is the Gods' Hamlet! A hamlet full of gods where nobody ever fights, nyen!\""
   }
  ]
 }

@@ -7,177 +7,177 @@
   {
    "id": "b233_0000",
    "jp": "「もうしわけございません!{n} ここは 人魚だけで{n} ひっそりと くらす村…」{n}「どなたかの しょうかいが{n} ないかぎり 村のなかに{n} お入れすることが できませぬ」",
-   "en": null
+   "en": "\"I'm terribly sorry! This is a village where only mermaids live, quietly, out of sight...\"{n}\"Unless someone has introduced you, I cannot let you into the village.\""
   },
   {
    "id": "b233_0001",
    "jp": "「もうしわけございません!{n} ここは 人魚だけで{n} ひっそりと くらす村…」{n}「どなたかの しょうかいが{n} ないかぎり 村のなかに{n} お入れすることが できませぬ」",
-   "en": null
+   "en": "\"I'm terribly sorry! This is a village where only mermaids live, quietly, out of sight...\"{n}\"Unless someone has introduced you, I cannot let you into the village.\""
   },
   {
    "id": "b233_0002",
    "jp": "「いや! こ…ない…で!{n} 鬼……! 殺さ…ない…で!{n} ああっ…! ごふっ!」{n}人魚は 死んでしまった!{n}{n}",
-   "en": null
+   "en": "\"No! Don't... come... near!{n} Oni......! Don't... kill... me!{n} Ahh...! Guhh!\"{n}The mermaid died!{n}{n}"
   },
   {
    "id": "b233_0003",
    "jp": "死んでしまっている!{n}{n}",
-   "en": null
+   "en": "She's dead!{n}{n}"
   },
   {
    "id": "b233_0004",
    "jp": "「まあ {sub:A0}さん!{n} こんな 海の底にまで{n} よく おいで {sub:C5}ました!」{n}「おかげで {sub:C9}たちも{n} また ひそやかな{n} 日々を おくっております」",
-   "en": null
+   "en": "\"Why, Momotaro! How good of you to come all the way down to the bottom of the sea!\"{n}\"Thanks to you, we're living our quiet days in peace once more.\""
   },
   {
    "id": "b233_0005",
    "jp": "「やめて……!{n} 何でも さしあげますから…{n} 村を 荒らすのは… やめ………」{n}「ごふっ!」{n}{n}{n}人魚は 死んでしまった!{n}{n}",
-   "en": null
+   "en": "\"Stop......! I'll give you anything... just... stop... wrecking the village... st.........\"{n}\"Guhh!\"{n}{n}{n}The mermaid died!{n}{n}"
   },
   {
    "id": "b233_0006",
    "jp": "死んでしまっている!{n}{n}",
-   "en": null
+   "en": "She's dead!{n}{n}"
   },
   {
    "id": "b233_0007",
    "jp": "「{sub:A0}さん! あのときの{n} やさしい お心を{n} 私たちは 一生わすれません!」{n}「これは… {sub:C9}からの{n} ほんの きもちです…」{n}",
-   "en": null
+   "en": "\"Momotaro! We'll never forget the kindness you showed us that day, as long as we live!\"{n}\"This is... just a small token from me...\"{n}"
   },
   {
    "id": "b233_0008",
    "jp": "「{sub:A0}さん!{n} その いたわりの 心を{n} わすれないで {sub:C5}ね!」",
-   "en": null
+   "en": "\"Momotaro! Please never forget that caring heart of yours!\""
   },
   {
    "id": "b233_0009",
    "jp": "「{kata}カル{hira}…{kata}ラ{hira}…は…こうまで…して{n} 人魚…の…涙が…{n} ほし…かっ…たの…で…す…ね!」",
-   "en": null
+   "en": "\"Ka...ru...ra... went... this far... because he... wanted... the Mermaid's... Tears... so... badly!\""
   },
   {
    "id": "b233_0010",
    "jp": "「{sub:BD}す!{n} 人魚の涙ですか?{n} だれかが かくしたはずです!」",
-   "en": null
+   "en": "\"Thank you!{n} The Mermaid's Tears?{n} Someone must have hidden them!\""
   },
   {
    "id": "b233_0011",
    "jp": "「{sub:A0}さん!{n} これは ほんの{n} おれいの 品です!」",
-   "en": null
+   "en": "\"Momotaro! This is just a small token of thanks!\""
   },
   {
    "id": "b233_0012",
    "jp": "「{sub:A0}さんには ここは{n} とても ふしぎな所に{n} おもえるの でしょうね!」{n}「{sub:C9}も 地上のことは とても{n} きょうみ ありますもの!」{n}",
-   "en": null
+   "en": "\"I bet this place seems very strange to you, Momotaro!\"{n}\"I'm very curious about the world up on land, too!\"{n}"
   },
   {
    "id": "b233_0013",
    "jp": "「{sub:BD}す!{n} 人魚の涙ですか?{n} だれかが かくしたはずです!」",
-   "en": null
+   "en": "\"Thank you!{n} The Mermaid's Tears?{n} Someone must have hidden them!\""
   },
   {
    "id": "b233_0014",
    "jp": "{kata}アジャセ{hira}王子{n}「{kata}ハア{hira}…! {kata}ハア{hira}…!{n} おそかったか!」{n}「{sub:A0}! {kata}カルラ{hira}は{n} 人魚の涙を ねらって{n} この村を おそったんだ!」{n}「人魚の涙は?」{n}{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Hah...! Hah...!{n} Was I too late?!\"{n}\"Momotaro! Karura attacked this village to get his hands on the Mermaid's Tears!\"{n}\"What about the Mermaid's Tears?\"{n}{n}"
   },
   {
    "id": "b233_0015",
    "jp": "「人魚たちに {sub:B0}の術を{n} かけてみたか? 元気になれば{n} 何かが わかるかもしれない!」{n}「私は 竜鬼船を うばってでも{n} えんま様の 奈落の洞窟へ{n} むかってみる つもりだ!」{n}「{sub:A0}は 人魚の涙を{n} さがして 城を{n} 作りなおしてもらえ!」",
-   "en": null
+   "en": "\"Have you tried casting the Kintan Art on the mermaids? Once they're well, we might learn something!\"{n}\"I intend to head for King Enma's Abyss Cave, even if I have to steal the Dragon Oni Ship to do it!\"{n}\"Momotaro, you find the Mermaid's Tears and have the castle rebuilt!\""
   },
   {
    "id": "b233_0016",
    "jp": "「この… 村は…もう{n} …おしまいね…………{n} 水が… 水が… 赤いわ…」",
-   "en": null
+   "en": "\"This... village... is...{n} ...finished.........{n} The water... the water... is red...\""
   },
   {
    "id": "b233_0017",
    "jp": "「{sub:BD}す!{n} {kata}カルラ{hira}の 2匹の 手下が 無言で{n} {sub:C9}たちを 切りさいたのです!」{n}「それでも 人魚の涙は だれかが{n} もっていったと うそをつくと{n} おこって かえっていきました!」",
-   "en": null
+   "en": "\"Thank you!{n} Two of Karura's henchmen cut us down without a word!\"{n}\"Even so, we lied and said someone had taken the Mermaid's Tears, and they left in a rage!\""
   },
   {
    "id": "b233_0018",
    "jp": "「光のとどかぬ 海の底にも{n} 生命は はぐくまれています!」{n}{n}「この世は すべての 生けるものに{n} やさしく できているのですよ」{n}",
-   "en": null
+   "en": "\"Even at the bottom of the sea, where no light reaches, life is nurtured!\"{n}{n}\"This world is made to be gentle to every living thing, you know.\"{n}"
   },
   {
    "id": "b233_0019",
    "jp": "「{sub:BD}す!{n} {kata}カルラ{hira}の 2匹の 手下が 無言で{n} {sub:C9}たちを 切りさいたのです!」{n}「それでも 人魚の涙は だれかが{n} もっていったと うそをつくと{n} おこって かえっていきました!」",
-   "en": null
+   "en": "\"Thank you!{n} Two of Karura's henchmen cut us down without a word!\"{n}\"Even so, we lied and said someone had taken the Mermaid's Tears, and they left in a rage!\""
   },
   {
    "id": "b233_0020",
    "jp": "「あなたが …{sub:A0}さん?{n} {kata}カル{hira}…{kata}ラ{hira}は……{n} あなたを にくんでいるわ…」{n}「気を…つけ…て…ね…」{n}{n}",
-   "en": null
+   "en": "\"Are you... Momotaro?{n} Ka...ru...ra......{n} hates you...\"{n}\"Be... care... ful...\"{n}{n}"
   },
   {
    "id": "b233_0021",
    "jp": "「{sub:BD}す!」{n}{n}{n}「{kata}カルラ{hira}は らんぼうな{n} 鬼を 2匹 つれてきて この村を{n} てあたりしだい こわさせたのです」{n}「目につかないように {sub:C9}たちは{n} 人魚の涙を 手{sub:C9} 手{sub:C9}で{n} うばわれずに すんだようです」",
-   "en": null
+   "en": "\"Thank you!\"{n}{n}{n}\"Karura brought two brutish oni and had them smash up everything in this village.\"{n}\"But it seems that by passing the Mermaid's Tears from hand to hand out of sight, we kept them from being stolen.\""
   },
   {
    "id": "b233_0022",
    "jp": "「人魚は 死んで 海の あわとなり{n} 長き 時をへて ふたたび{n} よみがえるという 伝説があります」{n}「{kata}カルラ{hira}に 殺された 村の人魚が{n} そうなることを いのってます」{n}",
-   "en": null
+   "en": "\"There's a legend that a mermaid who dies becomes sea foam, and after a long, long time, is born again.\"{n}\"I pray that will happen to the villagers Karura killed.\"{n}"
   },
   {
    "id": "b233_0023",
    "jp": "「{sub:BD}す!」{n}{n}{n}「{kata}カルラ{hira}は らんぼうな{n} 鬼を 2匹 つれてきて この村を{n} てあたりしだい こわさせたのです」{n}「目につかないように {sub:C9}たちは{n} 人魚の涙を 手{sub:C9} 手{sub:C9}で{n} うばわれずに すんだようです」",
-   "en": null
+   "en": "\"Thank you!\"{n}{n}{n}\"Karura brought two brutish oni and had them smash up everything in this village.\"{n}\"But it seems that by passing the Mermaid's Tears from hand to hand out of sight, we kept them from being stolen.\""
   },
   {
    "id": "b233_0024",
    "jp": "「{kata}カ{hira}…{kata}ルラ{hira}は 奈落(ならく)の底に{n} {sub:A0}さんが…{n} 来るのを… おそれ…て…」{n}「奈落(ならく)の底は{n} わ…たしたちが{n} およいで… いけない…とこ…ろ…」",
-   "en": null
+   "en": "\"Ka...rura is afraid... of you... coming...{n} to the bottom of the Abyss, Momotaro...\"{n}\"The bottom of the Abyss... is a place... we... can't... swim... to...\""
   },
   {
    "id": "b233_0025",
    "jp": "「{sub:BD}す!{n} 人魚の涙は だれかが{n} 地面に うめたはずです!」",
-   "en": null
+   "en": "\"Thank you!{n} Someone must have buried the Mermaid's Tears in the ground!\""
   },
   {
    "id": "b233_0026",
    "jp": "「村が こんな ありさまで ろくな{n} おもてなしも できませんが…」{n}{n}「こんなもので よろしければ{n} どうか お持ち{sub:C5}!」{n}",
-   "en": null
+   "en": "\"With the village in such a state, we can't offer you much of a welcome...\"{n}{n}\"But if this will do, please take it!\"{n}"
   },
   {
    "id": "b233_0027",
    "jp": "「左源内さんは おたっしゃですか?{n} もし お会いしたら{n} よろしく おつたえ{sub:C5}!」",
-   "en": null
+   "en": "\"Is Sagennai keeping well? If you see him, please give him my regards!\""
   },
   {
    "id": "b233_0028",
    "jp": "「{sub:BD}す!{n} 人魚の涙は だれかが{n} 地面に うめたはずです!」",
-   "en": null
+   "en": "\"Thank you!{n} Someone must have buried the Mermaid's Tears in the ground!\""
   },
   {
    "id": "b233_0029",
    "jp": "「殺せ!…と さけんだ…とき…{n} {kata}カルラ{hira}は……{n} 笑って…いま…した!」",
-   "en": null
+   "en": "\"When he shouted... 'Kill them!'...{n} Karura......{n} was... laughing!\""
   },
   {
    "id": "b233_0030",
    "jp": "「{sub:BD}す!{n} わかります! あなたは{n} 悪い人では ないようですね!」{n}「人魚の涙ですか?{n} みんなの 手から 手にわたって{n} {sub:C9}の ところまで きました!」{n}「まだ 体が うごかなくて!{n} できましたら {sub:C9}の前を{n} しらべてみて {sub:C5}」{n}「人魚の涙が あるはずです!」{n}{n}",
-   "en": null
+   "en": "\"Thank you!{n} I can tell! You don't seem like a bad person!\"{n}\"The Mermaid's Tears? They passed from hand to hand until they reached me!\"{n}\"I still can't move my body! If you can, please search the ground in front of me.\"{n}\"The Mermaid's Tears should be there!\"{n}{n}"
   },
   {
    "id": "b233_0031",
    "jp": "「{sub:C9}は {kata}カルラ{hira}を ゆるせません!{n} {sub:C9}たちに 力があれば!」{n}{n}「{sub:A0}さん! おねがいです!{n} {kata}カルラ{hira}を! {kata}カルラ{hira}を!{n} たいじして{sub:C5}!」",
-   "en": null
+   "en": "\"I can never forgive Karura! If only we had the strength!\"{n}{n}\"Momotaro! I beg you! Karura! Defeat Karura, please!\""
   },
   {
    "id": "b233_0032",
    "jp": "「むかし 人間が{n} 人魚をとらえようと 血まなこに{n} なったことが ありました」{n}「人魚の 肉を 食べると{n} 数百年の 寿命が えられるなんて{n} ……おかしな 話ですね」",
-   "en": null
+   "en": "\"Long ago, humans went wild trying to catch mermaids.\"{n}\"They said eating mermaid flesh would let you live for hundreds of years... What a strange story, isn't it?\""
   },
   {
    "id": "b233_0033",
    "jp": "「{sub:BD}す!{n} わかります! あなたは{n} わるい人では ないようですね!」{n}「人魚の涙ですか?{n} みんなの 手から 手にわたって{n} {sub:C9}の ところまで きました!」{n}「まだ 体が うごかなくて!{n} できましたら {sub:C9}の前を{n} しらべてみて {sub:C5}」{n}「人魚の涙が あるはずです!」{n}{n}",
-   "en": null
+   "en": "\"Thank you!{n} I can tell! You don't seem like a bad person!\"{n}\"The Mermaid's Tears? They passed from hand to hand until they reached me!\"{n}\"I still can't move my body! If you can, please search the ground in front of me.\"{n}\"The Mermaid's Tears should be there!\"{n}{n}"
   },
   {
    "id": "b233_0034",
    "jp": "{sub:A0}は 足もとを{n}手ではくように{n}そーっと しらべた!{n}おっ! 地面のなかから{n}{kata}ビン{hira}に 入った{n}光るものが 出てきたぞ!",
-   "en": null
+   "en": "Momotaro gently searched{n}the ground at his feet,{n}brushing it with his hand!{n}Oh! Out of the ground{n}came something shining{n}inside a bottle!"
   }
  ]
 }

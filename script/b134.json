@@ -7,32 +7,32 @@
   {
    "id": "b134_0000",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! {sub:A0}!」{n}{n}「{sub:B6}たちが {sub:CE}まで{n} 味方にするとは おもわなかった!」{n}{n}「どんな手を つかったのだ?{n} 金か? 女か? 土地か?{n} なぜ 笑っておる?」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! Momotaro!\"{n}{n}\"I never thought you lot would win over even Ashura!\"{n}{n}\"What trick did you use? Money? Women? Land? Why are you laughing?\""
   },
   {
    "id": "b134_0001",
    "jp": "{sub:CE}{n}「{kata}フフフフッ{hira}… {kata}カルラ{hira}様!」{n}{n}「こうかんじょうけんさえ 出せば{n} 心が 動くとは かぎりませんよ」{n}{n}「心とは おもいやりで{n} 動くことを この {sub:CE}!{n} {sub:A0}に おそわりました」",
-   "en": null
+   "en": "Ashura{n}\"Fu-fu-fu-fu... Lord Karura!\"{n}{n}\"Offering a good bargain won't always move a heart.\"{n}{n}\"A heart is moved by kindness. Momotaro taught me that, me, Ashura!\""
   },
   {
    "id": "b134_0002",
    "jp": "{kata}カルラ{n}{hira}「な 何? 何だと?{n} {kata}バ{hira} {kata}バ{hira} {kata}バカ{hira}な!」{n}「{sub:B6}たちは{n} 何の みかえりも なしに{n} 動いていると いうのか?」{n}「ふざけるな!{n} そんなやつが いるか!」{n}{n}「ならば {sub:B6}たちを ためす!」{n}{n}{n}「この門は 48{kata}キロ{hira}の{n} 人間 または 鬼が 立つと{n} 開くように しくんである!」{n}「ひとりでも 開くし{n} 2人でも 3人でも{n} 4人でも 開く!」{n}「体重48{kata}キロ{hira}だ!{n} 頭を つかって 来るんだな!{n} 門をあけてやる!」{n}「{sub:B6}たちが 本当に{n} 心を ひとつにしなければ{n} この なぞは とけまい!」",
-   "en": null
+   "en": "Karura{n}\"Wh-what? What did you say? R-r-ridiculous!\"{n}\"You mean to tell me you lot act without any reward at all?\"{n}\"Don't make me laugh! No one like that exists!\"{n}{n}\"Then I'll put you to the test!\"{n}{n}{n}\"This gate is rigged to open when a human or oni weighing 48 kilos stands on it!\"{n}\"It opens for one, and it opens for two, three or four, too!\"{n}\"A weight of 48 kilos! Use your heads and come on! I'll open the gate for you!\"{n}\"Unless your hearts truly beat as one, you'll never solve this riddle!\""
   },
   {
    "id": "b134_0003",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! {sub:B6}たちの{n} 体重の 平均は {num}{kata}キロ{hira}だ!」{n}「ほーら! みろ!{n} {sub:B6}たちは 平均48{kata}キロ{hira}の{n} 数も そろえられない {kata}バカ{hira}だ!」{n}「{sub:B6}たちの 心が{n} ひとつに なっていない{n} しょうこだ! {kata}ケ{hira}ー{kata}ケッケッ{hira}!」{n}「この門の前で たき火でもして{n} えいえんの 友情でも{n} あたためるんだな {kata}ケ{hira}ー{kata}ケッケッ{hira}!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! Your average weight is {num} kilos!\"{n}\"Ho-ho! Just look! You're such fools you can't even make an average of 48 kilos!\"{n}\"That's proof your hearts aren't one! Keeh, keh-keh-keh!\"{n}\"Why not build a bonfire before this gate and warm up your eternal friendship! Keeh, keh-keh-keh!\""
   },
   {
    "id": "b134_0004",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! おそいぞ!」{n}{n}「たしかに 48{kata}キロ{hira}だ!{n} 門は あけてやる!」{n}{n}「はめつの 門をな!」{n}{n}",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! You're late!\"{n}{n}\"Yes, that's 48 kilos! I'll open the gate for you!\"{n}{n}\"The Gate of Ruin, that is!\"{n}{n}"
   },
   {
    "id": "b134_0005",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! 風神よ!」{n}{n}「{sub:B6}の 風力で この者たちを{n} 遠くに 飛ばしてやれ!」{n}{n}「こやつらは いつも{n} いっしょに いるから{n} 情(じょう)が わいてるだけだ」{n}「友情などでは ない!{n} 本当の 友情は 長いこと{n} はなれていても かよいあう 心だ」{n}「いま それを ためしてやる!{n} 風神! 風を まきおこせ!」{n}",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! Fujin!\"{n}{n}\"Blow these people far away with your winds!\"{n}{n}\"They're only attached to each other because they're always together.\"{n}\"That's no friendship! True friendship is hearts that stay in touch even when they're apart for a long time.\"{n}\"Now I'll put that to the test! Fujin! Whip up the wind!\"{n}"
   }
  ]
 }

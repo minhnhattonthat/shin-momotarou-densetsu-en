@@ -7,72 +7,72 @@
   {
    "id": "b118_0000",
    "jp": "「さすがに {kata}トメ{hira}さんが{n} つくった 城だねえ!{n} がっしりとして ゆうがだ!」{0B}",
-   "en": null
+   "en": "\"That's a castle Tome built, all right! Sturdy and elegant!\"{0B}"
   },
   {
    "id": "b118_0001",
    "jp": "「こんな城を {kata}ポン{hira}と あげちゃう{n} 蜂乃屋さんは やっぱり 都で{n} いちばんの 男ぶりだねえ!」",
-   "en": null
+   "en": "\"Hachinoya, givin' away a castle like this just like that... he really is the finest fella in the Capital!\""
   },
   {
    "id": "b118_0002",
    "jp": "左源内{n}「それ! 風神よ!{n} 風を おこせ!」{0B}",
-   "en": null
+   "en": "Sagennai{n}\"Go! Fujin!{n} Raise the wind!\"{0B}"
   },
   {
    "id": "b118_0003",
    "jp": "「それ! 雷神よ!{n} 雷を 落とせ!」{n}{0B}",
-   "en": null
+   "en": "\"Go! Raijin!{n} Bring down the thunder!\"{n}{0B}"
   },
   {
    "id": "b118_0004",
    "jp": "左源内{n}「よーし! よし! よし!{n} もっと 力を くわえろ!」",
-   "en": null
+   "en": "Sagennai{n}\"All right! Good! Good!{n} Put more power into it!\""
   },
   {
    "id": "b118_0005",
    "jp": "左源内{n}「できたぞ! できたぞ! よーし!{n} 風神! 雷神! おつかれさんだ!」",
-   "en": null
+   "en": "Sagennai{n}\"It's done! It's done! All right!{n} Fujin! Raijin! Thanks for all your hard work!\""
   },
   {
    "id": "b118_0006",
    "jp": "「ほう! {arg}ですか!{n} こじんまりとした{n} {sub:A0}さんらしい お名前だ!」",
-   "en": null
+   "en": "\"Oh! {arg}, is it?{n} A neat little name, just like you, Momotaro!\""
   },
   {
    "id": "b118_0007",
    "jp": "「ほう! これは! {n} りっぱな お城が{n} できあがりましたな {sub:A0}さん!」{n}「ものは ついで!{n} このお城に 名前など{n} つけてみては?」",
-   "en": null
+   "en": "\"Well, now! Look at this!{n} What a splendid castle we've built, Momotaro!\"{n}\"While we're at it,{n} why not give this castle a name?\""
   },
   {
    "id": "b118_0008",
    "jp": "「この城に いろんなものを{n} くっつけたいときゃ 都の{n} あたしの家を たずねてくだせえ!」{n}「お風呂だって 作ってあげやすよ!{n} でも こんどは たんと{n} お金を {sub:D3}がね!」",
-   "en": null
+   "en": "\"Whenever ya want to add stuff to this castle, come visit my house in the Capital!\"{n}\"I'll even build ya a bath! But next time, I'll be taking a heap of money for it!\""
   },
   {
    "id": "b118_0009",
    "jp": "ましら{n}「{kata}ファミソソミ{hira}! {kata}ソソミドシ{hira}!{n} {sub:A0}さん! おめでとう!」{n}「お城が できたそうだね!」{n}{n}{n}「ひとつ この{arg}に{n} {sub:C9} ましらも{n} すまわせて {sub:C5}!」{n}ましらが 仲間に 加わった!{n}{n}",
-   "en": null
+   "en": "Mashira{n}\"Fa-mi-sol-sol-mi! Sol-sol-mi-do-ti!{n} Momotaro! Congratulations!\"{n}\"I hear your castle is finished!\"{n}{n}{n}\"Please let me, Mashira, live here in {arg} too!\"{n}Mashira joined the party!{n}{n}"
   },
   {
    "id": "b118_0010",
    "jp": "でか太郎{n}「{kata}アッポ{hira}ー! {sub:A0}さん!{n} {kata}オラ{hira}も お役に立ちたいんだな!」{n}「だから ぜひとも{n} この {arg}に{n} すまわせて ほしいんだな!」{n}でか太郎が 仲間に 加わった!{n}{n}",
-   "en": null
+   "en": "Dekataro{n}\"Appoo! Momotaro!{n} I wanna be useful too, I do!\"{n}\"So I'd really like to live here in {arg}, I would!\"{n}Dekataro joined the party!{n}{n}"
   },
   {
    "id": "b118_0011",
    "jp": "寝太郎{n}「{kata}ムニャムニャ{hira}… うーわーー!{n} 大ーきーなー お城だーーー!」{n}「寝るのーにー{n} ちょーうーどー いいー{n} 大ーきーさーだー!」{n}「{kata}オラ{hira}ー こーこーでー{n} 寝ーかーしーてー{n} もーらーおーうーかーなー!」{n}寝太郎が 仲間に 加わった!{n}{n}",
-   "en": null
+   "en": "Netaro{n}\"Mumble mumble... Wooooow!{n} What a biiiiig caaastle!\"{n}\"It's juuust the riiight siiize{n} for sleeeeping iiin!\"{n}\"Maaaybe I'll get theeem{n} to leeet me sleeep{n} riiight heeere!\"{n}Netaro joined the party!{n}{n}"
   },
   {
    "id": "b118_0012",
    "jp": "{sub:CE}{n}「{sub:A0}さん! どうやら{n} あなたの道が 正しいようです」{n}「わたくしも 鬼をあいてに{n} 戦う つもりです!{n} かくごを きめました!」{n}{sub:CE}が 仲間に 加わった!{n}{n}",
-   "en": null
+   "en": "Ashura{n}\"Momotaro! It seems{n} your path is the right one.\"{n}\"I too intend to fight against the oni!{n} My mind is made up!\"{n}Ashura joined the party!{n}{n}"
   },
   {
    "id": "b118_0013",
    "jp": "{sub:CE}{n}「わたくしは 城で 待ちます!{n} いつでも および{sub:C5}!」",
-   "en": null
+   "en": "Ashura{n}\"I shall wait at the castle!{n} Call on me anytime!\""
   }
  ]
 }

@@ -7,52 +7,52 @@
   {
    "id": "b249_0000",
    "jp": "呪われた!",
-   "en": null
+   "en": "Cursed!"
   },
   {
    "id": "b249_0001",
    "jp": "{kata}エンディング{hira}を見ますか?",
-   "en": null
+   "en": "View the ending?"
   },
   {
    "id": "b249_0002",
    "jp": "{kata}モザイク{hira}しながら{n}{kata}フェ{hira}ー{kata}ドアウト{hira} いくわよ!{n}",
-   "en": null
+   "en": "Mosaic and fade out, here we go!{n}"
   },
   {
    "id": "b249_0003",
    "jp": "どう?{0B}",
-   "en": null
+   "en": "How's this?{0B}"
   },
   {
    "id": "b249_0004",
    "jp": "こんなものかしら?{n}{n}",
-   "en": null
+   "en": "Like this, maybe?{n}{n}"
   },
   {
    "id": "b249_0005",
    "jp": "つきへ いきましょう!{n}{n}{0B}",
-   "en": null
+   "en": "Let's go to the Moon!{n}{n}{0B}"
   },
   {
    "id": "b249_0006",
    "jp": "うみへ いきましょう!{n}{n}{0B}",
-   "en": null
+   "en": "Let's go to the sea!{n}{n}{0B}"
   },
   {
    "id": "b249_0007",
    "jp": "げんざいの へいきん体重は{n}{num}㎏です!",
-   "en": null
+   "en": "Current average weight is{n}{num} kg!"
   },
   {
    "id": "b249_0008",
    "jp": "いろを ちょうせい しますか?",
-   "en": null
+   "en": "Adjust the colors?"
   },
   {
    "id": "b249_0009",
    "jp": "「{kata}ビジュアル{hira}」{n}{n}",
-   "en": null
+   "en": "\"Visuals\"{n}{n}"
   }
  ]
 }

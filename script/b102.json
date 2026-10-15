@@ -7,247 +7,247 @@
   {
    "id": "b102_0000",
    "jp": "「村の人と そうだんして{n} こうたいで ましらの 歌を{n} がまんして 聞くことにしただ!」{n}「{kata}オラ{hira}は 月 水 金だ!{n} もえない{kata}ゴミ{hira} みてえだな!」{n}",
-   "en": null
+   "en": "\"Me and the village folks talked it over, and we decided to take turns puttin' up with Mashira's singin'!\"{n}\"I got Mondays, Wednesdays and Fridays! Same as non-burnable trash day!\"{n}"
   },
   {
    "id": "b102_0001",
    "jp": "「今年こそ ゆうしょうだ!{n} {kata}ネタ{hira}を きいてくれるかい?」{n}{n}{c3}「{kata}ルソ{hira}ー! ほんとー?」{n}{n}{c0}",
-   "en": null
+   "en": "\"This year I'm winnin' for sure! Will ya listen to my material?\"{n}{n}{c3}\"Rousseau-riously?! Really?\"{n}{n}{c0}"
   },
   {
    "id": "b102_0002",
    "jp": "「ましらったら あたしが{n} ここに来ないと 1日じゅう{n} 家の前で 歌いつづけるのよ!」",
-   "en": null
+   "en": "\"If I don't come here, Mashira keeps singing in front of my house all day long!\""
   },
   {
    "id": "b102_0003",
    "jp": "「{sub:C9}は さくねんの{n} ゆうしょうしゃです!{n} 今年は この{kata}ネタ{hira}で 行きます!」{n}{c3}「{sub:A0}さんの おかげで{n} この村は {kata}カフカ{hira}った!」{n}{c0}",
-   "en": null
+   "en": "\"I am last year's champion! This year I'm going with this material!\"{n}{c3}\"Thanks to Momotaro, this village escaped its Kafka-esque nightmare!\"{n}{c0}"
   },
   {
    "id": "b102_0004",
    "jp": "「ましらは てんさいだよ!{n} あの へたくそな 歌が うまいと{n} じぶんで いいきるんだから!」",
-   "en": null
+   "en": "\"Mashira's a genius! He sings that badly and still swears he's good!\""
   },
   {
    "id": "b102_0005",
    "jp": "「{kata}ボク{hira}も はやく{n} だじゃれが いえるような{n} おとなに なりたいなーー!」",
-   "en": null
+   "en": "\"I wanna hurry up and be a grown-up who can tell puns tooooo!\""
   },
   {
    "id": "b102_0006",
    "jp": "「ましらの 歌は{n} あまりにも へたすぎて{n} 古びた 茶器の ようじゃ!」{n}「聞きなれてくると{n} あじわい ぶかく{n} おもえてしまうのじゃ!」",
-   "en": null
+   "en": "\"Mashira's singing is so dreadful, it's like an old, worn-out tea bowl!\"{n}\"But once you get used to it, you start to find it rather deep and tasteful!\""
   },
   {
    "id": "b102_0007",
    "jp": "「だじゃれの うまい男と{n} けっこんするのが{n} あたしの 夢なのー!」",
-   "en": null
+   "en": "\"My dream is to marry a man who's good at puns!\""
   },
   {
    "id": "b102_0008",
    "jp": "「なんなんだよ! あの へたくそ!{n} {kata}ジャイアン{hira}ましら? ちがうの?」{n}",
-   "en": null
+   "en": "\"What is with that awful singer?! Mashira's a regular Gian, ain't he?\"{n}"
   },
   {
    "id": "b102_0009",
    "jp": "「だじゃれ伊之助さん{n} 最後の ぶたいか…」{n}{n}「いつも あせ ひとつかかず{n} しんぱんを つとめてた…」{n}{n}「わしの かすんだ目に{n} しっかり やきつけておきますよ!{n} あの世で おもいだすんじゃ!」",
-   "en": null
+   "en": "\"So this is Inosuke the Punster's final stage...\"{n}{n}\"He always served as judge without breaking a sweat...\"{n}{n}\"I'll burn it into these cloudy old eyes! Something to remember in the next world!\""
   },
   {
    "id": "b102_0010",
    "jp": "「ましらと いっしょに 歌ったら{n} そのまま しぜんに{n} {kata}ハ{hira}ー{kata}モニ{hira}ーが つきそうね!」",
-   "en": null
+   "en": "\"If I sang with Mashira, we'd fall into harmony just like that!\""
   },
   {
    "id": "b102_0011",
    "jp": "「だじゃれ伊之助さんの 最後に{n} すばらしい だじゃれの{n} てんさいが 生まれる気がするな!」{n}「いつも 時代が めぐるときに{n} 新しい 何かが 生まれるからね!{n} 世の中の うごきと おなじさ!」",
-   "en": null
+   "en": "\"I've got a feeling that at Inosuke the Punster's last contest, a wonderful genius of puns will be born!\"{n}\"Whenever one era turns into the next, something new is always born! It's just the way the world goes!\""
   },
   {
    "id": "b102_0012",
    "jp": "「{kata}ヘ{hira}ーーーーーーー{kata}イ{hira}!」{n}{n}",
-   "en": null
+   "en": "\"Heeeeeeeeey!\"{n}{n}"
   },
   {
    "id": "b102_0013",
    "jp": "「{kata}ヘ{hira}ーーーーーーー{kata}イ{hira}!」{n}{n}",
-   "en": null
+   "en": "\"Heeeeeeeeey!\"{n}{n}"
   },
   {
    "id": "b102_0014",
    "jp": "「{kata}ヘ{hira}ーーーーーーー{kata}イ{hira}!」{n}{n}",
-   "en": null
+   "en": "\"Heeeeeeeeey!\"{n}{n}"
   },
   {
    "id": "b102_0015",
    "jp": "「{kata}ヘ{hira}ーーーーーーー{kata}イ{hira}!」{n}{n}",
-   "en": null
+   "en": "\"Heeeeeeeeey!\"{n}{n}"
   },
   {
    "id": "b102_0016",
    "jp": "「{kata}ヘ{hira}ーーーーーーー{kata}イ{hira}!」{n}{n}{n}「きょうも {kata}エンジェル{hira}ましらと{n} {kata}ザ{hira}・{kata}ブル{hira}ー{kata}モンキ{hira}ー{kata}ズ{hira}の {kata}ステ{hira}ー{kata}ジ{hira}に{n} 来てくれて ありがとう!」{n}「みんな! きょうも{n} いいあせ かいていってくれよな!」{n}{n}「1曲目を えんそう する前に{n} {kata}オレ{hira}の かがやかしい{n} けいれきを 聞きたいかい?」",
-   "en": null
+   "en": "\"Heeeeeeeeey!\"{n}{n}{n}\"Thanks for comin' out again today to the stage of Angel Mashira and the Blue Monkeys!\"{n}\"Everybody! Work up a good sweat again today, ya hear?\"{n}{n}\"Before we play the first number, do ya wanna hear my glorious history?\""
   },
   {
    "id": "b102_0017",
    "jp": "「{kata}オレ{hira}は 1940年 {kata}イギリス{hira}の{n} {kata}リバピ{hira}ー{kata}ル{hira}っていう村で{n} おぎゃー!と 生まれたんだ!」{n}「1962年 ともだちの {kata}マキ{hira}と{n} {kata}ヤマモト{hira}と {kata}オレンジ{hira}・{kata}スタ{hira}ーの{n} 4人で {kata}バンド{hira}を 作ったのさ!」{n}「1964年に{n} {kata}シングル{hira}『だきしめない』が{n} {kata}アメリカ{hira}で 大{kata}ヒット{hira}したんだ!」{n}「げんだいの わかものの きもちを{n} ものの みごとに えがいた曲は{n} あっとうてきな しじをえた!」{n}「1965年 {kata}ゴメンザマス{hira}女王から{n} くんしょうを もらったとき {kata}オレ{hira}は{n} 神様より えらいと いってやった」{n}「{kata}オレ{hira}は いつか {kata}ファン{hira}に{n} {kata}ピストル{hira}で うたれて死ぬんだ!{n} いつも そう おもってる!」{n}「だから こうして いろんなとこを{n} 歌って まわってるんだぜ!」{n}{n}「OK! じゃあ!{n} 1曲目 いくぜー!」{n}{n}「まずは {kata}バラ{hira}ー{kata}ド{hira}の曲から{n} 『{kata}イエス{hira}だぜー』だ!」{n}",
-   "en": null
+   "en": "\"I was born in 1940, in a village in England called Libapool! Waaah!\"{n}\"In 1962, I started a band with my buddies Maki, Yamamoto and Orange Star -- four of us!\"{n}\"In 1964, our single 'I Won't Hold Your Hand' was a smash hit in America!\"{n}\"Those songs captured how the young folks of today feel, and everybody went wild for 'em!\"{n}\"In 1965, when Queen Sorrymadam gave me a medal, I told 'em I was bigger than God!\"{n}\"Someday a fan's gonna shoot me with a pistol and I'll die! I always think so!\"{n}\"That's why I'm out here, singin' all over the place!\"{n}{n}\"OK! Here we go!{n} Number one, let's rock!\"{n}{n}\"We'll start with a ballad:{n} 'Yesterdaze'!\"{n}"
   },
   {
    "id": "b102_0018",
    "jp": "「そうか… そんなに{n} {kata}オレ{hira}の歌が はやく{n} 聞きたいか? {kata}ベイビ{hira}ー!」{n}「じゃあ! 1曲目から 飛ばすぜ!{n} 『知らずに 湯!』だ!」{n}",
-   "en": null
+   "en": "\"I see... You just can't wait to hear my songs, can ya? Baby!\"{n}\"All right! We'll go full throttle from number one! It's 'She Loves Ewe'!\"{n}"
   },
   {
    "id": "b102_0019",
    "jp": "「{kata}ソミレド{hira} {kata}ファミレド{hira}…{n} まさか {kata}オレ{hira}の歌が…へた?」{n}{n}「うそだ!」{n}{n}{n}「うそだ! うそだ!」{n}{n}{n}「うそだ! うそだ! うそだ!」{n}{n}{n}「{kata}ガッチュ{hira}ー! {kata}ガッチュ{hira}ー!{n} {kata}アイブ{hira} {kata}ガッチュ{hira}ー!」{n}{n}「{kata}ガッチュ{hira}ー! {kata}ガッチュ{hira}ー!{n} 1月! 2月! 3{kata}ガッチュ{hira}ー!{n} 4月! 5月! 6{kata}ガッチュ{hira}ー!」{n}「うそだろ～～～～～～～～～～{n} ～～～～～～～～～～～～～～{n} ～～～～～～～～～～～～～～!」{n}「{kata}オレ{hira}は {kata}オンチ{hira}だったのか～{n} ～～～～～～～～～～～～～～!{n} {kata}オ{hira}ー {kata}マイ{hira} {kata}ガ{hira}ーー{kata}ッ{hira}!」",
-   "en": null
+   "en": "\"Sol-mi-re-do, fa-mi-re-do...{n} Don't tell me my singing is... bad?\"{n}{n}\"No way!\"{n}{n}{n}\"No way! No way!\"{n}{n}{n}\"No way! No way! No way!\"{n}{n}{n}\"Gotcha! Gotcha!{n} I've gotcha!\"{n}{n}\"Gotcha! Gotcha!{n} January! February! March-gotcha!{n} April! May! June-gotcha!\"{n}\"No waaaaaaaaaay~~~~~~~~~~{n} ~~~~~~~~~~~~~~{n} ~~~~~~~~~~~~~~!\"{n}\"Was I tone-deaf all alonnng~{n} ~~~~~~~~~~~~~~!{n} Oh my Gaaawd!\""
   },
   {
    "id": "b102_0020",
    "jp": "{sub:A0}は{n}ましらを こらしめた!{n}",
-   "en": null
+   "en": "Momotaro{n}taught Mashira a lesson!{n}"
   },
   {
    "id": "b102_0021",
    "jp": "「天下一だじゃれ大会!{n} 出場は たったの 50両!{n} あんたも 出てみるかい?」",
-   "en": null
+   "en": "\"The Grand Pun Contest! Entry's only 50 ryo! Wanna give it a shot?\""
   },
   {
    "id": "b102_0022",
    "jp": "「お金が たりませんよ!{n} おちついて 鬼たいじを{n} めざして{sub:C5} {sub:A0}さん!」",
-   "en": null
+   "en": "\"You don't have enough money! Calm down and keep your eyes on the oni hunt, please, Momotaro!\""
   },
   {
    "id": "b102_0023",
    "jp": "「ほな 数字を{n} わりふって {sub:C5}」{n}",
-   "en": null
+   "en": "\"Well then, allot your numbers, please.\"{n}"
   },
   {
    "id": "b102_0024",
    "jp": "「ほーっ! なかなか しぶい数値!{n} では {kata}ト{hira}ー{kata}ナメント{hira}に したがって{n} 会場の ちゅうおうまで!」",
-   "en": null
+   "en": "\"Oho! Mighty shrewd numbers there! Now, follow the tournament bracket to the center of the arena!\""
   },
   {
    "id": "b102_0025",
    "jp": "「天下一だじゃれ大会は{n} {kata}ダジャレ{hira}の 力を みずから{n} えらんで 戦う {kata}ゲ{hira}ー{kata}ム{hira}です!」{n}「まず 100の 数値を{n} 体力 攻撃力 守備力 すばやさの{n} 4つに ふりわけます!」{n}「わけおわったら いざ ぶたいへ!{n} そうぜい 8人が あらそう{n} {kata}ト{hira}ー{kata}ナメント{hira}に ちょうせんです!」{n}「{kata}ト{hira}ー{kata}ナメント{hira}を 勝ちすすむと{n} ごうかな 賞品が!{n} 負ければ 何にも 無しよ!」{n}「さあ! たっぷり この{n} {kata}バカ{hira} {kata}バカ{hira}しい あそびを{n} おたのしみ {sub:C5}!」",
-   "en": null
+   "en": "\"The Grand Pun Contest is a game where you choose your own pun power and fight!\"{n}\"First, you divide 100 points among four stats: Health, Attack, Defense and Speed!\"{n}\"Once they're divided, onto the stage! You'll take on a tournament of eight contenders in all!\"{n}\"Win your way through the tournament and a lavish prize is yours! Lose, and you get nothing at all!\"{n}\"Now then! Please enjoy this utterly ridiculous game to the fullest!\""
   },
   {
    "id": "b102_0026",
    "jp": "「笑いは 心の泉!{n} さあ! 今年も{n} 天下一だじゃれ大会 はじまるよ!」",
-   "en": null
+   "en": "\"Laughter is the fountain of the heart! Come on! This year's Grand Pun Contest is about to begin!\""
   },
   {
    "id": "b102_0027",
    "jp": "「では いよいよ 決勝戦!{n} {hero} VS {arg}!{n} 両者 会場へ 上がって{sub:C5}!」",
-   "en": null
+   "en": "\"And now, at long last, the final match! {hero} VS {arg}! Both contestants, please step up to the arena!\""
   },
   {
    "id": "b102_0028",
    "jp": "「この しゅんかん 勝利の女神は{n} {hero}せんしゅの 頭上に{n} かがやいたのです! はくしゅを!」",
-   "en": null
+   "en": "\"At this very moment, the Goddess of Victory shone down upon contestant {hero}! A round of applause!\""
   },
   {
    "id": "b102_0029",
    "jp": "「みなさん! もう一度{n} {hero}せんしゅに 大きな{n} はくしゅをーーーーーーーーっ!」",
-   "en": null
+   "en": "\"Everyone! Once more, a big round of applause for contestant {hero}! Let's heeeeeeeear it!\""
   },
   {
    "id": "b102_0030",
    "jp": "「この しゅんかん 勝利の女神は{n} {arg}せんしゅの 頭上に{n} かがやいたのです! はくしゅを!」",
-   "en": null
+   "en": "\"At this very moment, the Goddess of Victory shone down upon contestant {arg}! A round of applause!\""
   },
   {
    "id": "b102_0031",
    "jp": "「なお ゆうしょうされた {n} {arg}せんしゅには{n} {arg}が おくられます」",
-   "en": null
+   "en": "\"And to our champion, contestant {arg}, we present {arg}.\""
   },
   {
    "id": "b102_0032",
    "jp": "{arg}せんしゅは{n}{arg}を 手に入れた!{n}{n}「みなさん! もう一度{n} {arg}せんしゅに 大きな{n} はくしゅをーーーーーーーーっ!」",
-   "en": null
+   "en": "Contestant {arg}{n}got {arg}!{n}{n}\"Everyone! Once more, a big round of applause for contestant {arg}! Let's heeeeeeeear it!\""
   },
   {
    "id": "b102_0033",
    "jp": "「それにしても {hero}せんしゅ!{n} あと1歩 およばず! 次回の{n} かつやくが きたいされます!」",
-   "en": null
+   "en": "\"Still, contestant {hero}! Just one step short! We look forward to great things next time!\""
   },
   {
    "id": "b102_0034",
    "jp": "「{num}回戦! 第{num}試合!{n} {hero} VS {arg}!{n} 両者 会場へ 上がって{sub:C5}!」",
-   "en": null
+   "en": "\"Round {num}! Match {num}! {hero} VS {arg}! Both contestants, please step up to the arena!\""
   },
   {
    "id": "b102_0035",
    "jp": "「おふたりの 強さは{n} ごらんのように{n} なっています!」",
-   "en": null
+   "en": "\"The strength of our two contestants is as you see here!\""
   },
   {
    "id": "b102_0036",
    "jp": "「それでは はじめます!」{n}{n}{n}「{kata}ファイト{hira}!」{n}{n}",
-   "en": null
+   "en": "\"Let the match begin!\"{n}{n}{n}\"Fight!\"{n}{n}"
   },
   {
    "id": "b102_0037",
    "jp": "「{hero}せんしゅ!{n} {num}回戦 勝ち抜きました!」{n}{n}「{hero}せんしゅ!{n} こちらへ どうぞ!」{n}",
-   "en": null
+   "en": "\"Contestant {hero}! You've won Round {num}!\"{n}{n}\"Contestant {hero}! This way, please!\"{n}"
   },
   {
    "id": "b102_0038",
    "jp": "「数字の わりふりを{n} やりなおしますか?」{n}",
-   "en": null
+   "en": "\"Do you want to redo the allotment of your numbers?\"{n}"
   },
   {
    "id": "b102_0039",
    "jp": "「ほな 数字を{n} わりふって {sub:C5}」{n}",
-   "en": null
+   "en": "\"Well then, allot your numbers, please.\"{n}"
   },
   {
    "id": "b102_0040",
    "jp": "「ほーっ! そう かえましたか!{n} なかなか かんがえてますな!」{n}",
-   "en": null
+   "en": "\"Oho! So that's how you changed them! You've given this some real thought!\"{n}"
   },
   {
    "id": "b102_0041",
    "jp": "「{hero}せんしゅの 勝ち!」{n}{n}",
-   "en": null
+   "en": "\"Contestant {hero} wins!\"{n}{n}"
   },
   {
    "id": "b102_0042",
    "jp": "「{arg}せんしゅの 勝ち!」{n}{n}",
-   "en": null
+   "en": "\"Contestant {arg} wins!\"{n}{n}"
   },
   {
    "id": "b102_0043",
    "jp": "「おしい! じつに おしい!{n} 気を落とさずに また{n} {kata}チャレンジ{hira}して {sub:C5}!」",
-   "en": null
+   "en": "\"So close! Truly, so close! Don't lose heart, and please try again!\""
   },
   {
    "id": "b102_0044",
    "jp": "「{arg}せんしゅ!{n} どうぞ!」{n}",
-   "en": null
+   "en": "\"Contestant {arg}! Your turn!\"{n}"
   },
   {
    "id": "b102_0045",
    "jp": "{hero}は{n}{num}の {kata}ダメ{hira}ー{kata}ジ{hira}!{n}",
-   "en": null
+   "en": "{hero}{n}took {num} damage!{n}"
   },
   {
    "id": "b102_0046",
    "jp": "「{hero}せんしゅ!{n} どうぞ!」{n}",
-   "en": null
+   "en": "\"Contestant {hero}! Your turn!\"{n}"
   },
   {
    "id": "b102_0047",
    "jp": "{arg}は{n}{num}の {kata}ダメ{hira}ー{kata}ジ{hira}!{n}",
-   "en": null
+   "en": "{arg}{n}took {num} damage!{n}"
   },
   {
    "id": "b102_0048",
    "jp": "「なお ゆうしょうされた {n} {hero}せんしゅには{n} {arg}が おくられます」",
-   "en": null
+   "en": "\"And to our champion, contestant {hero}, we present {arg}.\""
   }
  ]
 }

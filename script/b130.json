@@ -7,267 +7,267 @@
   {
    "id": "b130_0000",
    "jp": "「えらいことじゃ! {sub:A0}!{n} 風神と 雷神が この村の{n} 材木を {kata}メチャクチャ{hira}にしておる!」",
-   "en": null
+   "en": "\"This is terrible! Momotaro! Fujin and Raijin are making a wreck of this village's timber!\""
   },
   {
    "id": "b130_0001",
    "jp": "「風神 雷神の 力は すごいの{kata}ォ{hira}!{n} よわった 大地が{n} みるみる 元気になった!」",
-   "en": null
+   "en": "\"Fujin and Raijin sure are powerful! The weakened land is getting its strength back before our eyes!\""
   },
   {
    "id": "b130_0002",
    "jp": "「何だかんだ あったが{n} このあたりも おだやかに なった!{n} {sub:A0}! れいを いうぞ!」",
-   "en": null
+   "en": "\"A lot happened, but things have calmed down around here! Momotaro! You have my thanks!\""
   },
   {
    "id": "b130_0003",
    "jp": "村人{n}「助けてくれー! 飛ばされるー!」{n}{0B}",
-   "en": null
+   "en": "Villager{n}\"Heeelp! I'm gonna get blown awaaay!\"{n}{0B}"
   },
   {
    "id": "b130_0004",
    "jp": "老人{n}「助けてくれー! ひいいいいっ!」{n}{0B}",
-   "en": null
+   "en": "Old Man{n}\"Heeelp! Hiiiiieee!\"{n}{0B}"
   },
   {
    "id": "b130_0005",
    "jp": "村娘{n}「{kata}キャ{hira}ー{kata}ッ{hira}!」{n}",
-   "en": null
+   "en": "Village Girl{n}\"Eeeeek!\"{n}"
   },
   {
    "id": "b130_0006",
    "jp": "「{sub:A0}! {kata}カルラ{hira}が 風神と雷神を{n} けしかけて おるのじゃ!{n} はよう この嵐を とめてくれ!」",
-   "en": null
+   "en": "\"Momotaro! Karura is egging Fujin and Raijin on! Hurry and stop this storm!\""
   },
   {
    "id": "b130_0007",
    "jp": "「昔は 西の山をこえて{n} まっすぐ やまんばの洞窟に{n} 行けたんじゃがな…」{n}「鬼に 道を ふさがれてしまい{n} ずうっと とおまわり せんと{n} 行けんように なってしもうた!」",
-   "en": null
+   "en": "\"In the old days, you could cross the western mountains and go straight to the Hag's Cave...\"{n}\"But the oni blocked the road, and now ya gotta go the long way around to get there!\""
   },
   {
    "id": "b130_0008",
    "jp": "「{sub:A0}! やまんばの洞窟から{n} 船で 北東に むかえば{n} すゞめのお宿が あるぞ!」{n}「海は ひろい! まずは{n} 人々の話を よく{n} 聞くことから はじめるのじゃ!」",
-   "en": null
+   "en": "\"Momotaro! If you sail northeast from the Hag's Cave, you'll find the Sparrow Inn!\"{n}\"The sea is wide! Start by listening carefully to what people tell you!\""
   },
   {
    "id": "b130_0009",
    "jp": "「村を すくっていただいて{n} {sub:BD}す!」{n}{n}「{sub:A0}さんの 明るさで{n} 材木も かわくような 気がします」{n}",
-   "en": null
+   "en": "\"Thank you for saving the village!\"{n}{n}\"With your sunny spirit, Momotaro, I feel like even the timber will dry out.\"{n}"
   },
   {
    "id": "b130_0010",
    "jp": "「父まで すくっていただいて{n} {sub:BD}す!」{n}{n}「父は {sub:A0}さんに{n} すごい 船を 作るんだと{n} はりきっているんですよ!」",
-   "en": null
+   "en": "\"Thank you for saving my father too!\"{n}{n}\"Father's all fired up about building you an amazing ship, Momotaro!\""
   },
   {
    "id": "b130_0011",
    "jp": "「嵐が おさまったのは{n} うれしいけど 洞窟で 船作ってる{n} 父ちゃんが しんぱいだよ!」",
-   "en": null
+   "en": "\"I'm glad the storm's over, but I'm worried about my dad building the ship in the cave!\""
   },
   {
    "id": "b130_0012",
    "jp": "「父ちゃんが かえって きたよ!{n} {sub:A0}さん! また あんたの{n} おかげなんだってねえ!」{n}「もう! うれしいから{n} 家の宝 あげちゃうよ!」{n}",
-   "en": null
+   "en": "\"My dad came home! Momotaro! He says it's all thanks to you again!\"{n}\"Oh, I'm so happy, I'm giving you our family treasure!\"{n}"
   },
   {
    "id": "b130_0013",
    "jp": "「父ちゃん 頭 悪いけど{n} 腕は いいから{n} いい船 作るよー!」",
-   "en": null
+   "en": "\"My dad's not too bright, but he's good with his hands, so he'll build a great ship!\""
   },
   {
    "id": "b130_0014",
    "jp": "「ねえ! 鬼の世界の 子どもも{n} 竹とんぼ 飛ばしたりするの?」{n}",
-   "en": null
+   "en": "\"Hey! Do kids in the oni world fly bamboo-copters too?\"{n}"
   },
   {
    "id": "b130_0015",
    "jp": "「ねえねえ! 鬼の世界にも{n} 寺子屋って あるの?」{n}",
-   "en": null
+   "en": "\"Hey, hey! Do they have temple schools in the oni world too?\"{n}"
   },
   {
    "id": "b130_0016",
    "jp": "「坊や! 残急だけど{n} 鬼の子どもは 生まれてすぐ{n} 刀を もたされてしまうんだ!」",
-   "en": null
+   "en": "\"Sorry, kiddo, but oni children get a sword put in their hands as soon as they're born!\""
   },
   {
    "id": "b130_0017",
    "jp": "「坊や! 鬼の世界にも{n} 寺子屋みたいのは あるよ!」{n}{n}「でも {kata}カルラ{hira}の 命令で{n} 戦いの歴史ばっか{n} おぼえさせられるのさ!」",
-   "en": null
+   "en": "\"Kiddo! There's something like temple school in the oni world, sure!\"{n}{n}\"But on Karura's orders, all they make us learn is the history of war!\""
   },
   {
    "id": "b130_0018",
    "jp": "「鬼の 鬼道攻撃は ふせげないけど{n} 術は ふういんの術で ふせげます!{n} ためしてみて {sub:C5}!」",
-   "en": null
+   "en": "\"You can't block an oni's Oni Arts attacks, but you can block their Arts with the Seal Art! Please give it a try!\""
   },
   {
    "id": "b130_0019",
    "jp": "「いつか 地獄に もどったら{n} この村を おもいだすために{n} かしの木を うえてみます!」",
-   "en": null
+   "en": "\"Someday, when I go back to Hell, I'll plant an oak tree so I'll remember this village!\""
   },
   {
    "id": "b130_0020",
    "jp": "「やまんばが あの洞窟なら{n} 天気を 気にせず 船が作れると{n} わざわざ みつけてくれたのじゃ!」{n}「{kata}ホント{hira}は いい人の はずじゃ!{n} 鬼の世界というのは{n} なにやら ふくざつだな」",
-   "en": null
+   "en": "\"The Mountain Hag went out of her way to find that cave for us, saying we could build ships there without worrying about the weather!\"{n}\"She must really be a good person at heart! The oni world sure is complicated.\""
   },
   {
    "id": "b130_0021",
    "jp": "「そうですか! やまんばまで{n} {kata}カルラ{hira}ってのに だまされとったか!{n} 本当に 悪いやつじゃな!」",
-   "en": null
+   "en": "\"I see! So even the Mountain Hag was fooled by this Karura! What a truly wicked fellow!\""
   },
   {
    "id": "b130_0022",
    "jp": "「嵐で ちゅうを まったときは{n} もう{kata}ダメ{hira}だと おもったわ!{n} {sub:A0}さん! ありがとう!」{n}「これ! 何に {sub:B3}のか{n} わからないけど どうぞ!」{n}",
-   "en": null
+   "en": "\"When the storm sent me flying through the air, I thought I was done for! Momotaro! Thank you!\"{n}\"Here! I don't know what it's used for, but please take it!\"{n}"
   },
   {
    "id": "b130_0023",
    "jp": "「鬼は とうとう 船まで 作って{n} 海すら 独占する つもりよ!{n} もう やること {kata}ムチャクチャ{hira}ね!」",
-   "en": null
+   "en": "\"Now the oni are even building ships, so they can have the sea all to themselves! They'll stop at nothing!\""
   },
   {
    "id": "b130_0024",
    "jp": "「鬼は とうとう 船まで 作って{n} 海すら 独占する つもりよ!{n} もう やること {kata}ムチャクチャ{hira}ね!」",
-   "en": null
+   "en": "\"Now the oni are even building ships, so they can have the sea all to themselves! They'll stop at nothing!\""
   },
   {
    "id": "b130_0025",
    "jp": "「空飛んだの 生まれて はじめてだー{n} おもいだすだけで ひざが{n} {kata}ブルブル{hira} ふるえちまうだ!」{n}「そういえば やまんばの洞窟の{n} 船大工さんたちは 大丈夫だろか?」{n}",
-   "en": null
+   "en": "\"That was the first time I ever flew in all my born days! Just thinkin' about it makes my knees knock!\"{n}\"Say, I wonder if the shipwrights in the Hag's Cave are all right?\"{n}"
   },
   {
    "id": "b130_0026",
    "jp": "「これからも わしらは{n} 嵐に強い 丈夫な かしの木を{n} たくさん そだてるだ!」",
-   "en": null
+   "en": "\"From now on, we're gonna grow lots of sturdy oak trees that can stand up to storms!\""
   },
   {
    "id": "b130_0027",
    "jp": "{kata}カルラ{n}{hira}「風神よ! 雷神よ!{n} もっと 強く! はげしく!」{n}「いうことを きかなければ{n} えんま王の 命はないぞ!」{n}{n}「さあ! 風神よ! 雷神よ!{n} 村を! 材木を! すべて{n} おしながしてしまえ!」",
-   "en": null
+   "en": "Karura{n}\"Fujin! Raijin! Stronger! Fiercer!\"{n}\"If you don't do as I say, King Enma's life is forfeit!\"{n}{n}\"Now! Fujin! Raijin! The village! The timber! Wash it all away!\""
   },
   {
    "id": "b130_0028",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} しかたあるまい 雷神よ!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! It can't be helped, Raijin!\""
   },
   {
    "id": "b130_0029",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} しかたあるまい! えんま様のため」",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! It can't be helped! It's for King Enma.\""
   },
   {
    "id": "b130_0030",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! {sub:A0}! もう一度{n} 風神に ふき飛ばされるがよい!」{n}「あとは まかせたぞ!{n} 風神! 雷神!」{n}",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! Momotaro! Let Fujin blow you away once more!\"{n}\"I leave the rest to you! Fujin! Raijin!\"{n}"
   },
   {
    "id": "b130_0031",
    "jp": "風神{n}「待っていたぞ! {sub:A0}!{n} きょうこそ 答えを出そう!」",
-   "en": null
+   "en": "Fujin{n}\"I've been waiting for you! Momotaro! Today we shall settle this!\""
   },
   {
    "id": "b130_0032",
    "jp": "雷神{n}「{kata}オレ{hira}たちは 戦いのなかでしか{n} 答えを出せぬのだ! いざ!」",
-   "en": null
+   "en": "Raijin{n}\"We can only find our answer in battle! Have at you!\""
   },
   {
    "id": "b130_0033",
    "jp": "{sub:CE}{n}「待て! 風神! 雷神!{n} われらは 戦いたくない!」{n}「風神よ! 雷神よ!{n} あの 赤い毒の雨を{n} 見なかったのか?」{n}「天地の 悲鳴が{n} {sub:B6}たちには{n} 聞こえないのか!」",
-   "en": null
+   "en": "Ashura{n}\"Wait! Fujin! Raijin! We don't want to fight!\"{n}\"Fujin! Raijin! Did you not see that red, poisonous rain?\"{n}\"Can you not hear the screams of heaven and earth?\""
   },
   {
    "id": "b130_0034",
    "jp": "夜叉姫{n}「{kata}カルラ{hira}が えんま様を{n} 助けると 信じてるの?」{n}「じゃあ なぜ えんま様は{n} 奈落の底に いるの?」{n}",
-   "en": null
+   "en": "Yasha{n}\"Do you really believe Karura will save King Enma?\"{n}\"Then why is King Enma at the bottom of the abyss?\"{n}"
   },
   {
    "id": "b130_0035",
    "jp": "金太郎{n}「おめえら ほんとに{n} うたがいぶかい やっちゃなあ!」{n}「えんま様が いなきゃ おめえら{n} な～んも できね～んだろ!」{n}",
-   "en": null
+   "en": "Kintaro{n}\"Boy, you two sure are a suspicious bunch!\"{n}\"Without King Enma, you can't do nothin', can ya!\"{n}"
   },
   {
    "id": "b130_0036",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} 問答無用! いざ! 戦え!」{n}雷神{n}「ぐゎらり ぐゎらり!{n} 問答無用! 戦うのみ!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! Enough talk! Have at you! Fight!\"{n}Raijin{n}\"Gwarari, gwarari! Enough talk! We fight, and that is all!\""
   },
   {
    "id": "b130_0037",
    "jp": "風神{n}「ぴゅるるるるぅ!」{n}{n}「われらは {kata}カルラ{hira}が{n} ねじまげた話を{n} 信じていたわけか!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu!\"{n}{n}\"So we believed the twisted tale Karura told us!\""
   },
   {
    "id": "b130_0038",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!」{n}{n}「その {kata}カルラ{hira}に われら{n} えんま様の とりなしを{n} ひっしに たのんでいたのか!」",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari!\"{n}{n}\"And we begged that very Karura, desperately, to plead King Enma's case!\""
   },
   {
    "id": "b130_0039",
    "jp": "風神{n}「すまぬ! {sub:A0}よ!{n} いままでの ひれいを わびる!」",
-   "en": null
+   "en": "Fujin{n}\"Forgive us! Momotaro! We apologize for our rudeness until now!\""
   },
   {
    "id": "b130_0040",
    "jp": "雷神{n}「どうか われらも {sub:A0}の{n} 仲間に 加えてくれい!」",
-   "en": null
+   "en": "Raijin{n}\"We beg you, let us join Momotaro's company too!\""
   },
   {
    "id": "b130_0041",
    "jp": "風神{n}「たっての 願いだ! {n} 雷神ともども そなたの仲間に!」",
-   "en": null
+   "en": "Fujin{n}\"It is our earnest wish! Let Raijin and me join your company!\""
   },
   {
    "id": "b130_0042",
    "jp": "風神{n}「うたがうは もっとも!」{n}",
-   "en": null
+   "en": "Fujin{n}\"You have every right to doubt us!\"{n}"
   },
   {
    "id": "b130_0043",
    "jp": "雷神{n}「ならば これを 見てくれ!」{n}",
-   "en": null
+   "en": "Raijin{n}\"Then behold this!\"{n}"
   },
   {
    "id": "b130_0044",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} 風よ! 雲をよべ!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! Wind! Call the clouds!\""
   },
   {
    "id": "b130_0045",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} 雨をふらせろ! みそぎの 雨を!」",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! Let the rain fall! The rain of purification!\""
   },
   {
    "id": "b130_0046",
    "jp": "風神{n}「ありがたい!{n} かならずや 力になろう!」",
-   "en": null
+   "en": "Fujin{n}\"We are grateful! We will surely be of help!\""
   },
   {
    "id": "b130_0047",
    "jp": "雷神{n}「かたじけない!{n} かならずや 力になろう!」{n}風神{n}「{sub:A0}! 仲間になった 記急に{n} われらの力を 見てもらおうか!」{n}雷神{n}「そうだな! 天地のけがれ{n} はらってみせよう!」",
-   "en": null
+   "en": "Raijin{n}\"We are in your debt! We will surely be of help!\"{n}Fujin{n}\"Momotaro! To mark our joining you, shall we show you our power?\"{n}Raijin{n}\"Indeed! We shall sweep away the defilement of heaven and earth!\""
   },
   {
    "id": "b130_0048",
    "jp": "風神{n}「見てくれたか? {sub:A0}!{n} われらの つぐないだ!」",
-   "en": null
+   "en": "Fujin{n}\"Did you see, Momotaro? That is our atonement!\""
   },
   {
    "id": "b130_0049",
    "jp": "雷神{n}「あとは われらの{n} はたらきぶりを 見てくれ!」",
-   "en": null
+   "en": "Raijin{n}\"Now watch how hard we work for you!\""
   },
   {
    "id": "b130_0050",
    "jp": "右魂鬼{n}「{kata}グルルルルル{hira}!」{n}",
-   "en": null
+   "en": "Ukonki{n}\"Grrrrrrrr!\"{n}"
   },
   {
    "id": "b130_0051",
    "jp": "左魂鬼{n}「{kata}ガルルルルル{hira}!」{n}",
-   "en": null
+   "en": "Sakonki{n}\"Garrrrrrr!\"{n}"
   },
   {
    "id": "b130_0052",
    "jp": "「{sub:A0}さん! 船が 出来ました!{n} 早く いらして{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Momotaro! The ship is finished! Please come quickly!\"{n}"
   }
  ]
 }

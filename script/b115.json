@@ -7,72 +7,72 @@
   {
    "id": "b115_0000",
    "jp": "「銭湯にでも 行って{n} ひとあせ ながしてくるかな!」{n}",
-   "en": null
+   "en": "\"Maybe I'll go to the bathhouse and wash off a little sweat!\"{n}"
   },
   {
    "id": "b115_0001",
    "jp": "「{kata}オレ{hira}っちは かわらばん屋 でい!{n} おもしれえ{kata}ネタ{hira}が あるんだけど{n} どーでい? のぞいていくかい?」",
-   "en": null
+   "en": "\"Me, I'm a newssheet seller, see! Got some real interestin' stuff here! Whaddaya say? Wanna take a peek?\""
   },
   {
    "id": "b115_0002",
    "jp": "{sub:A0}は かわらばんを よんだ!{n}{n}{n}「わしは 風鈴を 愛する{n} {kata}ロマンチック{hira}な じじい 68さい」{n}{n}「めずらしい 風鈴{n} 高く 買いますゆえ{n} わが家まで おこしくだされ!」",
-   "en": null
+   "en": "Momotaro read the newssheet!{n}{n}{n}\"I am a romantic old geezer, age 68, who loves wind chimes.\"{n}{n}\"I pay top price for unusual wind chimes, so do come by my home!\""
   },
   {
    "id": "b115_0003",
    "jp": "「おいしい{kata}ネタ{hira} なんだけどな!」{n}{n}",
-   "en": null
+   "en": "\"And it's such a juicy scoop, too!\"{n}{n}"
   },
   {
    "id": "b115_0004",
    "jp": "「{sub:A0}さん! 知ってる?{n} {kata}イキ{hira}のいい魚は 料亭い志ゑで{n} 買い取ってくれるわよ!」",
-   "en": null
+   "en": "\"Momotaro! Did you know? The Ishie restaurant will buy any nice fresh fish you bring them!\""
   },
   {
    "id": "b115_0005",
    "jp": "「都を出て 北に広がる森を{n} ぬければ また雪国じゃ!」{n}{n}「その北の地に ならぶ{n} ならび地蔵さまは 旅人の守り神!{n} かならず おたずねなされ!」",
-   "en": null
+   "en": "\"Leave the Capital and get through the forest spreading to the north, and you'll be in snow country again!\"{n}{n}\"Up in that northern land, the Row of Jizo statues are the guardians of travelers! Be sure to pay them a visit!\""
   },
   {
    "id": "b115_0006",
    "jp": "「わしゃ 風鈴を あつめるのが{n} 生きがい ですじゃ!」{n}{n}「年よりの 道楽と{n} 笑ろうて くだされ!」{n}",
-   "en": null
+   "en": "\"Collecting wind chimes is what I live for!\"{n}{n}\"Go on and laugh at an old man's little hobby!\"{n}"
   },
   {
    "id": "b115_0007",
    "jp": "「おう! ええ 音色の{n} 風鈴を お持ちじゃな!」{n}{n}「そ その 風鈴{n} この じじいに 100両で{n} ゆずっては くださらぬか?」",
-   "en": null
+   "en": "\"Oh! That's a wind chime with a fine ring to it!\"{n}{n}\"W-would you sell that wind chime to this old geezer for 100 ryo?\""
   },
   {
    "id": "b115_0008",
    "jp": "{arg}は 100両で{n}風鈴を ゆずった!{n}{n}「おう! ありがたや!{n} また 手に入ったら{n} おねがいしますよ!」",
-   "en": null
+   "en": "{arg} sold the Wind Chime{n}for 100 ryo!{n}{n}\"Oh! Bless you! If you come by another one, please bring it to me!\""
   },
   {
    "id": "b115_0009",
    "jp": "「それは 残急じゃ!」{n}{n}",
-   "en": null
+   "en": "\"What a shame!\"{n}{n}"
   },
   {
    "id": "b115_0010",
    "jp": "「うちの むすこは しょじょ寺で{n} 修行を してるんですよ!」{n}",
-   "en": null
+   "en": "\"My son's training as a monk at Shojo Temple, you know!\"{n}"
   },
   {
    "id": "b115_0011",
    "jp": "「おしょう{kata}サマ{hira}は 水あめが{n} たいそう お好きなんです!」{n}{n}「里がえりの おみやげに{n} 水あめ 買って いかなきゃ!」{n}",
-   "en": null
+   "en": "\"The head priest just loves starch syrup!\"{n}{n}\"I've got to buy some starch syrup to take as a gift when I go home to visit!\"{n}"
   },
   {
    "id": "b115_0012",
    "jp": "「{sub:A0}さん!{n} ちゃんと べんりな所に {n} お城を 建てましたか?」{n}「どうしてもという場合は{n} 大工の{kata}トメ{hira}さんが{n} なんとか してくれますよ!」",
-   "en": null
+   "en": "\"Momotaro! Did you build your castle somewhere handy?\"{n}\"If you really need to, Tome the carpenter can sort it out for you!\""
   },
   {
    "id": "b115_0013",
    "jp": "「料亭い志ゑには{n} 行きましたか?」{n}{n}「たまに あそこで 食事してると{n} ものすごく 役に立つ{n} じょうほうが 入りますよ!」",
-   "en": null
+   "en": "\"Have you been to the Ishie restaurant?\"{n}{n}\"When I eat there now and then, I pick up some amazingly useful information!\""
   }
  ]
 }

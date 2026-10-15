@@ -7,232 +7,232 @@
   {
    "id": "b220_0000",
    "jp": "夜叉姫{n}「{kata}ダイダ{hira}お兄さま! どうして?」{n}",
-   "en": null
+   "en": "Yasha{n}\"Brother Daida! Why?\"{n}"
   },
   {
    "id": "b220_0001",
    "jp": "「{kata}ダイダ{hira}お兄さまは{n} 鬼の王に なる方でしょ? なのに{n} {kata}カルラ{hira}の いいなりに なるの?」{n}{kata}ダイダ{hira}王子{n}「あまやかされて そだった {sub:B6}に{n} {kata}カルラ{hira}の 気持ちが わかるか!」{n}「強い者が この世を 支配する!{n} そのためには どうしても{n} {kata}カルラ{hira}の力が ひつようなのだ!」{n}「そこを どけ!」{n}{n}{n}夜叉姫{n}「お兄さま……!」{n}",
-   "en": null
+   "en": "\"Brother Daida, you're the one who'll be king of the oni, aren't you? So why do you do whatever Karura says?\"{n}Prince Daida{n}\"How could a pampered girl like you understand how Karura feels!\"{n}\"The strong shall rule this world! And for that, I absolutely need Karura's power!\"{n}\"Out of my way!\"{n}{n}{n}Yasha{n}\"Brother...!\"{n}"
   },
   {
    "id": "b220_0002",
    "jp": "{kata}カルラ{n}{hira}「ええい! 吐け!{n} これでも 吐かぬか!」",
-   "en": null
+   "en": "Karura{n}\"Bah! Talk! Still won't talk, even after this?!\""
   },
   {
    "id": "b220_0003",
    "jp": "{kata}カルラ{n}{hira}「月の水晶の{n} 力とは 何なんだ!」",
-   "en": null
+   "en": "Karura{n}\"What is the power of the Moon Quartz?!\""
   },
   {
    "id": "b220_0004",
    "jp": "{kata}アジャセ{hira}王子{n}「やめろ! {kata}カルラ{hira}!」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Stop it! Karura!\"{n}"
   },
   {
    "id": "b220_0005",
    "jp": "「なぜだ? {kata}ダイダ{hira}兄上!{n} なぜ {kata}カルラ{hira}に{n} あのような まねを させる!」",
-   "en": null
+   "en": "\"Why? Brother Daida! Why do you let Karura do such things?!\""
   },
   {
    "id": "b220_0006",
    "jp": "{kata}ダイダ{hira}王子{n}「{sub:B6}の 知ったことでは ない!」{n}",
-   "en": null
+   "en": "Prince Daida{n}\"That's none of your concern!\"{n}"
   },
   {
    "id": "b220_0007",
    "jp": "{kata}ダイダ{hira}王子{n}「さがれ! {kata}アジャセ{hira}!」{n}",
-   "en": null
+   "en": "Prince Daida{n}\"Stand back! Ajase!\"{n}"
   },
   {
    "id": "b220_0008",
    "jp": "夜叉姫{n}「やめて! お兄さま!{n} きずつけあうのは やめてー{kata}ッ{hira}!」",
-   "en": null
+   "en": "Yasha{n}\"Stop it! Brothers! Stop hurting each other!\""
   },
   {
    "id": "b220_0009",
    "jp": "{kata}ダイダ{hira}王子{n}「{sub:A0}! {sub:B6}の{n} いいたいことは わかる!」{n}「すべては 戦いのなかで{n} {sub:B6}に 問いたい!」{n}{n}「さあ! 見せてみろ!{n} {sub:B6}の ありったけの力を!{n} 今こそ 本気で 戦おうぞ!」",
-   "en": null
+   "en": "Prince Daida{n}\"Momotaro! I know what you want to say!\"{n}\"I want to ask you everything through battle!\"{n}{n}\"Now! Show me! Show me every last bit of your power! Now we fight in earnest!\""
   },
   {
    "id": "b220_0010",
    "jp": "{kata}ダイダ{hira}王子{n}「{sub:A0}! {kata}オレ{hira}も {sub:B6}たちの{n} 仲間に 加えてくれ! たのむ!」{n}{kata}ダイダ{hira}王子が 仲間に 加わった!{n}{n}",
-   "en": null
+   "en": "Prince Daida{n}\"Momotaro! Let me join you and your friends too! I beg you!\"{n}Prince Daida joined the party!{n}{n}"
   },
   {
    "id": "b220_0011",
    "jp": "{kata}ダイダ{hira}王子{n}「さあ! この 新しい力を{n} 地獄の 者どもに 伝えに行こう!」",
-   "en": null
+   "en": "Prince Daida{n}\"Come! Let us go carry this new power to the folk of Hell!\""
   },
   {
    "id": "b220_0012",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} 死ねや! {kata}ダイダ{hira}!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! Die! Daida!\""
   },
   {
    "id": "b220_0013",
    "jp": "夜叉姫{n}「{kata}キャ{hira}ーーーーーー{kata}ッ{hira}!{n} {kata}ダイダ{hira}お兄さまー{kata}ッ{hira}!」",
-   "en": null
+   "en": "Yasha{n}\"Kyaaaaaaah! Brother Daidaaaa!\""
   },
   {
    "id": "b220_0014",
    "jp": "えんま王{n}「{kata}ダイダ{hira}王子! いかがなされた!」{n}",
-   "en": null
+   "en": "King Enma{n}\"Prince Daida! What has happened?!\"{n}"
   },
   {
    "id": "b220_0015",
    "jp": "{sub:CE}{n}「{kata}カルラ{hira}! 何をする{kata}ッ{hira}!!」{n}",
-   "en": null
+   "en": "Ashura{n}\"Karura! What are you doing?!!\"{n}"
   },
   {
    "id": "b220_0016",
    "jp": "{kata}ダイダ{hira}王子{n}「{kata}カルラ{hira}……!!{n} {sub:B6}は… {sub:B6}…は…!」{n}{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} おろかな {kata}ダイダ{hira}王子!」{n}「しょせん あなたは{n} 王の器では なかったのだ!」{n}{n}「伐折羅さまには{n} {sub:A0}に 負けた くやしさで{n} 切腹したと 伝えてあげますよ!」{n}「あとの 鬼の世は{n} この{kata}カルラ{hira}に まかせたと{n} いったことも お伝えしますよ!」{n}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! {kata}ダイダ{hira}王子!{n} ゆっくり 休むが いい!{n} えいえんに 目を あけずにな!」{n}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!」{n}{n}",
-   "en": null
+   "en": "Prince Daida{n}\"Karura......!! You... you...!\"{n}Karura{n}\"Keeh, keh-keh-keh! Foolish Prince Daida!\"{n}\"In the end, you were never fit to be king!\"{n}{n}\"I'll be sure to tell King Basara you slit your belly in shame after losing to Momotaro!\"{n}\"And I'll tell him you said to leave the world of the oni to me, Karura, after you're gone!\"{n}\"Keeh, keh-keh-keh! Prince Daida! Rest easy! And never open your eyes again!\"{n}\"Keeh, keh-keh-keh!\"{n}{n}"
   },
   {
    "id": "b220_0017",
    "jp": "{kata}ダイダ{hira}王子{n}「{kata}カルラ{hira}め… こういう…{n} こと……だった…のか…」{n}「{kata}オレ{hira}を……つかって…{n} 自分の… つごうのいい…{n} 世界を…作りたかっただけか!」{n}「{kata}ハア{hira}… {kata}ハア{hira}…{n} {kata}オレ{hira}は… {kata}カルラ{hira}の…{n} 道具だったのか…」{n}「剣'か……? 防具か!{n} {kata}ハア{hira}… {kata}ハア{hira}…」{n}{n}「もう… 目が… 見えぬ…{n} {kata}ア{hira}…{kata}ジャセ{hira}…は…どこだ…?」{n}",
-   "en": null
+   "en": "Prince Daida{n}\"Karura... so that's... how... it was...\"{n}\"He... used me... He just wanted... to make a world... that suited... himself!\"{n}\"Hah... hah... Was I... nothing but... Karura's... tool...\"{n}\"His sword...? His armor! Hah... hah...\"{n}{n}\"I... can't... see anymore... Where... is... A...jase...?\"{n}"
   },
   {
    "id": "b220_0018",
    "jp": "{kata}ダイダ{hira}王子{n}「{kata}オレ{hira}たちは…なかの…よい…{n} きょうだいでは なかったな…」{n}「しかし…めざす…道は{n} …おなじだった…はずだ」{n}{n}「あとを… たの…む!{n} 地獄を…{sub:A0}と{n} 新しく ぬりかえるのだ!」",
-   "en": null
+   "en": "Prince Daida{n}\"We... weren't... very close... as brothers... were we...\"{n}\"But... the road... we sought... must have been... the same\"{n}{n}\"I... leave the rest... to you! You and... Momotaro... must paint Hell... anew!\""
   },
   {
    "id": "b220_0019",
    "jp": "夜叉姫{n}「いやよ! どうして?{n} お兄さまが 死ぬなんて いやよ!」{n}{kata}ダイダ{hira}王子{n}「…夜叉よ! 泣くことは…ない{n} これも… さだめだ…」{n}「{kata}ハア{hira}… {kata}ハア{hira}…{n} …{sub:A0}と… 行くがよい…」{n}",
-   "en": null
+   "en": "Yasha{n}\"No! Why? I won't let you die, brother! No!\"{n}Prince Daida{n}\"...Yasha! There's no need... to cry. This too... is fate...\"{n}\"Hah... hah... ...Go... with Momotaro...\"{n}"
   },
   {
    "id": "b220_0020",
    "jp": "えんま様{n}「伐折羅王さまは あなたと{n} 新しい時代を 作るつもりですぞ!」{n}{kata}ダイダ{hira}王子{n}「{kata}アジャセ{hira}が いる…」{n}",
-   "en": null
+   "en": "King Enma{n}\"King Basara means to build a new age with you, my prince!\"{n}Prince Daida{n}\"There's... Ajase...\"{n}"
   },
   {
    "id": "b220_0021",
    "jp": "{sub:CE}{n}「{kata}ダイダ{hira}王子! まだ あなたは{n} 友情の力を 身につけていませぬぞ」{n}{kata}ダイダ{hira}王子{n}「ははは… {sub:CE}……らしい…{n} ……ありがとう……{sub:CE}…」",
-   "en": null
+   "en": "Ashura{n}\"Prince Daida! You have not yet mastered the power of friendship!\"{n}Prince Daida{n}\"Ha ha ha... How like you... Ashura... ...Thank you... Ashura...\""
   },
   {
    "id": "b220_0022",
    "jp": "金太郎{n}「ねむたそうな目の にいちゃんよー!{n} {kata}ホント{hira}に ねて どうすんだよ!」{n}「新しい時代の 朝が 来るぞ!{n} おきろよ! おきろよーーーー{kata}ッ{hira}!」{n}",
-   "en": null
+   "en": "Kintaro{n}\"Hey, you sleepy-eyed big brother! What're ya doin' actually fallin' asleep?!\"{n}\"The morning of a new age is comin'! Wake up! Wake uuuuuup!\"{n}"
   },
   {
    "id": "b220_0023",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} {kata}ダイダ{hira}王子さまー{kata}ッ{hira}!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururu! Prince Daidaaaa!\""
   },
   {
    "id": "b220_0024",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} {kata}ダイダ{hira}王子さまー{kata}ッ{hira}!」",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! Prince Daidaaaa!\""
   },
   {
    "id": "b220_0025",
    "jp": "{kata}ダイダ{hira}王子{n}「{kata}アジャセ{hira}…お…まえの……笛を…」{n}{n}「もう一度…聞きたかった…{n} 夜叉と… {sub:B6}と… {kata}オレ{hira}とで…」{n}{n}「ごふっ!」{n}{n}{n}{kata}ダイダ{hira}王子は しずかな{n}ねむりに ついた……………!{n}",
-   "en": null
+   "en": "Prince Daida{n}\"Ajase... your... flute...\"{n}{n}\"I wanted... to hear it... once more... Yasha... and you... and me... together...\"{n}{n}\"Gahh!\"{n}{n}{n}Prince Daida fell into{n}a quiet sleep...............!{n}"
   },
   {
    "id": "b220_0026",
    "jp": "{kata}アジャセ{hira}王子{n}「{kata}カルラ{hira}め……!」{n}{n}「この 怒りと 悲しみは{n} 千夜をすぎても{n} いやされは しまいっ!」{n}「くぬぬぬっ!」{n}{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Karura......!\"{n}{n}\"This rage and grief will not be healed though a thousand nights pass!\"{n}\"Grrrrngh!\"{n}{n}"
   },
   {
    "id": "b220_0027",
    "jp": "{kata}アジャセ{hira}王子{n}「{sub:A0}!」{n}{n}「月の水晶のなぞは とけたか?」{n}{n}{n}「この宮殿の 仙女たちなら{n} かぐや姫から {sub:B6}に 何か{n} いいつかっているかも 知れぬ」{n}「{sub:C9}は いまから{n} {kata}カルラ{hira}を おいかける!」{n}{n}「{kata}カルラ{hira}め! この{kata}アジャセ{hira}!{n} 天と地の はてまでも{n} おいつめてみせよう!」",
-   "en": null
+   "en": "Prince Ajase{n}\"Momotaro!\"{n}{n}\"Have you solved the riddle of the Moon Quartz?\"{n}{n}{n}\"The celestial maidens of this palace may have been told something by Princess Kaguya for you.\"{n}\"I go now to pursue Karura!\"{n}{n}\"Karura! I, Ajase, will hunt you down to the very ends of heaven and earth!\""
   },
   {
    "id": "b220_0028",
    "jp": "「{kata}カルラ{hira}が! {kata}カルラ{hira}が{n} かぐや姫さまを 地獄へ!{n} 地獄へ つれていきました!」",
-   "en": null
+   "en": "\"Karura! Karura has taken Princess Kaguya to Hell! He took her to Hell!\""
   },
   {
    "id": "b220_0029",
    "jp": "「かぐや姫さまは 地上を 作られた{n} とおとい神の まつえいなのです!」{n}{n}「その 姫さまが なくなられたら{n} この世は くだけてしまうでしょう!」{n}",
-   "en": null
+   "en": "\"Princess Kaguya is a descendant of the noble god who made the earth!\"{n}{n}\"If she were to perish, this world would crumble apart!\"{n}"
   },
   {
    "id": "b220_0030",
    "jp": "「竹取りの村の 人々が{n} かぐや姫さまを たすけようと{n} 立ちあがった話は きいています…」{n}「でも {sub:C9}たちには…{n} その お心に むくいる力も{n} ないのです……ああっ!」",
-   "en": null
+   "en": "\"We've heard how the people of Bamboo Village rose up to save Princess Kaguya...\"{n}\"But we haven't even the power to repay their kindness...... Ahh!\""
   },
   {
    "id": "b220_0031",
    "jp": "「かぐや姫さまは?」{n}{n}{n}「かぐや姫さまは?」{n}{n}{n}「まさか! かぐや姫さまの身に{n} もしものことが あれば{n} 大地の 形が くずれるのです!」{n}「ああ! まさか{n} そのようなことが……!」{n}",
-   "en": null
+   "en": "\"Where is Princess Kaguya?\"{n}{n}{n}\"Where is Princess Kaguya?\"{n}{n}{n}\"Oh no! If anything were to happen to Princess Kaguya, the very shape of the land would crumble!\"{n}\"Ah! Surely it can't be......!\"{n}"
   },
   {
    "id": "b220_0032",
    "jp": "「かぐや姫さまは とらわれの身でも{n} つねに 希望を{n} いだいて おられました!」{n}「この世には {sub:A0}さんという{n} 希望が まだ 残されていると{n} もうされておりましたわ!」",
-   "en": null
+   "en": "\"Even as a captive, Princess Kaguya never lost hope!\"{n}\"She always said that this world still has a hope left in it, named Momotaro!\""
   },
   {
    "id": "b220_0033",
    "jp": "「夢の村の 夕月さまの{n} お力が かんじられませぬ!」{n}{n}「この月で もっとも{n} やすらかな 夢の村まで…{n} 何という ことでしょう!」",
-   "en": null
+   "en": "\"I can't sense Lady Yuzuki's power in Dream Village!\"{n}{n}\"Even Dream Village, the most peaceful place on the Moon... How dreadful!\""
   },
   {
    "id": "b220_0034",
    "jp": "「{sub:A0}さん! 鳳凰は{n} お役に立って おりますか?」{n}{n}「鳳凰ならば{n} 月の山も 地上の谷も{n} 三途の川も こえられましょう!」{n}「{sub:A0}さんなら きっと{n} 鳳凰を のりこなせますわ!」{n}",
-   "en": null
+   "en": "\"Momotaro! Is the Phoenix being of use to you?\"{n}{n}\"The Phoenix can cross the mountains of the Moon, the valleys of the earth, even the Sanzu River!\"{n}\"I'm sure you can master riding the Phoenix, Momotaro!\"{n}"
   },
   {
    "id": "b220_0035",
    "jp": "「鳳凰は この世に{n} さいわいを はこぶ 希望の鳥!」{n}{n}「その はばたきが{n} 天地をつなぎ 鬼と人との{n} かけ橋に なりましょう!」{n}「{sub:A0}さん!{n} あきらめは 絶望しか{n} 生みださないのですよ!」",
-   "en": null
+   "en": "\"The Phoenix is the bird of hope that carries good fortune to this world!\"{n}{n}\"Its wingbeats will link heaven and earth and become a bridge between oni and humans!\"{n}\"Momotaro! Giving up only ever gives birth to despair!\""
   },
   {
    "id": "b220_0036",
    "jp": "「ああ! {sub:A0}さん!」{n}{n}{n}「わたくしが 役に立つなんて!{n} 悲しゅうございます!」{n}{n}「かぐや姫さまは…」{n}{n}{n}「わが身に もしものことあれば{n} ここで {sub:A0}さんを{n} お待ちせよと もうされました!」{n}「そして 月の水晶の ひみつを{n} おしえなさいと{n} お命じに なったのです!」{n}「だから わたくしは{n} 悲しいので ございます!」{n}{n}「でも 役目です!」{n}{n}{n}「{sub:A0}さん! 月の水晶は{n} 8つ すべて{n} そろいましたでしょうか?」",
-   "en": null
+   "en": "\"Ah! Momotaro!\"{n}{n}{n}\"To think I would be of use! It grieves me so!\"{n}{n}\"Princess Kaguya...\"{n}{n}{n}\"She said that if anything befell her, I was to wait here for you, Momotaro!\"{n}\"And she commanded me to teach you the secret of the Moon Quartz!\"{n}\"That is why I am so sad!\"{n}{n}\"But it is my duty!\"{n}{n}{n}\"Momotaro! Have you gathered all 8 pieces of the Moon Quartz?\""
   },
   {
    "id": "b220_0037",
    "jp": "「それは 残急です!{n} いっこくも はやく{n} そろえて{sub:C5}ませ!」{n}「ここで お待ちしております!」{n}{n}",
-   "en": null
+   "en": "\"What a pity! Please gather them as quickly as you can!\"{n}\"I shall be waiting here!\"{n}{n}"
   },
   {
    "id": "b220_0038",
    "jp": "「見たところ まだ{n} そろっていない ようなのですが…」{n}",
-   "en": null
+   "en": "\"From the look of it, you haven't gathered them all yet...\"{n}"
   },
   {
    "id": "b220_0039",
    "jp": "「さあ! まいりましょう!{n} 伝説の 鳳凰(ほうおう)を{n} よみがえらせましょう!」",
-   "en": null
+   "en": "\"Now! Let us go! Let us bring the legendary Phoenix back to life!\""
   },
   {
    "id": "b220_0040",
    "jp": "「{sub:A0}さん! 鬼たいじを{n} あきらめないで {sub:C5}まし!」{n}{n}「かぐや姫さまは あなたに{n} 希望を たくされました!」{n}{n}「どうか あの {kata}カルラ{hira}を…!{n} そして 伐折羅王を………!」{n}{n}「勇気の剣'で{n} こらしめて{sub:C5}!」{n}{n}「あなたなら きっと!{n} わたくしたちも 信じております!」{n}",
-   "en": null
+   "en": "\"Momotaro! Please don't give up on defeating the oni!\"{n}{n}\"Princess Kaguya has entrusted her hope to you!\"{n}{n}\"Please, that Karura...! And King Basara.........!\"{n}{n}\"Punish them with the Valor Sword!\"{n}{n}\"You can surely do it! We believe in you too!\"{n}"
   },
   {
    "id": "b220_0041",
    "jp": "仙女{n}「{sub:A0}さん! 月の水晶を{n} おかし{sub:C5}ませ!」",
-   "en": null
+   "en": "Celestial Maiden{n}\"Momotaro! Please lend me the Moon Quartz!\""
   },
   {
    "id": "b220_0042",
    "jp": "「月みちて…」{n}{n}{n}「人鬼むすぶ 子をいだき…」{n}{n}{n}「はばたき いずる…」{n}{n}{n}「天の鳳凰!」{n}{n}",
-   "en": null
+   "en": "\"The moon grows full...\"{n}{n}{n}\"Holding the child who binds human and oni...\"{n}{n}{n}\"Beating its wings, it rises forth...\"{n}{n}{n}\"The Phoenix of Heaven!\"{n}{n}"
   },
   {
    "id": "b220_0043",
    "jp": "月の水晶に ひめられた力が{n}いま ときはなたれた!{n}{n}水晶は 鳳凰となった!{n}{n}{n}伝説の 鳳凰が よみがえる!{n}{n}",
-   "en": null
+   "en": "The power sealed in the Moon Quartz{n}is now set free!{n}{n}The Quartz has become the Phoenix!{n}{n}{n}The legendary Phoenix lives again!{n}{n}"
   },
   {
    "id": "b220_0044",
    "jp": "仙女{n}「{sub:A0}さん!」{n}",
-   "en": null
+   "en": "Celestial Maiden{n}\"Momotaro!\"{n}"
   },
   {
    "id": "b220_0045",
    "jp": "「よみがえった 鳳凰は{n} あなたを のせて{n} 望みのままに 飛びますわ!」{n}「鳳凰ならば{n} 月の山も 地上の谷も{n} 三途の川も こえられましょう!」{n}「この 鳳凰の笛を吹けば{n} 鳳凰は {sub:A0}さんの{n} もとへ まいります!」{n}「どうか かぐや姫さまを{n} おすくい{sub:C5}ませ!」{n}",
-   "en": null
+   "en": "\"The reborn Phoenix will carry you and fly wherever you wish!\"{n}\"The Phoenix can cross the mountains of the Moon, the valleys of the earth, even the Sanzu River!\"{n}\"Blow this Phoenix Flute, and the Phoenix will come to you, Momotaro!\"{n}\"Please, save Princess Kaguya!\"{n}"
   }
  ]
 }

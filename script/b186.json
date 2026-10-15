@@ -7,222 +7,222 @@
   {
    "id": "b186_0000",
    "jp": "「もう待てねえ! かぐや姫さまは{n} {kata}オラ{hira}たちが すくうだ!{n} 月でも 地獄でも 行ってやる!」",
-   "en": null
+   "en": "\"We can't wait no more! We'll save Princess Kaguya ourselves! We'll go to the Moon or to Hell if we gotta!\""
   },
   {
    "id": "b186_0001",
    "jp": "「おねげーだー!{n} かぐや姫さまを{n} かえしてくだせー!」{n}「{kata}オラ{hira}たちの 命と{n} ひきかえでも ええだー!{n} おねげーだー!」",
-   "en": null
+   "en": "\"We're beggin' ya! Give Princess Kaguya back!\"{n}\"We'll trade our own lives for hers if we gotta! We're beggin' ya!\""
   },
   {
    "id": "b186_0002",
    "jp": "「ここを どこだと おもってんだ!{n} {sub:B6}たち 虫けらの{n} 来るような 場所じゃねえ!」{n}「あっ! {sub:B6}は! {sub:A0}!」{n}{n}",
-   "en": null
+   "en": "\"Where d'you think you are?! This ain't no place for worms like you!\"{n}\"Ah! You're... Momotaro!\"{n}{n}"
   },
   {
    "id": "b186_0003",
    "jp": "「{kata}ボク{hira}たちの かぐや姫さまを{n} かえして! おねがいします!{n} おねがいします おねがいします!」",
-   "en": null
+   "en": "\"Give us back our Princess Kaguya! Please! Please, please!\""
   },
   {
    "id": "b186_0004",
    "jp": "「おねげーだー! わしらの 宝{n} かぐや姫さまを おねえげーだー!{n} おかえしくだせーよー!」",
-   "en": null
+   "en": "\"We're beggin' ya! Princess Kaguya's our treasure! Give her back, we're beggin' ya!\""
   },
   {
    "id": "b186_0005",
    "jp": "「どうやったら 2階に 上がれるだ!{n} 石が ごーん!と せりあがって{n} どうしていいか わからねえだよ!」",
-   "en": null
+   "en": "\"How do we get up to the second floor?! The stone went rumble-BOOM and rose up, and we don't know what to do!\""
   },
   {
    "id": "b186_0006",
    "jp": "くやしそうな 顔で 死んでいる…!{n}{n}",
-   "en": null
+   "en": "Dead, with a look of bitter regret...!{n}{n}"
   },
   {
    "id": "b186_0007",
    "jp": "くやしそうな 顔で 死んでいる…!{n}{n}",
-   "en": null
+   "en": "Dead, with a look of bitter regret...!{n}{n}"
   },
   {
    "id": "b186_0008",
    "jp": "くやしそうな 顔で 死んでいる…!{n}{n}",
-   "en": null
+   "en": "Dead, with a look of bitter regret...!{n}{n}"
   },
   {
    "id": "b186_0009",
    "jp": "「{sub:A0}さん! 竹は どこまでも{n} 根を はって行くというから{n} 大地はまた どんどん ひろがるね」",
-   "en": null
+   "en": "\"Momotaro! They say bamboo spreads its roots on and on forever, so the land'll keep growin' bigger and bigger!\""
   },
   {
    "id": "b186_0010",
    "jp": "「{sub:A0}さん! 鬼の人たちが{n} ここへ つれて来てくれただ!{n} もう雨に ぬれんですむだ!」",
-   "en": null
+   "en": "\"Momotaro! The oni folks brought us here! Now we don't gotta get soaked in the rain no more!\""
   },
   {
    "id": "b186_0011",
    "jp": "「わしは 明日の 若者を{n} そだてるために うるさい{n} じじいに なりきりますぞ!」{n}「人間から {kata}カルラ{hira}のような男を{n} 生んでしまったら{n} はじじゃからな!」",
-   "en": null
+   "en": "\"I'll play the fussy old geezer to raise the young folk of tomorrow!\"{n}\"It'd be a disgrace if humankind gave birth to another man like Karura!\""
   },
   {
    "id": "b186_0012",
    "jp": "「助けてもらって いうのも{n} なんじゃが どうせなら もっと{n} 若いもんを 助けてほしかった」{n}「わしなど 生きてても{n} 役に 立たんぞ!」{n}",
-   "en": null
+   "en": "\"I hate to grumble after you saved me, but if you were going to save someone, I'd rather you'd saved somebody younger.\"{n}\"An old codger like me is no use to anyone, even alive!\"{n}"
   },
   {
    "id": "b186_0013",
    "jp": "浦島{n}「おじいさんには たくさんの{n} ちしきが あるじゃないですか!」{n}「これからの 若者に{n} その ちしきを 伝えてくれなきゃ」{n}",
-   "en": null
+   "en": "Urashima{n}\"But you have so much knowledge, sir!\"{n}\"You have to pass that knowledge on to the young people to come.\"{n}"
   },
   {
    "id": "b186_0014",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! {sub:A0}さん!{n} おむすび村の 甚八です!」{n}{n}「生きていれば また{n} 新しい国は いくつでも{n} 作れますよね! {sub:A0}さん!」",
-   "en": null
+   "en": "\"Squeak, squeak! Momotaro! It's Jinpachi from Omusubi Village!\"{n}{n}\"As long as we're alive, we can build as many new lands as we like, right, Momotaro?\""
   },
   {
    "id": "b186_0015",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! {sub:A0}さん!{n} おむすび村の 甚八です!」{n}{n}「船底に まぎれて{n} この人たちと いっしょに{n} 逃げて来たんです! でも…」{n}「おむすび村は 真っ赤な 水が{n} あふれて 沈んで行きました……」{n}",
-   "en": null
+   "en": "\"Squeak, squeak! Momotaro! It's Jinpachi from Omusubi Village!\"{n}{n}\"I hid in the bottom of the ship and escaped here with these people! But...\"{n}\"Omusubi Village sank beneath a flood of crimson water...\"{n}"
   },
   {
    "id": "b186_0016",
    "jp": "「もう! ゆるせないんです!{n} 鬼に たいして 何もできない{n} 自分たちが ゆるせないんです!」{n}「かぐや姫さまを かえせー!{n} 村のやすらぎを かえせー!」{n}",
-   "en": null
+   "en": "\"We can't stand it! We can't stand being so helpless against the oni!\"{n}\"Give back Princess Kaguya! Give back our village's peace!\"{n}"
   },
   {
    "id": "b186_0017",
    "jp": "くやしそうな 顔で 死んでいる…!{n}{n}",
-   "en": null
+   "en": "Dead, with a look of bitter regret...!{n}{n}"
   },
   {
    "id": "b186_0018",
    "jp": "くやしそうな 顔で 死んでいる…!{n}{n}",
-   "en": null
+   "en": "Dead, with a look of bitter regret...!{n}{n}"
   },
   {
    "id": "b186_0019",
    "jp": "「えーん! えーん!{n} かぐや姫さまを かえせー!」{n}",
-   "en": null
+   "en": "\"Waaah! Waaah! Give back Princess Kaguya!\"{n}"
   },
   {
    "id": "b186_0020",
    "jp": "くやしそうな 顔で 死んでいる…!{n}{n}",
-   "en": null
+   "en": "Dead, with a look of bitter regret...!{n}{n}"
   },
   {
    "id": "b186_0021",
    "jp": "くやしそうな 顔で 死んでいる…!{n}{n}",
-   "en": null
+   "en": "Dead, with a look of bitter regret...!{n}{n}"
   },
   {
    "id": "b186_0022",
    "jp": "大工の{kata}トメ{hira}さん{n}「おう! {sub:A0}さん!{n} いよいよ あっしの 出番でさ!」{n}「この塔を 月まで{n} 飛べるように しましょうか?{n} へっへっ! じょうだんですよ!」",
-   "en": null
+   "en": "Tome the Carpenter{n}\"Hey, Momotaro! Looks like my turn's finally come!\"{n}\"Shall I fix this tower so it can fly all the way to the Moon? Heh heh! Just kiddin'!\""
   },
   {
    "id": "b186_0023",
    "jp": "大工の{kata}トメ{hira}さん{n}「おう! {sub:A0}さん!{n} とんだことに なっちまったね!」{n}「でも あっしが この塔を{n} もっと すみやすく{n} 作りかえて あげまさあ!」",
-   "en": null
+   "en": "Tome the Carpenter{n}\"Hey, Momotaro! What a mess this's turned into!\"{n}\"But I'll rebuild this tower and make it a whole lot nicer to live in!\""
   },
   {
    "id": "b186_0024",
    "jp": "「{kata}トメ{hira}さんって すてきよね!{n} えっ? {kata}トメ{hira}さんに{n} ほれたかですって?」{n}「いや～ん! はずかしい!{n} {sub:A0}さんってば～!」{n}",
-   "en": null
+   "en": "\"Tome's just wonderful, isn't he? Huh? Have I fallen for Tome, you say?\"{n}\"Oh, stop it! How embarrassing! Oh, Momotaro, you~!\"{n}"
   },
   {
    "id": "b186_0025",
    "jp": "「{kata}トメ{hira}さんって えらいわね!{n} みんなを ひとりひとり{n} はげまして まわってんのよ!」",
-   "en": null
+   "en": "\"Tome's really something, isn't he! He's going around cheering everyone up, one by one!\""
   },
   {
    "id": "b186_0026",
    "jp": "「都の つけもの屋{n} 順安の おかみです!」{n}{n}「この村で たけのこの{n} おさしみを かんがえつきました」{n}{n}「とっても おいしいですよ!{n} はるさきになったら ぜひ{n} 食べに来て{sub:C5}ね!」",
-   "en": null
+   "en": "\"I'm the proprietress of Jun'an, the pickle shop in the Capital!\"{n}{n}\"Here in this village, I came up with bamboo-shoot sashimi.\"{n}{n}\"It's really delicious! Be sure to come try it in early spring!\""
   },
   {
    "id": "b186_0027",
    "jp": "「都の つけもの屋{n} 順安の おかみです!」{n}{n}「{sub:C9}など 助けても{n} 何の とくにも{n} ならないでしょうに…」",
-   "en": null
+   "en": "\"I'm the proprietress of Jun'an, the pickle shop in the Capital!\"{n}{n}\"There's nothing to gain from saving the likes of me...\""
   },
   {
    "id": "b186_0028",
    "jp": "金太郎{n}「そんなこた ねえど!」{n}{n}「いまは みんなに{n} {sub:C0}しか くばれねえ!」{n}{n}「{sub:C0}と くりゃあ{n} つけものが なくっちゃ!{n} たのむよ おばちゃん!」",
-   "en": null
+   "en": "Kintaro{n}\"That ain't so!\"{n}{n}\"Right now, all we can hand out is rice balls!\"{n}{n}\"And with rice balls, ya gotta have pickles! We're countin' on ya, ma'am!\""
   },
   {
    "id": "b186_0029",
    "jp": "「しょじょ寺の 和尚ですじゃ!」{n}{n}{n}「たのむ! 誰か 水{kata}アメ{hira}の{n} 作り方を おしえてくれ～!{n} 水{kata}アメ{hira}ないと わしゃ 死ぬぞ～」",
-   "en": null
+   "en": "\"I'm the priest of Shojo Temple!\"{n}{n}{n}\"Please! Somebody teach me how to make Starch Syrup~! Without Starch Syrup, I'll die~\""
   },
   {
    "id": "b186_0030",
    "jp": "「しょじょ寺の 和尚ですじゃ!」{n}{n}{n}「なんとか 水{kata}アメ{hira}を{n} だいて にげてきたが…」{n}{n}「あと 3日で 水{kata}アメ{hira}が{n} なくなっちまい そうなんじゃ!{n} どうしたら ええんじゃあああっ!」",
-   "en": null
+   "en": "\"I'm the priest of Shojo Temple!\"{n}{n}{n}\"I managed to flee hugging my Starch Syrup...\"{n}{n}\"But in three more days, my Starch Syrup'll be all gone! What am I to doooo?!\""
   },
   {
    "id": "b186_0031",
    "jp": "くやしそうな 顔で 死んでいる…!{n}{n}",
-   "en": null
+   "en": "Dead, with a look of bitter regret...!{n}{n}"
   },
   {
    "id": "b186_0032",
    "jp": "くやしそうな 顔で 死んでいる…!{n}{n}",
-   "en": null
+   "en": "Dead, with a look of bitter regret...!{n}{n}"
   },
   {
    "id": "b186_0033",
    "jp": "くやしそうな 顔で 死んでいる…!{n}{n}",
-   "en": null
+   "en": "Dead, with a look of bitter regret...!{n}{n}"
   },
   {
    "id": "b186_0034",
    "jp": "「おねげーだー!{n} かぐや姫さまを{n} かえしてくだせー!」{n}「なんで 人間と 鬼が{n} あらそわなきゃ なんねーだ!{n} もう やめようよ! おねげえだ!」",
-   "en": null
+   "en": "\"We're beggin' ya! Give Princess Kaguya back!\"{n}\"Why do humans and oni gotta fight?! Let's stop all this! We're beggin' ya!\""
   },
   {
    "id": "b186_0035",
    "jp": "{sub:C2} {sub:A0}さん!{n} あたしたちだって{n} 戦うところを 見て{sub:C5}!」{n}「{kata}カルラ{hira}の ひどさに{n} みんなで 立ち上がったんだ!」{n}",
-   "en": null
+   "en": "\"Oh! Momotaro! Watch us fight, too!\"{n}\"Karura was so cruel that we all rose up together!\"{n}"
   },
   {
    "id": "b186_0036",
    "jp": "「びろ びろ びろ～ん!{n} 人間の 言葉 おぼえて{n} みんなと なかよくなる!」{n}「しあわせ みんなで わける!{n} とても うれしいこと!{n} びろ～ん おぼえた! ありがと!」",
-   "en": null
+   "en": "\"Birobiro birooon! Learn human words, become friends with everyone!\"{n}\"Share happiness with everyone! Very happy thing! Birooon learned! Thank you!\""
   },
   {
    "id": "b186_0037",
    "jp": "「びろ びろ びろ～ん!{n} やっと 人間の 言葉{n} おぼえた とこなのに みんな…」",
-   "en": null
+   "en": "\"Birobiro birooon! Finally learn human words, but everyone...\""
   },
   {
    "id": "b186_0038",
    "jp": "「びろ びろ びろ～ん!{n} みんなと なかよくなった!{n} うれしい! ありがと!」",
-   "en": null
+   "en": "\"Birobiro birooon! Became friends with everyone! Happy! Thank you!\""
   },
   {
    "id": "b186_0039",
    "jp": "「びろ びろ びろ～ん!{n} のこった 2匹だけ!{n} とても かなしい!」",
-   "en": null
+   "en": "\"Birobiro birooon! Only two of us left! Very sad!\""
   },
   {
    "id": "b186_0040",
    "jp": "「大丈夫! 死んじゃいませんよ!{n} 鬼たいじが 終ったせいで{n} 走りまわりすぎた だけですから!」",
-   "en": null
+   "en": "\"Don't worry! He's not dead! He just ran around too much now that the oni hunt is over!\""
   },
   {
    "id": "b186_0041",
    "jp": "「大丈夫! 死んじゃいませんよ!{n} みんなの お手伝いで{n} へばっただけですから!」",
-   "en": null
+   "en": "\"Don't worry! He's not dead! He just wore himself out helping everybody!\""
   },
   {
    "id": "b186_0042",
    "jp": "「まだあれから 助かった人たちは{n} 鬼が島の方へ{n} 行ってもらっているそうです!」{n}「助かった人が 増えているのは{n} とても うれしいことです!」{n}",
-   "en": null
+   "en": "\"They say the people rescued since then are being sent over toward Onigashima!\"{n}\"It makes me so happy that more and more people are being saved!\"{n}"
   },
   {
    "id": "b186_0043",
    "jp": "「羅生門さまが 鬼が島から{n} お米を はこんでいます!{n} ごはんが 食べられます!」",
-   "en": null
+   "en": "\"Rashomon is bringing rice over from Onigashima! We'll get to eat a real meal!\""
   }
  ]
 }

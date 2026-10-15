@@ -7,137 +7,137 @@
   {
    "id": "b131_0000",
    "jp": "「{sub:A0}か! たいへんじゃ!{n} 村のみんなが かぐや姫を{n} すくうんだと でかけてしまった!」{n}「行き先は 黄泉の塔じゃ!{n} 生身の 人間が 鬼と戦って{n} 勝てるわけがない!」{n}「いそげ! {sub:A0}!{n} 村人たちを すくうんじゃ!」{n}",
-   "en": null
+   "en": "\"Momotaro! It's terrible! Everyone in the village went off to rescue Princess Kaguya!\"{n}\"They're headed for the Tower of Yomi! Flesh-and-blood humans can't fight oni and win!\"{n}\"Hurry! Momotaro! Save the villagers!\"{n}"
   },
   {
    "id": "b131_0001",
    "jp": "「村人の さけびが{n} 羅生門に とどいたようじゃ!{n} もう少しじゃな! {sub:A0}!」",
-   "en": null
+   "en": "\"It seems the villagers' cries reached Rashomon! You're almost there! Momotaro!\""
   },
   {
    "id": "b131_0002",
    "jp": "「もはや だれも{n} {kata}カルラ{hira}に 味方する者など{n} おらんじゃろう!」",
-   "en": null
+   "en": "\"Surely no one will take Karura's side anymore!\""
   },
   {
    "id": "b131_0003",
    "jp": "「黄泉の塔には 月の社が ある!{n} 村の みんなは そこから{n} 月へ 行くつもりなんじゃ!」",
-   "en": null
+   "en": "\"The Tower of Yomi has a Moon Shrine! Everyone from the village means to go to the Moon from there!\""
   },
   {
    "id": "b131_0004",
    "jp": "「この島の 北のみさきで{n} 勇気の剣'を かかげれば{n} 鬼が島へと 道が ひらかれるぞ!」",
-   "en": null
+   "en": "\"If you raise the Valor Sword on the northern cape of this island, a path to Onigashima will open!\""
   },
   {
    "id": "b131_0005",
    "jp": "「鳳凰は 鬼が島の 地下へも{n} 入っていける 霊鳥じゃ!{n} 鳳凰で 地獄を めざすがよい!」",
-   "en": null
+   "en": "\"The Phoenix is a sacred bird that can even enter the depths below Onigashima! Ride the Phoenix and make for Hell!\""
   },
   {
    "id": "b131_0006",
    "jp": "「この 竹取の村のある 島は{n} 鬼によって 海に そそりたつ{n} がけで へだてられてしまった!」{n}「船も 出せんし 城で こえるも{n} 無理じゃ! 東の みずうみの底の{n} 抜け道を 使うしか なかろう!」",
-   "en": null
+   "en": "\"The oni cut off this island, where Bamboo Village stands, with cliffs that tower over the sea!\"{n}\"No ship can sail out, and crossing in the castle is impossible! There's nothing for it but the secret passage at the bottom of the eastern lake!\""
   },
   {
    "id": "b131_0007",
    "jp": "「鳳凰は 鬼が島の 地下へも{n} 入っていける 霊鳥じゃ!{n} 鳳凰で 地獄を めざすがよい!」",
-   "en": null
+   "en": "\"The Phoenix is a sacred bird that can even enter the depths below Onigashima! Ride the Phoenix and make for Hell!\""
   },
   {
    "id": "b131_0008",
    "jp": "「あの 赤い海を 見たか!{n} もはや 城で もぐることも{n} かなわぬじゃろう!」",
-   "en": null
+   "en": "\"Did you see that red sea? You won't be able to dive in the castle anymore!\""
   },
   {
    "id": "b131_0009",
    "jp": "「村のみんなが 死んじまっただ!{n} {kata}オラ{hira}たちは これから{n} 何を すればいいだよ!」",
-   "en": null
+   "en": "\"Everybody in the village is dead! What are we s'posed to do now?\""
   },
   {
    "id": "b131_0010",
    "jp": "「何1000年もかけて できあがった{n} 美しい 大地が いっしゅんにして{n} 消えちまった! この世の 終りだ」",
-   "en": null
+   "en": "\"This beautiful land took thousands of years to form, and it vanished in an instant! It's the end of the world.\""
   },
   {
    "id": "b131_0011",
    "jp": "「{sub:A0}さん!{n} 勇気の剣'は このあたりに{n} 飛んで来たんじゃ ありません?」",
-   "en": null
+   "en": "\"Momotaro! Didn't the Valor Sword come flying somewhere around here?\""
   },
   {
    "id": "b131_0012",
    "jp": "「{sub:A0}さん! 勇気の剣'が{n} 手に入ったそうで よかったですね」{n}",
-   "en": null
+   "en": "\"Momotaro! I hear you got the Valor Sword. That's wonderful.\"{n}"
   },
   {
    "id": "b131_0013",
    "jp": "「お米が あと 何日もつかしら?{n} これだけの人が 食べたら{n} すぐなくなっちゃう! こまったわ」",
-   "en": null
+   "en": "\"How many more days will the rice last, I wonder? With this many people eating, it'll be gone in no time! What a fix.\""
   },
   {
    "id": "b131_0014",
    "jp": "「{sub:A0}さん! かぐや姫さまを{n} たすけて おねがいだよ!」{n}",
-   "en": null
+   "en": "\"Momotaro! Please save Princess Kaguya, I'm begging you!\"{n}"
   },
   {
    "id": "b131_0015",
    "jp": "「もう! {kata}カルラ{hira}っていうやつは{n} 何かんがえてんだよー! 人の{n} じゃましか できねえのか!」",
-   "en": null
+   "en": "\"Ugh! What's that Karura guy even thinking?! Can't he do anything but get in people's way?!\""
   },
   {
    "id": "b131_0016",
    "jp": "「竹取りの村がある この島は{n} 昔 こんな 高い所に{n} ありましたっけ?」",
-   "en": null
+   "en": "\"This island with Bamboo Village on it... was it always up this high?\""
   },
   {
    "id": "b131_0017",
    "jp": "「{kata}サルカニ{hira}の村の 人たちが{n} 舟を どんどん 作っては{n} 人を助けに 出ているそうです!」{n}「{sub:A0}さんは 安心して{n} {kata}カルラ{hira}を とっちめて{sub:C5}と{n} ことづけを たのまれました!」",
-   "en": null
+   "en": "\"They say the folks from Sarukani Village keep building boats and heading out to rescue people!\"{n}\"They asked me to pass on a message: 'Momotaro, don't worry about us, just go give Karura what for!'\""
   },
   {
    "id": "b131_0018",
    "jp": "「黄泉の塔で 多くの{n} 仲間が 死んじまっただ!」{n}{n}「あいつらのためにも{n} どうか {sub:A0}さん!{n} かぐや姫さまを たのむだ!」",
-   "en": null
+   "en": "\"So many of our friends died at the Tower of Yomi!\"{n}{n}\"For their sake too, Momotaro, please! Save Princess Kaguya!\""
   },
   {
    "id": "b131_0019",
    "jp": "「いそがしいだ! 竹を切って{n} なんとか たけのこで みんなの{n} うえを しのいで もらわにゃ!」",
-   "en": null
+   "en": "\"I'm busy! Gotta cut bamboo so everybody can at least get by on bamboo shoots!\""
   },
   {
    "id": "b131_0020",
    "jp": "「蜂乃屋で ございます {sub:A0}さん!{n} 大変なことに なりましたな!」{n}{n}「お金なら わたくしどもが{n} なんとかするのですが こうなると{n} お金の はかなさが わかります…」",
-   "en": null
+   "en": "\"Hachinoya at your service, Momotaro! What a dreadful turn of events!\"{n}{n}\"If it were money, we could manage something, but at a time like this you see how fleeting money really is...\""
   },
   {
    "id": "b131_0021",
    "jp": "「そうか… この村の人も{n} 黄泉の塔で そんなことが{n} あったのか… なのに…」{n}「ううっ…! だまって {kata}オラ{hira}たちの{n} めんどうばっか みやがって!{n} ううっ…! 泣かせやがる!」",
-   "en": null
+   "en": "\"I see... so the folks of this village went through that at the Tower of Yomi too... and yet...\"{n}\"Sniff...! Without a word they keep lookin' after the likes of us! Sniff...! They're gonna make me cry!\""
   },
   {
    "id": "b131_0022",
    "jp": "「{kata}カルラ{hira}に 殺された{n} 仲間の 鬼たちの 夢を{n} よく 見るんですよ!」{n}「昔は 伐折羅王さまが{n} 鬼の世の夢を{n} 見せてくれたんですがね…」",
-   "en": null
+   "en": "\"I keep dreaming about my oni friends who were killed by Karura!\"{n}\"In the old days, King Basara let us dream of a world for the oni...\""
   },
   {
    "id": "b131_0023",
    "jp": "「{kata}カルラ{hira}の ために{n} 伐折羅王さままで 悪くいわれる{n} これが つらいんです!」",
-   "en": null
+   "en": "\"Thanks to Karura, even King Basara gets badmouthed. That's what hurts!\""
   },
   {
    "id": "b131_0024",
    "jp": "「かぐや姫さまには{n} この世を ささえる力が{n} あると 聞いているだ!」{n}「かぐや姫さまの 身が{n} あやうくなると 山も 海も{n} 形が かわっちまうそうだ!」",
-   "en": null
+   "en": "\"I heard Princess Kaguya has the power to hold up this world!\"{n}\"They say if she's ever in danger, the mountains and seas change their shape!\""
   },
   {
    "id": "b131_0025",
    "jp": "「そりゃ 大変だよ! でも{n} 苦しいときは おたがいさまだよ!{n} みんなで がまんするのさ!」",
-   "en": null
+   "en": "\"Sure is awful! But in hard times we're all in the same boat! We just gotta grin and bear it together!\""
   },
   {
    "id": "b131_0026",
    "jp": "「花咲かじじい ですじゃ!{n} {kata}サルカニ{hira}の村の 人たちに{n} 助けて いただきました!」{n}「花咲かの村の さくらも{n} 1本 残らず{n} 消えてしまったでしょうなあ!」",
-   "en": null
+   "en": "\"I'm Old Man Hanasaka! The folks of Sarukani Village rescued me!\"{n}\"I suppose every last cherry tree in Hanasaka Village has vanished too!\""
   }
  ]
 }

@@ -7,117 +7,117 @@
   {
    "id": "b091_0000",
    "jp": "「ここは 南に 下れば 浦島の村!{n} 北に 向かえば 大江山!{n} 旅人が かならず おとずれる」{n}「それだけに どこよりも{n} じょうほうが はやく あつまる!{n} くりかえし よく きくことじゃ!」",
-   "en": null
+   "en": "\"Head south from here and you reach Urashima Village! Head north and you reach Mt. Oe! Every traveler passes through here.\"{n}\"That's why news gathers here faster than anywhere else! Ask around, and ask again!\""
   },
   {
    "id": "b091_0001",
    "jp": "「ここを 南に 下れば 浦島の村{n} 北に 向かえば 大江山!{n} 旅人が かならず おとずれる」{n}「それだけに どこよりも{n} じょうほうが 早く あつまる!{n} くりかえし よく 聞くことじゃ!」",
-   "en": null
+   "en": "\"Head south from here and you reach Urashima Village. Head north and you reach Mt. Oe! Every traveler passes through here.\"{n}\"That's why news gathers here faster than anywhere else! Ask around, and ask again!\""
   },
   {
    "id": "b091_0002",
    "jp": "「大江山は けわしい山じゃ!{n} 道を おぼえるまで{n} 何度も のぼりなおすことだ!」",
-   "en": null
+   "en": "\"Mt. Oe is a steep mountain! Keep climbing it again and again until you learn the way!\""
   },
   {
    "id": "b091_0003",
    "jp": "「{sub:B5} {sub:A0}さん!{n} たいへんです! 浦島さんが{n} いないすきに 鬼が 浦島の村を!」",
-   "en": null
+   "en": "\"Chuchun! Momotaro! It's terrible! While Urashima was away, the oni attacked Urashima Village!\""
   },
   {
    "id": "b091_0004",
    "jp": "「{sub:B5} {sub:A0}さん!{n} 今度は 竜宮城が{n} おそわれるなんて!」{n}「前のときの 鬼より{n} やることが ずるがしこく{n} ないですか? {sub:B5}」",
-   "en": null
+   "en": "\"Chuchun! Momotaro! Now they've even attacked the Dragon Palace!\"{n}\"Aren't these oni much craftier than the ones last time? Chuchun!\""
   },
   {
    "id": "b091_0005",
    "jp": "「{sub:B5} {sub:A0}さん!{n} 大江山は 道に くわしくならないと{n} とても こすことが できません」{n}「すこしづつ すこしづつ{n} 山道を おぼえながら{n} 行くことを すすめるわ!」",
-   "en": null
+   "en": "\"Chuchun! Momotaro! You'll never get over Mt. Oe unless you know its paths well.\"{n}\"I suggest you go little by little, learning the mountain trails as you go!\""
   },
   {
    "id": "b091_0006",
    "jp": "「{sub:B5}{n} 北の橋を わたると{n} すっごく 強い 鬼ばかりよ!」{n}「浦島さんも さそってから{n} 橋を こえたほうが いいわ!{n} {sub:B5} {sub:B5}」",
-   "en": null
+   "en": "\"Chuchun!{n} Across the north bridge, the oni are all super strong!\"{n}\"You'd better ask Urashima to join you before you cross that bridge! Chuchun! Chuchun!\""
   },
   {
    "id": "b091_0007",
    "jp": "「{sub:B5}{n} 水晶を さがしてるんですか?{n} この辺では 見かけませんねえ!」",
-   "en": null
+   "en": "\"Chuchun!{n} You're looking for quartz? I haven't seen any around here!\""
   },
   {
    "id": "b091_0008",
    "jp": "「{sub:B5} 羽のはえた 鬼が{n} おおぜいの 鬼をしたがえ{n} 大江山へ 向かいました!」{n}「大江山の てっぺんには{n} すゞめのお宿が あるんです!{n} お友だちの {kata}{sub:C8}{hira}が しんぱい…」",
-   "en": null
+   "en": "\"Chuchun! A winged oni headed for Mt. Oe with a whole crowd of oni behind him!\"{n}\"There's a Sparrow Inn at the top of Mt. Oe! I'm so worried about my sparrow friends...\""
   },
   {
    "id": "b091_0009",
    "jp": "「{sub:A0}さん! 大江山で 鬼が{n} しかけを 作ってましたよ!」{n}{n}「板を うめこんだりして!{n} うん! なんか{n} じゃんけん みたいだったな!」",
-   "en": null
+   "en": "\"Momotaro! I saw the oni building some kind of trap on Mt. Oe!\"{n}{n}\"They were burying boards in the ground! Yeah! It looked kinda like rock-paper-scissors!\""
   },
   {
    "id": "b091_0010",
    "jp": "「浦島が さっき へんな人に{n} つれられて 天の仙人さまの{n} 塔に 行ったみたいだけど…」{n}「あの へんな人{n} にんそう 悪かったわよー!」{n}",
-   "en": null
+   "en": "\"A strange man just took Urashima off to the Heavenly Tower, where the Heavenly Sage lives...\"{n}\"And that strange man had a really nasty face!\"{n}"
   },
   {
    "id": "b091_0011",
    "jp": "「あんれまあ! やっぱり{n} だまされたのかい? 浦島さん!{n} あんた ほんと 人が いいねー!」",
-   "en": null
+   "en": "\"Well, I'll be! So you got tricked after all, Urashima? You really are too trusting!\""
   },
   {
    "id": "b091_0012",
    "jp": "「あんたたち 大江山に{n} 行くんだろ?{n} これ 持ってきな!」",
-   "en": null
+   "en": "\"You folks are headin' to Mt. Oe, ain't ya? Here, take this with ya!\""
   },
   {
    "id": "b091_0013",
    "jp": "「大江山は 高いよー!{n} ちょっとや そっとの 体力じゃ{n} こせないわよ! 大丈夫だろね!」",
-   "en": null
+   "en": "\"Mt. Oe is mighty high! A little bit of Health won't get ya over it! You'll be all right, won't ya?\""
   },
   {
    "id": "b091_0014",
    "jp": "「{sub:B5} 浦島の村で{n} 羽の はえた 鬼が {sub:A0}さんを{n} 待ってるみたいよ! 気をつけてね」",
-   "en": null
+   "en": "\"Chuchun! It looks like a winged oni is waiting for you in Urashima Village, Momotaro! Be careful!\""
   },
   {
    "id": "b091_0015",
    "jp": "「{sub:B5} {sub:A0}さん!{n} 大丈夫でした? おじいさんのまま{n} 鬼と 戦ったんですって?」",
-   "en": null
+   "en": "\"Chuchun! Momotaro! Are you all right? I heard Kintaro fought the oni while he was still an old man!\""
   },
   {
    "id": "b091_0016",
    "jp": "「金太郎は そのまま おじいさんで{n} いたほうが 世の中 静かで{n} よかったかも しれないわね!」{n}金太郎{n}「あんまり うるせいこと いうと{n} やきとりにして 食うど!」",
-   "en": null
+   "en": "\"Maybe it would've been better if Kintaro had just stayed an old man. The world would be a lot quieter!\"{n}Kintaro{n}\"Keep yappin' like that and I'll make ya into yakitori and eat ya!\""
   },
   {
    "id": "b091_0017",
    "jp": "「{sub:A0}さんの 勇気って{n} 口だけじゃないから すごいわよね!」{n}",
-   "en": null
+   "en": "\"Momotaro's courage isn't just talk. That's what makes it so amazing!\"{n}"
   },
   {
    "id": "b091_0018",
    "jp": "「{sub:B5} 大江山は{n} のぼって くだって やっと{n} こえたと おもったら 雪の国」{n}「本当に たいへんな ところよ!{n} そんなとこに 砦(とりで)をきずく{n} 鬼って すごく 頭いいわね!」",
-   "en": null
+   "en": "\"Chuchun! Mt. Oe goes up and down, and just when you think you're over it, you're in the Snow Country.\"{n}\"It's a really tough place! Oni who'd build a fort out there must be really smart!\""
   },
   {
    "id": "b091_0019",
    "jp": "金太郎{n}「{kata}オラ{hira}の 頭じゃ{n} 無理だって いいてえのか?」",
-   "en": null
+   "en": "Kintaro{n}\"You sayin' my head ain't smart enough for that?\""
   },
   {
    "id": "b091_0020",
    "jp": "「みなさん お気をつけて{n} 行ってらっしゃい! {sub:B5}」{n}",
-   "en": null
+   "en": "\"Take care, everyone, and have a safe trip! Chuchun!\"{n}"
   },
   {
    "id": "b091_0021",
    "jp": "「{sub:B5} 金太郎の村と{n} このお宿の あいだに{n} おによけ仙人の庵が ありますよ!」{n}「山に かこまれた{n} とっても 静かなところに{n} あるから みんな 気づかないの!」",
-   "en": null
+   "en": "\"Chuchun! Between Kintaro Village and this inn, there's the Repel Sage's Hut!\"{n}\"It's in a very quiet spot surrounded by mountains, so nobody ever notices it!\""
   },
   {
    "id": "b091_0022",
    "jp": "「{sub:B5} 大江山に 行くなら{n} とちゅう 天の仙人さまの塔に{n} およりになると いいですよ!」{n}「北の橋を わたって ぐるっと{n} 海ぞいに まわった{n} 半島のはずれに いらしゃいますよ」",
-   "en": null
+   "en": "\"Chuchun! If you're going to Mt. Oe, you should stop by the Heavenly Tower on the way and visit the Heavenly Sage!\"{n}\"Cross the north bridge and follow the coast around. He lives at the tip of the peninsula.\""
   }
  ]
 }

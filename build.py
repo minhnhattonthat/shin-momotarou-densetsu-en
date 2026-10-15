@@ -5,7 +5,7 @@ Blocks with any English (or all blocks with --marker) are re-encoded, LZSS-compr
 expanded area (file 0x200000+, banks E0-FF); untouched blocks keep their original bytes and pointers.
 With no English and no --marker, the output is byte-identical to the original ROM (identity build).
 """
-import argparse, json, re, sys
+import argparse, json, os, re, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -14,6 +14,7 @@ import textlib as T
 from comp import block_ptrs, lzss_encode, TABLE
 from en import encode_en, text_width
 import fontgen
+import gfx
 import kinds
 import patches
 import winscript
@@ -26,8 +27,9 @@ EXP_END = 0x400000
 
 QA = {}  # id -> English, from --qa
 NO_WIN = False
+SKIP = set(os.environ.get('SMD_SKIP', '').split(','))  # debugging: gfx,namevar,measure,fixed12
 WIN_ONLY = set()
-RESERVED = (0x4F15C, 0x4F220)  # VWF width tables (fontgen.WIDTH_FREE) + patches.FIXED12_CODE
+RESERVED = (0x4F15C, 0x4F240)  # VWF width tables (fontgen.WIDTH_FREE) + patches.FIXED12_CODE
 WINMAP = {}  # window region id -> CPU address in the built ROM (written next to the ROM for tools/debug)
 
 
@@ -171,8 +173,10 @@ def build(marker_mode=False, out_path=None, only=None):
         pos += len(blob)
     if not NO_WIN:
         pos = insert_windows(rom, pos)
+    if 'gfx' not in SKIP:
+        pos = gfx.apply(rom, pos)
     fontgen.build_font(rom)
-    patches.apply(rom)
+    patches.apply(rom, SKIP)
     print(f'blocks re-encoded: {len(changed)}; expanded area used: {pos - EXP_BASE:#x} bytes')
     return bytes(rom)
 

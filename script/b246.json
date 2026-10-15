@@ -7,22 +7,22 @@
   {
    "id": "b246_0000",
    "jp": "竹取りの翁{n}「かぐやは 月に{n} むかいました!」{n}「荒らされた 月を{n} みんなの手で 直すのだと{n} もうしておりました!」",
-   "en": null
+   "en": "Old Bamboo Cutter{n}\"Kaguya has gone to the Moon!\"{n}\"She said she would repair the ravaged Moon with everyone's help!\""
   },
   {
    "id": "b246_0001",
    "jp": "「かぐやは {sub:A0}さんに{n} 負けられませんと もうして{n} 月に むかいました!」",
-   "en": null
+   "en": "\"Kaguya said she can't let Momotaro outdo her, and set off for the Moon!\""
   },
   {
    "id": "b246_0002",
    "jp": "{kata}アジャセ{hira}王子{n}「{sub:A0}! かぐや姫が{n} 生きかえったのだ!」{n}「竹が! 竹が! 姫を{n} すくってくれたのだ!」{n}{n}かぐや姫{n}「いいえ! ずっと {sub:C9}を{n} かんびょうして いただいた…」{n}「{kata}アジャセ{hira}王子や 村のみなさんの{n} はげましの おかげなのです!」{n}{n}伐折羅王{n}「どうだ? かぐや姫と {kata}アジャセ{hira}の{n} 顔を 見て みな 安心したか?」{n}「だが 安心してばかりは{n} いられないのだ!」{n}{n}「一度 沈んだ 大地が いままた{n} 少しづつ うかんで来ては いるが{n} 草木ひとつ はえていない!」{n}「赤い血を 吸った{n} 苦しそうな 大地だ!」{n}{n}「この大地の 苦しみを{n} みなの 力で 助けたいのだ!」{n}{n}「長い 戦いで みなも{n} つかれているだろうが…」{n}{n}「力を合わせて 大地の 自然を{n} 取り戻すことが 鬼と 人間の{n} 友情の はじまりとなる!」{n}「この世で いちばん さいしょに{n} 友情の大切さを 知った{n} {sub:B6}たちが みなに 伝えるのだ」{0B}",
-   "en": null
+   "en": "Prince Ajase{n}\"Momotaro! Princess Kaguya has come back to life!\"{n}\"The bamboo! The bamboo saved the princess!\"{n}{n}Princess Kaguya{n}\"No! It was thanks to Prince Ajase and the villagers, who nursed me all this time...\"{n}\"...and cheered me on!\"{n}{n}King Basara{n}\"Well? Now that all have seen the faces of Princess Kaguya and Ajase, are you at ease?\"{n}\"But we cannot rest at ease!\"{n}{n}\"The land that once sank is rising again little by little, but not a single blade of grass or tree grows on it!\"{n}\"It is a suffering land that has drunk red blood!\"{n}{n}\"I wish to relieve this land's suffering with the strength of all!\"{n}{n}\"After the long war, all of you must be weary...\"{n}{n}\"But restoring the land's nature by joining our strength will be the beginning of friendship between oni and humans!\"{n}\"You, who were the very first in this world to learn the value of friendship, shall pass it on to all.\"{0B}"
   },
   {
    "id": "b246_0003",
    "jp": "かぐや姫{n}「{sub:A0}さん! この 月の鈴を{n} どうか うけとって{sub:C5}!」{n}「あなたの手で 月の鈴を{n} 勇気の剣'を かかげた あの{n} みさきで 使って{sub:C5}ませ!」{n}「きっと 海も 大地も{n} 命の かがやきを{n} 取り戻すことでしょう!」{n}「{sub:A0}さん! どうか みなさんと{n} ごいっしょに 新しい世界で{n} 新しい夢を つむいで{sub:C5}ね!」{n}{hero}{arg}は かぐや姫から{n}月の鈴を いただいた!{n}",
-   "en": null
+   "en": "Princess Kaguya{n}\"Momotaro! Please, accept this Moon Bell!\"{n}\"With your own hands, use the Moon Bell on that cape where you raised the Valor Sword!\"{n}\"Surely the sea and the land will regain the radiance of life!\"{n}\"Momotaro! Please, together with everyone, spin new dreams in a new world!\"{n}{hero}{arg} received the Moon Bell from Princess Kaguya!{n}"
   }
  ]
 }

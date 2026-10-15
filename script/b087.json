@@ -7,32 +7,32 @@
   {
    "id": "b087_0000",
    "jp": "「うう! {kata}オエップ{hira}!{n} {sub:A0}! ぜったい わしを{n} 死なすなよ! {kata}オエップ{hira}!」",
-   "en": null
+   "en": "\"Ugh! Urp!{n} Momotaro! Don't you dare let me die! Urp!\""
   },
   {
    "id": "b087_0001",
    "jp": "「うう! {kata}オエップ{hira}!{n} そろそろ わしの 命が{n} あぶないぞ! {kata}オエップ{hira}!」",
-   "en": null
+   "en": "\"Ugh! Urp!{n} My life's getting to be in real danger! Urp!\""
   },
   {
    "id": "b087_0002",
    "jp": "「うう! {kata}オエップ{hira}!{n} {sub:A0}! ちゃんと わしのことを{n} かんがえて 歩いておるぢゃろな?」",
-   "en": null
+   "en": "\"Ugh! Urp!{n} Momotaro! You are thinking of me as you walk, aren't you?\""
   },
   {
    "id": "b087_0003",
    "jp": "「うう! {kata}オエップ{hira}!{n} {sub:A0}! わしがいることを{n} わすれるなよ! {kata}オエップ{hira}!」",
-   "en": null
+   "en": "\"Ugh! Urp!{n} Momotaro! Don't forget I'm here! Urp!\""
   },
   {
    "id": "b087_0004",
    "jp": "「{sub:A8}! {sub:A0}!{n} わしが いま{n} 手に持っているのは 毒{sub:A7}{n}「これをぢゃな わしは{n} こうして 飲んでしまう!」{n}",
-   "en": null
+   "en": "\"Uhyahya...! Momotaro!{n} What I hold in my hand right now is poison!\"{n}\"And this, I shall drink, just like so!\"{n}"
   },
   {
    "id": "b087_0005",
    "jp": "「{kata}プッハ{hira}ー! うう!{n} 気持ちが わるい! {kata}オエップ{hira}!」{n}{n}「さあ これで わしは{n} 毒に おかされた!」{n}{n}「この わしを 連れて{n} ここの 洞窟の中にある{n} 巻き物を 取ってくるの{sub:A7}{n}「もちろん わしの体力が{n} 0になると 修行は{n} しっかくぢゃ! {sub:A8}!」{n}「それでは 修行を はじめてくれ!{n} {kata}オエップ{hira}! わしを 死なすなよ!」{n}",
-   "en": null
+   "en": "\"Pwahh! Ugh!{n} I feel sick! Urp!\"{n}{n}\"There! Now I've been poisoned!\"{n}{n}\"Take me along and fetch the scroll inside this cave!\"{n}\"Of course, if my Health drops to 0, you fail the training! Uhyahya...!\"{n}\"Now then, begin the training! Urp! Don't let me die!\"{n}"
   }
  ]
 }

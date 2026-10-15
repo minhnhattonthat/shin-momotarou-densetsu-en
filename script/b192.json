@@ -7,22 +7,22 @@
   {
    "id": "b192_0000",
    "jp": "「{sub:A0}さん! おいそぎを!」{n}{n}{n}「乱心した {kata}カルラ{hira}は{n} てあたりしだいに{n} さからう鬼を 殺しています!」",
-   "en": null
+   "en": "\"Momotaro! Please hurry!\"{n}{n}{n}\"Karura has gone mad and is killing every oni who defies him!\""
   },
   {
    "id": "b192_0001",
    "jp": "「{sub:A0}さん! {sub:C9}のような{n} 力のない 鬼は お米を{n} 黄泉の塔に はこぶだけです!」{n}「どうか おまもり{sub:C5}!{n} とても 伐折羅王さまの しきする{n} 鬼の あいてに なりません!」",
-   "en": null
+   "en": "\"Momotaro! Weak oni like me only haul rice to the Tower of Yomi!\"{n}\"Please protect us! We're no match for the oni under King Basara's command!\""
   },
   {
    "id": "b192_0002",
    "jp": "「{sub:A0}さん! 銀の鬼です!{n} およばずながら こうして{n} 戦わせて いただいています!」",
-   "en": null
+   "en": "\"Momotaro! I'm the Silver Oni! I'm doing what little I can to fight alongside you!\""
   },
   {
    "id": "b192_0003",
    "jp": "「おひさしぶりです! 金の鬼です!{n} すこしでも 力になればと{n} はせさんじました!」",
-   "en": null
+   "en": "\"Long time no see! I'm the Gold Oni! I've hurried here hoping to be of some help!\""
   }
  ]
 }

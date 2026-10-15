@@ -7,57 +7,57 @@
   {
    "id": "b153_0000",
    "jp": "上から ばっかんきの{n}声が 聞こえて来た!{n}{n}「{kata}バッバッバッ{hira}!{n} {kata}オレ{hira}と まず{n} 知力の 勝負だ!」{n}「いまから水が そこに{n} たまっていく!」{n}{n}「天井に つく前に{n} 逃げられなければ {sub:B6}は{n} そこで 死ぬのだ!」{n}「知力があれば {sub:B6}と{n} 戦えるだろう!{n} たのしみに しているぞ!」",
-   "en": null
+   "en": "Bakkanki's voice{n}came from above!{n}{n}\"Bah-bah-bah!{n} First, you and I{n} will have a battle of wits!\"{n}\"Water is about to start{n} filling up that room!\"{n}{n}\"If you can't escape{n} before it reaches the ceiling,{n} you'll die right there!\"{n}\"If you've got the wits,{n} we'll get to fight!{n} I'm looking forward to it!\""
   },
   {
    "id": "b153_0001",
    "jp": "「{kata}バッバッバッ{hira}! こっちだ!」{n}{n}",
-   "en": null
+   "en": "\"Bah-bah-bah! Over here!\"{n}{n}"
   },
   {
    "id": "b153_0002",
    "jp": "「{kata}バッバッバッ{hira}! こっちだ!」{n}{n}",
-   "en": null
+   "en": "\"Bah-bah-bah! Over here!\"{n}{n}"
   },
   {
    "id": "b153_0003",
    "jp": "「{kata}バッバッバッ{hira}! こっちだ!」{n}{n}",
-   "en": null
+   "en": "\"Bah-bah-bah! Over here!\"{n}{n}"
   },
   {
    "id": "b153_0004",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}! {sub:A0}!{n} なかなか しぶといじゃないか!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! Momotaro!{n} You're a stubborn one, aren't you!\""
   },
   {
    "id": "b153_0005",
    "jp": "「ばっかんき!{n} {sub:A0}と 戦え!」{n}{n}「勝てば やくそくどおり{n} {sub:B6}に この村を やるぞ!」{n}",
-   "en": null
+   "en": "\"Bakkanki!{n} Fight Momotaro!\"{n}{n}\"Win, and as promised,{n} this village is yours!\"{n}"
   },
   {
    "id": "b153_0006",
    "jp": "ばっかんき{n}「{kata}バッバッバッ{hira}! {kata}オレ{hira}は{n} {kata}カルラ{hira}様の ために 戦う!」",
-   "en": null
+   "en": "Bakkanki{n}\"Bah-bah-bah! I fight{n} for Lord Karura!\""
   },
   {
    "id": "b153_0007",
    "jp": "{kata}カルラ{n}{hira}「ええい! 役立たずめが!{n} {sub:B6}など 死んでしまえ!」",
-   "en": null
+   "en": "Karura{n}\"Bah! You useless wretch!{n} Just go and die!\""
   },
   {
    "id": "b153_0008",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} よいか 者ども!」{n}「ばっかんきは はずかしさの あまり{n} 自害(じがい)したと{n} 伐折羅王さまに 伝えるがいい!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh!{n} Listen well, you lot!\"{n}\"Tell King Basara that Bakkanki{n} was so ashamed{n} he took his own life!\""
   },
   {
    "id": "b153_0009",
    "jp": "「く… くそ! 今まで{n} {kata}カルラ{hira}様のために はたらいたのは{n} 何だったんだ! く… くそ!」{n}「{kata}カ{hira}…{kata}ル{hira}…{kata}ラ{hira}…め…!」{n}{n}{n}「ううっ!」{n}{n}{n}ばっかんきは いきたえた!{n}{n}",
-   "en": null
+   "en": "\"D... damn it! Then what was{n} all my work for Lord Karura{n} for?! D... damn it!\"{n}\"Ka... ru... ra... curse... you...!\"{n}{n}{n}\"Ungh!\"{n}{n}{n}Bakkanki breathed his last!{n}{n}"
   },
   {
    "id": "b153_0010",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} あの悲しそうな人は 一体?」{n}",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} Who in the world was that sad fellow?\"{n}"
   }
  ]
 }

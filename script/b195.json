@@ -7,17 +7,17 @@
   {
    "id": "b195_0000",
    "jp": "「{sub:A0}さん! 地面から{n} ふきだす炎に 気をつけて!」{n}",
-   "en": null
+   "en": "\"Momotaro! Watch out for the flames shooting up from the ground!\"{n}"
   },
   {
    "id": "b195_0001",
    "jp": "「大変です {sub:A0}さん!」{n}{n}{n}「酒香童子 羅生門さまと 並ぶ{n} 軍神・三千世界さまが ついに{n} 動かれたとの 知らせが!」{n}「はるか昔 戦うことを やめたはずの{n} あのお方が なぜ 今になって?」{n}",
-   "en": null
+   "en": "\"This is terrible, Momotaro!\"{n}{n}{n}\"Word has come that the war god Sanzen Sekai, equal to Shuko Doji and Rashomon, has finally made his move!\"{n}\"He gave up fighting long, long ago... so why now, of all times?\"{n}"
   },
   {
    "id": "b195_0002",
    "jp": "{sub:C2} {sub:A0}か! 羅生門だ!」{n}{n}{n}「はっはっはっは!{n} さすが 伐折羅王さまの{n} ちょくぞくの軍だ! てごわい!」{n}「{sub:A0}! ここは{n} わしに まかせて 先を いぞげ!」{n}",
-   "en": null
+   "en": "\"Oh! Momotaro, is it? It's Rashomon!\"{n}{n}{n}\"Ha ha ha ha!{n} As expected of King Basara's own army! They're tough!\"{n}\"Momotaro! Leave this place to me and hurry on ahead!\"{n}"
   }
  ]
 }

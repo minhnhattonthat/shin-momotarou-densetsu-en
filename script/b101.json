@@ -7,122 +7,122 @@
   {
    "id": "b101_0000",
    "jp": "「  郎         {n}    を       か{n}  が      ゃ!」{n}「きこえんかったかの?{n} もう一度 話すぞ!」{n}{n}「{sub:A0}! はやく{n} この歌を とめてくれんか!{n} 頭が われそうじゃ!」",
-   "en": null
+   "en": "\"  ...aro         {n}    ...this       ...ng{n}  ...ead      ...lit!\"{n}\"Didn't ya hear me? I'll tell ya again!\"{n}{n}\"Momotaro! Hurry and stop this song, won't ya! My head's about to split!\""
   },
   {
    "id": "b101_0001",
    "jp": "「やっと あの歌が 終わったか!{n} よくぞ ましらを こらしめた!」{n}{n}「なーほーざ わーるど!」{n}{n}",
-   "en": null
+   "en": "\"So that song's finally over! You did well to put Mashira in his place!\"{n}{n}\"Naaa-ho-za waaa-rudo!\"{n}{n}"
   },
   {
    "id": "b101_0002",
    "jp": "「天下   ゃれ 会の{n} じ   し  ら{n} あ   わ るだ   こ   」{n}「{sub:A0}さん!{n} きこえねえだか?{n} もう一度 話すだな!」{n}「天下一だじゃれ大会の{n} じゅんびしてたら{n} あたま われるだよ! この音!」",
-   "en": null
+   "en": "\"Gr   ...un Cont   ...the{n} ...ett   ...rea   ...dy{n} ...is   ...oise   ...ead\"{n}\"Momotaro! Can't ya hear me? I'll say it again!\"{n}\"I was gettin' ready for the Grand Pun Contest, and my head's splittin'! This noise!\""
   },
   {
    "id": "b101_0003",
    "jp": "「よかっただ! これで{n} だじゃれ大会 ひらけるだよ!{n} さっそく れんしゅう かいしだ!」{n}{c3}「{kata}スパゲッティ{hira}は{n} {kata}ミ{hira}ー{kata}トソ{hira}ー{kata}ス{hira}に{kata}ナポレオン{hira}」{c0}{n}{n}「…………………?」{n}{n}",
-   "en": null
+   "en": "\"Thank goodness! Now we can hold the pun contest! Time to start practicin' right away!\"{n}{c3}\"Spaghetti comes with meat sauce or Napoleon-ese!\"{c0}{n}{n}\"...........?\"{n}{n}"
   },
   {
    "id": "b101_0004",
    "jp": "「なんなんだ!{n} この しずけさは!」{n}",
-   "en": null
+   "en": "\"What is this! Why's it so quiet!\"{n}"
   },
   {
    "id": "b101_0005",
    "jp": "「桃       し   い  が{n}     て    た ま  て{n}   ゃ     ひ    ん  」{n}「{sub:A0}さん! きこえねえだか?{n} もう一度 話すだな」{n}{n}「{sub:A0}さん! ましら という鬼が{n} やってきて 歌をうたいまくって{n} だじゃれ大会が ひらけないんです」",
-   "en": null
+   "en": "\"Mo       ...ira   ...ame  ...nd{n}     ...ang    ...op    ...nd{n}   ...an't     ...old    ...est\"{n}\"Momotaro! Can't ya hear me? I'll say it again\"{n}{n}\"Momotaro! An oni called Mashira came and sang nonstop, so we can't hold the pun contest!\""
   },
   {
    "id": "b101_0006",
    "jp": "{c3}「ごはんは よく{n} {kata}カミュ{hira}で 食べましょう」{c0}{n}{n}「こういう お子様むけが{n} 点数 高いんだよな」{n}",
-   "en": null
+   "en": "{c3}\"Always chew your rice with proper Camus-tication!\"{c0}{n}{n}\"Kid-friendly ones like that score high, y'know.\"{n}"
   },
   {
    "id": "b101_0007",
    "jp": "「  らと {kata}ブ{hira} ー{kata}モ{hira}   {kata}ズ{hira}   {n} へ    た  来て{n} 会    てこも    す 」{n}「きこえませんでした?{n} もう一度 話しますね!」{n}{n}「ましらと {kata}ブル{hira}ー{kata}モンキ{hira}ー{kata}ズ{hira}という{n} へんな 鬼たちが来て{n} 会場に たてこもったのです!」",
-   "en": null
+   "en": "\"  ...ira  ...Blu  ...Mon   ...eys   {n} ...eird    ...ni  came{n} ...ven    ...arricad    ...selves \"{n}\"Didn't you hear me? I'll say it again!\"{n}{n}\"Mashira and some weird oni called the Blue Monkeys came and barricaded themselves in the contest hall!\""
   },
   {
    "id": "b101_0008",
    "jp": "{c3}「愛してるわ {kata}ダ{hira}ー{kata}ウィン{hira}!」{c0}{n}{n}{n}「なぁんて いえる人{n} どこかに いないかなぁ」{n}",
-   "en": null
+   "en": "{c3}\"I love you, my Darwin'!\"{c0}{n}{n}{n}\"Oh, if only there was someone out there who'd say that to me...\"{n}"
   },
   {
    "id": "b101_0009",
    "jp": "「天 一    大 が{n}  ぐだ       んび   ろか{n}  っしょ   えと    い  」{n}「{sub:A0}さん! きこえねえだか?{n} もう一度 話すだな」{n}{n}「天下一だじゃれ大会が{n} すぐだってのに じゅんびは おろか{n} いっしょに 歌えと うるさいだ!」",
-   "en": null
+   "en": "\"Gr ...nd   ...un  ...is{n}  ...ight       ...orget   ...ep{n}  ...ing    ...ong   ...ester\"{n}\"Momotaro! Can't ya hear me? I'll say it again\"{n}{n}\"The Grand Pun Contest is right around the corner, and forget preparin' -- they keep pesterin' me to sing along!\""
   },
   {
    "id": "b101_0010",
    "jp": "{c3}「ましらの 歌のせいで{n} まだ 頭が{n} {kata}クラ{hira}ー{kata}ク{hira}はかせします!」{c0}",
-   "en": null
+   "en": "{c3}\"Thanks to Mashira's song, my head's still spinnin' Clark-wise!\"{c0}"
   },
   {
    "id": "b101_0011",
    "jp": "「 のむ   まし  {n}    めて  ! し  にゃ{n}   歌   になり   よ!」{n}「{sub:A0}さん! きこえねえだか?{n} もう一度 話すだな」{n}{n}「たのむから ましらを{n} こらしめてくれ! しまいにゃ{n} あの歌 すきになりそうだよ!」",
-   "en": null
+   "en": "\" ...ease   ...ira  {n}    ...son  ! ...rate{n}   ...ong   ...ikin'   !\"{n}\"Momotaro! Can't ya hear me? I'll say it again\"{n}{n}\"Please, teach Mashira a lesson! At this rate, I'm gonna end up likin' that song!\""
   },
   {
    "id": "b101_0012",
    "jp": "「今年の だじゃれの{n} お題は 歴史上の人物です!」{n}{n}「たとえば こんなかんじに…」{n}{n}{n}{c3}「{kata}シルバ{hira}ー {kata}シ{hira}ー{kata}トン{hira}は{n} お年よりに ゆずろう!」{n}{n}「聞いていただいた お{kata}レ{hira}ー{kata}ニン{hira}に」{n} これを さしあげますよ!」{n}{c0}",
-   "en": null
+   "en": "\"This year's pun theme is historical figures!\"{n}{n}\"For example, somethin' like this...\"{n}{n}{n}{c3}\"Give up your Silver Seat-on to the elderly!\"{n}{n}\"To thank you for Lenin' me your ear,\"{n} I'll give you this!\"{n}{c0}"
   },
   {
    "id": "b101_0013",
    "jp": "{c3}「{kata}ファ{hira}ー{kata}ブル{hira} {kata}ボ{hira}ー{kata}ル{hira}には{n} 十分 お気をつけ{sub:C5}…{n} これも すてがたいな…」{c0}",
-   "en": null
+   "en": "{c3}\"Please watch out for Fabre balls... That one's hard to pass up too...\"{c0}"
   },
   {
    "id": "b101_0014",
    "jp": "「{kata}ブル{hira}ー{kata}モンキ{hira}ー{kata}ズ{hira}の {kata}メンバ{hira}ーです!{n} もう 音楽は やめて{n} お笑いを めざします!」{n}「さっそく おひとつ!」{n}{n}{n}{c3}「もうかり {kata}マッカ{hira}ー{kata}サ{hira}ー?」{c0}{n}{n}{n}「{kata}ボク{hira}の だじゃれ{n} いかがでしたか?」{n}",
-   "en": null
+   "en": "\"I'm a member of the Blue Monkeys! We've quit music, and now we're aimin' for comedy!\"{n}\"Here's one right off the bat!\"{n}{n}{n}{c3}\"Makin' money, MacArthur?\"{c0}{n}{n}{n}\"How'd ya like my pun?\"{n}"
   },
   {
    "id": "b101_0015",
    "jp": "「だじゃれは 言葉に しんせんな{n} いぶきを あたえ まったく ちがう{n} いみを もたせるとは………」{n}「人間の 英知は すばらしい!{n} {sub:C9}も まけずに{n} だじゃれを れんしゅうします!」{n}{c3}「おばちゃん!{n} えび{kata}フビライ{hira}ていしょく まだ?」{c0}{n}",
-   "en": null
+   "en": "\"To think puns breathe fresh life into words and give them entirely different meanings...\"{n}\"Human wisdom is marvelous! I won't be outdone -- I'll practice my puns too!\"{n}{c3}\"Ma'am! Is my Kublai Khan-tonese shrimp set ready yet?\"{c0}{n}"
   },
   {
    "id": "b101_0016",
    "jp": "「この村の 人たちが いちばん{n} ほんとうの しあわせを{n} 知ってるのかも しれません!」{n}「泣きたいときでも 村を あげて{n} みんなで 笑いあう!{n} この村ならではの やさしさですね!」",
-   "en": null
+   "en": "\"Maybe the people of this village know true happiness better than anyone!\"{n}\"Even when they want to cry, the whole village laughs together! That's a kindness only this village has!\""
   },
   {
    "id": "b101_0017",
    "jp": "「{kata}ドレミソソラ{hira} {kata}ソミドレ{hira}!{n} 音楽を {kata}バイエル{hira}その1から{n} やりなおす かくごを きめました」{n}「まずは {kata}バッハ{hira}の けんきゅうから{n} はじめてるんですよ!{n}{c3} ではまた {kata}バッハ{hira} {kata}ハ{hira}ーー{kata}イ{hira}!」{c0}",
-   "en": null
+   "en": "\"Do-re-mi-sol-sol-la, sol-mi-do-re! I've made up my mind to relearn music from Beyer Book One!\"{n}\"I'm starting with a study of Bach!{n}{c3} Well then, Bach-bye-eee!\"{c0}"
   },
   {
    "id": "b101_0018",
    "jp": "「で～きたて～の{n} {arg} いらんかね～!」{n}{n}「{arg}は{n} 1ぱい{num}両でっせ～!」{n}",
-   "en": null
+   "en": "\"Fresh-made~{n} {arg}, anyone~!\"{n}{n}\"One bowl of {arg}{n} is just {num} ryo~!\"{n}"
   },
   {
    "id": "b101_0019",
    "jp": "「そいつは ざんねんだ!{n} めったに 手に入らねえよ!」{n}",
-   "en": null
+   "en": "\"Well, that's a shame! Ya don't get your hands on this every day!\"{n}"
   },
   {
    "id": "b101_0020",
    "jp": "「お金が 足りませんよ!{n} おちついて 鬼たいじを{n} めざして{sub:C5} {sub:A0}さん!」",
-   "en": null
+   "en": "\"You don't have enough money! Calm down and keep your eyes on the oni hunt, please, Momotaro!\""
   },
   {
    "id": "b101_0021",
    "jp": "{sub:D5}もちますか?」{n}{n}",
-   "en": null
+   "en": "\"Who'll carry it?\"{n}{n}"
   },
   {
    "id": "b101_0022",
    "jp": "「おや?{sub:D7} いっぱいだね{n} 袋が あいたら きてくれや!」{n}",
-   "en": null
+   "en": "\"Oh? Your Item Bag's full! Come back when there's room in it!\"{n}"
   },
   {
    "id": "b101_0023",
    "jp": "「ほいきた! もってけや!」{n}{n}{n}{arg}は{n}{arg}を 手に入れた!{n}",
-   "en": null
+   "en": "\"Here ya go! Take it!\"{n}{n}{n}{arg}{n}got {arg}!{n}"
   }
  ]
 }

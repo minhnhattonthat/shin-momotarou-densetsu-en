@@ -7,137 +7,137 @@
   {
    "id": "b247_0000",
    "jp": "「{kata}オ{hira}ー! {kata}ハッピ{hira}ー!{n} 突風ぶり太夫 {kata}アルネ{hira}!」{n}{n}「{kata}コンドハ{hira} {kata}ココノ{hira} {kata}ムラノ{n}{hira} {kata}ムスメサン{hira} {kata}アツメテ{n}{hira} {kata}ミス{hira} {kata}コンテスト{hira} {kata}ヒラクネ{hira}!」",
-   "en": null
+   "en": "\"Ohhh! Happy! Toppu Buridayu, it is!\"{n}{n}\"Next time, I gather the girls of this village and hold Miss Contest, yes!\""
   },
   {
    "id": "b247_0001",
    "jp": "{sub:A0}のおじいさん{n}「いま おばあさんとも{n} 話してたんじゃが…」{n}「ここが 気に入ったんで{n} ずっと ここに すもうかと{n} おもっているのじゃ!」{n}「ここらは 竹の林が 多くて{n} 心まで 美しくなりそうな 所じゃ」{n}",
-   "en": null
+   "en": "Momotaro's Grandpa{n}\"I was just talkin' it over with Grandma...\"{n}\"We've taken a likin' to this place, so we're thinkin' of livin' here for good!\"{n}\"There's plenty of bamboo groves hereabouts. It's the sort of place that makes even your heart feel beautiful.\"{n}"
   },
   {
    "id": "b247_0002",
    "jp": "{sub:A0}のおばあさん{n}「{sub:A0}や! 元気な{n} 顔を 見せてくれて うれしいよ!」{n}「あたしたちは ここに のこるけど{n} いつまでも {sub:B6}の おじいさんと{n} おばあさんだからね!」{n}「いつでも あまえに{n} きておくれよね!」{n}",
-   "en": null
+   "en": "Momotaro's Grandma{n}\"Momotaro! I'm so glad you came to show us your healthy face!\"{n}\"We're staying here, but we'll always be your grandpa and grandma!\"{n}\"Come and let us spoil you anytime, won't you!\"{n}"
   },
   {
    "id": "b247_0003",
    "jp": "「{sub:B5} {sub:A0}さん!{n} また とまりに きてね!」{n}",
-   "en": null
+   "en": "\"Chuchun! Momotaro! Come stay with us again!\"{n}"
   },
   {
    "id": "b247_0004",
    "jp": "「{sub:B5} {sub:A0}さん!{n} はやく 月の鈴を{n} 海に なげこんで {sub:C5}な!」",
-   "en": null
+   "en": "\"Chuchun! Momotaro! Hurry and throw the Moon Bell into the sea, please!\""
   },
   {
    "id": "b247_0005",
    "jp": "「しこめじゃよ!{n} 寒い所も いいけど ここみたいに{n} あったかい所も なかなかだね!」",
-   "en": null
+   "en": "\"It's Shikome! Cold places are nice, but warm places like this ain't half bad either!\""
   },
   {
    "id": "b247_0006",
    "jp": "「和菓子の 辰巳'です!{n} 死んだ おかあさんを しのんで{n} 和菓子を 作るつもりです」{n}「泣いてばかりでは おかあさんは{n} よろこばないでしょうから!」{n}",
-   "en": null
+   "en": "\"I'm Tatsumi of the sweet shop! I'll make Japanese sweets in memory of my late mother.\"{n}\"Mother wouldn't be happy if all I did was cry!\"{n}"
   },
   {
    "id": "b247_0007",
    "jp": "「{sub:B5} {sub:A0}さん!{n} 新しい大地にも きっと{n} すゞめのお宿 つくりたいな!」",
-   "en": null
+   "en": "\"Chuchun! Momotaro! I want to build a Sparrow Inn in the new land too!\""
   },
   {
    "id": "b247_0008",
    "jp": "「鬼の世界の 薬について{n} おそわりました!{n} 新しい薬が つくれそうです!」",
-   "en": null
+   "en": "\"I learned about the medicines of the oni world! I think I can make new medicines!\""
   },
   {
    "id": "b247_0009",
    "jp": "「{sub:B5} かぐや姫さまの{n} やさしさが ふたたび世界に{n} めぐみを あたえますように!」",
-   "en": null
+   "en": "\"Chuchun! May Princess Kaguya's kindness bring blessings to the world once more!\""
   },
   {
    "id": "b247_0010",
    "jp": "「{sub:B5} お城の{n} みなさんに よろしく!」{n}",
-   "en": null
+   "en": "\"Chuchun! Give my regards to everyone at the castle!\"{n}"
   },
   {
    "id": "b247_0011",
    "jp": "「{sub:B5} {sub:A0}さん!{n} これで ここの兵具も{n} もう ひつようありませんね!」{n}「武'器ではなく 友情の力が{n} {kata}カルラ{hira}を たおしたんだもの!」{n}",
-   "en": null
+   "en": "\"Chuchun! Momotaro! Now nobody here needs weapons anymore!\"{n}\"It wasn't weapons but the power of friendship that beat Karura!\"{n}"
   },
   {
    "id": "b247_0012",
    "jp": "「{sub:B5} 暗く{n} しずんでいた みなさんの目に{n} 生きる希望が もどりました!」",
-   "en": null
+   "en": "\"Chuchun! Everyone's eyes were sunk in darkness, but now the hope to live has come back to them!\""
   },
   {
    "id": "b247_0013",
    "jp": "「鬼と 人間が 手をとりあう{n} 新しい時代の はじまりですね!」{n}",
-   "en": null
+   "en": "\"This is the start of a new age, where oni and humans join hands!\"{n}"
   },
   {
    "id": "b247_0014",
    "jp": "「{sub:A0}さん! 旅先で 食べた{n} きびだんごの味{n} ときどきは 思い出してね!」",
-   "en": null
+   "en": "\"Momotaro! Remember the taste of the millet dumplings you ate on your travels, now and then!\""
   },
   {
    "id": "b247_0015",
    "jp": "「羅生門さまは 鬼が島で{n} この村に 役立つ 品を{n} さがしまわっているそうです!」{n}「武'力ひとすじの 人だと{n} おもっていたけど{n} すごく やさしい人なんですね!」",
-   "en": null
+   "en": "\"They say Rashomon is searchin' all over Onigashima for things that'll help this village!\"{n}\"I thought he was all about brute force, but he's a real kind fella, ain't he!\""
   },
   {
    "id": "b247_0016",
    "jp": "「ああ! いつか{n} ほほえみの村 みたいな{n} のんきな村が 作れると いいな」",
-   "en": null
+   "en": "\"Ah! I hope someday we can make a carefree village like Smile Village.\""
   },
   {
    "id": "b247_0017",
    "jp": "「もっと 多くの人を{n} とめられるように たてものを{n} 増やさないと いけませんね!」",
-   "en": null
+   "en": "\"We'll have to add more buildings so we can put up more guests!\""
   },
   {
    "id": "b247_0018",
    "jp": "「鬼の医学は 人間よりも ずっと{n} すすんでいます! これまでより{n} 多くの人を すくえるでしょう!」",
-   "en": null
+   "en": "\"Oni medicine is far more advanced than human medicine! We'll be able to save more people than ever before!\""
   },
   {
    "id": "b247_0019",
    "jp": "「といちや{kata}グル{hira}ー{kata}プ{hira}も もう一度{n} はじめっから でなおしですわ!」{n}{n}「でも お客はんが おるかぎり{n} あきないは なくなりまへん!」{n}",
-   "en": null
+   "en": "\"The Toichiya Group's gotta start over from scratch too!\"{n}{n}\"But long as there's customers, trade ain't never gonna die out!\"{n}"
   },
   {
    "id": "b247_0020",
    "jp": "「これからは 兵具なんて{n} ぜんぜん 売れませんね!{n} うれしいんだか 悲しいだか…」",
-   "en": null
+   "en": "\"From now on, weapons won't sell at all! I can't tell if I'm happy or sad...\""
   },
   {
    "id": "b247_0021",
    "jp": "「もう 兵具なんて いらない!{n} この店も たたんで{n} 漁師にでも なりますよ!」",
-   "en": null
+   "en": "\"Nobody needs weapons anymore! I'll close up this shop and become a fisherman or somethin'!\""
   },
   {
    "id": "b247_0022",
    "jp": "「{sub:A0}さん! 包丁を{n} 料理のために つかえる日が{n} ようやく やってきたんですね!」",
-   "en": null
+   "en": "\"Momotaro! The day's finally come when kitchen knives can be used for cookin'!\""
   },
   {
    "id": "b247_0023",
    "jp": "「{sub:A0}さんが よんだ{n} 新しい夜明けを 見られるとは{n} ありがたや ありがたや!」",
-   "en": null
+   "en": "\"To think I'd live to see the new dawn Momotaro brought! Bless us, bless us!\""
   },
   {
    "id": "b247_0024",
    "jp": "「{kata}カルラ{hira}が 作ってた 竜鬼船の{n} 残りの 材料が 見つかったそうです{n} これで 家が 建てられますね!」",
-   "en": null
+   "en": "\"They say they found the leftover materials from the Dragon Oni Ship Karura was building. Now we can build houses!\""
   },
   {
    "id": "b247_0025",
    "jp": "「{sub:A0}さん! 北のみさきの{n} {kata}カルラ{hira}を まいにち 見て{n} 友情の 大切さを 思い出します!」",
-   "en": null
+   "en": "\"Momotaro! Every day I look at Karura on the northern cape and remember how precious friendship is!\""
   },
   {
    "id": "b247_0026",
    "jp": "「いま…… みんなで{n} 助け合って なかよく くらす{n} よろこびを かみしめています!」",
-   "en": null
+   "en": "\"Right now... I'm savoring the joy of all of us living together, helping each other, in harmony!\""
   }
  ]
 }

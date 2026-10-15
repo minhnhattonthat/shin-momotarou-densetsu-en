@@ -7,12 +7,12 @@
   {
    "id": "b163_0000",
    "jp": "{kata}カルラ{n}{hira}「ほほう? 人間の知力は{n} ここまで 進んでいたのか?」{n}「まさか 6階まで 来れるとはな!」{n}{n}{n}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} ならば この階は{n} 自力で こえてみるがいい!」{n}「手がかりを しるした 石板も{n} この{kata}オレ{hira}が はずしておいた!」{n}{n}「はやく とおりぬけることだな!{n} 岩に はさまれれば{n} 死が 待っている!」",
-   "en": null
+   "en": "Karura{n}\"Ho ho? Has human intellect come so far?\"{n}\"I never thought you'd make it to the 6th floor!\"{n}{n}{n}\"Keeh, keh-keh-keh!{n} Then try getting past this floor on your own!\"{n}\"I've even taken away the stone tablet with the clues!\"{n}{n}\"You'd better get through quickly! If you're caught between the rocks, death awaits!\""
   },
   {
    "id": "b163_0001",
    "jp": "{sub:A0}たちは{n}岩に おしつぶされてしまった!{n}",
-   "en": null
+   "en": "Momotaro and friends{n}were crushed by the rocks!{n}"
   }
  ]
 }

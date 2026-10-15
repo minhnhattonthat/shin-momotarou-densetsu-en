@@ -7,57 +7,57 @@
   {
    "id": "b158_0000",
    "jp": "「よく来ましたね {sub:A0}!」{n}{n}{n}「気をつけなさい ここから先{n} 鬼たちの しかけた わなが{n} あなたがたを 待ち受けています!」{n}「3人と 3匹!{n} ともに力を あわせ この大江山を{n} 無事に くぐりぬけるのです!」{n}「では 2階への とびらを{n} 私が ひらいて あげましょう」{n}",
-   "en": null
+   "en": "\"You have come at last, Momotaro!\"{n}{n}{n}\"Take care. From here on, traps laid by the oni lie in wait for you all!\"{n}\"Three people and three animals! Join your strength together and pass safely through Mt. Oe!\"{n}\"Now, I shall open the door to the second floor for you.\"{n}"
   },
   {
    "id": "b158_0001",
    "jp": "「いまの {sub:C9}に できることは{n} これが せいいっぱいです……」{n}{n}「みほとけが あなたを{n} お守り {sub:C5}ますように」{n}",
-   "en": null
+   "en": "\"This is all I can do for you now......\"{n}{n}\"May the holy Buddha protect you.\"{n}"
   },
   {
    "id": "b158_0002",
    "jp": "「よく来ましたね {sub:A0}!」{n}{n}{n}「でも あなたは{n} ここに いたるまでに{n} やりのこしたことが あるはず」{n}「あせっては なりません!{n} なすべきことを 終えてから{n} ふたたび ここを おとずれなさい」",
-   "en": null
+   "en": "\"You have come at last, Momotaro!\"{n}{n}{n}\"But surely there is something you left undone on your way here.\"{n}\"Do not be hasty! Finish what must be done, then come here once more.\""
   },
   {
    "id": "b158_0003",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} 待っていたぞ! {sub:A0}!」{n}「さあ! これから{n} 本当に {sub:B6}のことを{n} 敵として あつかってやる!」{n}「その前に {sub:B6}が 本当に{n} {kata}オレ{hira}様の 敵に ふさわしいか{n} ためしてやる! {kata}ケ{hira}ー{kata}ケッケッ{hira}!」{n}「この洞窟に 鬼の世界で{n} こどもが 遊ぶような なぞときを{n} 用意して やったぞ!」{n}「階ごとに なぞときが ひとつ!{n} 1問 解くごとに{n} 新しい 階段が あらわれる!」{n}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} どうだ! たのしいだろ」{n}{n}「まず 第1問! 文字合わせだ!」{n}{n}{n}「石板を 2枚めくり うらに{n} おなじ 文字が 書かれていたら{n} その2枚の 石板は 消える!」{n}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} もう一度 聞きたいか?」{n}",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh!{n} I've been waiting! Momotaro!\"{n}\"Now then! From here on, I'll truly treat you as an enemy!\"{n}\"But first, I'll test whether you're truly worthy of being my enemy! Keeh, keh-keh-keh!\"{n}\"I've prepared puzzles in this cave, the kind oni children play with!\"{n}\"One puzzle per floor! Each time you solve one, a new staircase appears!\"{n}\"Keeh, keh-keh-keh!{n} Well? Sounds fun, doesn't it?\"{n}{n}\"First, Puzzle No. 1! Matching Letters!\"{n}{n}{n}\"Flip over two stone tablets, and if the same letter is written on the back, those two tablets vanish!\"{n}\"Keeh, keh-keh-keh!{n} Want to hear it again?\"{n}"
   },
   {
    "id": "b158_0004",
    "jp": "「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} 誰が おしえるか!{n} これは {sub:B6}との 戦いだ!」{n}「それにしても 一度 聞いて{n} おぼえられぬとは! やはり{n} 人間は おろかな いきものよ!」",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh!{n} As if I'd tell you!{n} This is a battle between you and me!\"{n}\"Still, unable to remember it after hearing it once! Humans truly are foolish creatures!\""
   },
   {
    "id": "b158_0005",
    "jp": "「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} みえを はりおって!{n} いずれにしても おしえないがな!」",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh!{n} Putting on airs, are we!{n} Not that I'd tell you either way!\""
   },
   {
    "id": "b158_0006",
    "jp": "{sub:A0}は 石板を 調べた!{n}{n}{n}{sub:A0}は 石板の文字を よんだ!{n}{n}{n}それぞれの 文字を あわせ{n}すべての 石板を 消せ!{n}さすれば 道は 開かれん!",
-   "en": null
+   "en": "Momotaro examined the stone tablet!{n}{n}{n}Momotaro read the words on the tablet!{n}{n}{n}Match each letter{n}and make every tablet vanish!{n}Then shall the way be opened!"
   },
   {
    "id": "b158_0007",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}! 2階の{n} なぞときは 小手しらべだ!」{n}「ここからが 本当の{n} なぞときぞ! {sub:A0}!」{n}{n}「龍は 虎に勝ち!{n} 虎は 亀に勝ち!{n} 亀は 龍に勝つ!」{n}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} 人間の 知力では{n} 何のことか わかるまい!」{n}「もっと おしえてほしいか?」{n}{n}",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! The puzzle on the second floor was just a warm-up!\"{n}\"Now comes the real puzzle! Momotaro!\"{n}{n}\"The Dragon beats the Tiger!{n} The Tiger beats the Turtle!{n} The Turtle beats the Dragon!\"{n}\"Keeh, keh-keh-keh!{n} A human mind can't hope to figure out what that means!\"{n}\"Want me to tell you more?\"{n}{n}"
   },
   {
    "id": "b158_0008",
    "jp": "「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} 誰が おしえるか!」{n}",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh!{n} As if I'd tell you!\"{n}"
   },
   {
    "id": "b158_0009",
    "jp": "「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} すなおに はいと いえば{n} おしえて やったものを!」",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh!{n} If you'd just honestly said yes, I'd have told you!\""
   },
   {
    "id": "b158_0010",
    "jp": "{sub:A0}は 石板を 調べた!{n}{n}{n}{sub:A0}は 石板の文字を よんだ!{n}{n}{n}龍は水 虎は火 亀は風{n}{n}{n}水は 火をおさめ{n}火は 風を呼びおこし{n}風は 水をあつめる{n}青い石板を 天の さだめた{n}なりゆきに したがい{n}ひとつづつ 動かしていくべし{n}さすれば 道は 開かれん!{n}{n}",
-   "en": null
+   "en": "Momotaro examined the stone tablet!{n}{n}{n}Momotaro read the words on the tablet!{n}{n}{n}Dragon is water, Tiger is fire, Turtle is wind{n}{n}{n}Water quells fire{n}fire stirs up wind{n}wind gathers water{n}Move the blue tablets one at a time{n}following the course{n}that heaven has set{n}Then shall the way be opened!{n}{n}"
   }
  ]
 }

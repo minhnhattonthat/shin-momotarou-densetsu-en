@@ -7,17 +7,17 @@
   {
    "id": "b109_0000",
    "jp": "夜叉姫{n}「お兄さま!」{n}{n}「{kata}アジャセ{hira} お兄さま!」{n}{n}{n}「{sub:C9}を つれもどしに{n} いらしたのね?」{n}{n}「{kata}イヤ{hira}よ!」{n}{n}{n}「{sub:C9} このまま{n} 地獄に かえるのは {kata}イヤ{hira}!」{n}{n}「いまの 地獄は{n} ぜったい へんよ!」{n}{n}「みんな {kata}カルラ{hira}に だまされてるの!{n} 人間の世界に ふれてみて{n} はじめて わかったわ!」{n}{n}『勝て! たおせ! ひねりつぶせ!』{n}{n}「{kata}カルラ{hira}の いう 言葉は{n} たしかに みんなを{n} ふるいたたせるわ! でも!」{n}「勝ったあとに 何が 生まれるの?{n} 負けたがわの 気持ちは{n} どうなってしまうの?」{n}「{sub:A0}さんは 勝つことの{n} 悲しみを 知っています!{n} そして 負けることの つらさも!」{n}「父上も {kata}ダイダ{hira}お兄さまも{n} {kata}アジャセ{hira}お兄さまも{n} はやく 気づくべきよ!」{n}「{sub:A0}さんたちの やりかたに{n} まことが かくされてるって!」{n}",
-   "en": null
+   "en": "Yasha{n}\"Brother!\"{n}{n}\"Brother Ajase!\"{n}{n}{n}\"You've come to take me back, haven't you?\"{n}{n}\"No!\"{n}{n}{n}\"I won't go back to Hell like this!\"{n}{n}\"Hell as it is now is wrong, I just know it!\"{n}{n}\"Karura has fooled everyone! I only understood once I'd seen the human world for myself!\"{n}{n}'Win! Crush them! Grind them into dust!'{n}{n}\"It's true, Karura's words stir everyone's spirits! But!\"{n}\"What comes of it after you've won? What becomes of the feelings of those who lost?\"{n}\"Momotaro knows the sorrow of winning! And the pain of losing too!\"{n}\"Father, and Brother Daida, and you too, Brother Ajase... you must all realize it soon!\"{n}\"Realize that the truth lies hidden in the way Momotaro and his friends do things!\"{n}"
   },
   {
    "id": "b109_0001",
    "jp": "{kata}アジャセ{hira}王子{n}「夜叉が そこまでいう{n} {sub:A0}とやら…!」{n}「しつれいだが 戦いのなかで{n} {sub:C9}に まことを{n} おしえては くれまいか?」{n}「まわりの者も どうか{n} 手出しを しないで ほしい!{n} {sub:C9}は {sub:A0}を 知りたい!」{n}「さあ! 来るがいい! {sub:A0}!」{n}{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"So this is the Momotaro that Yasha speaks of so highly...!\"{n}\"Forgive me, but will you teach me this truth in battle?\"{n}\"And I ask all of you around us, please do not interfere! I wish to know Momotaro!\"{n}\"Now! Come at me! Momotaro!\"{n}{n}"
   },
   {
    "id": "b109_0002",
    "jp": "{kata}アジャセ{hira}王子{n}「そなたの かくご{n} しかと みせてもらった」{n}「{sub:A0}よ…」{n}{n}{n}「わがままな 妹だが{n} 夜叉を たのむ!」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"I have seen your resolve with my own eyes.\"{n}\"Momotaro...\"{n}{n}{n}\"She is a willful little sister, but please look after Yasha!\"{n}"
   }
  ]
 }

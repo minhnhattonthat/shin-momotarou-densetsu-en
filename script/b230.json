@@ -7,397 +7,397 @@
   {
    "id": "b230_0000",
    "jp": "えんま様{n}「……………? ……誰じゃ!{n} わしの名を 呼ぶのは?」{n}{sub:C2} {sub:A0}か!」{n}{n}{n}「まさか このような所で{n} そなたに あえるとは!」{n}",
-   "en": null
+   "en": "King Enma{n}\"...............? ...Who's there! Who calls my name?\"{n}\"Oh! Momotaro, is it you!\"{n}{n}{n}\"To think I would meet you in a place like this!\"{n}"
   },
   {
    "id": "b230_0001",
    "jp": "「……いや!」{n}{n}{n}「わしは このままで よい!{n} このままで よいのだ!」{n}{n}「{sub:A0}! おもいがけず{n} {sub:B6}の 顔を見て わしは{n} 希望を 持ってしまったようだ!」{n}「笑ってくれ!」{n}{n}{n}「わしは もう{n} 終わった 男だ!」{n}",
-   "en": null
+   "en": "\"......No!\"{n}{n}{n}\"I am fine as I am! Fine just as I am!\"{n}{n}\"Momotaro! Seeing your face so unexpectedly, it seems I let myself feel hope!\"{n}\"Laugh at me!\"{n}{n}{n}\"I am a man who is finished!\"{n}"
   },
   {
    "id": "b230_0002",
    "jp": "{sub:CE}{n}「えんま様!」{n}{n}{sub:CE}{n}「あなたは つねに 希望を持て!と{n} おっしゃったでは ないですか!」{n}{sub:CE}{n}「わたくしの 希望は{n} えんま様! あなたです!」{n}{sub:CE}{n}「希望が 牢獄に{n} 入ったままで いいのですか?」",
-   "en": null
+   "en": "Ashura{n}\"King Enma!\"{n}{n}Ashura{n}\"Were you not the one who always told us to hold on to hope?\"{n}Ashura{n}\"My hope is you, King Enma!\"{n}Ashura{n}\"Will you let hope stay locked in a prison?\""
   },
   {
    "id": "b230_0003",
    "jp": "夜叉姫{n}「えんま様は あのとき {sub:C9}に{n} {sub:A0}に 会えと いいましたね!」{n}夜叉姫{n}「えんま様の おっしゃる 希望を{n} {sub:A0}さんの 目の中に 見ました」",
-   "en": null
+   "en": "Yasha{n}\"King Enma, back then you told me to go and meet Momotaro!\"{n}Yasha{n}\"The hope you spoke of, King Enma... I saw it in Momotaro's eyes.\""
   },
   {
    "id": "b230_0004",
    "jp": "風神{n}「ぴゅるるるるぅ! えんま様!」{n}{n}風神{n}「希望を おしえてくれたのは{n} あなたでは ないですか!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! King Enma!\"{n}{n}Fujin{n}\"Weren't you the one who taught us about hope?\""
   },
   {
    "id": "b230_0005",
    "jp": "雷神{n}「ぐゎらり ぐゎらり! えんま様!」{n}{n}雷神{n}「あなたは 命ある うちは{n} 希望が あると もうされました」",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! King Enma!\"{n}{n}Raijin{n}\"You told us that as long as there is life, there is hope.\""
   },
   {
    "id": "b230_0006",
    "jp": "金太郎{n}「おう! おう! みなさんよ!{n} 希望は {kata}オラ{hira}の とくい技だよ!」{n}金太郎{n}「なあ! えんまの おっちゃんよー!{n} あんたが そこにいるとよー!」{n}金太郎{n}「希望は あんたの とくい技に{n} なっちゃうから 出てきてくれよ!」",
-   "en": null
+   "en": "Kintaro{n}\"Hey! Hey! Listen up, everybody! Hope's my special move!\"{n}Kintaro{n}\"Ain't that right, Uncle Enma! If you stay in there...\"{n}Kintaro{n}\"...hope'll end up bein' YOUR special move instead, so come on outta there!\""
   },
   {
    "id": "b230_0007",
    "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}! {kata}ボク{hira}たちにだって{n} 希望が あるんですよ えんま様!」",
-   "en": null
+   "en": "{arg}{n}\"Woof, woof! Even we have hope, King Enma!\""
   },
   {
    "id": "b230_0008",
    "jp": "{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}! 希望がなきゃ{n} 不幸な人は 生きていけないよ!」",
-   "en": null
+   "en": "{arg}{n}\"Kya, kya! Without hope, unhappy folks couldn't go on living!\""
   },
   {
    "id": "b230_0009",
    "jp": "{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}! 希望は{n} めざめているときの 夢ですよね!」",
-   "en": null
+   "en": "{arg}{n}\"Ken, ken! Hope is a dream you have while you're awake, isn't it!\""
   },
   {
    "id": "b230_0010",
    "jp": "えんま様{n}「はっはっはっ!{n} みんな いうわい!」{n}「はっはっはっ!{n} えんまは ひさしぶりに{n} 笑ったぞ! はっはっはっ!」{n}「わかった! たしかに{n} わしは 希望を うしなっていた!」{n}",
-   "en": null
+   "en": "King Enma{n}\"Ha ha ha! You all have plenty to say!\"{n}\"Ha ha ha! It has been a long time since Enma laughed! Ha ha ha!\"{n}\"Very well! It is true, I had lost hope!\"{n}"
   },
   {
    "id": "b230_0011",
    "jp": "えんま様{n}「{sub:A0}と その仲間たちよ!」{n}{n}「{sub:B6}たちに 希望を{n} 見せられてしまった ようだな!{n} 今度は わしの 番だ!」{n}「{sub:A0}よ!{n} わしは {sub:B6}たちと{n} いづこへでも おもむこうぞ!」",
-   "en": null
+   "en": "King Enma{n}\"Momotaro, and his companions!\"{n}{n}\"It seems you have shown me hope! Now it is my turn!\"{n}\"Momotaro! I shall go with you, wherever it may be!\""
   },
   {
    "id": "b230_0012",
    "jp": "すさまじい 地ひびきが{n}{sub:A0}たちを おそった!{n}",
-   "en": null
+   "en": "A tremendous rumbling{n}struck Momotaro and the others!{n}"
   },
   {
    "id": "b230_0013",
    "jp": "{kata}アジャセ{hira}王子{n}「まてー! {kata}カルラ{hira}!」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Wait! Karura!\"{n}"
   },
   {
    "id": "b230_0014",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!」{n}{n}「これで 鬼の世界は{n} すべて {kata}オレ{hira}様の物だ!」{n}{n}「{kata}バカ{hira}正直な {kata}ダイダ{hira}王子と{n} {kata}クソ{hira}まじめな 伐折羅など{n} だますのは かんたんだ!」{n}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} {kata}ケ{hira}ー{kata}ケッケッ{hira}!」{n}{n}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! {kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} {kata}ケ{hira}ー{kata}ケッケッ{hira}! {kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} {kata}ケ{hira}ー{kata}ケッケッ{hira}! {kata}ケ{hira}ー{kata}ケッケッ{hira}!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, kekkeh-keh!\"{n}{n}\"Now the whole world of the oni is mine!\"{n}{n}\"Tricking that honest fool Prince Daida and that stiff-necked prig Basara was child's play!\"{n}\"Keeh, keh-keh-keh!{n} Keeh, keh-keh-keh!\"{n}{n}\"Keeh, keh-keh-keh! Keeh, keh-keh-keh!{n} Keeh, keh-keh-keh! Keeh, keh-keh-keh!{n} Keeh, keh-keh-keh! Keeh, keh-keh-keh!\""
   },
   {
    "id": "b230_0015",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}! えんまよ!{n} 伐折羅王さまに さからったな!」{n}「牢獄からの 脱走(だっそう)は{n} 死罪に あたいする!{n} {sub:B6}が きめた とりきめだ!」{n}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!」{n}{n}{n}「右魂鬼に 左魂鬼!{n} 伐折羅王さまに ほうこくせい!」{n}",
-   "en": null
+   "en": "Karura{n}\"Keeh, kekkeh-keh! Enma! You have defied King Basara!\"{n}\"Escaping from prison is punishable by death! That's the rule you made yourself!\"{n}\"Keeh, kekkeh-keh!\"{n}{n}{n}\"Ukonki! Sakonki! Report to King Basara!\"{n}"
   },
   {
    "id": "b230_0016",
    "jp": "右魂鬼{n}「{kata}グルルルルル{hira}!」{n}",
-   "en": null
+   "en": "Ukonki{n}\"Grrrrrrr!\"{n}"
   },
   {
    "id": "b230_0017",
    "jp": "左魂鬼{n}「{kata}ガルルルルル{hira}!」{n}",
-   "en": null
+   "en": "Sakonki{n}\"Garrrrrr!\"{n}"
   },
   {
    "id": "b230_0018",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} これで よし!」{n}「これで 心おきなく{n} {sub:B6}らを 一度に{n} しまつすることが できる!」{n}「さあ! 岩に うもれ{n} その体を 魚たちに 食われ{n} 海の もくずと 消えるがいい!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! That settles it!\"{n}\"Now I can dispose of the lot of you at once, without a care!\"{n}\"Now then! Be buried under the rocks, let the fish eat your bodies, and vanish like flotsam in the sea!\""
   },
   {
    "id": "b230_0019",
    "jp": "{kata}アジャセ{hira}王子{n}「おひさしぶりです! えんま王!」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"It has been a long time, King Enma!\"{n}"
   },
   {
    "id": "b230_0020",
    "jp": "{kata}アジャセ{hira}王子{n}「{sub:A0}! えんま王が{n} 希望を うしなうのも 無理はない」{n}「この牢には とんでもない{n} しかけが ほどこされているのだ!」{n}{n}「この牢に ふれたものは{n} 少しづつ その体力を うばわれ{n} やがて 力つきる!」{n}「体力500 うばわれて はじめて{n} この牢の {kata}カギ{hira}が ひらくのだ!」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Momotaro! No wonder King Enma lost hope.\"{n}\"This cell has a terrible trap laid upon it!\"{n}{n}\"Whoever touches this cell has their Health drained little by little, until their strength gives out!\"{n}\"Only when 500 Health has been drained will this cell's lock open!\"{n}"
   },
   {
    "id": "b230_0021",
    "jp": "「{sub:B6}たちに この牢に{n} ふれる 勇気が あるか?」{n}",
-   "en": null
+   "en": "\"Do you have the courage to touch this cell?\"{n}"
   },
   {
    "id": "b230_0022",
    "jp": "「このまま 牢に{n} ふれてみるか?」{n}",
-   "en": null
+   "en": "\"Will you touch the cell now?\"{n}"
   },
   {
    "id": "b230_0023",
    "jp": "えんま様{n}「{sub:A0}… {sub:B6}という やつは!{n} そして その仲間たちよ!」",
-   "en": null
+   "en": "King Enma{n}\"Momotaro... what a fellow you are! And you, his companions!\""
   },
   {
    "id": "b230_0024",
    "jp": "「4人の 体力の 合計を{n} 500にしてから もう一度{n} ここに 来るが よい!」",
-   "en": null
+   "en": "\"Bring the four of you to a combined 500 Health, then come here once more!\""
   },
   {
    "id": "b230_0025",
    "jp": "{arg}は 牢に ふれた!{n}{n}{n}{arg}の 体力が{n}呪いを こめた牢の ために{n}うしなわれていく!",
-   "en": null
+   "en": "{arg} touched the cell!{n}{n}{n}{arg}'s Health{n}is being drained away{n}by the cursed cell!"
   },
   {
    "id": "b230_0026",
    "jp": "{arg}は{n}ついに 力つきた!{n}{n}{arg}は そのばに{n}がくりと たおれふした!{n}",
-   "en": null
+   "en": "{arg}{n}finally ran out of strength!{n}{n}{arg} crumpled{n}to the ground right there!{n}"
   },
   {
    "id": "b230_0027",
    "jp": "{kata}ミシミシ{hira}と 牢獄が{n}音を立てて くずれていく!{n}",
-   "en": null
+   "en": "With a creak and a groan,{n}the prison crumbles to pieces!{n}"
   },
   {
    "id": "b230_0028",
    "jp": "ついに {sub:A0}たちは{n}えんまを ゆうへいしていた{n}呪いの牢獄を うちくだいた!",
-   "en": null
+   "en": "At last, Momotaro and the others{n}smashed the cursed prison{n}that had held Enma captive!"
   },
   {
    "id": "b230_0029",
    "jp": "浦島{n}「{kata}ハァ{hira}…… {kata}ハァ{hira}……」{n}{n}「{sub:C9}は あきらめません!{n} {sub:A0}さんから おそわった{n} 愛と 勇気が あるかぎり!」",
-   "en": null
+   "en": "Urashima{n}\"Haa...... Haa......\"{n}{n}\"I won't give up! Not as long as I have the love and courage Momotaro taught me!\""
   },
   {
    "id": "b230_0030",
    "jp": "金太郎{n}「うりゃりゃりゃりゃりゃっ!{n} うりゃりゃりゃりゃりゃっ」{n}「こんな牢 いますぐ{n} ぶっこわして やっからな!」{n}",
-   "en": null
+   "en": "Kintaro{n}\"Uryaryaryaryaryaa!{n} Uryaryaryaryaryaa!\"{n}\"I'm gonna bust this cell wide open right now!\"{n}"
   },
   {
    "id": "b230_0031",
    "jp": "夜叉姫{n}「わが父 伐折羅王!{n} わが兄 {kata}ダイダ{hira}王子!」{n}「ふたりの 目を さまさせるため!{n} えんま様! あなたの力が{n} どうしても ひつよう なのです!」",
-   "en": null
+   "en": "Yasha{n}\"My father, King Basara! My brother, Prince Daida!\"{n}\"To open both their eyes, King Enma, we truly need your strength!\""
   },
   {
    "id": "b230_0032",
    "jp": "{sub:CE}{n}「{kata}フッフッフッ{hira}…! えんま様!{n} まだまだ 引退させませぬぞ!」",
-   "en": null
+   "en": "Ashura{n}\"Fu-fu-fu...! King Enma! We won't let you retire just yet!\""
   },
   {
    "id": "b230_0033",
    "jp": "でか太郎{n}「{kata}アッポ{hira}ー! もうすこしで{n} この牢が あくんだな {kata}アッポ{hira}ー!」",
-   "en": null
+   "en": "Dekataro{n}\"Appoo! Just a little more an' this cell opens up, Appoo!\""
   },
   {
    "id": "b230_0034",
    "jp": "銀次{n}「ええいっ! ふつうの牢なら{n} あっしが あけるんですがね!」",
-   "en": null
+   "en": "Ginji{n}\"Dang it! If this was a regular cell, I'd have it open in no time!\""
   },
   {
    "id": "b230_0035",
    "jp": "といちや{n}「{sub:A0}さん! 今回は 無料で{n} 手伝わせて もらいまっせ!」{n}「は はじめて ですわ!{n} こんな 気持ちに なったんは!」{n}",
-   "en": null
+   "en": "Toichiya{n}\"Momotaro! This time I'll help ya out for free!\"{n}\"F-first time ever I've felt like this!\"{n}"
   },
   {
    "id": "b230_0036",
    "jp": "天の邪鬼{n}「{kata}ヘイヘイ{hira}! 今回だけ{n} 特別 だからな!」",
-   "en": null
+   "en": "Amanojaku{n}\"Hey, hey! Just this once, as a special favor!\""
   },
   {
    "id": "b230_0037",
    "jp": "はらだし{n}「{kata}ハラホロヒレハレ{hira}ー!{n} でも {kata}ボク{hira}は 負けません!」",
-   "en": null
+   "en": "Bellyman{n}\"Hara-horo-hire-hare~! But I won't give up!\""
   },
   {
    "id": "b230_0038",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} 風よ! 嵐よ!」{n}「わしに えんま様を{n} おすくいする{n} 力を あたえてくれ!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! O wind! O storm!\"{n}\"Grant me the power to save King Enma!\""
   },
   {
    "id": "b230_0039",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} 雷鳴よ! 稲妻よ!」{n}「わしに この牢獄を{n} くだく力を あたえよ!」{n}",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! O thunder! O lightning!\"{n}\"Grant me the power to smash this prison!\"{n}"
   },
   {
    "id": "b230_0040",
    "jp": "{sub:A0}は ありったけの力で{n}牢を こじあけようと している!{n}{n}牢が {kata}ミシミシ{hira}と{n}音を立てはじめた!{n}",
-   "en": null
+   "en": "Momotaro is trying with all his{n}might to pry the cell open!{n}{n}The cell begins to creak{n}and groan!{n}"
   },
   {
    "id": "b230_0041",
    "jp": "えんま様{n}「なんという ことだ!」{n}{n}「{kata}カルラ{hira}め! われらを{n} いきうめに するつもりか!」{n}",
-   "en": null
+   "en": "King Enma{n}\"What is this!\"{n}{n}\"Curse you, Karura! Do you mean to bury us alive?\"{n}"
   },
   {
    "id": "b230_0042",
    "jp": "「ぬうう……!{n} このままでは{n} 死を 待つのみ!」",
-   "en": null
+   "en": "\"Nuuu......! At this rate, all we can do is wait for death!\""
   },
   {
    "id": "b230_0043",
    "jp": "「すまぬ! {sub:A0}!{n} わしを 助けたばかりに{n} このような 目に あうとは!」",
-   "en": null
+   "en": "\"Forgive me, Momotaro! Just because you saved me, you've ended up in this plight!\""
   },
   {
    "id": "b230_0044",
    "jp": "「しかし 何としても{n} ここから のがれねば!{n} う～む! どうしたものやら…」{n}「うぬぬぬぬぬぬぬっ!{n} わしの 目の 黒いうちは{n} 鬼の世界を 終わらせまいぞ!」",
-   "en": null
+   "en": "\"But somehow, we must escape from here! Hmmm! What to do...\"{n}\"Nnnnnngh! As long as I still draw breath, I will not let the world of the oni come to an end!\""
   },
   {
    "id": "b230_0045",
    "jp": "「ぬ……?」{n}{n}",
-   "en": null
+   "en": "\"Hm......?\"{n}{n}"
   },
   {
    "id": "b230_0046",
    "jp": "「まて?」{n}{n}",
-   "en": null
+   "en": "\"Wait?\"{n}{n}"
   },
   {
    "id": "b230_0047",
    "jp": "「なにやら{n} 物音が 聞こえぬか?」{n}",
-   "en": null
+   "en": "\"Do you hear some sort of noise?\"{n}"
   },
   {
    "id": "b230_0048",
    "jp": "「……土を いや 岩を{n} 砕くような 音が!」{n}",
-   "en": null
+   "en": "\"......A sound like digging through earth... no, smashing through rock!\"{n}"
   },
   {
    "id": "b230_0049",
    "jp": "えんま様{n}「気をつけろ {sub:A0}!{n} わしも つづくぞ!」",
-   "en": null
+   "en": "King Enma{n}\"Be careful, Momotaro! I'll be right behind you!\""
   },
   {
    "id": "b230_0050",
    "jp": "えんま様{n}「これは いったい{n} 何の 音だ?」",
-   "en": null
+   "en": "King Enma{n}\"What in the world is that sound?\""
   },
   {
    "id": "b230_0051",
    "jp": "金太郎{n}「うりゃりゃりゃりゃりゃっ!{n} うりゃりゃりゃりゃりゃっ!」",
-   "en": null
+   "en": "Kintaro{n}\"Uryaryaryaryaryaa!{n} Uryaryaryaryaryaa!\""
   },
   {
    "id": "b230_0052",
    "jp": "金太郎{n}「{kata}ダメ{hira}だ! {kata}オラ{hira}の{n} あたまより かてーーーっ!」",
-   "en": null
+   "en": "Kintaro{n}\"No good! It's harder than my heeeead!\""
   },
   {
    "id": "b230_0053",
    "jp": "えんま様{n}{sub:C2} そなたは!」{n}",
-   "en": null
+   "en": "King Enma{n}\"Oh! You are...!\"{n}"
   },
   {
    "id": "b230_0054",
    "jp": "「酒香!」{n}{n}{n}「酒香童子では ないか?」{n}{n}{n}「{sub:B6} だったのか!{n} この岩に 穴をあけたのは…!」{n}{n}「む! 無理を しおって!」{n}{n}",
-   "en": null
+   "en": "\"Shuko!\"{n}{n}{n}\"Is that not Shuko Doji?\"{n}{n}{n}\"So it was you! You're the one who bored a hole through this rock...!\"{n}{n}\"Wh-! You pushed yourself too hard!\"{n}{n}"
   },
   {
    "id": "b230_0055",
    "jp": "酒香童子{n}「……うぐぐっ! えんま様!{n} ………ご無事で なにより!」{n}「ははは… {sub:C9}も……ごふっ!{n} …{sub:A0}と やくそくしましてな…」{n}{n}「かならず 行くといって…{n} …………行かなければ」{n}{n}「お…鬼の…………世界では{n} 最大の……はじを……ごふっ!{n} せおい………ますからな…………!」{n}えんま様{n}「酒香童子よ!」{n}{n}「無理に 話すな!{n} 気持ちは ここにいる者 みんなに{n} じゅうぶん 伝わっている!」",
-   "en": null
+   "en": "Shuko Doji{n}\"......Ugh! King Enma! .........I'm glad you're safe!\"{n}\"Ha ha... I also......*cough*! ...made a promise to Momotaro...\"{n}{n}\"I said I would surely come... ............so I had to come.\"{n}{n}\"In...the world...............of the oni... a broken promise is......the greatest...shame......*cough*! ...one would......carry......!\"{n}King Enma{n}\"Shuko Doji!\"{n}{n}\"Don't force yourself to speak! Everyone here understands your feelings full well!\""
   },
   {
    "id": "b230_0056",
    "jp": "「え…ん…ま…様! そ…し…て…{n} 桃…太郎…… その……仲間たち…」{n}",
-   "en": null
+   "en": "\"K...ing... En...ma...! A...nd...{n} Momo...taro...... and your......companions...\"{n}"
   },
   {
    "id": "b230_0057",
    "jp": "「夜叉姫さ…ま… {sub:CE}…」{n}{n}",
-   "en": null
+   "en": "\"Princess Ya...sha... Ashura...\"{n}{n}"
   },
   {
    "id": "b230_0058",
    "jp": "えんま様{n}「もうよい! 酒香!{n} しゃべるな!」",
-   "en": null
+   "en": "King Enma{n}\"Enough! Shuko! Don't speak!\""
   },
   {
    "id": "b230_0059",
    "jp": "{sub:CE}{n}「軍神! きずは あさいですぞ!」{n}",
-   "en": null
+   "en": "Ashura{n}\"War God! Your wound is only shallow!\"{n}"
   },
   {
    "id": "b230_0060",
    "jp": "夜叉姫{n}「酒香童子! 目をとじては {kata}ダメ{hira}!」{n}",
-   "en": null
+   "en": "Yasha{n}\"Shuko Doji! Don't close your eyes!\"{n}"
   },
   {
    "id": "b230_0061",
    "jp": "金太郎{n}「おう! おう!{n} 酒のみの あんちゃんよー!」{n}「まだ {kata}オラ{hira}を 武'人(ぶじん)と{n} 呼んでくれて ねーんだよ!{n} まだ やること 残ってんどー!」",
-   "en": null
+   "en": "Kintaro{n}\"Hey! Hey! You big boozin' brother!\"{n}\"You still ain't called me a true warrior yet! You got stuff left to do!\""
   },
   {
    "id": "b230_0062",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} 酒香童子さまーーーーーーー{kata}ッ{hira}!」{n}「{sub:C9}は 子どものころから{n} あなたの 剣'の つかいかたを{n} {kata}マネ{hira}てきたのです!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! Lord Shuko Dojiiiiiiiii!\"{n}\"Ever since I was a child, I've copied the way you wield your sword!\""
   },
   {
    "id": "b230_0063",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} 酒香童子さまーーーーーーー{kata}ッ{hira}!」{n}「{sub:C9}は まだ 四天王に{n} 加えてもらって おりませんぞ!」{n}",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! Lord Shuko Dojiiiiiiiii!\"{n}\"You still haven't let me join the Four Heavenly Kings!\"{n}"
   },
   {
    "id": "b230_0064",
    "jp": "酒香童子{n}「この………穴を…{n} ……ぬければ… {sub:B6}たちが……」{n}「{kata}ハア{hira}!…{kata}ハア{hira}!………のってきた…」{n}{n}{n}「{kata}ハア{hira}!…… ごふっ!{n} 城まで… たどりつける……{n} うおおおおおおおおおっ!」{n}「わが名は 酒香! 酒香童子!{n} かつて 軍神と よばれた鬼!」{n}{n}「たとえ 死すとも{n} 生きている者たちの{n} 心に 残れば それで よし!」",
-   "en": null
+   "en": "Shuko Doji{n}\"If you go......through...this...hole... you......\"{n}\"Haa!...Haa!......the one you rode in...\"{n}{n}{n}\"Haa!...... *cough*! ...you can make it... to the castle......{n} Uooooooooooh!\"{n}\"My name is Shuko! Shuko Doji! The oni once called the War God!\"{n}{n}\"Even if I die, so long as I live on in the hearts of the living, that is enough!\""
   },
   {
    "id": "b230_0065",
    "jp": "{sub:CE}{n}「酒香童子さまーーーーーーー{kata}ッ{hira}!」{n}",
-   "en": null
+   "en": "Ashura{n}\"Lord Shuko Dojiiiiiiiii!\"{n}"
   },
   {
    "id": "b230_0066",
    "jp": "夜叉姫{n}「酒香童子ーーーーーーーーー{kata}ッ{hira}!」{n}",
-   "en": null
+   "en": "Yasha{n}\"Shuko Dojiiiiiiiiii!\"{n}"
   },
   {
    "id": "b230_0067",
    "jp": "金太郎{n}「酒のみの にいちゃーーーーん!」{n}",
-   "en": null
+   "en": "Kintaro{n}\"Boozy big brooooootheeeer!\"{n}"
   },
   {
    "id": "b230_0068",
    "jp": "風神{n}「酒香童子さまーーーーーーー{kata}ッ{hira}!」{n}",
-   "en": null
+   "en": "Fujin{n}\"Shuko Dojiiiiiiiii!\"{n}"
   },
   {
    "id": "b230_0069",
    "jp": "雷神{n}「酒香童子さまーーーーーーー{kata}ッ{hira}!」{n}",
-   "en": null
+   "en": "Raijin{n}\"Shuko Dojiiiiiiiii!\"{n}"
   },
   {
    "id": "b230_0070",
    "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}! 酒香童子さま!」{n}",
-   "en": null
+   "en": "{arg}{n}\"Woof woof! Shuko Doji!\"{n}"
   },
   {
    "id": "b230_0071",
    "jp": "{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}! 酒香童子さま!」{n}",
-   "en": null
+   "en": "{arg}{n}\"Eek eek! Shuko Doji!\"{n}"
   },
   {
    "id": "b230_0072",
    "jp": "{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}! 酒香童子さま!」{n}",
-   "en": null
+   "en": "{arg}{n}\"Kehn kehn! Shuko Doji!\"{n}"
   },
   {
    "id": "b230_0073",
    "jp": "えんま様{n}「{sub:A0}よ……」{n}{n}「酒香童子の 最後の言葉を{n} われらは けっして{n} わすれては いけない!」",
-   "en": null
+   "en": "King Enma{n}\"Momotaro......\"{n}{n}\"We must never, ever forget Shuko Doji's last words!\""
   },
   {
    "id": "b230_0074",
    "jp": "夜叉姫{n}「{sub:A0}さん!」{n}{n}「これ以上 {kata}カルラ{hira}の{n} ぎせいになる者を{n} 増やしては なりません!」{n}「いざ まいりましょう!{n} 酒香童子の とむらい合戦に!」{n}",
-   "en": null
+   "en": "Yasha{n}\"Momotaro!\"{n}{n}\"We must not let anyone else fall victim to Karura!\"{n}\"Come, let us go! To battle, to avenge Shuko Doji!\"{n}"
   },
   {
    "id": "b230_0075",
    "jp": "{sub:CE}{n}「酒香童子さま! 軍神の名を{n} つげるよう どりょくいたします!」",
-   "en": null
+   "en": "Ashura{n}\"Shuko Doji! I shall strive to be worthy of inheriting the name of War God!\""
   },
   {
    "id": "b230_0076",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} 酒香童子さまーーーーーーー{kata}ッ{hira}!」{n}「われら かならずや!{n} 新しい 時代を{n} 作りますぞーーーーーーーー{kata}ッ{hira}!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! Shuko Dojiiiiiiiii!\"{n}\"We swear it! We will build a new eraaaaaaaa!\""
   },
   {
    "id": "b230_0077",
    "jp": "雷神{n}「ぴゅるるるるぅ! 風神! 雷神!{n} {sub:CE}! そして 夜叉姫さま!」{n}「われら 4名!{n} あなたの 心の 四天王と{n} させて{sub:D3}!」",
-   "en": null
+   "en": "Raijin{n}\"Pyururururuu! Fujin! Raijin! Ashura! And Princess Yasha!\"{n}\"We four! Let us be the Four Heavenly Kings of your heart!\""
   },
   {
    "id": "b230_0078",
    "jp": "「さあ! いそがねば!{n} 岩が すべて くずれぬうちに{n} ここを ぬけださねば!」",
-   "en": null
+   "en": "\"Now, hurry! We must get out of here before all the rocks come crashing down!\""
   }
  ]
 }

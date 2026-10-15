@@ -7,27 +7,27 @@
   {
    "id": "b205_0000",
    "jp": "「{sub:B5}{n} 女の人が 雪の中に{n} たおれているんです!」",
-   "en": null
+   "en": "\"Chuchun!{n} There's a woman collapsed in the snow!\""
   },
   {
    "id": "b205_0001",
    "jp": "「{sub:B5} {sub:A0}さん!{n} この女の人は もしかして{n} 夜叉姫さんじゃ ありませんか?」",
-   "en": null
+   "en": "\"Chuchun! Momotaro!{n} Could this woman be Princess Yasha?\""
   },
   {
    "id": "b205_0002",
    "jp": "「{sub:B5}{n} たいへん! たいへん!{n} 体が ひえきってるよ!」",
-   "en": null
+   "en": "\"Chuchun!{n} Oh no! Oh no!{n} She's frozen to the bone!\""
   },
   {
    "id": "b205_0003",
    "jp": "「{sub:B5}{n} {sub:C9}たちの力では{n} お宿まで はこべません!」",
-   "en": null
+   "en": "\"Chuchun!{n} We're not strong enough to carry her to the inn!\""
   },
   {
    "id": "b205_0004",
    "jp": "銀次{n}「あっしです!{n} 銀次でごぜえやす!」{n}「やっぱり いやな{n} よかんが 当たっちまったか!」{n}{n}「どうも 胸さわぎがして{n} おっかけて まいりやした!」{n}{n}「{sub:A0}さん!{n} ひとまず 夜叉姫さんを そこの{n} お宿に はこびやしょう!」",
-   "en": null
+   "en": "Ginji{n}\"It's me!{n} Ginji, at yer service!\"{n}\"Sure enough, my bad hunch was right on the money!\"{n}{n}\"Had a funny feelin' in my gut, so I came chasin' after ya!\"{n}{n}\"Momotaro!{n} For now, let's carry Princess Yasha to the inn right there!\""
   }
  ]
 }

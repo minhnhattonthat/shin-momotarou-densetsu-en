@@ -7,17 +7,17 @@
   {
    "id": "b193_0000",
    "jp": "「{sub:A0}さん! この血の池で{n} まよったら はじめから{n} やり直したほうが いいですよ!」",
-   "en": null
+   "en": "\"Momotaro! If you get lost in this Blood Pool, you'd better start over from the beginning!\""
   },
   {
    "id": "b193_0001",
    "jp": "「{kata}イヒヒヒヒッ{hira}! やまんばじゃよ!{n} ばばあが 戦ったちゃ へんかい?」{n}",
-   "en": null
+   "en": "\"Ihihihihi! It's the Mountain Hag!{n} What's so strange about an old crone fightin'?\"{n}"
   },
   {
    "id": "b193_0002",
    "jp": "「たのむ! 鬼の仲間たちよ!{n} 目をさましてくれ!{n} 鬼の世が いま あぶないのだ!」",
-   "en": null
+   "en": "\"Please! My fellow oni!{n} Wake up!{n} The oni world is in danger now!\""
   }
  ]
 }

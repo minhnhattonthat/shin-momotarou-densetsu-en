@@ -7,72 +7,72 @@
   {
    "id": "b226_0000",
    "jp": "乙姫{n}「竜宮を つかさどる{n} 海の 神よ!」{n}「波 こえさせたまえ!」{n}{n}",
-   "en": null
+   "en": "Princess Otohime{n}\"O god of the sea, who rules over the Dragon Palace!\"{n}\"Carry us across the waves!\"{n}{n}"
   },
   {
    "id": "b226_0001",
    "jp": "乙姫{n}「どうぞ 月へ{n} おいで{sub:C5}!」{n}「静かの村には{n} 臥龍(がりゅう)と 呼ばれる 龍が{n} すみついているそうです!」{n}「なんでも 臥龍のしれんに{n} たえられる者には 月の鏡を{n} あたえると 聞いております」{n}「つねに この とびらは{n} ひらいたままに しておきます!{n} どうか ご無事で!」",
-   "en": null
+   "en": "Princess Otohime{n}\"Please, go on to the Moon!\"{n}\"They say a dragon called Garyu has made its home in Quiet Village!\"{n}\"I hear it gives the Moon Mirror to anyone who can endure Garyu's trial.\"{n}\"I shall always leave this door open! Please, stay safe!\""
   },
   {
    "id": "b226_0002",
    "jp": "銀次{n}「{sub:A0}さん! すまねえ!」{n}{n}「お月さんにまで{n} ごいっしょするのは{n} かんにんして おくんなさい!」{n}「じつは あっしは{n} たけえところは ちっとばかし{n} にがてで ございやして!」{n}「かわりと いっちゃ なんですが{n} 地上の じょうほうあつめは{n} ぬかりなく やってみせますぜ!」",
-   "en": null
+   "en": "Ginji{n}\"Momotaro! Sorry, pal!\"{n}{n}\"Ya gotta forgive me for not tagging along all the way to the Moon!\"{n}\"Truth is, I'm a wee bit no good with high places!\"{n}\"Not to make excuses, but down here on the ground, I'll gather info for ya without missin' a thing!\""
   },
   {
    "id": "b226_0003",
    "jp": "「金太郎さん!」{n}{n}",
-   "en": null
+   "en": "\"Kintaro!\"{n}{n}"
   },
   {
    "id": "b226_0004",
    "jp": "「浦島さん!」{n}{n}",
-   "en": null
+   "en": "\"Urashima!\"{n}{n}"
   },
   {
    "id": "b226_0005",
    "jp": "「どうか {sub:A0}さんと{n} 力をあわせて かぐや姫様を{n} おたすけ くだせえ!」{n}「では また いずれ!」{n}{n}",
-   "en": null
+   "en": "\"Please, join forces with Momotaro and save Princess Kaguya!\"{n}\"Well then, see ya around!\"{n}{n}"
   },
   {
    "id": "b226_0006",
    "jp": "金太郎{n}「おどろいたなー! 銀次が{n} 高いとこ きらいだ なんて!」{n}浦島{n}「ちがいますよ! 金太郎さん!{n} 銀次さんの てれかくしですよ」{n}「銀次さんは かぐや姫様に{n} あうのが はずかしいのですよ」{n}{n}金太郎{n}「ふ～ん! 何だか わかんねっけど{n} 月へ 行ってみっぺっか!」",
-   "en": null
+   "en": "Kintaro{n}\"Whoa, what a surprise! Ginji hates high places!\"{n}Urashima{n}\"That's not it, Kintaro! Ginji's just covering up his embarrassment.\"{n}\"Ginji's too bashful to meet Princess Kaguya.\"{n}{n}Kintaro{n}\"Hmmm! Dunno what that's about, but let's go check out the Moon, eh!\""
   },
   {
    "id": "b226_0007",
    "jp": "「地上では あきたらず{n} 海の底まで おそうとは どこまで{n} 鬼たちは 欲ぶかいのか!」",
-   "en": null
+   "en": "\"Not content with the land, they attack even the bottom of the sea! Is there no end to the oni's greed?!\""
   },
   {
    "id": "b226_0008",
    "jp": "「ここにある 竜宮の宝は{n} えんりょなく お持ち{sub:C5} と{n} 乙姫さまの おおせにございます!」",
-   "en": null
+   "en": "\"Princess Otohime bids you take whatever Dragon Palace treasures are here, without holding back!\""
   },
   {
    "id": "b226_0009",
    "jp": "「天の仙人さまは 本当に{n} いろいろな物を 持ってるんですよ{n} 美しい 仏像… ふしぎな{kata}タネ{hira}…」{n}「ほとんどが {kata}ガラクタ{hira}との{n} うわさですけどね! ほほほっ!」{n}",
-   "en": null
+   "en": "\"The Heavenly Sage really does own all sorts of things. A beautiful Buddha statue... strange seeds...\"{n}\"Though rumor has it most of it is junk! Ho ho ho!\"{n}"
   },
   {
    "id": "b226_0010",
    "jp": "「乙姫さま～!{n} どこに おわしますか～!」{n}",
-   "en": null
+   "en": "\"Princess Otohime~! Where are you~!\"{n}"
   },
   {
    "id": "b226_0011",
    "jp": "「月へ 行かれるのでしたら{n} どうぞ お気をつけて!」{n}",
-   "en": null
+   "en": "\"If you're going to the Moon, please take care!\"{n}"
   },
   {
    "id": "b226_0012",
    "jp": "「左源内さんの 庵は{n} 氷の塔の 南あたりから 潜れば{n} すぐの はずですわ!」",
-   "en": null
+   "en": "\"Sagennai's Hut should be just a short dive from somewhere south of the Ice Tower!\""
   },
   {
    "id": "b226_0013",
    "jp": "「女は すておけ! それより{n} 金目の 品物を はこびだせ!{n} {kata}カルラ{hira}様の おぼえめでたいぞ!」{n}「お?」{n}{n}{n}「{sub:B6}は {sub:A0}!」{n}{n}",
-   "en": null
+   "en": "\"Leave the women! Haul out the valuable goods instead! Lord Karura'll be mighty pleased!\"{n}\"Huh?\"{n}{n}{n}\"You're Momotaro!\"{n}{n}"
   }
  ]
 }

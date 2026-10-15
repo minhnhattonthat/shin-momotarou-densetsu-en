@@ -7,47 +7,47 @@
   {
    "id": "b151_0000",
    "jp": "天賊鬼(てんぞくき){n}「{kata}オレ{hira}の 名は{n} 天賊鬼(てんぞくき)だ{kata}ッ{hira}!」{n}「武'勇に すぐれた {kata}オレ{hira}が{n} {kata}サル{hira}の お守りとは{n} かたはら 痛いわい{kata}ッ{hira}!」{n}「{kata}カルラ{hira}様が {kata}サル{hira}を みてるだけで{n} この洞窟を くれると いっ{sub:BE}{n} ここに いるまでだ{kata}ッ{hira}!」{n}「ちょうど たいくつなときに{n} {sub:B6}が 来た!{n} はらごなしに ひとつ 戦うか{kata}ッ{hira}!」",
-   "en": null
+   "en": "Tenzokuki{n}\"My name{n} is Tenzokuki!\"{n}\"For a warrior of my great valor{n} to be babysitting a monkey{n} is downright laughable!\"{n}\"Lord Karura said he'd give me this cave{n} just for watching the monkey,{n} so here I am!\"{n}\"And just when I was bored stiff,{n} along you come!{n} How about a fight to settle my supper?\""
   },
   {
    "id": "b151_0001",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {sub:A0}さん!{n} あいたかったー! {kata}オイラ{hira}だ!{n} {kata}サル{hira}の {arg}だ!」{n}「おこしに つけた きびだんご!{n} ひとつ {sub:C9}に {sub:C5}な?{n} 旅のおともを いたしましょう!」",
-   "en": null
+   "en": "\"Kya kya! Momotaro!{n} I missed you! It's me!{n} {arg} the Monkey!\"{n}\"A millet dumpling from the pouch at your hip!{n} Won't you give me one?{n} I'll come along on your journey!\""
   },
   {
    "id": "b151_0002",
    "jp": "{sub:A0}は きびだんごを{n}{kata}サル{hira}の {arg}に て{sub:C9}た!{n}",
-   "en": null
+   "en": "Momotaro gave a millet dumpling{n}to {arg} the Monkey!{n}"
   },
   {
    "id": "b151_0003",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {sub:A0}さん!{n} どうか きびだんごを!」{n}",
-   "en": null
+   "en": "\"Kya kya! Momotaro!{n} Please, a millet dumpling!\"{n}"
   },
   {
    "id": "b151_0004",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}!{n} {sub:A0}さんの {kata}ケチ{hira}!」{n}",
-   "en": null
+   "en": "\"Kya kya!{n} Momotaro, you cheapskate!\"{n}"
   },
   {
    "id": "b151_0005",
    "jp": "「ここらも 鬼が いっぱいだ!{n} くわばら くわばら!」{n}{n}「あっ! {sub:A0}さん!{n} どうか ここの 鬼を{n} こらしめて{sub:C5}! これを!」",
-   "en": null
+   "en": "\"There's oni all over these parts too! Heaven help us!\"{n}{n}\"Ah! Momotaro!{n} Please teach the oni here{n} a lesson! Take this!\""
   },
   {
    "id": "b151_0006",
    "jp": "「{sub:A0}さん! どうか ここの{n} 鬼を こらしめて{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Momotaro! Please teach{n} the oni here a lesson!\"{n}"
   },
   {
    "id": "b151_0007",
    "jp": "「あっ! {sub:A0}さん! すると{n} やっぱり! さっき 聞いた{n} なき声は {kata}サル{hira}に ちがいない!」{n}「そうか! なら {sub:A0}さんの{n} お手伝いを しなければ!{n} どうか これを 役立てて{sub:C5}」",
-   "en": null
+   "en": "\"Ah! Momotaro! Then{n} I was right! That cry{n} I heard earlier must have been a monkey!\"{n}\"I see! Then I've got to{n} help Momotaro out!{n} Please put this to good use.\""
   },
   {
    "id": "b151_0008",
    "jp": "「{sub:A0}さんの 力で{n} どこでも 安心して 歩ける{n} 世の中に して{sub:C5}!」",
-   "en": null
+   "en": "\"Momotaro, use your strength to make{n} a world where folks can walk{n} anywhere without fear!\""
   }
  ]
 }

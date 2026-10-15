@@ -7,72 +7,72 @@
   {
    "id": "b142_0000",
    "jp": "「勇気の鎧は 海の底に{n} 沈んでいるようじゃ!{n} みつかると いいのぉ!」",
-   "en": null
+   "en": "\"Looks like the Valor Armor sank to the bottom of the sea! Hope you find it!\""
   },
   {
    "id": "b142_0001",
    "jp": "{sub:C2} {sub:A0}よ! ついに{n} 人気度90を こえおったか!{n} {kata}ウヒャヒャ{hira}!…」{n}「8人の 仙人が{n} {sub:B6}の 来る日を{n} 首を 長くして 待っていたぞ!」{n}「さあ {sub:A0}!{n} はやく 入るのぢゃ!{n} {sub:A8}!」",
-   "en": null
+   "en": "\"Oh! Momotaro! So you've finally topped 90 Popularity! Uhyahya!...\"{n}\"The eight sages have been waiting for the day you'd come, craning their necks!\"{n}\"Now, Momotaro! Hurry on in! Uhyahya...\""
   },
   {
    "id": "b142_0002",
    "jp": "「{sub:A8}!」{n}{n}{n}「ここは 人々に{n} 心から 愛されてる者だけが{n} 入れる所 なの{sub:A7}{n}「人気度{num}では この地に{n} 入れるわけには ゆかぬな!」{n}",
-   "en": null
+   "en": "\"Uhyahya...\"{n}{n}{n}\"Only those whom the people truly love from the heart may enter this place!\"{n}\"With a Popularity of {num}, I can't let you into this land!\"{n}"
   },
   {
    "id": "b142_0003",
    "jp": "「だいぶ 鬼たいじに{n} はげんでいる ようぢゃの!{n} これを やろう! {sub:A8}!」",
-   "en": null
+   "en": "\"Seems you've been working hard at defeating the oni! Here, have this! Uhyahya...\""
   },
   {
    "id": "b142_0004",
    "jp": "「これからも しっかりと{n} 鬼たいじに はげむのだぞ!」{n}",
-   "en": null
+   "en": "\"Keep working hard at defeating the oni from here on out!\"{n}"
   },
   {
    "id": "b142_0005",
    "jp": "「仙人の 修行を{n} しっかり こなさんと{n} 鬼たいじは かなわぬぞ!」",
-   "en": null
+   "en": "\"If you don't see your sage training through properly, you'll never defeat the oni!\""
   },
   {
    "id": "b142_0006",
    "jp": "「神仙卿は わしら 仙人たちの{n} いこいの場 なの{sub:A7}{n}{n}「こうして 高いところから{n} 下を 見ていると{n} 見えない物が 見えてくる…」{n}「これは わしらより{n} せめてもの はげまし{sub:A7}{n}",
-   "en": null
+   "en": "\"Shinsenkyo is where we sages come to relax!\"{n}{n}\"When you look down from up high like this, you start to see what can't be seen...\"{n}\"This is a small token of encouragement from us!\"{n}"
   },
   {
    "id": "b142_0007",
    "jp": "「{kata}カルラ{hira}も えんま王と{n} おなじ 貧しい家の出なのに{n} ずいぶん ちがってしまった…」{n}「友を 大切に おもう 気持ちが{n} {kata}カルラ{hira}に たりなかったの{sub:A7}{n}",
-   "en": null
+   "en": "\"Karura came from a poor family, same as King Enma, yet the two turned out so very differently...\"{n}\"What Karura lacked was the heart to cherish his friends!\"{n}"
   },
   {
    "id": "b142_0008",
    "jp": "「{kata}カルラ{hira}の 話を 聞きたいか?」{n}{n}{n}「{kata}カルラ{hira}は 力が なかっ{sub:BE}{n} つねに 誰かを 立てて{n} のしあがるしか なかったの{sub:A7}{n}「さいしょは{n} 銀の鬼に 金の鬼に{n} ばっかんき 酒香童子!」{n}「いずれも 無名なころに{n} 目をつけて 戦に出しては{n} 名を あげさせたの{sub:A7}{n}「ときには {sub:CE}の{n} てがらまで よこどりして{n} 名を あげさせたそう{sub:A7}",
-   "en": null
+   "en": "\"Want to hear about Karura?\"{n}{n}{n}\"Karura had no strength of his own, so the only way he could climb was by always propping someone else up!\"{n}\"First it was the Silver Oni and the Gold Oni, then Bakkanki and Shuko Doji!\"{n}\"He spotted each of them while they were still nobodies, sent them off to war, and made their names!\"{n}\"They say he sometimes even stole Ashura's glory to make their names!\""
   },
   {
    "id": "b142_0009",
    "jp": "「{sub:A0}! これは{n} わしらの かわいい弟子に{n} せめてもの はげまし{sub:A7}",
-   "en": null
+   "en": "\"Momotaro! This is a small token of encouragement for our dear disciple!\""
   },
   {
    "id": "b142_0010",
    "jp": "「つらくとも くじけず{n} 鬼たいじ やりとげるのぢゃ!{n} わしらは いつも 見ているぞ!」",
-   "en": null
+   "en": "\"No matter how hard it gets, don't lose heart -- see the oni hunt through! We're always watching!\""
   },
   {
    "id": "b142_0011",
    "jp": "「{sub:A8}! {sub:A0}!{n} 天の仙人ぢゃよー!{n} 元気に しとったか?」{n}「おもしろいものを 手に入れ{sub:BE}{n} {sub:B6}に 持って来てやったのだ!」{n}{n}「これは 天樹の{kata}タネ{hira}と いってな{n} 七夕の村まで とどく{n} 大きな木と なるそうなの{sub:A7}",
-   "en": null
+   "en": "\"Uhyahya... Momotaro!{n}It's me, the Heavenly Sage! Have you been keeping well?\"{n}\"I got my hands on something interesting, so I brought it for you!\"{n}{n}\"This is called a Sky Tree Seed, and they say it grows into a huge tree that reaches all the way to Tanabata Village!\""
   },
   {
    "id": "b142_0012",
    "jp": "「七夕の村には 天女たちが おる!{n} あいつらは 物知りぢゃから{n} 鬼たいじに 役立つやも知れん!」",
-   "en": null
+   "en": "\"Tanabata Village is home to the celestial maidens! They know all sorts of things, so they might help you defeat the oni!\""
   },
   {
    "id": "b142_0013",
    "jp": "「七夕の村へは 南の{n} 小さな島から 行ける!」{n}{n}「島の 場所くらいは{n} {sub:B6}らで さがせよ!{n} それぢゃな! {sub:A8}!」",
-   "en": null
+   "en": "\"You can get to Tanabata Village from a small island in the south!\"{n}{n}\"You can at least find where the island is by yourselves! Well, that's all! Uhyahya...\""
   }
  ]
 }

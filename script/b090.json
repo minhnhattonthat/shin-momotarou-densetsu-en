@@ -7,32 +7,32 @@
   {
    "id": "b090_0000",
    "jp": "「{sub:A0}! 天気と 術は{n} 大きく かんけい しておる!」{n}{n}「たとえば 雷の術は{n} 日照りのときは 弱いが{n} 雷雨のときは 強力じゃ!」{n}「にがてな 天気のときは ふだんの{n} 技数よりも 多く 技をつかわないと{n} 術を となえられないのじゃ!」{n}「誰が どの天気が とくいで{n} 誰が どの天気が にがてか{n} よ～く おぼえるようにな!」",
-   "en": null
+   "en": "\"Momotaro! Weather and Arts are closely linked!\"{n}{n}\"For example, Thunder Arts are weak in a drought, but powerful in a thunderstorm!\"{n}\"In weather you're weak against, you must spend more Skill points than usual to cast an art!\"{n}\"So remember well who's good in which weather, and who's bad in which!\""
   },
   {
    "id": "b090_0001",
    "jp": "「{sub:B5} ここから 南東に{n} ぬけだし仙人の 庵が あります!{n} 旅に かかせませんよね」",
-   "en": null
+   "en": "\"Chuchun! Southeast of here is the Escape Sage's hut! His art is a must for any journey, isn't it?\""
   },
   {
    "id": "b090_0002",
    "jp": "「{sub:B5} 鬼が 松葉山に{n} 大きな 門を 作って{n} とおせんぼ してるそうです!」",
-   "en": null
+   "en": "\"Chuchun! They say the oni built a big gate on Mt. Matsuba and are blocking the way!\""
   },
   {
    "id": "b090_0003",
    "jp": "「{sub:B5} 松葉山の 門は{n} ひらいたのですね! よかった!」{n}",
-   "en": null
+   "en": "\"Chuchun! So the gate on Mt. Matsuba is open! Thank goodness!\"{n}"
   },
   {
    "id": "b090_0004",
    "jp": "「{sub:B5}{n} おむすびころりんの穴が{n} おむすび村に なったそうですね!」",
-   "en": null
+   "en": "\"Chuchun! I hear the Omusubi Kororin hole has become Omusubi Village!\""
   },
   {
    "id": "b090_0005",
    "jp": "「{sub:B5} すゞめのお宿に{n} {kata}イヌ{hira} {kata}サル{hira} {kata}キジ{hira}の みなさんの{n} {kata}エサ{hira}を売る お店が できました!」{n}「{kata}エサ{hira}を あげると 特技をおぼえるし{n} きびだんごを あげれば{n} 戦いに くわわりますよ!」",
-   "en": null
+   "en": "\"Chuchun! A shop selling feed for Dog, Monkey and Pheasant has opened at the Sparrow Inn!\"{n}\"Give them feed and they'll learn special skills, and if you give them millet dumplings, they'll join you in battle!\""
   }
  ]
 }

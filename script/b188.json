@@ -7,62 +7,62 @@
   {
    "id": "b188_0000",
    "jp": "{sub:C2} えんま様!{n} 奈落の洞窟に とじこめられたと{n} きいておりましたが ごぶじで!」{n}「この 羅生門(らしょうもん)!{n} しんぱいして おりました!」{n}",
-   "en": null
+   "en": "\"Oh! King Enma! I'd heard you were locked away in the Abyss Cave, but you're safe!\"{n}\"I, Rashomon, have been so worried!\"{n}"
   },
   {
    "id": "b188_0001",
    "jp": "{sub:C2} {sub:A0}! いつぞやも{n} この塔で 戦ったな!{n} 羅生門(らしょうもん)の鬼だ!」{n}「わしも {kata}カルラ{hira}に{n} さからった ために{n} ここで こうしておる!」{n}「一竿(いっかん)の風月を{n} きめこんで わずらわしいことには{n} 目を つむろうとしたのだが…」{n}「{sub:A0}!{n} わしは おどろいた!」{n}{n}「人間どもが {kata}アリ{hira}のように{n} この塔を よじのぼってくる!」{n}{n}「{kata}カルラ{hira}のいう 虫けらが{n} 死を かくごで かぐや姫を 助けに{n} 鬼たちと 戦って 死んで行く…」{n}「なんと 人間たちは 美しいのか!{n} わしは 心の底から{n} 愛というものを かんじた!」{n}「しかし!」{n}{n}{n}「わしは 鬼族の 羅生門だ!{n} 鬼のしきたりを やぶれぬ!」{n}{n}「たとえ {kata}カルラ{hira}の 悪知恵でも!」{n}{n}{n}「伐折羅王さまは わしに{n} ここを 守れと 命じている!」{n}{n}「{sub:A0}!{n} わしを たおして行け!」{n}{n}「いずれにしても{n} わしを たおせぬようでは{n} {kata}カルラ{hira}には 勝てまい!」{n}「ましてや {kata}ダイダ{hira}王子をや!」{n}{n}",
-   "en": null
+   "en": "\"Oh! Momotaro! We fought in this very tower once before, didn't we! I am the oni Rashomon!\"{n}\"I too am stuck here like this for defying Karura!\"{n}\"I meant to live idly with my fishing rod, the wind and the moon, and shut my eyes to troublesome affairs...\"{n}\"Momotaro! I was astonished!\"{n}{n}\"The humans come climbing up this tower like ants!\"{n}{n}\"Those that Karura calls vermin are ready to die, fighting the oni and dying to save Princess Kaguya...\"{n}\"How beautiful humans are! From the bottom of my heart, I felt the thing called love!\"{n}\"However!\"{n}{n}{n}\"I am Rashomon of the oni! I cannot break the laws of the oni!\"{n}{n}\"Even if they are Karura's wicked schemes!\"{n}{n}{n}\"King Basara has ordered me to guard this place!\"{n}{n}\"Momotaro! Defeat me and pass!\"{n}{n}\"In any case, if you cannot defeat me, you will never beat Karura!\"{n}\"Let alone Prince Daida!\"{n}{n}"
   },
   {
    "id": "b188_0002",
    "jp": "羅生門{n}「見事だ! {sub:A0}!{n} わしを のりこえたな!」{n}「鬼の世界に {sub:B6}のような{n} 若者が いたら こんなことには{n} ならなくて すんだろう!」",
-   "en": null
+   "en": "Rashomon{n}\"Splendid, Momotaro! You have surpassed me!\"{n}\"Had there been a young man like you in the oni world, it would never have come to this!\""
   },
   {
    "id": "b188_0003",
    "jp": "「えんま様! {sub:A0}という{n} よき男に あえたこと{n} 羅生門は うれしいかぎりです!」{n}「{sub:CE} 風神 雷神 夜叉姫…{n} {sub:A0}と 出会ったせいか{n} 目の かがやきが ちがう!」{n}「いよいよ 鬼の世界も{n} 若者たちの 時代ですな!{n} えんま様! はっはっはっ!」",
-   "en": null
+   "en": "\"King Enma! It gives Rashomon the greatest joy to have met so fine a man as Momotaro!\"{n}\"Ashura, Fujin, Raijin, Princess Yasha... perhaps it is from meeting Momotaro, but the light in their eyes is different!\"{n}\"At last the oni world, too, enters the age of the young! Eh, King Enma? Ha ha ha!\""
   },
   {
    "id": "b188_0004",
    "jp": "「{sub:A0}! 月へ行け!{n} 嵐の村には 月の舟がある!」{n}{n}「月の舟なら 月のどこへでも{n} 飛んで行けるから{n} 月の宮殿へも 行けるはずだ!」{n}「村人に なりかわり{n} かぐや姫を 助け出すが よい!」{n}",
-   "en": null
+   "en": "\"Momotaro! Go to the Moon! There is a Moon Boat in Storm Village!\"{n}{n}\"The Moon Boat can fly anywhere on the Moon, so it should take you to the Moon Palace as well!\"{n}\"Rescue Princess Kaguya in the villagers' stead!\"{n}"
   },
   {
    "id": "b188_0005",
    "jp": "羅生門{n}「{sub:A0}! 鹿角の術に たよるな!{n} 本当の力が そだたぬぞ!」{n}「いつでも 来るが いい!{n} あいてに なる!」{n}",
-   "en": null
+   "en": "Rashomon{n}\"Momotaro! Do not rely on the Antlers Art! Your true strength will not grow!\"{n}\"Come anytime you like! I will be your opponent!\"{n}"
   },
   {
    "id": "b188_0006",
    "jp": "怪鬼(けき){n}「羅生門さまは 鬼が島で{n} 三千世界さまと 話し合ってます」{n}「なんでも {kata}アジャセ{hira}王子も{n} 話し合いに 加わってるそうです!{n} 鬼が島も 新しくなりますね!」",
-   "en": null
+   "en": "Mystery Oni{n}\"Rashomon is on Onigashima, holding talks with Sanzen Sekai\"{n}\"Word is that Prince Ajase is joining the talks too! Onigashima's gonna be made new!\""
   },
   {
    "id": "b188_0007",
    "jp": "「おひさしぶりです!{n} 怪鬼(けき)です!」{n}{n}「羅生門さまが 鬼が島で{n} はんらん軍を まとめています!」{n}",
-   "en": null
+   "en": "\"Long time no see! It's me, Mystery Oni!\"{n}{n}\"Rashomon is on Onigashima, organizing the rebel army!\"{n}"
   },
   {
    "id": "b188_0008",
    "jp": "魅鬼(みき){n}「{kata}オレ{hira}は 奈落の洞窟を{n} もう一度 ほりかえします!」{n}「酒香童子さまの なきがらを{n} さがしたいのです!」{n}",
-   "en": null
+   "en": "Bewitching Oni{n}\"I'm gonna dig up the Abyss Cave one more time!\"{n}\"I want to find Shuko Doji's remains!\"{n}"
   },
   {
    "id": "b188_0009",
    "jp": "「魅鬼(みき)です! {sub:C9}は{n} 月に 残った鬼を まとめて{n} 鬼が島へ おくりこんでいます!」",
-   "en": null
+   "en": "\"It's me, Bewitching Oni! I'm rounding up the oni left on the Moon and sending them off to Onigashima!\""
   },
   {
    "id": "b188_0010",
    "jp": "魃鬼(ばっき){n}「いつなんどき 鬼以外の者が{n} この大地を おそうやもしれません」{n}「戦いではなく 守るための{n} 武'術を みんなに{n} おしえて行きます!」",
-   "en": null
+   "en": "Drought Oni{n}\"There's no telling when someone other than the oni might attack this land\"{n}\"So I'll go around teaching everyone martial arts, not for fighting, but for protecting!\""
   },
   {
    "id": "b188_0011",
    "jp": "「魃鬼(ばっき)です!{n} 羅生門さまに 黄泉の塔の{n} しきを まかされました!」{n}「鬼と 人間が 本当に{n} 力を会わせる いい きっかけと{n} おもって がんばります!」",
-   "en": null
+   "en": "\"It's me, Drought Oni! Rashomon has put me in command of the Tower of Yomi!\"{n}\"I'll do my best, thinking of this as a good chance for oni and humans to truly join forces!\""
   }
  ]
 }

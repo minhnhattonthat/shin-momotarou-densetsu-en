@@ -7,27 +7,27 @@
   {
    "id": "b085_0000",
    "jp": "「{sub:A8}!{n} {sub:A0}! おどろいたか?」{n}{n}「そこから わしの 所まで{n} 5分以内に 戻って来るの{sub:A7}{n} それが わしの修行{sub:A7}{n}「ただし! 戻るためには{n} 隠された つうろを{n} さがさなければ ならんがの」{n}「では わしは{n} 上で 待っておるぞ!{n} {kata}スタ{hira}ー{kata}ト{hira}ぢゃ! {sub:A8}!」",
-   "en": null
+   "en": "\"Uhyahya...!{n} Momotaro! Surprised?\"{n}{n}\"From there, you must make it back to me within 5 minutes! That is my training!\"{n}\"However! To get back, you'll have to find the hidden passage!\"{n}\"Well then, I'll be waiting up above! Ready... start! Uhyahya...!\""
   },
   {
    "id": "b085_0001",
    "jp": "「{sub:A8}! {sub:A0}!{n} 時間のほうは だいじょうぶか?」{n}",
-   "en": null
+   "en": "\"Uhyahya...! Momotaro!{n} How are you doing for time?\"{n}"
   },
   {
    "id": "b085_0002",
    "jp": "「{sub:A8}! {sub:A0}!{n} わしが 出て来て{n} うっとおしいと 思っているな!」",
-   "en": null
+   "en": "\"Uhyahya...! Momotaro!{n} You think I'm a nuisance, popping out like this, don't you!\""
   },
   {
    "id": "b085_0003",
    "jp": "「{sub:A8}! {sub:A0}!{n} そこぢゃ! そこぢゃ!{n} そこに 隠しつうろが!」",
-   "en": null
+   "en": "\"Uhyahya...! Momotaro!{n} There! Right there! There's a hidden passage right there!\""
   },
   {
    "id": "b085_0004",
    "jp": "「{sub:A8}! {sub:A0}!{n} あせることは ないぞ!{n} ん? 時間あんまり ないな!」",
-   "en": null
+   "en": "\"Uhyahya...! Momotaro!{n} No need to rush!{n} Hm? You haven't got much time left!\""
   }
  ]
 }

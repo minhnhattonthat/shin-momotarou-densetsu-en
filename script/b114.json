@@ -7,62 +7,62 @@
   {
    "id": "b114_0000",
    "jp": "「{sub:A0}さんや! 希望の都で{n} くつろぎすぎると 鬼たいじが{n} つらいものに なってしまいますぞ」",
-   "en": null
+   "en": "\"Momotaro! If you relax too much in the Capital of Hope, your oni hunt will turn into a hard one.\""
   },
   {
    "id": "b114_0001",
    "jp": "「ごはんに みそ汁の{n} しっそな 食事でも…」{n}{n}「順安のつけもの さえあれば{n} わしゃ な～んにも いらん!」{n}",
-   "en": null
+   "en": "\"Even a plain meal of rice and miso soup...\"{n}{n}\"As long as I've got Jun'an's pickles, I don't need a thing more!\"{n}"
   },
   {
    "id": "b114_0002",
    "jp": "「つけものの順安(じゅんやす)では{n} もちこんだ {kata}ダイコン{hira}を{n} おいしく つけてくれるの!」{n}「おじいちゃんも 大好きだし{n} {sub:C9}… おつけものって{n} にがてだから… たすかるわ!」",
-   "en": null
+   "en": "\"At Jun'an the pickle shop, they'll pickle any Daikon you bring in so it's delicious!\"{n}\"Grandpa loves them, and me... I'm not good with pickles... so it really helps!\""
   },
   {
    "id": "b114_0003",
    "jp": "「う～ん! {kata}パリパリ{hira}!{n} つけものって はじめて{n} 食べたけど おいしいな～!」",
-   "en": null
+   "en": "\"Mmm! Crunchy! It's my first time eating pickles, but they're good~!\""
   },
   {
    "id": "b114_0004",
    "jp": "「ちかごろの こどもは すげえやな!{n} 寺子屋で よみかき そろばん{n} なんでもござれと きたもんだ!」{n}「うちの むすこは{n} ひょっとすると てんさいかもな?{n} {kata}ハハハハハッ{hira}! んなわけねっか!」",
-   "en": null
+   "en": "\"Kids these days are somethin' else! Readin', writin', the abacus, they learn it all at temple school!\"{n}\"Maybe my boy's a genius, eh? Hahahahaha! Nah, no way!\""
   },
   {
    "id": "b114_0005",
    "jp": "「こら! {kata}カズ{hira}坊!{n} べんきょう しなさい!」{n}{n}「べんきょうしないと{n} とうちゃん みたいな{n} {kata}ビンボ{hira}ー人に なるよ!」",
-   "en": null
+   "en": "\"Hey! Kazu! Study!\"{n}{n}\"If you don't study, you'll end up a poor man like your daddy!\""
   },
   {
    "id": "b114_0006",
    "jp": "「ちくしょー! かあちゃんめ!{n} まいにち まいにち{n} べんきょう べんきょーって!」{n}「もう {kata}グレ{hira}てやるー!{n} 寺子屋 {kata}フケ{hira}て{n} 富くじ やりにいこーっと!」",
-   "en": null
+   "en": "\"Dang it! Mom! Every day, every single day, it's study, study!\"{n}\"I'm gonna go bad! I'll skip temple school and go play the lottery!\"{n}"
   },
   {
    "id": "b114_0007",
    "jp": "「{kata}ネコ{hira}が 顔を あらっ{sub:BE}{n}{sub:D9}雨が ふるかもね!」{n}",
-   "en": null
+   "en": "\"The cat's washing its face,{n} so it just might rain today!\"{n}"
   },
   {
    "id": "b114_0008",
    "jp": "「いまの 地獄には この都の{n} にぎわいと あたたかさが ない!」{n}{n}「だれもが まわりを 気にして{n} おどおどしながら 生きている!{n} みんな {kata}カルラ{hira}の せいだ!」",
-   "en": null
+   "en": "\"Hell these days has none of this Capital's bustle and warmth!\"{n}{n}\"Everyone's always looking over their shoulder, living in fear! It's all Karura's fault!\""
   },
   {
    "id": "b114_0009",
    "jp": "「おじょうさん! どうです!{n} みごとな たんものでしょう!{n} 一級品の 絹でっせ!」",
-   "en": null
+   "en": "\"Young lady! What do you say? Isn't this a splendid bolt of cloth? It's first-class silk, it is!\""
   },
   {
    "id": "b114_0010",
    "jp": "「あら! すてきな がらね!」{n}{n}{n}「でも こうやって{n} のんきに お店に これるのも{n} {sub:A0}さんの おかげね!」{n}「{sub:A0}さん これ{n} 旅の お役に立ててね!」{n}",
-   "en": null
+   "en": "\"Oh! What a lovely pattern!\"{n}{n}{n}\"But we can only shop this carefree thanks to you, Momotaro!\"{n}\"Momotaro, please put this to good use on your journey!\"{n}"
   },
   {
    "id": "b114_0011",
    "jp": "「う～ん! 絹は いいけど{n} やっぱり 値段が ねえ!」{n}",
-   "en": null
+   "en": "\"Hmmm! The silk's nice, but... that price, though!\"{n}"
   }
  ]
 }

@@ -7,177 +7,177 @@
   {
    "id": "b168_0000",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}! {kata}アジャセ{hira}王子!」{n}{n}{kata}カルラ{n}{hira}「伐折羅王さまには ありのままを{n} ご報告させて {sub:D3}よ!」{n}{kata}カルラ{n}{hira}「それより 酒香童子!」{n}{n}{kata}カルラ{n}{hira}「{sub:B6}は 地獄に かえり{n} 鬼の さばきを うけよ!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh! Prince Ajase!\"{n}{n}Karura{n}\"I shall report to King Basara exactly what happened!\"{n}Karura{n}\"More to the point, Shuko Doji!\"{n}{n}Karura{n}\"You shall return to Hell and face the judgment of the oni!\""
   },
   {
    "id": "b168_0001",
    "jp": "{kata}ダイダ{hira}王子{n}「おもしろくない!{n} {kata}オレ{hira}は かえるぞ! {kata}カルラ{hira}!」",
-   "en": null
+   "en": "Prince Daida{n}\"This is no fun!{n} I'm going home! Karura!\""
   },
   {
    "id": "b168_0002",
    "jp": "{kata}ダイダ{hira}王子{n}「{sub:A0}! {kata}カルラ{hira}から{n} 話は 聞いたぞ!」{n}「{sub:B6}が いかに ひれつな手で{n} 大江山を こえて来たかをな!」{n}",
-   "en": null
+   "en": "Prince Daida{n}\"Momotaro! I've heard all about it from Karura!\"{n}\"About the cowardly tricks you used to get over Mt. Oe!\"{n}"
   },
   {
    "id": "b168_0003",
    "jp": "{kata}カルラ{n}{hira}「そのとおりだ! {sub:A0}!」{n}{n}{kata}カルラ{n}{hira}「あろうことか! こらしめた 鬼に{n} 無理やり 答えを吐かせるとはな!」{n}{kata}カルラ{n}{hira}「ひきょうな やつよの!{n} {kata}ケ{hira}ー{kata}ケッケッ{hira}! {kata}ケ{hira}ー{kata}ケッケッ{hira}!」",
-   "en": null
+   "en": "Karura{n}\"Just so! Momotaro!\"{n}{n}Karura{n}\"Of all things! Beating an oni and then forcing the answers out of him!\"{n}Karura{n}\"What a dirty coward!{n} Keeh, keh-keh-keh! Keeh, keh-keh-keh!\""
   },
   {
    "id": "b168_0004",
    "jp": "{kata}ダイダ{hira}王子{n}「{sub:A0}! {kata}オレ{hira}は {sub:B6}を{n} かいかぶって いたようだ!」{n}{kata}ダイダ{hira}王子{n}「それとも 何か{n} いいたいことが あるのか?」",
-   "en": null
+   "en": "Prince Daida{n}\"Momotaro! It seems I overestimated you!\"{n}Prince Daida{n}\"Or is there something you'd like to say?\""
   },
   {
    "id": "b168_0005",
    "jp": "{kata}ダイダ{hira}王子{n}「……なるほど」{n}{n}{kata}ダイダ{hira}王子{n}「すべては {kata}カルラ{hira}の{n} いつわりで あると いうのか!」{n}{kata}ダイダ{hira}王子{n}「{sub:B6}も 武'人(ぶじん)の{n} はしくれならば いいわけするな!」{n}{kata}ダイダ{hira}王子{n}「みずからの剣'で 答えてみよ!」{n}",
-   "en": null
+   "en": "Prince Daida{n}\"......I see.\"{n}{n}Prince Daida{n}\"So you claim it's all Karura's lies!\"{n}Prince Daida{n}\"If you're any kind of warrior at all, don't make excuses!\"{n}Prince Daida{n}\"Answer with your own sword!\"{n}"
   },
   {
    "id": "b168_0006",
    "jp": "{kata}ダイダ{hira}王子{n}「なるほど いさぎよいな!」{n}{n}{kata}ダイダ{hira}王子{n}「{sub:B6}も 武'人(ぶじん)の{n} つらがまえに なったようだな!」{n}{kata}ダイダ{hira}王子{n}「強くなれ! {sub:B6}には{n} 武'人の そしつが ある!」",
-   "en": null
+   "en": "Prince Daida{n}\"I see. You don't back down!\"{n}{n}Prince Daida{n}\"You've come to look like a true warrior too!\"{n}Prince Daida{n}\"Grow strong! You have the makings of a warrior!\""
   },
   {
    "id": "b168_0007",
    "jp": "{kata}ダイダ{hira}王子{n}「あとは 軍神(ぐんしん)!{n} {sub:B6}に まかせた!」",
-   "en": null
+   "en": "Prince Daida{n}\"The rest is up to you, War God!\""
   },
   {
    "id": "b168_0008",
    "jp": "酒香童子{n}「わが名は 酒香(しゅてん)!{n} 酒香童子(しゅてんどうじ)!」{n}酒香童子{n}「{sub:A0}!」{n}{n}酒香童子{n}「{sub:B6}の うわさは 聞いている!{n} 一度 剣'をまじえて みたかった!」{n}酒香童子{n}「だが! まずは {sub:B6}の力…」{n}{n}酒香童子{n}「いや! {sub:B6}たちの力!{n} どれほどの ものか 見てみたい」{n}酒香童子{n}「いでよ! 酒香童子の 四天王!」{n}",
-   "en": null
+   "en": "Shuko Doji{n}\"My name is Shuko!{n} Shuko Doji!\"{n}Shuko Doji{n}\"Momotaro!\"{n}{n}Shuko Doji{n}\"I've heard the rumors about you! I've long wished to cross swords with you!\"{n}Shuko Doji{n}\"But first! Your strength...\"{n}{n}Shuko Doji{n}\"No! The strength of you all! I want to see what it's worth.\"{n}Shuko Doji{n}\"Come forth! Shuko Doji's Four Heavenly Kings!\"{n}"
   },
   {
    "id": "b168_0009",
    "jp": "酒香童子{n}「さて!」{n}{n}酒香童子{n}「{sub:B6}たちは3人!{n} われらは 4人!」{n}酒香童子{n}「{kata}オレ{hira}の のぞみは{n} 命をかけた 1対1の戦い!」{n}酒香童子{n}「きずついた {sub:B6}たちの体!{n} わが力で いやして やろうぞ!」",
-   "en": null
+   "en": "Shuko Doji{n}\"Now then!\"{n}{n}Shuko Doji{n}\"You are three! We are four!\"{n}Shuko Doji{n}\"What I desire is a one-on-one fight, with lives on the line!\"{n}Shuko Doji{n}\"Your bodies are wounded! I shall heal them with my power!\""
   },
   {
    "id": "b168_0010",
    "jp": "酒香童子{n}「さあ! {sub:A0}と 仲間たちよ!{n} 誰との 戦いを のぞむ!」{n}酒香童子{n}「わが四天王が 2つ 勝てば{n} われらの 勝ちだ!」{n}酒香童子{n}「{sub:B6}たちを 大江山の{n} 入り口まで ふき飛ばしてくれる!」{n}酒香童子{n}「{sub:B6}たちが 2つ 勝てば{n} われの力を 見せてくれよう!」",
-   "en": null
+   "en": "Shuko Doji{n}\"Now! Momotaro and companions! Whom do you wish to fight?\"{n}Shuko Doji{n}\"If my Four Heavenly Kings win two bouts, the victory is ours!\"{n}Shuko Doji{n}\"And we'll blow you all the way back to the entrance of Mt. Oe!\"{n}Shuko Doji{n}\"If you win two bouts, I shall show you my own power!\""
   },
   {
    "id": "b168_0011",
    "jp": "酒香童子{n}「では聞く! {sub:A0}!{n} {sub:B6}は 誰と 戦う!」",
-   "en": null
+   "en": "Shuko Doji{n}\"Then I ask! Momotaro! Whom will you fight?\""
   },
   {
    "id": "b168_0012",
    "jp": "「{arg}を えらんだか!{n} 金太郎は 誰と 戦う!」{n}",
-   "en": null
+   "en": "\"So the choice is {arg}!{n} Kintaro, whom will you fight?\"{n}"
   },
   {
    "id": "b168_0013",
    "jp": "「{arg}を えらんだか!{n} 浦島は 誰と 戦う!」{n}",
-   "en": null
+   "en": "\"So the choice is {arg}!{n} Urashima, whom will you fight?\"{n}"
   },
   {
    "id": "b168_0014",
    "jp": "「いま 一度 たしかめるぞ!」{n}{n}{n}「{sub:A0}は {arg}と!{n} 金太郎は {arg}と!{n} 浦島は {arg}と!」{n}「これで よいのだな!?」{n}{n}",
-   "en": null
+   "en": "\"Let me confirm once more!\"{n}{n}{n}\"Momotaro against {arg}!{n} Kintaro against {arg}!{n} Urashima against {arg}!\"{n}\"Is this as you wish!?\"{n}{n}"
   },
   {
    "id": "b168_0015",
    "jp": "「では あらためて{n} 決めなおすが よい!」{n}",
-   "en": null
+   "en": "\"Then choose again{n} as you see fit!\"{n}"
   },
   {
    "id": "b168_0016",
    "jp": "「よかろう! では さいしょの戦い!{n} {sub:A0}と {arg}!」{n}{n}「いざ はじめるが よい!」{n}{n}",
-   "en": null
+   "en": "\"Very well! Now, the first bout!{n} Momotaro against {arg}!\"{n}{n}\"Let it begin!\"{n}{n}"
   },
   {
    "id": "b168_0017",
    "jp": "酒香童子{n}「この戦い {arg}の{n} 勝ちとするぞ!」{n}「では 2番目の戦い!{n} 金太郎と {arg}!{n} いざ はじめるが よい!」",
-   "en": null
+   "en": "Shuko Doji{n}\"This bout goes to {arg}!\"{n}\"Now, the second bout!{n} Kintaro against {arg}!{n} Let it begin!\""
   },
   {
    "id": "b168_0018",
    "jp": "酒香童子{n}「この戦い {arg}の{n} 勝ちとするぞ!」",
-   "en": null
+   "en": "Shuko Doji{n}\"This bout goes to {arg}!\""
   },
   {
    "id": "b168_0019",
    "jp": "「では 3ばんめの戦い!{n} 浦島と {arg}!{n} いざ はじめるが よい!」",
-   "en": null
+   "en": "\"Now, the third bout!{n} Urashima against {arg}!{n} Let it begin!\""
   },
   {
    "id": "b168_0020",
    "jp": "酒香童子{n}「この戦い {arg}の{n} 勝ちとするぞ!」",
-   "en": null
+   "en": "Shuko Doji{n}\"This bout goes to {arg}!\""
   },
   {
    "id": "b168_0021",
    "jp": "酒香童子{n}「うわさどおり……{n} いや それ以上の力ぞ!」{n}「ならば 手かげんなど 無用!」{n}{n}{n}「全力で 戦おうではないか!」{n}{n}{n}「きずついた {sub:B6}たちの体!{n} わが力で いやして やろうぞ!」{n}",
-   "en": null
+   "en": "Shuko Doji{n}\"Just as the rumors said......{n} No, even stronger!\"{n}\"Then there's no need to hold back!\"{n}{n}{n}\"Let us fight with all our might!\"{n}{n}{n}\"Your bodies are wounded! I shall heal them with my power!\"{n}"
   },
   {
    "id": "b168_0022",
    "jp": "「まいるぞ {sub:A0}よ!」{n}{n}",
-   "en": null
+   "en": "\"Here I come, Momotaro!\"{n}{n}"
   },
   {
    "id": "b168_0023",
    "jp": "酒香童子{n}「{sub:A0}! どうやら{n} 勝ちを おさめたのは…」{n}「わが 四天王の ようだな!」{n}{n}{n}「やくそくだ! ここを{n} とおすわけには いかぬ!」{n}{n}「もう一度 戦ってやる!{n} ふたたび ここまで 来るがいい!」{n}",
-   "en": null
+   "en": "Shuko Doji{n}\"Momotaro! It seems the victory goes to...\"{n}\"my Four Heavenly Kings!\"{n}{n}{n}\"A promise is a promise! I cannot let you pass!\"{n}{n}\"I'll fight you again! Come back here once more!\"{n}"
   },
   {
    "id": "b168_0024",
    "jp": "「何もいうな {sub:A0}!」{n}{n}{n}「われは 武'人として{n} 戦い そして 負けた!{n} ただ それだけだ!」{n}「負けた者が さばきを{n} うけるのは あたりまえだ!」{n}{n}「今の 地獄は{n} 矛盾(むじゅん)に{n} みちあふれている!」{n}「伐折羅王さまの力を 信じて{n} やみくもに 戦って来た 時代は{n} もう 終わるようだ!」{n}「やさしさの時代が やって来る!{n} そんな 気がするのだ…」{n}{n}「{sub:A0}! {sub:B6}の時代だ!」{n}{n}{n}「新しい 時代の 男に{n} これを たくすと しよう!」{n}{n}酒香童子は なんと!{n}8つの 月の水晶の ひとつ{n}三日月の水晶を 取り出した!{n}酒香童子{n}「そう おどろくな {sub:A0}!」{n}{n}「かつては われも{n} 軍神と 呼ばれた 男!{n} 月の水晶のこと 知らぬと思うたか」{n}「伐折羅さまへの みやげにと{n} 持っていたが {sub:B6}に{n} {sub:C9}たほうが よさそうだ」",
-   "en": null
+   "en": "\"Say nothing, Momotaro!\"{n}{n}{n}\"As a warrior, I fought, and I lost! That is all!\"{n}\"It's only right that the loser should face judgment!\"{n}{n}\"Hell today is overflowing with contradictions!\"{n}\"The age of fighting blindly, trusting in King Basara's power, seems to be coming to an end!\"{n}\"An age of kindness is coming! I have that feeling...\"{n}{n}\"Momotaro! This is your age!\"{n}{n}{n}\"I shall entrust this to the man of the new age!\"{n}{n}And what's this! Shuko Doji{n}brought out the Crescent Quartz,{n}one of the eight Moon Quartzes!{n}Shuko Doji{n}\"Don't look so surprised, Momotaro!\"{n}{n}\"I too was once a man called the War God! Did you think I knew nothing of the Moon Quartzes?\"{n}\"I was keeping it as a gift for King Basara, but it seems better to hand it to you.\""
   },
   {
    "id": "b168_0025",
    "jp": "酒香童子{n}「行くがいい {sub:A0}!{n} 自分の 信じるままに な!」",
-   "en": null
+   "en": "Shuko Doji{n}\"Go, Momotaro! Follow what you believe in!\""
   },
   {
    "id": "b168_0026",
    "jp": "金太郎{n}「おい! {sub:A0}!」{n}{n}「{kata}ダイダ{hira}王子が {kata}アジャセ{hira}王子の{n} 兄きで 伐折羅王が…」{n}{n}「{kata}オラ{hira}の 頭では{n} おぼえきれなく なってきたど!」{n}{n}浦島{n}「それだけ 鬼の 世界は{n} なおしづらい 世界なのでしょうね」{n}金太郎{n}「なんだか 鬼の 世界も{n} 人間の 世界も かわんねえな!」{n}「まっ いいや! とにかく{n} えんま様や かぐや姫さまを{n} 助け出しに 行こうぜ!」",
-   "en": null
+   "en": "Kintaro{n}\"Hey! Momotaro!\"{n}{n}\"Prince Daida is Prince Ajase's big brother, and King Basara is...\"{n}{n}\"It's gettin' to be too much for my head to keep track of!\"{n}{n}Urashima{n}\"That just shows how hard the oni world is to set right.\"{n}Kintaro{n}\"Seems like the oni world ain't no different from the human world!\"{n}\"Ah, whatever! Anyway, let's go rescue King Enma and Princess Kaguya!\""
   },
   {
    "id": "b168_0027",
    "jp": "酒香童子{n}「み 見事なり! {sub:A0}!」{n}{n}「この 数100年の あいだ{n} あじわった ことのない{n} 満足のいく 戦いだった!」{n}「その まじりけのない 戦いぶり!{n} 仲間で おぎなう 戦い方は{n} この酒香童子には しんせんだ!」{n}「どうやら… {kata}カルラ{hira}様の ほうが{n} 作り話だった ようだ!」{n}{n}「行くがいい! {sub:B6}たちは{n} この大江山をこえて よい!」{n}",
-   "en": null
+   "en": "Shuko Doji{n}\"S-splendid! Momotaro!\"{n}{n}\"In all these hundreds of years, I've never tasted so satisfying a fight!\"{n}\"Such a pure way of fighting! Covering for each other as comrades... it's something new to me, Shuko Doji!\"{n}\"It seems... Lord Karura's story was the made-up one!\"{n}{n}\"Go! You may cross Mt. Oe!\"{n}"
   },
   {
    "id": "b168_0028",
    "jp": "{kata}カルラ{n}{hira}「{kata}キキキキキッ{hira}! こ… こ…{n} この おろか者めが!」{n}「何が 武'人(ぶじん)だ!{n} 何が 見事なりだ!」{n}{n}「負けた いいわけを{n} {kata}ダラダラ{hira} 並べおって!」{n}{n}「役立たずの 鬼には{n} 死 あるのみ!{n} はてるがいい 酒香童子!」",
-   "en": null
+   "en": "Karura{n}\"Kikikikiki! Y-you... you...{n} you fool!\"{n}\"What 'warrior'?!{n} What 'splendid'?!\"{n}{n}\"Droning on and on with excuses for losing!\"{n}{n}\"For a useless oni there is only death!{n} Perish, Shuko Doji!\""
   },
   {
    "id": "b168_0029",
    "jp": "{kata}カルラ{n}{hira}「あ! あなたは! {kata}アジャセ{hira}王子!」{n}{n}{kata}カルラ{n}{hira}「{kata}キキキキキッ{hira}! いまさら 何を!{n} ふらふらと 遊び歩く 身で!」{n}{kata}カルラ{n}{hira}「おわすれか? {kata}アジャセ{hira}王子!」{n}{n}{kata}カルラ{n}{hira}「伐折羅王さまの あととりは{n} ここに おられる あなたの兄上…」{n}{kata}カルラ{n}{hira}「{kata}ダイダ{hira}王子と 決めた日を!」{n}{n}{kata}カルラ{n}{hira}「あの日から 鬼の {sub:CC}ごとには{n} 口を はさまないと いったはず!」",
-   "en": null
+   "en": "Karura{n}\"Ah! You! Prince Ajase!\"{n}{n}Karura{n}\"Kikikikiki! What now, after all this time?! You, who do nothing but wander about at play!\"{n}Karura{n}\"Have you forgotten, Prince Ajase?\"{n}{n}Karura{n}\"The day it was decided that King Basara's heir would be your elder brother here...\"{n}Karura{n}\"Prince Daida!\"{n}{n}Karura{n}\"Since that day you were to keep your nose out of the oni's affairs of state!\""
   },
   {
    "id": "b168_0030",
    "jp": "{kata}アジャセ{hira}王子{n}「………………」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"................\"{n}"
   },
   {
    "id": "b168_0031",
    "jp": "「はがねの かね童子!」{n}{n}",
-   "en": null
+   "en": "\"Kane Doji of steel!\"{n}{n}"
   },
   {
    "id": "b168_0032",
    "jp": "「不死身の くま童子!」{n}{n}",
-   "en": null
+   "en": "\"Kuma Doji the undying!\"{n}{n}"
   },
   {
    "id": "b168_0033",
    "jp": "「怪力無双(かいりき・むそう)の{n} とらくま童子!」{n}",
-   "en": null
+   "en": "\"Torakuma Doji,{n} of matchless might!\"{n}"
   },
   {
    "id": "b168_0034",
    "jp": "「炎の ほしくま童子!」{n}{n}",
-   "en": null
+   "en": "\"Hoshikuma Doji of flame!\"{n}{n}"
   }
  ]
 }

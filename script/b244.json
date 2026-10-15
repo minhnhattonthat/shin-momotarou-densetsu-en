@@ -7,52 +7,52 @@
   {
    "id": "b244_0000",
    "jp": "「とうとう 鬼たいじを{n} やりとげましたね 見事でしたよ!」{n}{n}「心ゆくまで みなと 語り合ってから{n} 北のみさきへ 行って{n} 月の鈴を {sub:B3}と いいでしょう!」",
-   "en": null
+   "en": "\"You finally finished the oni hunt. That was splendid!\"{n}{n}\"Once you've talked to everyone to your heart's content, go to the northern cape and use the Moon Bell!\""
   },
   {
    "id": "b244_0001",
    "jp": "「{sub:A0}! よくやった!{n} みんな よく がんばったな!」{n}",
-   "en": null
+   "en": "\"Momotaro! Well done! Everyone did a fine job!\"{n}"
   },
   {
    "id": "b244_0002",
    "jp": "「{sub:B5} {sub:B5}{n} 大地は きっと {sub:C9}たちに{n} やさしく せっしてくれます!」{n}「{sub:C9}たちも これから{n} 大地を やさしく{n} いたわりましょうね!」",
-   "en": null
+   "en": "\"Chuchun! Chuchun!{n} The land will surely be kind to us!\"{n}\"So from now on, let's be kind to the land and take care of it too!\""
   },
   {
    "id": "b244_0003",
    "jp": "「{sub:B5} かぐや姫さまも{n} 助かったんですってね! すべてが{n} もとどおりになる 気がするわ!」",
-   "en": null
+   "en": "\"Chuchun! I hear Princess Kaguya was saved too! I feel like everything's going back to how it was!\""
   },
   {
    "id": "b244_0004",
    "jp": "「{kata}オレ{hira}は これからも{n} 旅を 続けるぜ!{n} {sub:A0}さんの 話を 伝えるんだ!」",
-   "en": null
+   "en": "\"I'm gonna keep on traveling! I'll spread the story of Momotaro!\""
   },
   {
    "id": "b244_0005",
    "jp": "「{kata}カルラ{hira}のやつは {kata}オレ{hira}も{n} 一度なぐりたかったが{n} そうか! 石になったのか!」",
-   "en": null
+   "en": "\"I wanted to punch that Karura once myself, but I see! He turned to stone, huh!\""
   },
   {
    "id": "b244_0006",
    "jp": "「{sub:B5} このお宿が{n} いつまでも みなさんに{n} 愛されるよう がんばります!」",
-   "en": null
+   "en": "\"Chuchun! We'll work hard so this inn is loved by everyone forever!\""
   },
   {
    "id": "b244_0007",
    "jp": "「{sub:B5} 気のせいか{n} 森の方から 小鳥の鳴き声が{n} 聞こえて来るような 気がします」{n}「自然が いきを{n} 吹きかえした あかしですよね」{n}",
-   "en": null
+   "en": "\"Chuchun! Maybe it's just me, but I feel like I can hear little birds singing from the forest.\"{n}\"That's proof that nature has come back to life, isn't it?\"{n}"
   },
   {
    "id": "b244_0008",
    "jp": "「鬼も これから 地上にも{n} すむといいね! せっかく{n} なかよくなったんだからさ!」",
-   "en": null
+   "en": "\"I hope the oni come live up here on the surface too! We all finally got to be friends, after all!\""
   },
   {
    "id": "b244_0009",
    "jp": "「{kata}オラ{hira}は この村の みんなに{n} 金太郎の村の 祭りを{n} おしえる つもりだ!」{n}「新しい 国作りは{n} にぎやかに やらないと{n} いけないからね!」",
-   "en": null
+   "en": "\"I'm gonna teach everybody in this village the festival from Kintaro's village!\"{n}\"Building a new country has gotta be done lively, after all!\""
   }
  ]
 }

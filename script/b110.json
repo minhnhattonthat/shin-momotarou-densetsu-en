@@ -7,162 +7,162 @@
   {
    "id": "b110_0000",
    "jp": "「{sub:A0}! この先{n} おかしな 鬼が 出てくるが{n} 気をぬいては いかんぞ!」",
-   "en": null
+   "en": "\"Momotaro! Some strange oni will show up up ahead, but don't let your guard down!\""
   },
   {
    "id": "b110_0001",
    "jp": "「{sub:A0}さん {sub:A0}さん!{n} 色男が 笛を吹きながら{n} この村を 出て行きましたよ!」{n}「なにやら うれしそうな顔を{n} してたなあ! 何か{n} いいこと あったんすかね?」",
-   "en": null
+   "en": "\"Momotaro! Momotaro! A handsome fella left this village playin' a flute!\"{n}\"He sure looked happy about somethin'! Wonder if somethin' good happened to him?\""
   },
   {
    "id": "b110_0002",
    "jp": "「この村を ぬけると{n} ほほえみの大地よ!」{n}{n}「その名の とおり おもわず{n} ほほえんでしまう ことが{n} いっぱい おこるんですよ!」",
-   "en": null
+   "en": "\"Past this village lies the Land of Smiles!\"{n}{n}\"Just like the name says, lots of things happen there that'll make you smile in spite of yourself!\""
   },
   {
    "id": "b110_0003",
    "jp": "「{sub:A0} 兄ちゃん!{n} これ あげる!」{n}",
-   "en": null
+   "en": "\"Big brother Momotaro! This is for you!\"{n}"
   },
   {
    "id": "b110_0004",
    "jp": "「いつか {kata}ボク{hira}も {sub:A0}さんの{n} 仲間ってやつに させてね!」{n}",
-   "en": null
+   "en": "\"Someday, let me be one of your friends too, Momotaro! Your companions, I mean!\"{n}"
   },
   {
    "id": "b110_0005",
    "jp": "「{kata}ハイ{hira}! {sub:C0} どうぞ!{n} おなかが すいては{n} 鬼たいじなど できません!」",
-   "en": null
+   "en": "\"Here! Have a rice ball! You can't go defeating the oni on an empty stomach!\""
   },
   {
    "id": "b110_0006",
    "jp": "「笑顔で 鬼たいじ{n} がんばってね!」{n}",
-   "en": null
+   "en": "\"Keep smiling and do your best defeating the oni!\"{n}"
   },
   {
    "id": "b110_0007",
    "jp": "「{sub:A0}さん! はたらき者の{n} 辰巳(たつみ)に あっただか?」{n}{n}「辰巳は じぶんで{n} 和菓子を こしらえて{n} 希望の都で 売るのが 夢なんだ」{n}「あんな 大きな都で 和菓子を{n} 売る夢を 持つだけで{n} えらいと おもわねえだか?」",
-   "en": null
+   "en": "\"Momotaro! Ya meet that hard worker Tatsumi yet?\"{n}{n}\"Tatsumi's dream is to make Japanese sweets himself and sell 'em in the Capital of Hope.\"{n}\"Don'tcha think it's somethin' just to dream of sellin' sweets in a big ol' capital like that?\""
   },
   {
    "id": "b110_0008",
    "jp": "「{sub:A0}さん! ほほえみの村の{n} 天下一だじゃれ大会は{n} ごぞんじですか?」{n}「だじゃれが 好きな人なら{n} 誰でも 参加できるんですよ{n} え? {sub:C9}は {kata}ダメ{hira}ですよ!」{n}{n}{c3}『{sub:A0}さんが 桃 持ったろう!』{c0}{n}{n}「こんな もんしか{n} 作れませんから! {kata}ハハハ{hira}!」{n}",
-   "en": null
+   "en": "\"Momotaro! Have you heard of Smile Village's Greatest Pun Contest Under Heaven?\"{n}\"Anybody who loves puns can enter! Eh? Me? Oh, I'm no good!\"{n}{n}{c3}'Momotaro ate the peach? Mo' mo', ta-ro-tally!'{c0}{n}{n}\"That's the best I can come up with! Ha ha ha!\"{n}"
   },
   {
    "id": "b110_0009",
    "jp": "「この村は おだやかだけど いまも{n} 鬼に 苦しめられてる村が{n} どこかに あるんだろうな!」",
-   "en": null
+   "en": "\"This village is peaceful, but I bet somewhere there are villages still suffering under the oni!\""
   },
   {
    "id": "b110_0010",
    "jp": "「さっき あぶない 目つきの{n} お{kata}サル{hira}さんたちが ほほえみの村へ{n} むかって行ったわ! やーね!」{n}「{sub:A0}さん! どうぞ!{n} みなさんで めしあがれ!」{n}",
-   "en": null
+   "en": "\"A while ago some dangerous-looking monkeys went off toward Smile Village! How awful!\"{n}\"Momotaro! Here you are! Share it with everyone!\"{n}"
   },
   {
    "id": "b110_0011",
    "jp": "「この村の人は ぶつぶつこうかんが {n} 大好きだから {sub:A0}さんも{n} 何か かえてもらったら?」",
-   "en": null
+   "en": "\"Folks in this village just love bartering, Momotaro, so why not trade them for something?\""
   },
   {
    "id": "b110_0012",
    "jp": "「ここから ずっと ずっと{n} 南に 下って行くと{n} 希望の都が あるんじゃ!」{n}「都は 大きい!{n} ぜんぶ見て 歩くだけで{n} 2日は かかりますぞ!」",
-   "en": null
+   "en": "\"If you head far, far south from here, you'll find the Capital of Hope!\"{n}\"The Capital is huge! Just walking around to see it all would take you two days!\""
   },
   {
    "id": "b110_0013",
    "jp": "「希望の都には めずらしい{n} お店が いっぱい{n} あるって うわさですよ!」{n}「{kata}ダイコン{hira}を つけものに してくれたり{n} くじを ひいて お金が{n} もらえるところが あったり!」{n}「ほかに どんな お店が{n} あるんでしょうね!{n} {sub:C9}も 一度行ってみたいな!」",
-   "en": null
+   "en": "\"They say the Capital of Hope is full of unusual shops!\"{n}\"There's one that'll pickle your daikon for you, and one where you draw lots and get money!\"{n}\"I wonder what other shops they have! I'd like to go there once too!\""
   },
   {
    "id": "b110_0014",
    "jp": "「ほほえみの村 行くのー?{n} だじゃれって 何?{n} ふーん! それ おいしいの?」",
-   "en": null
+   "en": "\"You're goin' to Smile Village? What's a pun? Hmm! Does it taste good?\""
   },
   {
    "id": "b110_0015",
    "jp": "「なんなんだ? あの{kata}ヘンテコ{hira}な鬼!{n} いきなり {kata}オレ{hira}に 歴史の問題を{n} 出してきやがったんだ!」",
-   "en": null
+   "en": "\"What's with that weirdo oni?! Out of nowhere he hits me with a history question!\""
   },
   {
    "id": "b110_0016",
    "jp": "「{kata}オレ{hira}みたいな 下っぱの 鬼が{n} {kata}カルラ{hira}様を うらぎっても 平気さ!{n} えらい方々だと たいへんだろな!」",
-   "en": null
+   "en": "\"A small-fry oni like me can betray Karura no problem! Must be rough for the big shots, though!\""
   },
   {
    "id": "b110_0017",
    "jp": "「{kata}アジャセ{hira}王子の ほうが{n} {kata}ダイダ{hira}王子より やさしくて{n} 好きだったんだけどなあ!」{n}「{kata}ダイダ{hira}王子が あととりっていうのも{n} {kata}カルラ{hira}の たくらみだと おもうな」{n}",
-   "en": null
+   "en": "\"I always liked Prince Ajase better than Prince Daida. He was kinder!\"{n}\"I bet Prince Daida bein' the heir is one of Karura's schemes, too.\"{n}"
   },
   {
    "id": "b110_0018",
    "jp": "「ほおずき～! ほおずき～!{n} ほおずきは いらんかねえ!」{n}{n}「ふぅー! おなかが すいた!{n} 朝から 何も 食べてないのです{n} {sub:C0}なぞ お持ちでしょうか?」",
-   "en": null
+   "en": "\"Ground cherries~! Ground cherries~! Who'll buy my ground cherries!\"{n}{n}\"Phew! I'm starving! I haven't eaten a thing since morning... Might you have a rice ball, by any chance?\""
   },
   {
    "id": "b110_0019",
    "jp": "「なんだ～! {sub:C0}{n} もってないじゃないですか～{n} からかわないで {sub:C5}よ!」",
-   "en": null
+   "en": "\"Wha~t! You don't have a rice ball at all~! Please don't tease me like that!\""
   },
   {
    "id": "b110_0020",
    "jp": "「{sub:C0}は やっぱり{n} こういう風に {kata}ノリ{hira}が{n} {kata}パリッ{hira}と してなきゃ!」{n}「{kata}ゲフッ{hira}! ごちそうさまでした!{n} どうか この ほおずきを{n} お持ちになって {sub:C5}!」",
-   "en": null
+   "en": "\"Now that's how a rice ball should be, with the seaweed nice and crisp!\"{n}\"Burp! Thank you for the meal! Please, take this ground cherry with you!\""
   },
   {
    "id": "b110_0021",
    "jp": "「あ～! おなかが すいて{n} 目が まわりそうだ～!」{n}",
-   "en": null
+   "en": "\"Aah~! I'm so hungry my head's spinning~!\"{n}"
   },
   {
    "id": "b110_0022",
    "jp": "「あめざ～いく! あめざ～いく!{n} かわいい かわいい{n} あめざいくは いかが?」{n}「うーむ! どうしても 赤い色が{n} 作れないなあ! 誰か {sub:C9}に{n} ほおずきを くれんの～!」",
-   "en": null
+   "en": "\"Candy sculptu~res! Candy sculptu~res! Cute little candy sculptures, who'll have one?\"{n}\"Hmm! I just can't make the color red! Won't somebody give me a ground cherry~!\""
   },
   {
    "id": "b110_0023",
    "jp": "「ほおずきなど どこに{n} もってるんですか!{n} 人を {kata}バカ{hira}にするな!」",
-   "en": null
+   "en": "\"Where've you got a ground cherry?! Don't make a fool of me!\""
   },
   {
    "id": "b110_0024",
    "jp": "{sub:C2} ありがたい! これで{n} ほおずきのような 赤い色が{n} うまく 作れそうだ!」{n}「おれいに {sub:C9}が 作った{n} あめざいくを{n} 持っていって {sub:C5}!」",
-   "en": null
+   "en": "\"Oh! Bless you! Now I can make a nice red color, just like a ground cherry!\"{n}\"As thanks, please take a candy sculpture I made!\""
   },
   {
    "id": "b110_0025",
    "jp": "「そいつは 残急!{n} だれか 赤い ふんどしを{n} しめてる人は おらんかね～!」",
-   "en": null
+   "en": "\"What a shame! Isn't anybody around here wearin' a red loincloth~!\""
   },
   {
    "id": "b110_0026",
    "jp": "「げった げた げた!{n} げった げた げた!{n} げたは いらんかえー」{n}「{sub:C9}の げたと{n} あめざいくを どなたか{n} こうかんして くれんかね!」",
-   "en": null
+   "en": "\"Clip-clop clogs! Clip-clop clogs! Who'll buy my geta~!\"{n}\"Won't somebody trade me a candy sculpture for my geta!\""
   },
   {
    "id": "b110_0027",
    "jp": "「どこに あめざいくが{n} あるんですか! ひどい!{n} 鬼たいじは 本気ですか?」",
-   "en": null
+   "en": "\"Where's this candy sculpture, then?! How mean! Are you even serious about defeating the oni?\""
   },
   {
    "id": "b110_0028",
    "jp": "「これは かわいい あめざいく!{n} こどもの おみやげに{n} ほしかったんですよ!」",
-   "en": null
+   "en": "\"What a cute candy sculpture! I've been wanting one as a present for my kids!\""
   },
   {
    "id": "b110_0029",
    "jp": "「こどもの おみやげに{n} したかったんですけどねー!」{n}",
-   "en": null
+   "en": "\"I wanted one as a present for my kids, too!\"{n}"
   },
   {
    "id": "b110_0030",
    "jp": "{sub:A0}は 雪だるまを 調べた!{n}{n}{n}{sub:A0}は 雪だるまが{n}すこし 動いたような 気がした!{n}{n}「も… {sub:A0}…か…{n} ここから だしてくれ…{n} 寒くて 体がうごかねーんだ…」{n}{sub:A0}は 雪だるまを 割って{n}金太郎を ひっぱりだした!{n}",
-   "en": null
+   "en": "Momotaro examined the snowman!{n}{n}{n}Momotaro felt like{n}the snowman moved a little!{n}{n}\"M... Momotaro... is that you...? Get me outta here... I'm so cold I can't move...\"{n}Momotaro broke open the snowman{n}and pulled out Kintaro!{n}"
   },
   {
    "id": "b110_0031",
    "jp": "「いやー たすかった! {sub:A0}!{n} こおっちまうかと おもったど!」{n}{n}「それじゃあ 鬼たいじの{n} 続きを はじめっか!」{n}",
-   "en": null
+   "en": "\"Whew, that was close! Thanks, Momotaro! I thought I was gonna freeze solid!\"{n}{n}\"All right, let's get back to defeatin' the oni!\"{n}"
   }
  ]
 }

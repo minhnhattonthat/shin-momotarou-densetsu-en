@@ -7,67 +7,67 @@
   {
    "id": "b236_0000",
    "jp": "「{kata}ゴホ{hira}! {kata}ゴホ{hira}!」{n}{n}{n}「あきっぽい あの子が 和菓子で{n} くらしを 楽にする いうとるが{n} はたして 続くかいな… {kata}ゴホ{hira}!」",
-   "en": null
+   "en": "\"Cough! Cough!\"{n}{n}{n}\"That fickle boy says he'll make life easy for us with his sweets, but will he stick with it...? Cough!\""
   },
   {
    "id": "b236_0001",
    "jp": "「あきっぽい あの子が{n} 見ちがえるようになって!{n} {sub:A0}さんの おかげです!」{n}「わだすも こうして 病気も{n} すっかり なおって{n} 辰巳'の 手伝い しちょります」{n}「希望の都の 虎信さんでも{n} おいてくれる ゆうて{n} ほんに ありがたい こってす!」",
-   "en": null
+   "en": "\"That fickle boy's like a whole new person!{n} It's all thanks to you, Momotaro!\"{n}\"And me, my sickness is all cleared up too,{n} so I'm helpin' Tatsumi out.\"{n}\"Even Toranobu in the Capital of Hope{n} says they'll stock 'em.{n} We're truly grateful!\""
   },
   {
    "id": "b236_0002",
    "jp": "「{sub:A0}さん! {sub:C9}は{n} 日本一の 和菓子職人を{n} めざしてる 辰巳'といいます」{n}「どうか {sub:C9}の 作った{n} 和菓子を 食べてみて{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Momotaro! I'm Tatsumi, and I'm aiming{n} to be the best Japanese sweets maker in Japan!\"{n}\"Please, try one of the sweets I made!\"{n}"
   },
   {
    "id": "b236_0003",
    "jp": "「そうですか… 見るからに{n} まずそうなのかな! よーし!{n} 作りなおして みよう!」",
-   "en": null
+   "en": "\"I see... So they look awful just at a glance!{n} All right!{n} I'll try making them over!\""
   },
   {
    "id": "b236_0004",
    "jp": "「{kata}モグモグモグ{hira}…」{n}{n}{n}「{sub:A0}さん おいしいですか?」{n}{n}",
-   "en": null
+   "en": "\"Munch munch munch...\"{n}{n}{n}\"Momotaro, are they good?\"{n}{n}"
   },
   {
    "id": "b236_0005",
    "jp": "「そうですか…!{n} まだ {kata}ダメ{hira}かあ!{n} べんきょうが たりないな!」{n}「お手数をかけて すみませんでした!{n} また がんばってみます!」{n}",
-   "en": null
+   "en": "\"I see...!{n} Still no good, huh!{n} I haven't studied enough!\"{n}\"Sorry for the trouble!{n} I'll give it another go!\"{n}"
   },
   {
    "id": "b236_0006",
    "jp": "「よかった! がんばってよかった!{n} ありがとう {sub:A0}{kata}サン{hira}!」{n}{n}「そうだ! {sub:A0}{kata}サン{hira}!{n} ぜひ この和菓子に{n} 名前をつけて{sub:C5}!」{n}「お願い します!」{n}{n}",
-   "en": null
+   "en": "\"I'm glad! I'm glad I kept at it!{n} Thank you, Momotaro!\"{n}{n}\"Oh, I know! Momotaro!{n} Please, give these sweets a name!\"{n}\"I'm begging you!\"{n}{n}"
   },
   {
    "id": "b236_0007",
    "jp": "「{sub:A0}さん! 作ってますよ!{n} {arg}!{n} たのしみに してて{sub:C5}!」",
-   "en": null
+   "en": "\"Momotaro! I'm making them!{n} {arg}!{n} Look forward to it!\""
   },
   {
    "id": "b236_0008",
    "jp": "「いつか {sub:A0}さんに ちなんだ{n} 和菓子が 作れるように{n} これからも がんばります!」",
-   "en": null
+   "en": "\"I'll keep working hard so that someday{n} I can make sweets{n} named after you, Momotaro!\""
   },
   {
    "id": "b236_0009",
    "jp": "「{arg}ですね!{n} う～ん! いい名前だあ!」{n}{n}「ありがとう! {sub:A0}{kata}サン{hira}!{n} これなら 都で いちばんのお店{n} 虎信でも 売れるかもしれないぞ!」",
-   "en": null
+   "en": "\"{arg}, huh!{n} Mmm! What a great name!\"{n}{n}\"Thank you, Momotaro!{n} With this, maybe even Toranobu,{n} the best shop in the Capital, will sell them!\""
   },
   {
    "id": "b236_0010",
    "jp": "「{arg} いかがですか?」{n}{n}",
-   "en": null
+   "en": "\"How about some {arg}?\"{n}{n}"
   },
   {
    "id": "b236_0011",
    "jp": "「300両に なります!」{n}{n}",
-   "en": null
+   "en": "\"That'll be 300 ryo!\"{n}{n}"
   },
   {
    "id": "b236_0012",
    "jp": "「{sub:C1}さま{n} お金が たりないようで…」{n}",
-   "en": null
+   "en": "\"Dear customer,{n} it seems you're short on money...\"{n}"
   }
  ]
 }

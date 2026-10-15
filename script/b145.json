@@ -7,22 +7,22 @@
   {
    "id": "b145_0000",
    "jp": "「お地蔵様を おがんでたら{n} こんな ところに 落ちてしまった!{n} どこから ぬけだせるんだ?」",
-   "en": null
+   "en": "\"I was praying to the Jizo statue, and I fell all the way down here! How do I get out of this place?\""
   },
   {
    "id": "b145_0001",
    "jp": "「{sub:A0}さん! おむすび村が{n} できたおかげで ほんとうに{n} 旅が らくになりましたよ!」{n}「これ どうぞ! ここの{n} わき水を くんだんです!」{n}",
-   "en": null
+   "en": "\"Momotaro! Thanks to Omusubi Village, traveling's gotten so much easier!\"{n}\"Here, take this! It's spring water I drew from right here!\"{n}"
   },
   {
    "id": "b145_0002",
    "jp": "「{sub:A0}さん! おむすび村が{n} できたおかげで ほんとうに{n} 旅が らくになりましたよ!」",
-   "en": null
+   "en": "\"Momotaro! Thanks to Omusubi Village, traveling's gotten so much easier!\""
   },
   {
    "id": "b145_0003",
    "jp": "「{sub:A0}さん! この先に{n} 青鬼がいて 毒を吐いてきます!{n} 気をつけて{sub:C5}!」",
-   "en": null
+   "en": "\"Momotaro! Up ahead there's a Blue Oni that spits poison! Please be careful!\""
   }
  ]
 }

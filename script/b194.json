@@ -7,22 +7,22 @@
   {
    "id": "b194_0000",
    "jp": "「鬼の はんらん軍は{n} どんどん 増えています!」{n}{n}「ここは {sub:C9}たちが 守りますから{n} 先を おいそぎくだされ!」{n}",
-   "en": null
+   "en": "\"The oni rebel army is growing bigger and bigger!\"{n}{n}\"We'll hold this place, so please hurry on ahead!\"{n}"
   },
   {
    "id": "b194_0001",
    "jp": "「いまさらいっても 仕方ないが{n} {kata}カルラ{hira}を 生んだのは われらが{n} ふがいなかった せいだ!」{n}「だからといって{n} このまま 終わらせては{n} 絶対いけないんだ!」",
-   "en": null
+   "en": "\"It's no use saying it now, but Karura came to be because we were weak!\"{n}\"Even so, we absolutely can't let it end like this!\""
   },
   {
    "id": "b194_0002",
    "jp": "「{sub:A0}さん! 酒香童子の{n} 四天王の ひとり かね童子です!」{n}{n}「なき 酒香童子さまの ためにも{n} たとえ この身が くちはてようと{n} 刀を ふるいつくします!」",
-   "en": null
+   "en": "\"Momotaro! I'm Kane Doji, one of Shuko Doji's Four Heavenly Kings!\"{n}{n}\"For the sake of the late Shuko Doji, I'll swing my sword to the last, even if this body rots away!\""
   },
   {
    "id": "b194_0003",
    "jp": "「たのむ! 鬼の仲間たちよ!{n} 目をさましてくれ!{n} 鬼の世が いま あぶないのだ!」",
-   "en": null
+   "en": "\"Please! My fellow oni!{n} Wake up!{n} The oni world is in danger now!\""
   }
  ]
 }

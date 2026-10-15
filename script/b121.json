@@ -7,82 +7,82 @@
   {
    "id": "b121_0000",
    "jp": "「また 鬼たいじに{n} 役に立つ からくりを{n} かんがえてるで ござる!」{n}「しかし {sub:A0}どのが{n} 鬼たいじを 終えるほうが{n} はやいで ござろうな!」",
-   "en": null
+   "en": "\"I am thinking up yet another gadget to help with the oni hunt!\"{n}\"But methinks you shall finish the oni hunt first, Sir Momotaro!\""
   },
   {
    "id": "b121_0001",
    "jp": "「わしは からくり職人の{n} 孫市(まごいち)と もうす!{n} 城を 強くしたいそうだな?」",
-   "en": null
+   "en": "\"I am Magoichi,{n} a gadget craftsman!{n} You wish to make your castle stronger?\""
   },
   {
    "id": "b121_0002",
    "jp": "「お金は かかるが かならず{n} 城を 強くして みもうす!」{n}",
-   "en": null
+   "en": "\"It shall cost money, but I will surely make your castle stronger!\"{n}"
   },
   {
    "id": "b121_0003",
    "jp": "「もう少し お金を 出してもらわんと{n} からくりを 作れんでござる!」{n}",
-   "en": null
+   "en": "\"Unless you pay a little more, I cannot build the gadget!\"{n}"
   },
   {
    "id": "b121_0004",
    "jp": "「それでは 先に{n} 城へ 行ってますぞ!」{n}",
-   "en": null
+   "en": "\"Well then, I shall go{n} on ahead to the castle!\"{n}"
   },
   {
    "id": "b121_0005",
    "jp": "「お城の ことで おこまりなら{n} いってくだされ! うちの 品物が{n} 役に立つやも しれませんぞ!」",
-   "en": null
+   "en": "\"If your castle gives you trouble, just say the word! My wares may well be of use!\""
   },
   {
    "id": "b121_0006",
    "jp": "「いつでも よってくだされ!」{n}{n}",
-   "en": null
+   "en": "\"Drop by anytime!\"{n}{n}"
   },
   {
    "id": "b121_0007",
    "jp": "「大砲の玉 ですね!{n} まいどありー!」{n}",
-   "en": null
+   "en": "\"A cannonball, is it?{n} Thank you kindly!\"{n}"
   },
   {
    "id": "b121_0008",
    "jp": "「ほかに おもとめの品は{n} ありませんか?」{n}",
-   "en": null
+   "en": "\"Is there anything else{n} you're looking for?\"{n}"
   },
   {
    "id": "b121_0009",
    "jp": "「大砲の玉を{n} これ以上 増やす事は{n} 出来ないのですが……」",
-   "en": null
+   "en": "\"I'm afraid you can't{n} carry any more{n} cannonballs......\""
   },
   {
    "id": "b121_0010",
    "jp": "「お金が たりませんよ!{n} おちついて 鬼たいじを{n} めざして{sub:C5} {sub:A0}さん!」",
-   "en": null
+   "en": "\"You don't have enough money!{n} Calm down and keep your eye{n} on the oni hunt, Momotaro!\""
   },
   {
    "id": "b121_0011",
    "jp": "{sub:D5}もちますか?」{n}{n}",
-   "en": null
+   "en": "\"Who will carry it?\"{n}{n}"
   },
   {
    "id": "b121_0012",
    "jp": "「{arg}さん!{n}{sub:D7} いっぱいですよ!」{n}",
-   "en": null
+   "en": "\"{arg}!{n} Your Item Bag is full!\"{n}"
   },
   {
    "id": "b121_0013",
    "jp": "「{arg} ですね!{n} まいどありー!」{n}",
-   "en": null
+   "en": "\"{arg}, is it?{n} Thank you kindly!\"{n}"
   },
   {
    "id": "b121_0014",
    "jp": "「大砲の玉10発 ですね!{n} まいどありー!」{n}",
-   "en": null
+   "en": "\"10 cannonballs, is it?{n} Thank you kindly!\"{n}"
   },
   {
    "id": "b121_0015",
    "jp": "「やあ! {sub:A0}さん! {kata}オラ{hira}は{n} 牛吉って いうだども{n} からくり作るの へたなんだ!」{n}「左源内(ひだり・げんない)さん{n} みたいに りっぱな{n} からくり職人に なりたいな!」",
-   "en": null
+   "en": "\"Hey! Momotaro! I'm{n} Ushikichi, but I'm{n} no good at buildin' gadgets!\"{n}\"I wanna be a fine{n} gadget craftsman{n} just like Sagennai!\""
   }
  ]
 }

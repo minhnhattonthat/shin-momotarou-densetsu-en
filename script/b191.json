@@ -7,27 +7,27 @@
   {
    "id": "b191_0000",
    "jp": "「{kata}グシシシシッ{hira}! わしは{n} この 三途の川の 番人{n} けんね翁(おう)じゃ!」{n}「{sub:B6}が {sub:A0}か?{n} そうか そうか!{n} よく来たの{kata}ォ{hira}! {kata}グシシシシッ{hira}!」{n}「ところで {sub:A0}!{n} これが ほしくないか?」{n}{n}「いやなに! たいした物では ない!{n} 満月の水晶という つまらん物じゃ」{n}{n}「ほしければ うしろの{n} つづらに 入れておくから{n} 持って行くが いい!」",
-   "en": null
+   "en": "\"Gushishishishi! I am Keneo, keeper of this Sanzu River!\"{n}\"So you're Momotaro? Well, well! Welcome, welcome! Gushishishishi!\"{n}\"By the way, Momotaro! Wouldn't you like to have this?\"{n}{n}\"Oh, it's nothing much! Just a worthless trinket called the Full Moon Quartz.\"{n}{n}\"If you want it, I'll put it in the wicker chest behind me. Feel free to take it!\""
   },
   {
    "id": "b191_0001",
    "jp": "「ここを 生きて 通れればな!{n} {kata}グシシシシッ{hira}! {kata}グシシシシッ{hira}!」{n}",
-   "en": null
+   "en": "\"That is, if you can get through here alive!{n} Gushishishishi! Gushishishishi!\"{n}"
   },
   {
    "id": "b191_0002",
    "jp": "「{kata}グヒヒヒヒッ{hira}! {sub:B6}も{n} 人間ならば あたしの名を{n} 一度は 聞いたこと あるじゃろ?」{n}「{kata}グヒヒヒヒッ{hira}!{n} 三途(さんず)の川の{n} 奪衣婆(だつえば)じゃよ!」{n}「悪いけど この 三途の川は{n} 生きてる人間を 通すわけには{n} いかないんじゃ! {kata}グヒヒヒヒッ{hira}!」",
-   "en": null
+   "en": "\"Guhihihihi! If you're human, you must've heard my name at least once, eh?\"{n}\"Guhihihihi! I'm Datsue-ba of the Sanzu River!\"{n}\"Sorry, but I can't let living humans cross this Sanzu River! Guhihihihi!\""
   },
   {
    "id": "b191_0003",
    "jp": "「死んだ者なら いくらでも{n} 通して あげるけどね!」{n}",
-   "en": null
+   "en": "\"If you were dead, now, I'd let you cross all you like!\"{n}"
   },
   {
    "id": "b191_0004",
    "jp": "{sub:A0}は 目の前を 調べた!{n}{n}{n}しかし つづらは ひらかなかった!{n}{n}",
-   "en": null
+   "en": "Momotaro searched in front of him!{n}{n}{n}But the wicker chest would not open!{n}{n}"
   }
  ]
 }

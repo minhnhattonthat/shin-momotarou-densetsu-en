@@ -7,32 +7,32 @@
   {
    "id": "b214_0000",
    "jp": "臥龍(がりゅう){n}「小さきもの そなたは{n} 月の鏡を ほっするものか?」",
-   "en": null
+   "en": "Garyu{n}\"Little one, do you seek the Moon Mirror?\""
   },
   {
    "id": "b214_0001",
    "jp": "「ならば さるがよい{n} ここは 人が{n} 足をふみいれる 地ではない」",
-   "en": null
+   "en": "\"Then begone. This is no land for humans to set foot in.\""
   },
   {
    "id": "b214_0002",
    "jp": "「でんしょうに ありき 月の鏡{n} それは 月の青き光を あつめし{n} 希望と 真実の 神器(じんき)」{n}「月の水晶の かがやきを たくすに{n} ふさわしき者だけが {n} それを 手にすることが できる」{n}「では 古(いにしえ)の{n} みことのりに したがい{n} そなたの力 わが前に しめせ!」",
-   "en": null
+   "en": "\"The Moon Mirror of legend... a sacred treasure of hope and truth that gathers the Moon's blue light.\"{n}\"Only one worthy to be entrusted with the radiance of the Moon Quartz may take it in hand.\"{n}\"Then, as the ancient decree commands, show me your strength!\""
   },
   {
    "id": "b214_0003",
    "jp": "臥龍{n}「{hero}よ!」{n}{n}「古(いにしえ)の みことのりは{n} 今ここに はたされた!」{n}{n}「月の鏡の みちびきに したがい{n} 月の水晶の かがやき{n} ふたたび とりもどすがいい!」",
-   "en": null
+   "en": "Garyu{n}\"{hero}!\"{n}{n}\"The ancient decree is now fulfilled!\"{n}{n}\"Follow the guidance of the Moon Mirror and restore the radiance of the Moon Quartz once more!\""
   },
   {
    "id": "b214_0004",
    "jp": "「月の鏡の みちびきに したがい{n} 月の水晶の かがやき{n} ふたたび とりもどすがいい!」",
-   "en": null
+   "en": "\"Follow the guidance of the Moon Mirror and restore the radiance of the Moon Quartz once more!\""
   },
   {
    "id": "b214_0005",
    "jp": "臥龍{n}「{hero}よ! 月の鏡を{n} 手にするには 力不足の ようだ!」{n}「腕を みがいて{n} 出なおすが よい!」{n}",
-   "en": null
+   "en": "Garyu{n}\"{hero}! It seems you lack the strength to claim the Moon Mirror!\"{n}\"Hone your skills and come again!\"{n}"
   }
  ]
 }

@@ -7,37 +7,37 @@
   {
    "id": "b124_0000",
    "jp": "「{sub:A0}さん! やっぱり すごいや!{n} これならもう ひとりで{n} 旅することが できるでしょう!」{n}「あっしは ひとまず{n} さきに 行って{n} じょうほうを あつめてきやす!」",
-   "en": null
+   "en": "\"Momotaro! You really are amazin'!{n} Now you can travel{n} on your own, I reckon!\"{n}\"As for me, I'll go{n} on ahead for now{n} and gather some information!\""
   },
   {
    "id": "b124_0001",
    "jp": "{kata}スリ{hira}の銀次は {sub:A0}と はなれて{n}旅を することになった!{n}",
-   "en": null
+   "en": "Ginji the Pickpocket parted ways with Momotaro{n}and set off on his own journey!{n}"
   },
   {
    "id": "b124_0002",
    "jp": "「{sub:B6}を とおせば われら!{n} {kata}カルラ{hira}様に 顔むけ できぬ!」{n}",
-   "en": null
+   "en": "\"If we let you pass,{n} we could never face Lady Karura again!\"{n}"
   },
   {
    "id": "b124_0003",
    "jp": "「力づくで とおるつもりか?{n} おもしろい! {n} かかってくるがいい!」",
-   "en": null
+   "en": "\"So you mean to force your way through?{n} Amusing!{n} Come at us, then!\""
   },
   {
    "id": "b124_0004",
    "jp": "「{sub:B6}を とおせば われら!{n} {kata}カルラ{hira}様に 顔むけ できぬ!」{n}",
-   "en": null
+   "en": "\"If we let you pass,{n} we could never face Lady Karura again!\"{n}"
   },
   {
    "id": "b124_0005",
    "jp": "「鬼に はむかうならば{n} 生き血を すすってやるまでよ!」{n}",
-   "en": null
+   "en": "\"Those who defy the oni{n} will have their lifeblood sucked dry!\"{n}"
   },
   {
    "id": "b124_0006",
    "jp": "「{sub:B6}を とおせば われら!{n} {kata}カルラ{hira}様に 顔むけ できぬ!」{n}",
-   "en": null
+   "en": "\"If we let you pass,{n} we could never face Lady Karura again!\"{n}"
   }
  ]
 }

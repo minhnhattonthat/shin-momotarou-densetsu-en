@@ -7,242 +7,242 @@
   {
    "id": "b200_0000",
    "jp": "{kata}カルラ{n}{hira}「{kata}グギャギャギャギャギャギャ{hira}ー{kata}ッ{hira}!」{n}",
-   "en": null
+   "en": "Karura{n}\"Gugyagyagyagyagyagyaaaaah!\"{n}"
   },
   {
    "id": "b200_0001",
    "jp": "「それにしても {kata}アジャセ{hira}が わしを{n} かばって たおれるとは…!」{n}",
-   "en": null
+   "en": "\"Still... to think Ajase would fall shielding me...!\"{n}"
   },
   {
    "id": "b200_0002",
    "jp": "「{kata}アジャセ{hira}は わしに まかせて{n} {kata}カルラ{hira}を 追うのだ {sub:A0}!」{n}",
-   "en": null
+   "en": "\"Leave Ajase to me, and go after Karura, Momotaro!\"{n}"
   },
   {
    "id": "b200_0003",
    "jp": "伐折羅王{n}「{sub:A0}……!」{n}{n}「{sub:B6}が{n} わしの 愛する者を{n} すべて 殺した {sub:A0}か!」",
-   "en": null
+   "en": "King Basara{n}\"Momotaro......!\"{n}{n}\"So you are Momotaro, the one who killed everyone I love!\""
   },
   {
    "id": "b200_0004",
    "jp": "夜叉姫{n}「お父さま!{n} どうか 話を 聞いて!」",
-   "en": null
+   "en": "Yasha{n}\"Father!{n} Please, listen to us!\""
   },
   {
    "id": "b200_0005",
    "jp": "えんま様{n}「伐折羅王さまっ! {sub:A0}は{n} 誰も 殺しておりません!」",
-   "en": null
+   "en": "King Enma{n}\"King Basara! Momotaro has killed no one!\""
   },
   {
    "id": "b200_0006",
    "jp": "{sub:CE}{n}「伐折羅王さま わたくしは!」{n}",
-   "en": null
+   "en": "Ashura{n}\"King Basara, I...!\"{n}"
   },
   {
    "id": "b200_0007",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} すべては {kata}カルラ{hira}のくわだて!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu!{n} It was all Karura's scheme!\""
   },
   {
    "id": "b200_0008",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} {kata}カルラ{hira}に だまされていますぞ!」",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari!{n} Karura has deceived you!\""
   },
   {
    "id": "b200_0009",
    "jp": "伐折羅王{n}「ええい! {sub:B6}たちの{n} 話など 聞きたくもない!」",
-   "en": null
+   "en": "King Basara{n}\"Silence! I have no wish to hear anything from any of you!\""
   },
   {
    "id": "b200_0010",
    "jp": "「えんま王よ! {sub:B6}は{n} いまの鬼の世を 作り上げた{n} 一番の友と おもっていた!」",
-   "en": null
+   "en": "\"King Enma! I thought of you as my greatest friend, the one who built today's world of the oni with me!\""
   },
   {
    "id": "b200_0011",
    "jp": "「夜叉よ! {sub:B6}は{n} {kata}アジャセ{hira}とちがい わしの{n} 気持ちが わかると おもっていた」",
-   "en": null
+   "en": "\"Yasha! I thought that you, unlike Ajase, understood my heart\""
   },
   {
    "id": "b200_0012",
    "jp": "「いまの わしは{n} 怒りと 悲しみと 絶望で{n} 体が はりさけそうだ!」{n}「戦え! {sub:A0}!」{n}{n}{n}「わが むすこ{n} {kata}ダイダ{hira}の かたき!{n} みごと とってくれんっ!」",
-   "en": null
+   "en": "\"Now my body is ready to burst with rage, sorrow and despair!\"{n}\"Fight, Momotaro!\"{n}{n}{n}\"I shall avenge my son Daida, and avenge him well!\""
   },
   {
    "id": "b200_0013",
    "jp": "伐折羅王{n}「そうか! そうだったのか!」{n}{n}「{sub:B6}たちと 戦って{n} すべての なぞが とけた!」{n}{n}「……おのれ {kata}カルラ{hira}!」{n}{n}{n}「いでよ! {kata}カルラ{hira}!{n} かくれたとて むだな こと!」{n}",
-   "en": null
+   "en": "King Basara{n}\"I see! So that is how it was!\"{n}{n}\"Fighting you has solved every mystery!\"{n}{n}\"......Curse you, Karura!\"{n}{n}{n}\"Come forth, Karura!{n} Hiding is futile!\"{n}"
   },
   {
    "id": "b200_0014",
    "jp": "伐折羅王{n}「{sub:B6}の けはいを よめぬ{n} わしと おもうか!」",
-   "en": null
+   "en": "King Basara{n}\"Do you think I cannot sense your presence?\""
   },
   {
    "id": "b200_0015",
    "jp": "夜叉姫{n}「{sub:B6}は {kata}カルラ{hira}………!{n} 生きていたのね!」",
-   "en": null
+   "en": "Yasha{n}\"You're... Karura.........!{n} You were alive!\""
   },
   {
    "id": "b200_0016",
    "jp": "えんま様{n}「たおしたはずの {kata}カルラ{hira}は{n} にせものだったのか!」",
-   "en": null
+   "en": "King Enma{n}\"So the Karura we defeated was a fake!\""
   },
   {
    "id": "b200_0017",
    "jp": "金太郎{n}「にせもの だったんか!{n} どこまでも きたねー やっちゃ!」",
-   "en": null
+   "en": "Kintaro{n}\"That was a fake?!{n} What a dirty rat, through and through!\""
   },
   {
    "id": "b200_0018",
    "jp": "{kata}カルラ{n}{hira}「伐折羅王さま!{n} 何を もうされます!」{n}「{sub:C9}は ちゅうじつな{n} あなたの しもべで ございます!」{n}{n}伐折羅王{n}「このごに およんで{n} まだ いうか!」{n}「鬼の王である この 伐折羅が{n} {sub:A0}と 戦い そして{n} {sub:A0}を 正しいと おもった!」{n}「鬼が 戦いを とおして{n} わかりあったのを {sub:B6}は{n} ちがうと もうすのだな!」{n}「{sub:B6}は 鬼のおきてを{n} やぶるのだな! {kata}カルラ{hira}!」{n}{n}「多くの 鬼を おとしいれ{n} わが むすこ {kata}ダイダ{hira}を 殺し…」{n}{n}「大地の ささえ{n} かぐや姫まで 殺した…」{n}{n}「それでも まだ{n} 何が ほしいと いうのだ!」{n}",
-   "en": null
+   "en": "Karura{n}\"King Basara!{n} Whatever do you mean, sire?\"{n}\"I am your loyal servant!\"{n}{n}King Basara{n}\"You still say that, even now?\"{n}\"I, Basara, king of the oni, fought Momotaro, and I judged Momotaro to be in the right!\"{n}\"Oni came to understand one another through battle, and you call that wrong?\"{n}\"Then you break the law of the oni! Karura!\"{n}{n}\"You ensnared many oni and killed my son Daida...\"{n}{n}\"You even killed Princess Kaguya, the pillar of the earth...\"{n}{n}\"And still you want more? What could it be?\"{n}"
   },
   {
    "id": "b200_0019",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} {kata}ケ{hira}ー{kata}ッケッケッ{hira}!」{n}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} {kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} {kata}ケ{hira}ー{kata}ッケッケッ{hira}!」{n}「下手(したて)に 出ていれば{n} いい気に なりおって!」{n}{n}「まこと 地獄を せおい{n} 世を 動かしてきたのは{n} この {kata}カルラ{hira}………」{n}「{kata}カルラ{hira}様では ないか!」{n}{n}{n}「伐折羅! {sub:B6}などは{n} {kata}オレ{hira}様の あやつり人形に{n} なっておれば よかったのだ!」{n}「いままで {kata}オレ{hira}様の{n} いいなりになった ふりを{n} していたかと おもっていたが…」{n}「そこまで あたまが{n} よくなかったか!{n} {kata}ケ{hira}ー{kata}ケッケッ{hira}! {kata}ケ{hira}ー{kata}ケッケッ{hira}!」{n}「まあ よい! {n} すべては これで 終りだ!」{n}{n}「全員そろってくれたんで{n} いちいち 殺す手間が{n} はぶけたと いうものよ!」{n}「残った 鬼たちには{n} {kata}オレ{hira}様から 伝えてやるよ!」{n}{n}「伐折羅は {kata}カルラ{hira}様の{n} じゃまをしては もうしわけないので{n} 自害したとな… {kata}ケ{hira}ー{kata}ケッケッ{hira}!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh!{n} Keeh, keh-keh-keh!\"{n}\"Keeh, keh-keh-keh!{n} Keeh, keh-keh-keh!{n} Keeh, keh-keh-keh!\"{n}\"I play the humble servant and you get full of yourself!\"{n}{n}\"The one who truly bore Hell on his back and moved the world is this Karura.........\"{n}\"Lord Karura, is it not?!\"{n}{n}{n}\"Basara! You should've just stayed my puppet!\"{n}\"I thought you were only pretending to dance to my tune all this time...\"{n}\"But you weren't that bright after all!{n} Keeh, keh-keh! Keeh, keh-keh!\"{n}\"Well, no matter!{n} It all ends here!\"{n}{n}\"You've all gathered so nicely, it saves me the trouble of killing you one by one!\"{n}\"I'll tell the remaining oni myself!\"{n}{n}\"That Basara took his own life, so ashamed was he of getting in Lord Karura's way... Keeh, keh-keh!\""
   },
   {
    "id": "b200_0020",
    "jp": "{kata}カルラ{n}{hira}「者ども かかれ!」{n}",
-   "en": null
+   "en": "Karura{n}\"Get them, men!\"{n}"
   },
   {
    "id": "b200_0021",
    "jp": "{kata}カルラ{n}{hira}「者ども かかれ!」{n}",
-   "en": null
+   "en": "Karura{n}\"Get them, men!\"{n}"
   },
   {
    "id": "b200_0022",
    "jp": "{kata}カルラ{n}{hira}「ええい!{n} 者ども かかれ!」{n}{kata}カルラ{n}{hira}「なぜ 誰も したがわぬ?」{n}{n}{kata}カルラ{n}{hira}「右魂鬼! 左魂鬼!{n} {sub:A0}と 戦え!」",
-   "en": null
+   "en": "Karura{n}\"Blast it!{n} Get them, men!\"{n}Karura{n}\"Why does no one obey?\"{n}{n}Karura{n}\"Ukonki! Sakonki!{n} Fight Momotaro!\""
   },
   {
    "id": "b200_0023",
    "jp": "{kata}カルラ{n}{hira}「どうした? わが たましい{n} 右魂鬼よ! 左魂鬼よ!」{n}「かかれと いうておるのだ!{n} {sub:A0}を たおせ!」{n}{n}「伐折羅を たおせ!{n} かからぬかーーーーーーっ!」{n}",
-   "en": null
+   "en": "Karura{n}\"What's wrong? Ukonki! Sakonki! My very souls!\"{n}\"I said get them!{n} Defeat Momotaro!\"{n}{n}\"Defeat Basara!{n} Get theeeeeeeem!\"{n}"
   },
   {
    "id": "b200_0024",
    "jp": "伐折羅王{n}「{kata}カルラ{hira}! {sub:B6}に{n} 誰が ついて行く というのか…」{n}「いさぎよく はらを くくれ!」{n}{n}{n}「鬼族 最後の なさけだ!」{n}{n}{n}「切腹を ゆるす!」{n}{n}{n}「まがりなりにも わしと{n} 鬼の世界を きずくことに{n} 役立った {sub:B6}だ…」",
-   "en": null
+   "en": "King Basara{n}\"Karura! Who would follow you now...\"{n}\"Face your end with dignity!\"{n}{n}{n}\"This is the oni's final mercy!\"{n}{n}{n}\"I permit you to commit seppuku!\"{n}{n}{n}\"After all, you did help me build the world of the oni, after a fashion...\""
   },
   {
    "id": "b200_0025",
    "jp": "{kata}カルラ{n}{hira}「おのれ……!{n} かくなる上は……」{n}「死ねや! 伐折羅!」{n}{n}",
-   "en": null
+   "en": "Karura{n}\"Curse you......!{n} If it comes to this......\"{n}\"Die, Basara!\"{n}{n}"
   },
   {
    "id": "b200_0026",
    "jp": "{kata}アジャセ{hira}王子{n}「父上ーーーーーっ!」{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"Fatheeeeeer!\"{n}"
   },
   {
    "id": "b200_0027",
    "jp": "夜叉姫{n}「{kata}キャアアアアアアア{hira}!{n} {kata}アジャセ{hira}お兄さまーっ!」",
-   "en": null
+   "en": "Yasha{n}\"Kyaaaaaaaah!{n} Brother Ajaaaase!\""
   },
   {
    "id": "b200_0028",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} {kata}ケ{hira}ー{kata}ッケッケッ{hira}!」{n}「まだ 生きていたか!{n} こしぬけ王子め!」{n}{n}「{kata}オレ{hira}様が {sub:B6}の血を 飲めば{n} {kata}オレ{hira}様にも 月の血が 流れる!」{n}{n}「地獄も! 月も! 地上も!{n} この世は すべて {kata}オレ{hira}様の物だ!」{n}",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh!{n} Keeh, keh-keh-keh!\"{n}\"So you were still alive, you coward of a prince!\"{n}{n}\"If I drink your blood, the blood of the Moon will flow in me too!\"{n}{n}\"Hell! The Moon! The earth!{n} All this world will be mine!\"{n}"
   },
   {
    "id": "b200_0029",
    "jp": "{kata}カルラ{hira}は 月の血を 飲んだ!{n}{n}",
-   "en": null
+   "en": "Karura drank the Moon's blood!{n}{n}"
   },
   {
    "id": "b200_0030",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!{n} {kata}ケ{hira}ー{kata}ッケッケッ{hira}!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh!{n} Keeh, keh-keh-keh!\""
   },
   {
    "id": "b200_0031",
    "jp": "金太郎{n}「{sub:A0}! {kata}カルラ{hira}は どうしただ?{n} ばけものに なっちまった!」",
-   "en": null
+   "en": "Kintaro{n}\"Momotaro! What's got into Karura?{n} He's turned into a monster!\""
   },
   {
    "id": "b200_0032",
    "jp": "夜叉姫{n}「あれが {kata}カルラ{hira}なの……?」{n}",
-   "en": null
+   "en": "Yasha{n}\"Is that... Karura......?\"{n}"
   },
   {
    "id": "b200_0033",
    "jp": "えんま様{n}「まずい! {kata}カルラ{hira}は{n} 新たな力を 手に入れた!」",
-   "en": null
+   "en": "King Enma{n}\"This is bad! Karura has gained a new power!\""
   },
   {
    "id": "b200_0034",
    "jp": "{sub:CE}{n}「力のない {kata}カルラ{hira}に 月の力が!{n} 大変なことに なります!」",
-   "en": null
+   "en": "Ashura{n}\"The Moon's power in the powerless Karura!{n} This will be a disaster!\""
   },
   {
    "id": "b200_0035",
    "jp": "浦島{n}「月の血は {kata}カルラ{hira}の体を{n} かえてしまったのですか?」",
-   "en": null
+   "en": "Urashima{n}\"Did the Moon's blood change Karura's body?\""
   },
   {
    "id": "b200_0036",
    "jp": "風神{n}「ぴゅるるるるぅ! 月の力は{n} 武'勇の力! まずいことになった!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! The Moon's power is the power of valor! This is bad!\""
   },
   {
    "id": "b200_0037",
    "jp": "雷神{n}「ぐゎらり ぐゎらり! いままでの{n} {kata}カルラ{hira}なら たやすいのだが…!」",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! The old Karura would have been easy, but...!\""
   },
   {
    "id": "b200_0038",
    "jp": "{kata}アジャセ{hira}王子{n}「鳳凰ならば…」{n}{n}「きっと…{kata}カルラ{hira}に 追いつける!」{n}{n}{n}「{kata}カルラ{hira}を…!」{n}{n}{n}「{kata}カルラ{hira}を こらしめられるのは…」{n}{n}{n}「{sub:A0}!」{n}{n}{n}「{sub:B6}だけ…だ…!」{n}{n}{n}{kata}アジャセ{hira}王子は{n}気を うしなった!{n}",
-   "en": null
+   "en": "Prince Ajase{n}\"With the Phoenix...\"{n}{n}\"Surely... you can catch up to Karura!\"{n}{n}{n}\"Karura...!\"{n}{n}{n}\"The one who can punish Karura...\"{n}{n}{n}\"Momotaro!\"{n}{n}{n}\"is you... alone...!\"{n}{n}{n}Prince Ajase{n}lost consciousness!{n}"
   },
   {
    "id": "b200_0039",
    "jp": "伐折羅王{n}「{kata}アジャセ{hira}! {sub:B6}には{n} つみなことを してきた…」{n}「ゆるせ…」{n}{n}{n}「わしは 鬼の 行く末ばかり{n} 気にして {sub:B6}の言葉を{n} ことごとく しりぞけてきた!」{n}伐折羅王{n}「{sub:A0}! はじめてだ… {n} このような 気持ちは…!」{n}伐折羅王{n}「元気になれ!{n} 友情の 武'人たちよ!」",
-   "en": null
+   "en": "King Basara{n}\"Ajase! I have wronged you...\"{n}\"Forgive me...\"{n}{n}{n}\"I cared only for the future of the oni, and rejected every word you spoke!\"{n}King Basara{n}\"Momotaro! Never before...{n} have I felt like this...!\"{n}King Basara{n}\"Get well!{n} You warriors of friendship!\""
   },
   {
    "id": "b200_0040",
    "jp": "伐折羅王{n}「むかえが 来たか!{n} {sub:A0}! 行くがよい!」{n}「地上へ 出たら 鳳凰で{n} 北へ 北へと 天を めざせ!」{n}{n}「{kata}カルラ{hira}に きっと{n} 追いつくはずだ!」{n}",
-   "en": null
+   "en": "King Basara{n}\"Your ride has come!{n} Momotaro! Go!\"{n}\"Once you reach the surface, take the Phoenix north, ever north, toward the heavens!\"{n}{n}\"You will surely catch up to Karura!\"{n}"
   },
   {
    "id": "b200_0041",
    "jp": "「も…{sub:A0}……!{n} {kata}カル{hira}…{kata}ラ{hira}を…!」{n}",
-   "en": null
+   "en": "\"Mo... Momotaro......!{n} Kar...ura...!\"{n}"
   },
   {
    "id": "b200_0042",
    "jp": "「{kata}ケ{hira}ー{kata}ッケッケッ{hira}! {sub:A0}!」{n}{n}{n}「人間のくせに{n} ここまで 来たこと{n} すこしは ほめてやる!」{n}「月で {kata}ダイダ{hira}王子に 吹き飛ばされて{n} 泣いていたのを おもえば{n} 腕が あがったではないか!」{n}「えんまや {sub:CE}{n} 風神 雷神 夜叉姫{n} 酒香童子 {kata}アジャセ{hira} 羅生門と…」{n}「よくもまあ 鬼たちを{n} てなずけたものよ!」{n}{n}「おかげで {kata}オレ{hira}様の いげんが{n} どんどん 落ちてしまった!」{n}{n}「あげくは {kata}オレ{hira}様まで とうとう{n} 虫けらのような {sub:B6}と{n} 戦うはめに なるとはな……」{n}「大きな 虎が{n} わざわざ {kata}アリ{hira}たちと{n} 戦うのだからな……!」{n}「こまった 世の中に{n} なったものよ!」{n}",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh! Momotaro!\"{n}{n}{n}\"For a mere human, I'll give you a little credit for making it this far!\"{n}\"When I think how you cried after Prince Daida blew you away on the Moon, you've really improved!\"{n}\"Enma, Ashura, Fujin, Raijin, Yasha, Shuko Doji, Ajase, Rashomon...\"{n}\"You've tamed quite a lot of oni, haven't you!\"{n}{n}\"Thanks to you, my prestige has just kept on falling!\"{n}{n}\"And in the end, even I must stoop to fight a worm like you......\"{n}\"A great tiger going to the trouble of fighting ants......!\"{n}\"What a troublesome world this has become!\"{n}"
   },
   {
    "id": "b200_0043",
    "jp": "「えんまよ! なぜ {sub:B6}ほどの{n} 男が {kata}アリ{hira}の 仲間に なる!」{n}{n}「{kata}アリ{hira}の 世界で{n} いばりたかったのか?」{n}{n}「{sub:B6}とは 最後まで{n} わかりあえることは なかったな!」{n}",
-   "en": null
+   "en": "\"Enma! Why would a man like you join up with ants?\"{n}{n}\"Did you want to lord it over the world of ants?\"{n}{n}\"You and I never understood each other, right to the end!\"{n}"
   },
   {
    "id": "b200_0044",
    "jp": "「まあ よい!{n} こまった 世の中も{n} すぐ もとどおりになる」{n}「この世を くさらせた{n} {sub:B6}たちが きょう{n} ここで 死ぬからだ!」{n}「{sub:A0}! まずは{n} なつかしいやつらと 戦え!」{n}{n}「者ども かかれ!」{n}{n}",
-   "en": null
+   "en": "\"Well, no matter!{n} This troublesome world will soon be set right\"{n}\"For you who rotted it will die here today!\"{n}\"Momotaro! First, fight some old friends!\"{n}{n}\"Get them, men!\"{n}{n}"
   },
   {
    "id": "b200_0045",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!」{n}{n}「ああ! いやだ!{n} いやだ! まったく!」{n}{n}「この{kata}オレ{hira}様が 人間などと{n} 戦うとはな!{n} ああ! けがらわしい!」{n}「はやく 戦いを すませて{n} 酒でも のまねば{n} この うさは はれぬわい!」{n}「さあ! かかれ!{n} 右魂鬼! 左魂鬼!」{n}{n}「心ゆくまで {sub:A0}を{n} しゃぶりつくして やれ!{n} {kata}ケ{hira}ー{kata}ッケッケッ{hira}! {kata}ケ{hira}ー{kata}ケッケッ{hira}!」",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh!\"{n}{n}\"Ugh! How vile!{n} Vile, truly vile!\"{n}{n}\"That I, Lord Karura, must fight mere humans!{n} Ugh! How filthy!\"{n}\"I must finish this fight quickly and have a drink, or I'll never shake off this gloom!\"{n}\"Now! Get them!{n} Ukonki! Sakonki!\"{n}{n}\"Gnaw on Momotaro to your hearts' content, down to the bone!{n} Keeh, keh-keh-keh! Keeh, keh-keh!\""
   },
   {
    "id": "b200_0046",
    "jp": "右魂鬼{n}「{kata}グルルルルル{hira}!」{n}",
-   "en": null
+   "en": "Ukonki{n}\"Grrrrrrr!\"{n}"
   },
   {
    "id": "b200_0047",
    "jp": "左魂鬼{n}「{kata}ガルルルルル{hira}!」{n}",
-   "en": null
+   "en": "Sakonki{n}\"Garrrrrrr!\"{n}"
   }
  ]
 }

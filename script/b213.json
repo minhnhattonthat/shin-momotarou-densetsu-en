@@ -7,42 +7,42 @@
   {
    "id": "b213_0000",
    "jp": "「かぐや姫が おかくれに{n} なってからというもの 月にも{n} 鬼が 出るようになりました!」{n}「それでも この村にすむ{n} 臥龍(がりゅう)の おかげで{n} 鬼が 入ってこれないのです!」",
-   "en": null
+   "en": "\"Ever since Princess Kaguya disappeared, oni have been showing up even on the Moon!\"{n}\"Still, thanks to Garyu, the Sleeping Dragon who lives in this village, the oni can't get in!\""
   },
   {
    "id": "b213_0001",
    "jp": "「月の鏡は 月の水晶を{n} うつしだす もの!{n} 宝物殿に ございます」",
-   "en": null
+   "en": "\"The Moon Mirror reveals the Moon Quartz! It is kept in the Treasure Hall.\""
   },
   {
    "id": "b213_0002",
    "jp": "「月の鏡を 手にするには{n} 臥龍(がりゅう)の しれんを{n} うけねばなりません!」",
-   "en": null
+   "en": "\"To obtain the Moon Mirror, you must undergo the trial of Garyu, the Sleeping Dragon!\""
   },
   {
    "id": "b213_0003",
    "jp": "「{kata}ピョピョン{hira}!{n} この村も 鬼に{n} おそわれたのです!」{n}「そのとき 名も あかさぬ お方が{n} 村を 助けてくれたのです!{n} あのお方も 鬼のはずなのに…」",
-   "en": null
+   "en": "\"Pyopyon! This village was attacked by the oni too!\"{n}\"Then someone who wouldn't even give his name saved the village! And he should have been an oni himself...\""
   },
   {
    "id": "b213_0004",
    "jp": "「{kata}ピョピョン{hira}!{n} 村を 助けてくださった お方は{n} とても 笛が おじょうずでした!」",
-   "en": null
+   "en": "\"Pyopyon! The one who saved our village played the flute beautifully!\""
   },
   {
    "id": "b213_0005",
    "jp": "「鬼のなかにも あのような{n} すばらしい 笛の 吹き手が{n} いるとは おどろきです!」",
-   "en": null
+   "en": "\"I was amazed that even among the oni there's such a wonderful flute player!\""
   },
   {
    "id": "b213_0006",
    "jp": "「{kata}ピョピョン{hira}! かぐや姫さまの{n} お顔を 見なくなってから{n} もう ずいぶん たちます!」{n}「ご無事で いらっしゃると{n} いいんですけど!」{n}",
-   "en": null
+   "en": "\"Pyopyon! It's been such a long time since we last saw Princess Kaguya's face!\"{n}\"I do hope she's safe!\"{n}"
   },
   {
    "id": "b213_0007",
    "jp": "「{kata}ピョピョン{hira}!{n} 月の宮殿へは 月の舟でなければ{n} 行けなくなって しまいました」{n}「月の舟は 遠い 遠い{n} 嵐の村にしか ありません{n} とても 無理です」",
-   "en": null
+   "en": "\"Pyopyon! Now you can't reach the Moon Palace except by Moon Boat.\"{n}\"And the only Moon Boat is far, far away in Storm Village. It's hopeless.\""
   }
  ]
 }

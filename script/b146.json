@@ -7,72 +7,72 @@
   {
    "id": "b146_0000",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー!{n} {sub:A0}さん あぶないよっ!」{n}{n}「くまでぐわ もたずに{n} 地われに のまれたら{n} たすからないよ!」",
-   "en": null
+   "en": "\"Squeak, squeak! Momotaro, look out!\"{n}{n}\"If you get swallowed by a fissure without a Rake Hoe, you won't make it out alive!\""
   },
   {
    "id": "b146_0001",
    "jp": "「この くまでぐわを つかえば{n} 土をほって {kata}ツチグモ{hira}のところまで{n} 行くことが できます!」",
-   "en": null
+   "en": "\"With this Rake Hoe, you can dig through the earth all the way to the Earth Spider!\""
   },
   {
    "id": "b146_0002",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー!{n} みな はたらくことの よろこびを{n} 村づくりで 知ったようです!」",
-   "en": null
+   "en": "\"Squeak, squeak! Building the village seems to have taught everyone the joy of work!\""
   },
   {
    "id": "b146_0003",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー!」{n}{n}{n}「{sub:C9}は この{n} おむすびころりんを おさめる{n} 甚八(じんぱち)と もうします!」{n}「旅の人を もてなす村を{n} みんなで 作っていたのですが{n} 鬼に {kata}ジャマ{hira}を されまして……」{n}「鬼を ふせごうにも{n} {sub:C9}たち {kata}ネズミ{hira}に{n} 力などありません!」{n}「{sub:A0}さん!{n} どうか この洞窟の{n} {kata}ツチグモ{hira}を たいじして{sub:C5}!」",
-   "en": null
+   "en": "\"Squeak, squeak!\"{n}{n}{n}\"I'm Jinpachi, and I govern this Omusubi Kororin!\"{n}\"We were all building a village to welcome travelers, but the oni got in our way...\"{n}\"We'd like to keep the oni out, but we mice don't have any strength at all!\"{n}\"Momotaro! Please, defeat the Earth Spider in this cave!\""
   },
   {
    "id": "b146_0004",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー!{n} {sub:BD}す!」{n}{n}「この くまでぐわを つかえば{n} 土をほって {kata}ツチグモ{hira}のところまで{n} 行くことが できます!」",
-   "en": null
+   "en": "\"Squeak, squeak! Thank you!\"{n}{n}\"With this Rake Hoe, you can dig through the earth all the way to the Earth Spider!\""
   },
   {
    "id": "b146_0005",
    "jp": "「地われに おりるときは{n} くれぐれも お気をつけて!」{n}",
-   "en": null
+   "en": "\"Please be very careful when you go down into a fissure!\"{n}"
   },
   {
    "id": "b146_0006",
    "jp": "「これは わずかですが{n} おなかが すいたら{n} 食べて{sub:C5}!」",
-   "en": null
+   "en": "\"It's not much, but please eat this when you get hungry!\""
   },
   {
    "id": "b146_0007",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー!{n} やはり {sub:A0}さんでも{n} {kata}ツチグモ{hira}たいじは 無理ですか?」",
-   "en": null
+   "en": "\"Squeak, squeak! So even you can't defeat the Earth Spider, Momotaro?\""
   },
   {
    "id": "b146_0008",
    "jp": "「すゞめのお宿1への ぬけ道が{n} まだ うまってないはずです!{n} くまでぐわで すすんで{sub:C5}」",
-   "en": null
+   "en": "\"The tunnel to Sparrow Inn 1 shouldn't be filled in yet! Please dig your way through with the Rake Hoe.\""
   },
   {
    "id": "b146_0009",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! こわいよー!{n} あの 地われの 底に{n} 鬼が いっぱい いるんだよう!」",
-   "en": null
+   "en": "\"Chuu, chuu! I'm scared!{n} At the bottom of that crack in the earth{n} there are lots and lots of oni!\""
   },
   {
    "id": "b146_0010",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! くまでぐわを{n} つかえば やわらかい土を ほって{n} すすむことが できるんだ!」",
-   "en": null
+   "en": "\"Chuu, chuu! If you use the Rake Hoe,{n} you can dig through soft earth{n} and keep going!\""
   },
   {
    "id": "b146_0011",
    "jp": "「村を こさえるって いうから{n} 手伝いにきただ! でも{n} かえれなく なっちまっただよ!」",
-   "en": null
+   "en": "\"They said they was buildin' a village, so I come to help out! But now I can't get back home!\""
   },
   {
    "id": "b146_0012",
    "jp": "「毒消しを もってますか?{n} {kata}ツチグモ{hira}の 猛毒は すごいと{n} 鬼たちが 話していました」",
-   "en": null
+   "en": "\"Do you have an Antidote?{n} The oni were saying the Earth Spider's{n} venom is terribly deadly.\""
   },
   {
    "id": "b146_0013",
    "jp": "「ああ! やはり{n} 女の ひとり旅は{n} 無理で ございましょうか!」",
-   "en": null
+   "en": "\"Oh dear! Perhaps a woman{n} traveling alone{n} is asking too much after all!\""
   }
  ]
 }

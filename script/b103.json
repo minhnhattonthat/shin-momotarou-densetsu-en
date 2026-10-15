@@ -7,37 +7,37 @@
   {
    "id": "b103_0000",
    "jp": "「{sub:A0}! 仙人の 修行を{n} おこたっては いないか?」{n}{n}「金太郎の村の 北東の 森には{n} どくけし仙人の 庵もある!{n} かならず よっていくのじゃぞ!」",
-   "en": null
+   "en": "\"Momotaro! Have you been slacking in your sage training?\"{n}{n}\"In the forest northeast of Kintaro's village lies the Detox Sage's hut as well! Be sure to stop by!\""
   },
   {
    "id": "b103_0001",
    "jp": "「やあ! {sub:A0}さん!{n} 鹿角(ろっかく)仙人さまが{n} おまちかねですよ!」{n}「鹿角仙人さまは だいすきな{n} しょうぎを たって{n} 鹿角の術を みがいてるそうです」",
-   "en": null
+   "en": "\"Hi there, Momotaro! Sage Rokkaku has been waiting for you!\"{n}\"They say Sage Rokkaku has given up his beloved shogi to polish his Antlers Art.\""
   },
   {
    "id": "b103_0002",
    "jp": "「うちの 牛が びょうきしたとき{n} 鹿角仙人さまが 梅のつえで{n} 牛をたたいて なおしてくれただ!」{n}「梅には ふしぎな 力が{n} あるもんだべなあ!」{n}",
-   "en": null
+   "en": "\"When our cow took sick, Sage Rokkaku whacked it with a plum staff and cured it!\"{n}\"Plum's sure got some mysterious power, don't it!\"{n}"
   },
   {
    "id": "b103_0003",
    "jp": "「ほうほう! 梅のかおりが{n} よいのー ばあさん!{n} あれ? ばあさん どこ行った?」",
-   "en": null
+   "en": "\"Oho! The plum blossoms smell mighty nice, eh, Granny! Huh? Granny, where'd ya go?\""
   },
   {
    "id": "b103_0004",
    "jp": "「あんれまあ! 梅の木の まわりを{n} しろい ちょうちょが ひらひらと{n} おじいさん みて みて! あら?」",
-   "en": null
+   "en": "\"Well, I never! White butterflies are flutterin' all round the plum tree! Grandpa, look, look! Huh?\""
   },
   {
    "id": "b103_0005",
    "jp": "「やあ! {sub:A0}さん!{n} 梅の木が きれいでしょう!」{n}{n}「あれから 鹿角仙人さまが 梅には{n} 邪気(じゃき)を はらう力が{n} あるからって うえたんです!」",
-   "en": null
+   "en": "\"Hi there, Momotaro! Aren't the plum trees pretty?\"{n}{n}\"After all that, Sage Rokkaku planted them, saying plums have the power to drive away evil!\""
   },
   {
    "id": "b103_0006",
    "jp": "「鹿角仙人さまに うめぼしを{n} いただきに きたんですの{n} うめぼしは 体に いいでしょ?」",
-   "en": null
+   "en": "\"I've come to get some umeboshi from Sage Rokkaku. Pickled plums are good for you, aren't they?\""
   }
  ]
 }

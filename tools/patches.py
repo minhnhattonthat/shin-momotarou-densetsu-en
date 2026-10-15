@@ -32,11 +32,12 @@ NAMEVAR_AT = 0x4F1E0  # bank 84 free space (build.RESERVED)
 NAMEVAR_CODE = bytes([
     # +00 entry: JSR $BB4E (field length) ; ASL A ; RTS
     0x20, 0x4E, 0xBB, 0x0A, 0x60,
-    # +05 per char: DEX ; TXA ; AND #1 ; BNE +3 ; JSR $BB39 ; RTS
-    0xCA, 0x8A, 0x29, 0x01, 0xD0, 0x03, 0x20, 0x39, 0xBB, 0x60,
-    # +0F end: TXA ; BEQ ret ; STA $00 ; ASL A ; CLC ; ADC $00 ; CLC ; ADC #2 ; LSR A ; LSR A ; PHA ;
+    # +05 per char: TXA ; BEQ ret (field full: a longer name overflows instead of eating the script) ;
+    #              DEX ; TXA ; AND #1 ; BNE ret ; JSR $BB39 ; ret: RTS
+    0x8A, 0xF0, 0x09, 0xCA, 0x8A, 0x29, 0x01, 0xD0, 0x03, 0x20, 0x39, 0xBB, 0x60,
+    # +12 end: TXA ; BEQ ret ; STA $00 ; ASL A ; CLC ; ADC $00 ; CLC ; ADC #2 ; LSR A ; LSR A ; PHA ;
     #        TXA ; INC A ; LSR A ; TAX ; PLA ; ret: RTS
-    0x8A, 0xF0, 0x12, 0x85, 0x00, 0x0A, 0x18, 0x65, 0x00, 0x18, 0x69, 0x02, 0x4A, 0x4A, 0x48,
+    0x8A, 0xF0, 0x11, 0x85, 0x00, 0x0A, 0x18, 0x65, 0x00, 0x18, 0x69, 0x02, 0x4A, 0x4A, 0x48,
     0x8A, 0x1A, 0x4A, 0xAA, 0x68, 0x60,
 ])
 NAMEVAR_SITES = [
@@ -49,7 +50,7 @@ NAMEVAR_SITES = [
 
 def _namevar(rom):
     a = NAMEVAR_AT & 0xFFFF
-    entry, per, end = a, a + 5, a + 0x0F
+    entry, per, end = a, a + 5, a + 0x12
     new = [
         bytes([0x20, entry & 0xFF, entry >> 8]),
         bytes([0x20, per & 0xFF, per >> 8, 0xEA]),
@@ -64,8 +65,33 @@ def _namevar(rom):
     rom[0x4BF1B] = 0x08  # BRA operand: $BF1C + 8 = $BF24 (LDA $1392)
 
 
-def apply(rom):
-    _namevar(rom)
+# Window width measure (84:BFE3): every character counted 3 units (12 px, unit = 4 px). English glyphs are 6 px:
+# count 1 unit on even and 2 on odd characters (3 per pair). 84:C02C INC $09 ; BRA $C033 -> JMP to this code.
+MEASURE_AT = 0x4F220
+MEASURE_CODE = bytes([
+    0xE6, 0x09,        # INC $09
+    0xA5, 0x0A,        # LDA $0A      characters so far on this line
+    0x4A,              # LSR A
+    0x90, 0x02,        # BCC +2
+    0xE6, 0x09,        # INC $09
+    0x4C, 0x37, 0xC0,  # JMP $C037    (INC $0A ; next)
+])
+
+
+def _measure(rom):
+    assert rom[0x4C02C:0x4C030] == bytes([0xE6, 0x09, 0x80, 0x03])
+    assert rom[MEASURE_AT:MEASURE_AT + len(MEASURE_CODE)] == b'\xff' * len(MEASURE_CODE)
+    rom[MEASURE_AT:MEASURE_AT + len(MEASURE_CODE)] = MEASURE_CODE
+    rom[0x4C02C:0x4C02F] = bytes([0x4C, MEASURE_AT & 0xFF, (MEASURE_AT >> 8) & 0xFF])
+
+
+def apply(rom, skip=()):
+    if 'namevar' not in skip:
+        _namevar(rom)
+    if 'measure' not in skip:
+        _measure(rom)
+    if 'fixed12' in skip:
+        return
     for off, v in FIXED_ADVANCE.items():
         assert rom[off - 1] == 0xA9, hex(off)
         rom[off] = v

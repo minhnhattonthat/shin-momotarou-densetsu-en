@@ -7,72 +7,72 @@
   {
    "id": "b216_0000",
    "jp": "「{kata}ピョピョン{hira}! {sub:A0}さん!{n} よく 来て{sub:C5}ました!」{n}{n}「え? たそがれの夢?{n} はじめてきく 名前ですね!」{n}",
-   "en": null
+   "en": "\"Pyopyon! Momotaro! Welcome, welcome!\"{n}{n}\"Eh? The Twilight Dream? That's a name I've never heard before!\"{n}"
   },
   {
    "id": "b216_0001",
    "jp": "「{kata}ピョピョン{hira}! そうですか{n} たそがれの夢なんて{n} なかったのですか!」{n}「{kata}カルラ{hira}という 鬼{n} ゆるせませんね!」{n}",
-   "en": null
+   "en": "\"Pyopyon! I see, so there never was any Twilight Dream!\"{n}\"That oni Karura is unforgivable!\"{n}"
   },
   {
    "id": "b216_0002",
    "jp": "「ここは 夢の村{n} はかない夢を つむいで くらす{n} 月の民の 村で ございます」",
-   "en": null
+   "en": "\"This is Dream Village, a village of Moon folk who live by spinning fleeting dreams.\""
   },
   {
    "id": "b216_0003",
    "jp": "「月には 静かの村 夢の村{n} 嵐の村 豊かの村 そして{n} 月の宮殿が あるのです」{n}「鬼が はびこっていて{n} 行き来が できないのが{n} 残急で なりません!」",
-   "en": null
+   "en": "\"On the Moon there are Quiet Village, Dream Village, Storm Village, Plenty Village, and the Moon Palace.\"{n}\"It's such a shame that with the oni running rampant, we can't travel between them!\""
   },
   {
    "id": "b216_0004",
    "jp": "「{kata}ピョピョン{hira}! え?{n} {kata}カルラ{hira}? かぐや姫さまを{n} とじこめた鬼ですね!」{n}「この村に {kata}カルラ{hira}が{n} 来たことなど{n} 一度も ないですよ!」",
-   "en": null
+   "en": "\"Pyopyon! Eh? Karura? That's the oni who locked up Princess Kaguya!\"{n}\"Karura has never once come to this village!\""
   },
   {
    "id": "b216_0005",
    "jp": "「{kata}ピョピョン{hira}! そうですか{n} たそがれの夢なんて{n} なかったのですか!」{n}「{kata}カルラ{hira}という 鬼{n} ゆるせませんね!」{n}",
-   "en": null
+   "en": "\"Pyopyon! I see, so there never was any Twilight Dream!\"{n}\"That oni Karura is unforgivable!\"{n}"
   },
   {
    "id": "b216_0006",
    "jp": "「たそがれの夢?{n} もうしわけありませんが{n} まったく はじめて聞く 名です」",
-   "en": null
+   "en": "\"The Twilight Dream? I'm terribly sorry, but that's a name I've never heard before.\""
   },
   {
    "id": "b216_0007",
    "jp": "「かぐや姫さまは 月のみならず{n} この世を ささえている{n} 大切な お方なのです」",
-   "en": null
+   "en": "\"Princess Kaguya is a precious person who supports not only the Moon, but this whole world.\""
   },
   {
    "id": "b216_0008",
    "jp": "「{kata}ピョピョン{hira}! たそがれの夢?{n} それは 何の名前ですか?{n} え? 石の名前なんですか?」",
-   "en": null
+   "en": "\"Pyopyon! The Twilight Dream? What's that the name of? Eh? It's the name of a stone?\""
   },
   {
    "id": "b216_0009",
    "jp": "「{kata}ピョピョン{hira}! そうですか{n} たそがれの夢なんて{n} なかったのですか!」{n}「{kata}カルラ{hira}という 鬼{n} ゆるせませんね!」{n}",
-   "en": null
+   "en": "\"Pyopyon! I see, so there never was any Twilight Dream!\"{n}\"That oni Karura is unforgivable!\"{n}"
   },
   {
    "id": "b216_0010",
    "jp": "「石なら この村にも{n} 数多く ございますが{n} みな 名もない 石ばかり」{n}「{sub:A0}さんの お役に立てず{n} 残急でなりませんわ!」{n}",
-   "en": null
+   "en": "\"There are plenty of stones in this village too, but they're all just stones without names.\"{n}\"It's such a shame I can't be of help to you, Momotaro!\"{n}"
   },
   {
    "id": "b216_0011",
    "jp": "「{sub:A0}さん! 月の水晶を{n} はやく あつめて{n} その力を おつかい{sub:C5}!」",
-   "en": null
+   "en": "\"Momotaro! Hurry and gather the Moon Quartz, and please use its power!\""
   },
   {
    "id": "b216_0012",
    "jp": "「{kata}ピョピョン{hira}! 何か{n} おさがしなら 夕月さまに{n} うかがうと いいですよ!」",
-   "en": null
+   "en": "\"Pyopyon! If you're looking for something, you'd do well to ask Lady Yuzuki!\""
   },
   {
    "id": "b216_0013",
    "jp": "「{kata}ピョピョン{hira}! そうですか{n} たそがれの夢なんて{n} なかったのですか!」{n}「{kata}カルラ{hira}という 鬼{n} ゆるせませんね!」{n}",
-   "en": null
+   "en": "\"Pyopyon! I see, so there never was any Twilight Dream!\"{n}\"That oni Karura is unforgivable!\"{n}"
   }
  ]
 }
