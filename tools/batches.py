@@ -95,8 +95,8 @@ def read_tsv(path):
 
 def check_pair(sid, jp, en, form='dlg'):
     errs = []
-    if any(ord(c) > 126 for c in en if c != '…'):
-        bad = sorted({c for c in en if ord(c) > 126 and c != '…'})
+    if any(ord(c) > 126 for c in en if c not in '…\xa0'):
+        bad = sorted({c for c in en if ord(c) > 126 and c not in '…\xa0'})
         errs.append(f'non-ASCII {bad}')
     if '\t' in en or '\\u' in en:
         errs.append('tab or \\u escape')
@@ -192,6 +192,45 @@ def merge(names):
             f.write('\n')
 
 
+def fix(name, apply=False):
+    """Reviewer fixes work/tl/<name>.fix.tsv (id<TAB>EN): check them, and with apply write them into script/."""
+    p = TL / (name + '.fix.tsv')
+    if not p.exists():
+        print(f'{name}: no fix file')
+        return 0
+    docs = load_docs()
+    by_id = {}
+    for n, (pp, d) in docs.items():
+        for s in d['strings']:
+            by_id[s['id']] = (n, s)
+    errs, rows = [], read_tsv(p)
+    for r in rows:
+        if len(r) != 2 or r[0] not in by_id:
+            errs.append(f'bad line {r[:1]}')
+            continue
+        n, s = by_id[r[0]]
+        for e in check_pair(r[0], s['jp'], r[1], kinds.kind(n)):
+            errs.append(f'{r[0]}: {e}')
+    if errs:
+        for e in errs[:40]:
+            print(e)
+        print(f'{name}: {len(errs)} errors in fixes')
+        return 1
+    if apply:
+        touched = set()
+        for sid, en in rows:
+            n, s = by_id[sid]
+            s['en'] = en
+            touched.add(n)
+        for n in touched:
+            pp, d = docs[n]
+            with open(pp, 'w', encoding='utf-8', newline='\n') as f:
+                json.dump(d, f, ensure_ascii=False, indent=1)
+                f.write('\n')
+    print(f'{name}: fixes OK ({len(rows)})' + (' applied' if apply else ''))
+    return 0
+
+
 def merge_win(path):
     """work/tl/win.out.tsv (id<TAB>en) -> script/win.json; the build enforces the cell limits."""
     p = ROOT / 'script' / 'win.json'
@@ -217,12 +256,11 @@ def pairs(name):
         for s in d['strings']:
             order.append(s['id'])
             by_id[s['id']] = s
-    out = read_tsv(TL / (name + '.out.tsv'))
-    en = dict((r[0], r[1]) for r in out)
+    ids = [r[0] for r in read_tsv(TL / (name + '.tsv'))]
     lines = []
-    for sid, _ in out:
+    for sid in ids:
         lines.append(f">> {sid} | {by_id[sid]['jp']}")
-        lines.append(f"   EN: {en[sid]}")
+        lines.append(f"   EN: {by_id[sid]['en']}")
     (TL / (name + '.pairs.txt')).write_text('\n'.join(lines) + '\n', encoding='utf-8')
     print(TL / (name + '.pairs.txt'))
 
@@ -248,6 +286,10 @@ if __name__ == '__main__':
         split()
     elif cmd == 'split-names':
         split_names()
+    elif cmd == 'checkfix':
+        sys.exit(fix(sys.argv[2]))
+    elif cmd == 'applyfix':
+        sys.exit(max(fix(n, True) for n in sys.argv[2:]))
     elif cmd == 'merge-win':
         merge_win(sys.argv[2] if len(sys.argv) > 2 else TL / 'win.out.tsv')
     elif cmd == 'check':

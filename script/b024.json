@@ -22,7 +22,7 @@
   {
    "id": "b024_0003",
    "jp": "{arg}{arg}は{n}鬼道吸い取りを 急じた!{n}{page}",
-   "en": "{arg}{arg}{n}invoked Oni Path Drain!{n}{page}"
+   "en": "{arg}{arg}{n}invoked Oni Arts Drain!{n}{page}"
   },
   {
    "id": "b024_0004",
@@ -77,7 +77,7 @@
   {
    "id": "b024_0014",
    "jp": "{arg}{arg}は{n}鬼道呪いときを 急じた!{n}{page}",
-   "en": "{arg}{arg}{n}invoked Oni Path Curse Break!{n}{page}"
+   "en": "{arg}{arg}{n}invoked Oni Arts Curse Break!{n}{page}"
   },
   {
    "id": "b024_0015",
@@ -167,7 +167,7 @@
   {
    "id": "b024_0032",
    "jp": "{arg}{arg}は{n}鬼道鬼界を 急じた!{n}{page}",
-   "en": "{arg}{arg}{n}invoked Oni Way: Oni Realm!{n}{page}"
+   "en": "{arg}{arg}{n}invoked Oni Arts: Oni Realm!{n}{page}"
   },
   {
    "id": "b024_0033",
@@ -232,7 +232,7 @@
   {
    "id": "b024_0045",
    "jp": "{arg}{arg}は{n}鬼道吸い取りを 急じた!{page}",
-   "en": "{arg}{arg}{n}invoked Oni Way: Drain!{page}"
+   "en": "{arg}{arg}{n}invoked Oni Arts: Drain!{page}"
   },
   {
    "id": "b024_0046",
@@ -257,7 +257,7 @@
   {
    "id": "b024_0050",
    "jp": "{arg}{arg}は{n}鬼道とうろうを 急じた!{page}",
-   "en": "{arg}{arg}{n}invoked Oni Way: Mantis!{page}"
+   "en": "{arg}{arg}{n}invoked Oni Arts: Mantis!{page}"
   },
   {
    "id": "b024_0051",
@@ -582,7 +582,7 @@
   {
    "id": "b024_0115",
    "jp": "{arg}{arg}は{n}鬼道ゆめみを 急じた!{page}",
-   "en": "{arg}{arg}{n}invoked Oni Way: Dream!{page}"
+   "en": "{arg}{arg}{n}invoked Oni Arts: Dream!{page}"
   },
   {
    "id": "b024_0116",
@@ -602,7 +602,7 @@
   {
    "id": "b024_0119",
    "jp": "{arg}{arg}は{n}鬼道吸い取りを 急じた!{page}",
-   "en": "{arg}{arg}{n}invoked Oni Way: Drain!{page}"
+   "en": "{arg}{arg}{n}invoked Oni Arts: Drain!{page}"
   },
   {
    "id": "b024_0120",
@@ -757,7 +757,7 @@
   {
    "id": "b024_0150",
    "jp": "{arg}{arg}は{n}鬼道吸い取りを 急じた!{n}{page}",
-   "en": "{arg}{arg}{n}cast Oni Art: Siphon!{n}{page}"
+   "en": "{arg}{arg}{n}cast Oni Arts: Siphon!{n}{page}"
   },
   {
    "id": "b024_0151",
@@ -882,7 +882,7 @@
   {
    "id": "b024_0175",
    "jp": "{arg}{arg}は{n}鬼道まったいらを 急じた!{page}",
-   "en": "{arg}{arg}{n}cast Oni Art: Flatten!{page}"
+   "en": "{arg}{arg}{n}cast Oni Arts: Flatten!{page}"
   },
   {
    "id": "b024_0176",

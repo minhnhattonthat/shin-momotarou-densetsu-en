@@ -127,1037 +127,1037 @@
   {
    "id": "b018_0024",
    "jp": "{kata}ア{hira}",
-   "en": null
+   "en": "A"
   },
   {
    "id": "b018_0025",
    "jp": "{kata}イ{hira}",
-   "en": null
+   "en": "B"
   },
   {
    "id": "b018_0026",
    "jp": "{kata}ウ{hira}",
-   "en": null
+   "en": "C"
   },
   {
    "id": "b018_0027",
    "jp": "{kata}エ{hira}",
-   "en": null
+   "en": "D"
   },
   {
    "id": "b018_0028",
    "jp": "{kata}オ{hira}",
-   "en": null
+   "en": "E"
   },
   {
    "id": "b018_0029",
    "jp": "{kata}カ{hira}",
-   "en": null
+   "en": "F"
   },
   {
    "id": "b018_0030",
    "jp": "{kata}キ{hira}",
-   "en": null
+   "en": "G"
   },
   {
    "id": "b018_0031",
    "jp": "{kata}ク{hira}",
-   "en": null
+   "en": "H"
   },
   {
    "id": "b018_0032",
    "jp": "{kata}ケ{hira}",
-   "en": null
+   "en": "I"
   },
   {
    "id": "b018_0033",
    "jp": "{kata}コ{hira}",
-   "en": null
+   "en": "J"
   },
   {
    "id": "b018_0034",
    "jp": "{kata}サ{hira}",
-   "en": null
+   "en": "K"
   },
   {
    "id": "b018_0035",
    "jp": "{kata}シ{hira}",
-   "en": null
+   "en": "L"
   },
   {
    "id": "b018_0036",
    "jp": "{kata}ス{hira}",
-   "en": null
+   "en": "M"
   },
   {
    "id": "b018_0037",
    "jp": "{kata}セ{hira}",
-   "en": null
+   "en": "N"
   },
   {
    "id": "b018_0038",
    "jp": "{kata}ソ{hira}",
-   "en": null
+   "en": "O"
   },
   {
    "id": "b018_0039",
    "jp": "{kata}タ{hira}",
-   "en": null
+   "en": "P"
   },
   {
    "id": "b018_0040",
    "jp": "{kata}チ{hira}",
-   "en": null
+   "en": "Q"
   },
   {
    "id": "b018_0041",
    "jp": "{kata}ツ{hira}",
-   "en": null
+   "en": "R"
   },
   {
    "id": "b018_0042",
    "jp": "{kata}テ{hira}",
-   "en": null
+   "en": "S"
   },
   {
    "id": "b018_0043",
    "jp": "{kata}ト{hira}",
-   "en": null
+   "en": "T"
   },
   {
    "id": "b018_0044",
    "jp": "{kata}ナ{hira}",
-   "en": null
+   "en": "U"
   },
   {
    "id": "b018_0045",
    "jp": "{kata}ニ{hira}",
-   "en": null
+   "en": "V"
   },
   {
    "id": "b018_0046",
    "jp": "{kata}ヌ{hira}",
-   "en": null
+   "en": "W"
   },
   {
    "id": "b018_0047",
    "jp": "{kata}ネ{hira}",
-   "en": null
+   "en": "X"
   },
   {
    "id": "b018_0048",
    "jp": "{kata}ノ{hira}",
-   "en": null
+   "en": "Y"
   },
   {
    "id": "b018_0049",
    "jp": "{kata}ハ{hira}",
-   "en": null
+   "en": "Z"
   },
   {
    "id": "b018_0050",
    "jp": "{kata}ヒ{hira}",
-   "en": null
+   "en": "."
   },
   {
    "id": "b018_0051",
    "jp": "{kata}フ{hira}",
-   "en": null
+   "en": ","
   },
   {
    "id": "b018_0052",
    "jp": "{kata}ヘ{hira}",
-   "en": null
+   "en": "'"
   },
   {
    "id": "b018_0053",
    "jp": "{kata}ホ{hira}",
-   "en": null
+   "en": "-"
   },
   {
    "id": "b018_0054",
    "jp": "{kata}マ{hira}",
-   "en": null
+   "en": "0"
   },
   {
    "id": "b018_0055",
    "jp": "{kata}ミ{hira}",
-   "en": null
+   "en": "1"
   },
   {
    "id": "b018_0056",
    "jp": "{kata}ム{hira}",
-   "en": null
+   "en": "2"
   },
   {
    "id": "b018_0057",
    "jp": "{kata}メ{hira}",
-   "en": null
+   "en": "3"
   },
   {
    "id": "b018_0058",
    "jp": "{kata}モ{hira}",
-   "en": null
+   "en": "4"
   },
   {
    "id": "b018_0059",
    "jp": "{kata}ヤ{hira}",
-   "en": null
+   "en": "#"
   },
   {
    "id": "b018_0060",
    "jp": "{kata}ユ{hira}",
-   "en": null
+   "en": "%"
   },
   {
    "id": "b018_0061",
    "jp": "{kata}ヨ{hira}",
-   "en": null
+   "en": "*"
   },
   {
    "id": "b018_0062",
    "jp": "{kata}ラ{hira}",
-   "en": null
+   "en": "5"
   },
   {
    "id": "b018_0063",
    "jp": "{kata}リ{hira}",
-   "en": null
+   "en": "6"
   },
   {
    "id": "b018_0064",
    "jp": "{kata}ル{hira}",
-   "en": null
+   "en": "7"
   },
   {
    "id": "b018_0065",
    "jp": "{kata}レ{hira}",
-   "en": null
+   "en": "8"
   },
   {
    "id": "b018_0066",
    "jp": "{kata}ロ{hira}",
-   "en": null
+   "en": "9"
   },
   {
    "id": "b018_0067",
    "jp": "{kata}ワ{hira}",
-   "en": null
+   "en": "="
   },
   {
    "id": "b018_0068",
    "jp": "{kata}ヲ{hira}",
-   "en": null
+   "en": "-"
   },
   {
    "id": "b018_0069",
    "jp": "{kata}ン{hira}",
-   "en": null
+   "en": "@"
   },
   {
    "id": "b018_0070",
    "jp": "{kata}ガ{hira}",
-   "en": null
+   "en": "a"
   },
   {
    "id": "b018_0071",
    "jp": "{kata}ギ{hira}",
-   "en": null
+   "en": "b"
   },
   {
    "id": "b018_0072",
    "jp": "{kata}グ{hira}",
-   "en": null
+   "en": "c"
   },
   {
    "id": "b018_0073",
    "jp": "{kata}ゲ{hira}",
-   "en": null
+   "en": "d"
   },
   {
    "id": "b018_0074",
    "jp": "{kata}ゴ{hira}",
-   "en": null
+   "en": "e"
   },
   {
    "id": "b018_0075",
    "jp": "{kata}ザ{hira}",
-   "en": null
+   "en": "f"
   },
   {
    "id": "b018_0076",
    "jp": "{kata}ジ{hira}",
-   "en": null
+   "en": "g"
   },
   {
    "id": "b018_0077",
    "jp": "{kata}ズ{hira}",
-   "en": null
+   "en": "h"
   },
   {
    "id": "b018_0078",
    "jp": "{kata}ゼ{hira}",
-   "en": null
+   "en": "i"
   },
   {
    "id": "b018_0079",
    "jp": "{kata}ゾ{hira}",
-   "en": null
+   "en": "j"
   },
   {
    "id": "b018_0080",
    "jp": "{kata}ダ{hira}",
-   "en": null
+   "en": "k"
   },
   {
    "id": "b018_0081",
    "jp": "{kata}ヂ{hira}",
-   "en": null
+   "en": "l"
   },
   {
    "id": "b018_0082",
    "jp": "{kata}ヅ{hira}",
-   "en": null
+   "en": "m"
   },
   {
    "id": "b018_0083",
    "jp": "{kata}デ{hira}",
-   "en": null
+   "en": "n"
   },
   {
    "id": "b018_0084",
    "jp": "{kata}ド{hira}",
-   "en": null
+   "en": "o"
   },
   {
    "id": "b018_0085",
    "jp": "{kata}バ{hira}",
-   "en": null
+   "en": "p"
   },
   {
    "id": "b018_0086",
    "jp": "{kata}ビ{hira}",
-   "en": null
+   "en": "q"
   },
   {
    "id": "b018_0087",
    "jp": "{kata}ブ{hira}",
-   "en": null
+   "en": "r"
   },
   {
    "id": "b018_0088",
    "jp": "{kata}ベ{hira}",
-   "en": null
+   "en": "s"
   },
   {
    "id": "b018_0089",
    "jp": "{kata}ボ{hira}",
-   "en": null
+   "en": "t"
   },
   {
    "id": "b018_0090",
    "jp": "{kata}パ{hira}",
-   "en": null
+   "en": "u"
   },
   {
    "id": "b018_0091",
    "jp": "{kata}ピ{hira}",
-   "en": null
+   "en": "v"
   },
   {
    "id": "b018_0092",
    "jp": "{kata}プ{hira}",
-   "en": null
+   "en": "w"
   },
   {
    "id": "b018_0093",
    "jp": "{kata}ペ{hira}",
-   "en": null
+   "en": "x"
   },
   {
    "id": "b018_0094",
    "jp": "{kata}ポ{hira}",
-   "en": null
+   "en": "y"
   },
   {
    "id": "b018_0095",
    "jp": "{kata}ァ{hira}",
-   "en": null
+   "en": "z"
   },
   {
    "id": "b018_0096",
    "jp": "{kata}ィ{hira}",
-   "en": null
+   "en": "("
   },
   {
    "id": "b018_0097",
    "jp": "{kata}ゥ{hira}",
-   "en": null
+   "en": ")"
   },
   {
    "id": "b018_0098",
    "jp": "{kata}ェ{hira}",
-   "en": null
+   "en": "/"
   },
   {
    "id": "b018_0099",
    "jp": "{kata}ォ{hira}",
-   "en": null
+   "en": "~"
   },
   {
    "id": "b018_0100",
    "jp": "{kata}ッ{hira}",
-   "en": null
+   "en": "?"
   },
   {
    "id": "b018_0101",
    "jp": "{kata}ャ{hira}",
-   "en": null
+   "en": "&"
   },
   {
    "id": "b018_0102",
    "jp": "{kata}ュ{hira}",
-   "en": null
+   "en": ":"
   },
   {
    "id": "b018_0103",
    "jp": "{kata}ョ{hira}",
-   "en": null
+   "en": ";"
   },
   {
    "id": "b018_0104",
    "jp": "あ",
-   "en": null
+   "en": "A"
   },
   {
    "id": "b018_0105",
    "jp": "い",
-   "en": null
+   "en": "B"
   },
   {
    "id": "b018_0106",
    "jp": "う",
-   "en": null
+   "en": "C"
   },
   {
    "id": "b018_0107",
    "jp": "え",
-   "en": null
+   "en": "D"
   },
   {
    "id": "b018_0108",
    "jp": "お",
-   "en": null
+   "en": "E"
   },
   {
    "id": "b018_0109",
    "jp": "か",
-   "en": null
+   "en": "F"
   },
   {
    "id": "b018_0110",
    "jp": "き",
-   "en": null
+   "en": "G"
   },
   {
    "id": "b018_0111",
    "jp": "く",
-   "en": null
+   "en": "H"
   },
   {
    "id": "b018_0112",
    "jp": "け",
-   "en": null
+   "en": "I"
   },
   {
    "id": "b018_0113",
    "jp": "こ",
-   "en": null
+   "en": "J"
   },
   {
    "id": "b018_0114",
    "jp": "さ",
-   "en": null
+   "en": "K"
   },
   {
    "id": "b018_0115",
    "jp": "し",
-   "en": null
+   "en": "L"
   },
   {
    "id": "b018_0116",
    "jp": "す",
-   "en": null
+   "en": "M"
   },
   {
    "id": "b018_0117",
    "jp": "せ",
-   "en": null
+   "en": "N"
   },
   {
    "id": "b018_0118",
    "jp": "そ",
-   "en": null
+   "en": "O"
   },
   {
    "id": "b018_0119",
    "jp": "た",
-   "en": null
+   "en": "P"
   },
   {
    "id": "b018_0120",
    "jp": "ち",
-   "en": null
+   "en": "Q"
   },
   {
    "id": "b018_0121",
    "jp": "つ",
-   "en": null
+   "en": "R"
   },
   {
    "id": "b018_0122",
    "jp": "て",
-   "en": null
+   "en": "S"
   },
   {
    "id": "b018_0123",
    "jp": "と",
-   "en": null
+   "en": "T"
   },
   {
    "id": "b018_0124",
    "jp": "な",
-   "en": null
+   "en": "U"
   },
   {
    "id": "b018_0125",
    "jp": "に",
-   "en": null
+   "en": "V"
   },
   {
    "id": "b018_0126",
    "jp": "ぬ",
-   "en": null
+   "en": "W"
   },
   {
    "id": "b018_0127",
    "jp": "ね",
-   "en": null
+   "en": "X"
   },
   {
    "id": "b018_0128",
    "jp": "の",
-   "en": null
+   "en": "Y"
   },
   {
    "id": "b018_0129",
    "jp": "は",
-   "en": null
+   "en": "Z"
   },
   {
    "id": "b018_0130",
    "jp": "ひ",
-   "en": null
+   "en": "."
   },
   {
    "id": "b018_0131",
    "jp": "ふ",
-   "en": null
+   "en": ","
   },
   {
    "id": "b018_0132",
    "jp": "へ",
-   "en": null
+   "en": "'"
   },
   {
    "id": "b018_0133",
    "jp": "ほ",
-   "en": null
+   "en": "-"
   },
   {
    "id": "b018_0134",
    "jp": "ま",
-   "en": null
+   "en": "0"
   },
   {
    "id": "b018_0135",
    "jp": "み",
-   "en": null
+   "en": "1"
   },
   {
    "id": "b018_0136",
    "jp": "む",
-   "en": null
+   "en": "2"
   },
   {
    "id": "b018_0137",
    "jp": "め",
-   "en": null
+   "en": "3"
   },
   {
    "id": "b018_0138",
    "jp": "も",
-   "en": null
+   "en": "4"
   },
   {
    "id": "b018_0139",
    "jp": "や",
-   "en": null
+   "en": "#"
   },
   {
    "id": "b018_0140",
    "jp": "ゆ",
-   "en": null
+   "en": "%"
   },
   {
    "id": "b018_0141",
    "jp": "よ",
-   "en": null
+   "en": "*"
   },
   {
    "id": "b018_0142",
    "jp": "ら",
-   "en": null
+   "en": "5"
   },
   {
    "id": "b018_0143",
    "jp": "り",
-   "en": null
+   "en": "6"
   },
   {
    "id": "b018_0144",
    "jp": "る",
-   "en": null
+   "en": "7"
   },
   {
    "id": "b018_0145",
    "jp": "れ",
-   "en": null
+   "en": "8"
   },
   {
    "id": "b018_0146",
    "jp": "ろ",
-   "en": null
+   "en": "9"
   },
   {
    "id": "b018_0147",
    "jp": "わ",
-   "en": null
+   "en": "="
   },
   {
    "id": "b018_0148",
    "jp": "を",
-   "en": null
+   "en": "-"
   },
   {
    "id": "b018_0149",
    "jp": "ん",
-   "en": null
+   "en": "@"
   },
   {
    "id": "b018_0150",
    "jp": "が",
-   "en": null
+   "en": "a"
   },
   {
    "id": "b018_0151",
    "jp": "ぎ",
-   "en": null
+   "en": "b"
   },
   {
    "id": "b018_0152",
    "jp": "ぐ",
-   "en": null
+   "en": "c"
   },
   {
    "id": "b018_0153",
    "jp": "げ",
-   "en": null
+   "en": "d"
   },
   {
    "id": "b018_0154",
    "jp": "ご",
-   "en": null
+   "en": "e"
   },
   {
    "id": "b018_0155",
    "jp": "ざ",
-   "en": null
+   "en": "f"
   },
   {
    "id": "b018_0156",
    "jp": "じ",
-   "en": null
+   "en": "g"
   },
   {
    "id": "b018_0157",
    "jp": "ず",
-   "en": null
+   "en": "h"
   },
   {
    "id": "b018_0158",
    "jp": "ぜ",
-   "en": null
+   "en": "i"
   },
   {
    "id": "b018_0159",
    "jp": "ぞ",
-   "en": null
+   "en": "j"
   },
   {
    "id": "b018_0160",
    "jp": "だ",
-   "en": null
+   "en": "k"
   },
   {
    "id": "b018_0161",
    "jp": "ぢ",
-   "en": null
+   "en": "l"
   },
   {
    "id": "b018_0162",
    "jp": "づ",
-   "en": null
+   "en": "m"
   },
   {
    "id": "b018_0163",
    "jp": "で",
-   "en": null
+   "en": "n"
   },
   {
    "id": "b018_0164",
    "jp": "ど",
-   "en": null
+   "en": "o"
   },
   {
    "id": "b018_0165",
    "jp": "ば",
-   "en": null
+   "en": "p"
   },
   {
    "id": "b018_0166",
    "jp": "び",
-   "en": null
+   "en": "q"
   },
   {
    "id": "b018_0167",
    "jp": "ぶ",
-   "en": null
+   "en": "r"
   },
   {
    "id": "b018_0168",
    "jp": "べ",
-   "en": null
+   "en": "s"
   },
   {
    "id": "b018_0169",
    "jp": "ぼ",
-   "en": null
+   "en": "t"
   },
   {
    "id": "b018_0170",
    "jp": "ぱ",
-   "en": null
+   "en": "u"
   },
   {
    "id": "b018_0171",
    "jp": "ぴ",
-   "en": null
+   "en": "v"
   },
   {
    "id": "b018_0172",
    "jp": "ぷ",
-   "en": null
+   "en": "w"
   },
   {
    "id": "b018_0173",
    "jp": "ぺ",
-   "en": null
+   "en": "x"
   },
   {
    "id": "b018_0174",
    "jp": "ぽ",
-   "en": null
+   "en": "y"
   },
   {
    "id": "b018_0175",
    "jp": "ぁ",
-   "en": null
+   "en": "z"
   },
   {
    "id": "b018_0176",
    "jp": "ぃ",
-   "en": null
+   "en": "("
   },
   {
    "id": "b018_0177",
    "jp": "ぅ",
-   "en": null
+   "en": ")"
   },
   {
    "id": "b018_0178",
    "jp": "ぇ",
-   "en": null
+   "en": "/"
   },
   {
    "id": "b018_0179",
    "jp": "ぉ",
-   "en": null
+   "en": "~"
   },
   {
    "id": "b018_0180",
    "jp": "っ",
-   "en": null
+   "en": "?"
   },
   {
    "id": "b018_0181",
    "jp": "ゃ",
-   "en": null
+   "en": "&"
   },
   {
    "id": "b018_0182",
    "jp": "ゅ",
-   "en": null
+   "en": ":"
   },
   {
    "id": "b018_0183",
    "jp": "ょ",
-   "en": null
+   "en": ";"
   },
   {
    "id": "b018_0184",
    "jp": " ",
-   "en": null
+   "en": " "
   },
   {
    "id": "b018_0185",
    "jp": "ー",
-   "en": null
+   "en": "-"
   },
   {
    "id": "b018_0186",
    "jp": "＋",
-   "en": null
+   "en": "+"
   },
   {
    "id": "b018_0187",
    "jp": "－",
-   "en": null
+   "en": "-"
   },
   {
    "id": "b018_0188",
    "jp": "終り",
-   "en": null
+   "en": "End"
   },
   {
    "id": "b018_0189",
    "jp": "!",
-   "en": null
+   "en": "!"
   },
   {
    "id": "b018_0190",
    "jp": "{kata}イヌ{hira}の名前",
-   "en": null
+   "en": "Dog's Name"
   },
   {
    "id": "b018_0191",
    "jp": "{kata}サル{hira}の名前",
-   "en": null
+   "en": "Monkey's Name"
   },
   {
    "id": "b018_0192",
    "jp": "{kata}キジ{hira}の名前",
-   "en": null
+   "en": "Pheasant's Name"
   },
   {
    "id": "b018_0193",
    "jp": "貧乏の名前",
-   "en": null
+   "en": "Poverty Name"
   },
   {
    "id": "b018_0194",
    "jp": "雪の名前",
-   "en": null
+   "en": "Snow Name"
   },
   {
    "id": "b018_0195",
    "jp": "銘菓の名前",
-   "en": null
+   "en": "Sweets Name"
   },
   {
    "id": "b018_0196",
    "jp": "城の名前",
-   "en": null
+   "en": "Castle Name"
   },
   {
    "id": "b018_0197",
    "jp": "嫌いな名前",
-   "en": null
+   "en": "Hated Name"
   },
   {
    "id": "b018_0198",
    "jp": "自分の名前",
-   "en": null
+   "en": "Your Name"
   },
   {
    "id": "b018_0199",
    "jp": "あいうえお がぎぐげご",
-   "en": null
+   "en": "A B C D E  a b c d e "
   },
   {
    "id": "b018_0200",
    "jp": "かきくけこ ざじずぜぞ",
-   "en": null
+   "en": "F G H I J  f g h i j "
   },
   {
    "id": "b018_0201",
    "jp": "さしすせそ だぢづでど",
-   "en": null
+   "en": "K L M N O  k l m n o "
   },
   {
    "id": "b018_0202",
    "jp": "たちつてと ばびぶべぼ",
-   "en": null
+   "en": "P Q R S T  p q r s t "
   },
   {
    "id": "b018_0203",
    "jp": "なにぬねの ぱぴぷぺぽ",
-   "en": null
+   "en": "U V W X Y  u v w x y "
   },
   {
    "id": "b018_0204",
    "jp": "はひふへほ ぁぃぅぇぉ",
-   "en": null
+   "en": "Z . , ' -  z ( ) / ~ "
   },
   {
    "id": "b018_0205",
    "jp": "まみむめも ゃゅょっ!",
-   "en": null
+   "en": "0 1 2 3 4  & : ; ? ! "
   },
   {
    "id": "b018_0206",
    "jp": "らりるれろ ー ←→終",
-   "en": null
+   "en": "5 6 7 8 9  -  < > OK"
   },
   {
    "id": "b018_0207",
    "jp": "やゆよわん",
-   "en": null
+   "en": "# % * = @ "
   },
   {
    "id": "b018_0208",
    "jp": "{kata}アイウエオ{hira} {kata}ガギグゲゴ{hira}",
-   "en": null
+   "en": "A B C D E  a b c d e "
   },
   {
    "id": "b018_0209",
    "jp": "{kata}カキクケコ{hira} {kata}ザジズゼゾ{hira}",
-   "en": null
+   "en": "F G H I J  f g h i j "
   },
   {
    "id": "b018_0210",
    "jp": "{kata}サシスセソ{hira} {kata}ダヂヅデド{hira}",
-   "en": null
+   "en": "K L M N O  k l m n o "
   },
   {
    "id": "b018_0211",
    "jp": "{kata}タチツテト{hira} {kata}バビブベボ{hira}",
-   "en": null
+   "en": "P Q R S T  p q r s t "
   },
   {
    "id": "b018_0212",
    "jp": "{kata}ナニヌネノ{hira} {kata}パピプペポ{hira}",
-   "en": null
+   "en": "U V W X Y  u v w x y "
   },
   {
    "id": "b018_0213",
    "jp": "{kata}ハヒフヘホ{hira} {kata}ァィゥェォ{hira}",
-   "en": null
+   "en": "Z . , ' -  z ( ) / ~ "
   },
   {
    "id": "b018_0214",
    "jp": "{kata}マミムメモ{hira} {kata}ャュョッ{hira}!",
-   "en": null
+   "en": "0 1 2 3 4  & : ; ? ! "
   },
   {
    "id": "b018_0215",
    "jp": "{kata}ラリルレロ{hira} ー ←→終",
-   "en": null
+   "en": "5 6 7 8 9  -  < > OK"
   },
   {
    "id": "b018_0216",
    "jp": "{kata}ヤユヨワン{hira}",
-   "en": null
+   "en": "# % * = @ "
   },
   {
    "id": "b018_0217",
    "jp": "{kata}オカドン{hira}",
-   "en": null
+   "en": "Okadon"
   },
   {
    "id": "b018_0218",
    "jp": "{kata}ギンユウ{hira}",
-   "en": null
+   "en": "Ginyu"
   },
   {
    "id": "b018_0219",
    "jp": "{kata}ササニシ{hira}",
-   "en": null
+   "en": "Sasanisi"
   },
   {
    "id": "b018_0220",
    "jp": "{kata}イ{hira}ー{kata}ヤダ{hira}",
-   "en": null
+   "en": "Iyada"
   },
   {
    "id": "b018_0221",
    "jp": "{kata}ネコポン{hira}",
-   "en": null
+   "en": "Nekopon"
   },
   {
    "id": "b018_0222",
    "jp": "{kata}ナンデモ{hira}",
-   "en": null
+   "en": "Nandemo"
   },
   {
    "id": "b018_0223",
    "jp": "{kata}ポンポコ{hira}",
-   "en": null
+   "en": "Ponpoko"
   },
   {
    "id": "b018_0224",
    "jp": "{kata}ハクシュ{hira}",
-   "en": null
+   "en": "Hakushu"
   },
   {
    "id": "b018_0225",
    "jp": "{kata}テンキパ{hira}",
-   "en": null
+   "en": "Tenkipa"
   },
   {
    "id": "b018_0226",
    "jp": "{kata}サクラン{hira}",
-   "en": null
+   "en": "Sakuran"
   },
   {
    "id": "b018_0227",
    "jp": "{kata}オカダデ{hira}",
-   "en": null
+   "en": "Okadade"
   },
   {
    "id": "b018_0228",
    "jp": "うなぎ",
-   "en": null
+   "en": "Eel"
   },
   {
    "id": "b018_0229",
    "jp": "すし",
-   "en": null
+   "en": "Sushi"
   },
   {
    "id": "b018_0230",
    "jp": "{kata}フグ{hira}料理",
-   "en": null
+   "en": "Blowfish"
   }
  ]
 }
