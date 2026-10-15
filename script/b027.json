@@ -1,0 +1,158 @@
+{
+ "block": 27,
+ "mode": 0,
+ "ptr": "C7F2BA",
+ "tail": "",
+ "strings": [
+  {
+   "id": "b027_0000",
+   "jp": "{party}{party}は{n}怪しげな うごきで{n}呪いの力を はなった!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0001",
+   "jp": "{party}{party}は 呪われてしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0002",
+   "jp": "しかし {party}{party}には{n}効きめが なかった!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0003",
+   "jp": "{party}{party}の{n}最大体力が {num}下がった!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0004",
+   "jp": "{party}{party}の{n}腹が いっぱいになった!{n}{sub:C0}や きびだんごを{n}食べることが できなくなった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0005",
+   "jp": "{party}{party}の{n}{sub:D6}が 開かなくなった!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0006",
+   "jp": "{party}{party}は 呪われてしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0007",
+   "jp": "{party}{party}は 船に のると{n}吐き気を もよおすように なった!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0008",
+   "jp": "{party}{party}は あと 128歩で{n}力つきてしまう!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0009",
+   "jp": "{party}{party}の{n}最大技の数が {num}下がった!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0010",
+   "jp": "{party}{party}は{n}声が 出なくなってしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0011",
+   "jp": "{party}{party}は{n}仲間を 呼んだ!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0012",
+   "jp": "しかし{n}仲間は かけつけてくれなかった!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0013",
+   "jp": "{party}({party})が{n}かけつけた!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0014",
+   "jp": "{party}が かけつけた!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0015",
+   "jp": "{party}{party}は{n}口から 毒の息を 吐いた!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0016",
+   "jp": "しかし {party}{party}は{n}毒の息を はねかえした!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0017",
+   "jp": "{party}{party}は{n}口から 猛毒の息を 吐いた!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0018",
+   "jp": "しかし {party}{party}は{n}猛毒の息を はねかえした!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0019",
+   "jp": "{party}{party}は{n}口から 猛毒の息を 吐いた!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0020",
+   "jp": "{party}{party}は{n}口から もっけの毒を 吐いた!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0021",
+   "jp": "{party}{party}は{n}もっけの毒に おかされた!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0022",
+   "jp": "しかし {party}{party}は{n}もっけの毒を はねかえした!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0023",
+   "jp": "{party}{party}は{n}口から しびれ薬を 吹きつけてきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0024",
+   "jp": "しかし {party}{party}は{n}しびれ薬を はねかえした!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0025",
+   "jp": "{party}{party}は{n}空高く まいあがった!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0026",
+   "jp": "{party}{party}は{n}かみついてきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0027",
+   "jp": "{party}{party}の 体力が{n}{num} 吸い取られてしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0028",
+   "jp": "しかし{n}なにも おきなかった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b027_0029",
+   "jp": "鬼界の力が 鬼の 体に 流れこむ!{page}",
+   "en": null
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+# cold boot -> title -> CONTINUE -> temple text (Book of the Chronicler)
+600 -
+700 start
+600 -

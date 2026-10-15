@@ -1,0 +1,113 @@
+{
+ "block": 136,
+ "mode": 1,
+ "ptr": "C97A49",
+ "tail": "",
+ "strings": [
+  {
+   "id": "b136_0000",
+   "jp": "「{kata}ボンビ{hira}ー! {sub:A0}さん!{n} {kata}ボク{hira}も 鬼たいじの{n} お手伝いが したいのねん!」",
+   "en": null
+  },
+  {
+   "id": "b136_0001",
+   "jp": "「いつか さそってねなのねん!」{n}{n}",
+   "en": null
+  },
+  {
+   "id": "b136_0002",
+   "jp": "「えのっ{kata}ピドゥ{hira}ー! うれしいのねん!{n} うれしいついでに{n} 名前を いただきたいのねん!」",
+   "en": null
+  },
+  {
+   "id": "b136_0003",
+   "jp": "「{kata}ガワンバッチョ{hira}!{n} ひどい 名前なのねん!{n} ひーん! ひんひん!」",
+   "en": null
+  },
+  {
+   "id": "b136_0004",
+   "jp": "「{kata}プワッチ{hira}! {kata}ガンボリッチ{hira}!{n} 世の中に {kata}ボンビ{hira}ーを{n} まきちらすのねん!」",
+   "en": null
+  },
+  {
+   "id": "b136_0005",
+   "jp": "「{sub:A8}!{n} びろ～んの森へ 行ったかの?」{n}{n}「びろ～んの 言葉は{n} はらだしの里吉 じゃないと{n} わからんぞ! {sub:A8}!」",
+   "en": null
+  },
+  {
+   "id": "b136_0006",
+   "jp": "「{sub:A8}! はらだしは{n} ここから ずっと南の{n} 人里はなれた 半島の先{sub:A7}",
+   "en": null
+  },
+  {
+   "id": "b136_0007",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! 正しく 生きようぜ!{n} お日さまは 西から 上がるぜ!」{n}",
+   "en": null
+  },
+  {
+   "id": "b136_0008",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! 正しく 生きようぜ!{n} えいごで {kata}ライト{hira}は 左だぜ!{n} {kata}レフト{hira}は 右だぜ! {kata}ヘイ{hira} {kata}ヘイ{hira}!」",
+   "en": null
+  },
+  {
+   "id": "b136_0009",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! 正しく 生きようぜ!{n} {kata}オレ{hira}さまに 仲間になって{n} ほしいか! {kata}ヘイ{hira} {kata}ヘイ{hira}!」",
+   "en": null
+  },
+  {
+   "id": "b136_0010",
+   "jp": "「うれしいぜ! {kata}ヘイ{hira} {kata}ヘイ{hira}!{n} いつでも ことわりに来な!」{n}",
+   "en": null
+  },
+  {
+   "id": "b136_0011",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! そんなに{n} 仲間に なって ほしけりゃ{n} おまんじゅうを 買って来な!」{n}「{kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}ヘイ{hira} {kata}ヘイ{hira}!{n} おまんじゅう 買って来たか?」{n}",
+   "en": null
+  },
+  {
+   "id": "b136_0012",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}オレ{hira}は{n} きびだんごを 買って来いと{n} いったはずだぜ! {kata}ヘイ{hira} {kata}ヘイ{hira}!」{n}「きびだんごを 買って来な!」{n}{n}{n}「{kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}ヘイ{hira} {kata}ヘイ{hira}!{n} きびだんご 買って来たか?」{n}",
+   "en": null
+  },
+  {
+   "id": "b136_0013",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! いま {kata}オレ{hira}さまは{n} きびだんご 食いたかねーなー!{n} {kata}サツマイモ{hira}の ほうが いーなー!」{n}「{kata}サツマイモ{hira}を 買って来な!」{n}{n}{n}「{kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}ヘイ{hira} {kata}ヘイ{hira}!{n} {kata}サツマイモ{hira} 買って来たか?」{n}",
+   "en": null
+  },
+  {
+   "id": "b136_0014",
+   "jp": "「{kata}オレ{hira}さまに {kata}サツマイモ{hira}を{n} 生で 食えってーのかよー!{n} 焼き{kata}イモ{hira}に してこい!」{n}「{kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}ヘイ{hira} {kata}ヘイ{hira}!{n} 焼き{kata}イモ{hira}を 買って来たか?」{n}",
+   "en": null
+  },
+  {
+   "id": "b136_0015",
+   "jp": "「そうだよ! そうやって{n} はじめから ちゃんと 焼き{kata}イモ{hira}を{n} 買ってくりゃ いいんだよ!」{n}「{kata}モグモグモグ{hira}! うめえじゃねーか{n} この焼き{kata}イ{hira}……うっ!{n} 腹が いてー! うっ!」{n}「てめえ! 何食わしやがったんでー!{n} 万能丹を 買って来い!{n} うっ! いてててててててっ!」{n}「{kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}ヘイ{hira} {kata}ヘイ{hira}!{n} 万能丹を 買って来たか?」{n}",
+   "en": null
+  },
+  {
+   "id": "b136_0016",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}ヘイ{hira} {kata}ヘイ{hira}!{n} {party} じゃねーかー!{n} ありがとうよ! {kata}ヘイ{hira} {kata}ヘイ{hira}!」{n}「じゃあ! 仲間に なってやるぜ!{n} {kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}ヘイ{hira} {kata}ヘイ{hira}!」{n}",
+   "en": null
+  },
+  {
+   "id": "b136_0017",
+   "jp": "{sub:A0}は ちょっぴり{n}こうかいした……………!{n}",
+   "en": null
+  },
+  {
+   "id": "b136_0018",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! 万能丹だけじゃ{n} {kata}オレ{hira}さまは よろこばねーんだよ!{n} {kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}ヘイ{hira} {kata}ヘイ{hira}!」",
+   "en": null
+  },
+  {
+   "id": "b136_0019",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}オレ{hira}さまを{n} なめてんじゃねえのか?」{n}",
+   "en": null
+  },
+  {
+   "id": "b136_0020",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! てめえ!{n} どこに {party}が{n} あるんだよ! {kata}ヘイ{hira} {kata}ヘイ{hira}!」{n}「ふざけたこと しやがって!{n} いい夢 見せてやるぜ!」{n}",
+   "en": null
+  }
+ ]
+}

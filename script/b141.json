@@ -1,0 +1,168 @@
+{
+ "block": 141,
+ "mode": 1,
+ "ptr": "C984FE",
+ "tail": "",
+ "strings": [
+  {
+   "id": "b141_0000",
+   "jp": "「{kata}ハラホロヒレハレ{hira}ー!」{n}{n}{n}「おいたちゃ 山水豊かな この里で{n} 静かに くらしちょっとが ええ{n} これ いらんから あげるて!」",
+   "en": null
+  },
+  {
+   "id": "b141_0001",
+   "jp": "「{kata}ハラホロヒレハレ{hira}ー!」{n}{n}{n}「やっぱ 水の 豊かなとこで{n} の～～～～～～～～～んびり{n} くらしちょっとが いちばんええ!」",
+   "en": null
+  },
+  {
+   "id": "b141_0002",
+   "jp": "「{kata}ハラホロヒレハレ{hira}ー!」{n}{n}{n}「鬼が おそろしくて{n} 里{kata}イモ{hira}を とりに{n} いけん ようになった!」",
+   "en": null
+  },
+  {
+   "id": "b141_0003",
+   "jp": "「{kata}ハラホロヒレハレ{hira}ー!」{n}{n}{n}「はよ 鬼をこらしめて{n} おいたちが 山さいを 安心して{n} とれるようにして くいやんせ」",
+   "en": null
+  },
+  {
+   "id": "b141_0004",
+   "jp": "「{kata}ハラホロヒレハレ{hira}ー!」{n}{n}{n}「里吉は {sub:A0}さんの{n} 仲間になるのが{n} 昔からの 夢だったっちゃ!」",
+   "en": null
+  },
+  {
+   "id": "b141_0005",
+   "jp": "「{kata}ハラホロヒレハレ{hira}ー!」{n}{n}{n}「里吉は まじめなやつじゃ{n} {sub:A0}さん どうか{n} みすてんで おっくいやひなあ!」",
+   "en": null
+  },
+  {
+   "id": "b141_0006",
+   "jp": "「{kata}ハラホロヒレハレ{hira}ー!」{n}{n}{n}「おいが この里の{n} 村長の 大里(おおさと)じゃ!」{n}{n}「里吉が 鬼たいじのことを{n} よく いうちょったがの{kata}ォ{hira}」{n}{n}「じゃっどん!」{n}{n}{n}「{kata}トカゲ{hira}のしっぽを 持ってこんと{n} 里吉も ついて いかんじゃろなあ」{n}{n}「{sub:A0}さんの 仲間に なるには{n} {kata}トカゲ{hira}のしっぽと{n} おもいこんでるっちゃ!」",
+   "en": null
+  },
+  {
+   "id": "b141_0007",
+   "jp": "「{kata}ハラホロヒレハレ{hira}ー!」{n}{n}{n}「山{kata}イモ{hira}は 生で 食べても{n} はざわりが {kata}シャリ{hira}っとして{n} とっても うまいっちゃ!」",
+   "en": null
+  },
+  {
+   "id": "b141_0008",
+   "jp": "「びろびろ びろ～ん!{n} はらへった{n} なんかくれ!」",
+   "en": null
+  },
+  {
+   "id": "b141_0009",
+   "jp": "「びろびろ びろ～ん!{n} じぶん さがす!」{n}",
+   "en": null
+  },
+  {
+   "id": "b141_0010",
+   "jp": "「びろびろ びろ～ん{n} こうぶつ ない!」{n}",
+   "en": null
+  },
+  {
+   "id": "b141_0011",
+   "jp": "「びろびろ びろ～ん!{n} それ こうぶつ!{n} うれしい!」{n}びろ～んは{n}{party}を{n}しっぽで ぺたぺたした!{n}{party}の せなかに{n}つめたいものが はしった!{n}",
+   "en": null
+  },
+  {
+   "id": "b141_0012",
+   "jp": "「びろびろ びろ～ん!{n} それ きらい!{n} ほか くれ!」",
+   "en": null
+  },
+  {
+   "id": "b141_0013",
+   "jp": "「BIROBIRO BIRO～N{n} HARAHETTA!」{n}",
+   "en": null
+  },
+  {
+   "id": "b141_0014",
+   "jp": "「びろびろ びろ～ん!{n} はらへった!」{n}",
+   "en": null
+  },
+  {
+   "id": "b141_0015",
+   "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!{n} {g1AA5}{g1A9E}{g1AAF}{g1A9E}{g1AA5}{g1AA2}{g1AB1}{g1AB1}{g1A9E}!」{n}",
+   "en": null
+  },
+  {
+   "id": "b141_0016",
+   "jp": "「びろびろ びろ～ん!{n} びろ～ん{n} みな きょうだい!」",
+   "en": null
+  },
+  {
+   "id": "b141_0017",
+   "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!{n} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}{n} {g1AAA}{g1AA6}{g1AAB}{g1A9E} {g1AA8}{g1AB6}{g1AAC}{g1AB2}{g1AA1}{g1A9E}{g1AA6}!」",
+   "en": null
+  },
+  {
+   "id": "b141_0018",
+   "jp": "「びろびろ びろ～ん!」{n}{n}",
+   "en": null
+  },
+  {
+   "id": "b141_0019",
+   "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!」{n}{n}",
+   "en": null
+  },
+  {
+   "id": "b141_0020",
+   "jp": "「びろびろ びろ～ん!{n} ぶんぶくちゃがま{n} とても めずらしい!」",
+   "en": null
+  },
+  {
+   "id": "b141_0021",
+   "jp": "「びろびろ びろ～ん!{n} ぶんぶくちゃがま{n} みつける すごい!」",
+   "en": null
+  },
+  {
+   "id": "b141_0022",
+   "jp": "「びろびろ びろ～ん!{n} ぶんぶくちゃがま{n} このよに ひとつ!」",
+   "en": null
+  },
+  {
+   "id": "b141_0023",
+   "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!」{n}{n}{n}「{g1A9F}{g1AB2}{g1AAB}{g1A9F}{g1AB2}{g1AA8}{g1AB2}{g1AA0}{g1AA5}{g1A9E}{g1AA4}{g1A9E}{g1AAA}{g1A9E}{n} {g1AB1}{g1AAC}{g1AB1}{g1AA2}{g1AAA}{g1AAC}{n} {g1AAA}{g1AA2}{g1AB7}{g1AB2}{g1AAF}{g1A9E}{g1AB0}{g1AA5}{g1AA6}{g1AA6}!」",
+   "en": null
+  },
+  {
+   "id": "b141_0024",
+   "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!」{n}{n}{n}「{g1A9F}{g1AB2}{g1AAB}{g1A9F}{g1AB2}{g1AA8}{g1AB2}{g1AA0}{g1AA5}{g1A9E}{g1AA4}{g1A9E}{g1AAA}{g1A9E}{n} {g1AAA}{g1AA6}{g1AB1}{g1AB2}{g1AA8}{g1AA2}{g1AAF}{g1AB2}{n} {g1AB0}{g1AB2}{g1AA4}{g1AAC}{g1AA6}!」",
+   "en": null
+  },
+  {
+   "id": "b141_0025",
+   "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!」{n}{n}{n}「{g1A9F}{g1AB2}{g1AAB}{g1A9F}{g1AB2}{g1AA8}{g1AB2}{g1AA0}{g1AA5}{g1A9E}{g1AA4}{g1A9E}{g1AAA}{g1A9E}{n} {g1AA8}{g1AAC}{g1AAB}{g1AAC}{g1AB6}{g1AAC}{g1AAB}{g1AA6}{n} {g1AA5}{g1AA6}{g1AB1}{g1AAC}{g1AB1}{g1AB0}{g1AB2}!」",
+   "en": null
+  },
+  {
+   "id": "b141_0026",
+   "jp": "「びろびろ びろ～ん!」{n}{n}{n}「ぶんぶくちゃがま{n} おに つめあと{n} ある うわさ!」",
+   "en": null
+  },
+  {
+   "id": "b141_0027",
+   "jp": "「びろびろ びろ～ん!{n} ぶんぶくちゃがま{n} みつける すごい!」",
+   "en": null
+  },
+  {
+   "id": "b141_0028",
+   "jp": "「びろびろ びろ～ん!{n} ぶんぶくちゃがま{n} このよに ひとつ!」",
+   "en": null
+  },
+  {
+   "id": "b141_0029",
+   "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!」{n}{n}{n}「{g1A9F}{g1AB2}{g1AAB}{g1A9F}{g1AB2}{g1AA8}{g1AB2}{g1AA0}{g1AA5}{g1A9E}{g1AA4}{g1A9E}{g1AAA}{g1A9E}{n} {g1AAC}{g1AAB}{g1AA6} {g1AB1}{g1AB0}{g1AB2}{g1AAA}{g1AA2}{g1A9E}{g1AB1}{g1AAC}{n} {g1A9E}{g1AAF}{g1AB2} {g1AB2}{g1AB4}{g1A9E}{g1AB0}{g1A9E}!」",
+   "en": null
+  },
+  {
+   "id": "b141_0030",
+   "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!」{n}{n}{n}「{g1A9F}{g1AB2}{g1AAB}{g1A9F}{g1AB2}{g1AA8}{g1AB2}{g1AA0}{g1AA5}{g1A9E}{g1AA4}{g1A9E}{g1AAA}{g1A9E}{n} {g1AAA}{g1AA6}{g1AB1}{g1AB2}{g1AA8}{g1AA2}{g1AAF}{g1AB2}{n} {g1AB0}{g1AB2}{g1AA4}{g1AAC}{g1AA6}!」",
+   "en": null
+  },
+  {
+   "id": "b141_0031",
+   "jp": "「{g1A9F}{g1AA6}{g1AAF}{g1AAC}{g1A9F}{g1AA6}{g1AAF}{g1AAC} {g1A9F}{g1AA6}{g1AAF}{g1AAC}～{g1AAB}!」{n}{n}{n}「{g1A9F}{g1AB2}{g1AAB}{g1A9F}{g1AB2}{g1AA8}{g1AB2}{g1AA0}{g1AA5}{g1A9E}{g1AA4}{g1A9E}{g1AAA}{g1A9E}{n} {g1AA8}{g1AAC}{g1AAB}{g1AAC}{g1AB6}{g1AAC}{g1AAB}{g1AA6}{n} {g1AA5}{g1AA6}{g1AB1}{g1AAC}{g1AB1}{g1AB0}{g1AB2}!」",
+   "en": null
+  }
+ ]
+}

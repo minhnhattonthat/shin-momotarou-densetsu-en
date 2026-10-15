@@ -1,0 +1,33 @@
+{
+ "block": 240,
+ "mode": 1,
+ "ptr": "CA821F",
+ "tail": "",
+ "strings": [
+  {
+   "id": "b240_0000",
+   "jp": "「うわあああああっ!{n} さくらの木が!」{n}",
+   "en": null
+  },
+  {
+   "id": "b240_0001",
+   "jp": "「えーん! えーん!{n} 金太郎の あんちゃん!{n} たすけてよー! えーん!」",
+   "en": null
+  },
+  {
+   "id": "b240_0002",
+   "jp": "「うわあああああっ!{n} 海が 真っ赤に!{n} 海の神様が 怒ってるだ!」{n}「浦島! 助けておくれ!{n} 助けて……!{n} た…す…け…て………!」",
+   "en": null
+  },
+  {
+   "id": "b240_0003",
+   "jp": "「うわあああああっ!{n} いったい 何が{n} おこったと いうだ!」{n}「うわあああああっ!{n} {kata}オラ{hira}の 畑が! 家が!{n} みんな 沈むだ!」",
+   "en": null
+  },
+  {
+   "id": "b240_0004",
+   "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! 人魚の涙か…{n} いいことを 聞いたぞ!」{n}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! {kata}ケ{hira}ー{kata}ケッケッ{hira}!」{n}{n}{n}「{kata}ケ{hira}ー{kata}ケッケッ{hira}! {kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} {kata}ケ{hira}ー{kata}ケッケッ{hira}! {kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} {kata}ケ{hira}ー{kata}ケッケッ{hira}! {kata}ケ{hira}ー{kata}ケッケッ{hira}!」",
+   "en": null
+  }
+ ]
+}

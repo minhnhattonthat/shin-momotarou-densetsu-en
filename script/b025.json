@@ -1,0 +1,913 @@
+{
+ "block": 25,
+ "mode": 0,
+ "ptr": "C7C7F7",
+ "tail": "",
+ "strings": [
+  {
+   "id": "b025_0000",
+   "jp": "{party}{party}は{n}身を 守っている!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0001",
+   "jp": "{party}{party}は{n}{party}{party}を かばっている!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0002",
+   "jp": "{party}{party}に{n}{num}の 打撃を {sub:AB}!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0003",
+   "jp": "{party}{party}は{n}{num}の 打撃を うけた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0004",
+   "jp": "{party}{party}の 体力が{n}{num}へった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0005",
+   "jp": "{party}{party}は{n}{kata}ヒラリ{hira}と 攻撃を かわした!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0006",
+   "jp": "{party}{party}を こらしめた!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0007",
+   "jp": "{party}{party}は 力つきてしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0008",
+   "jp": "{sub:CE}の{n}ぶんしんが やられた!",
+   "en": null
+  },
+  {
+   "id": "b025_0009",
+   "jp": "{party}{party}の 攻撃!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0010",
+   "jp": "{party}{party}は{n}{party}{party}を かばった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0011",
+   "jp": "{c1}END {party}{party} かばわれる {party}{party}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0012",
+   "jp": "{c1}HALF DAMAGE{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0013",
+   "jp": "{c1}END OF {party}{party} まもり{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0014",
+   "jp": "{party}{party}の{n}{party}が{n}{num}上がった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0015",
+   "jp": "{party}{party}の {party}は{n}げんかいまで たっした!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0016",
+   "jp": "{c1}CLEAR {party}{party}{n}PARAMETER 1UP{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0017",
+   "jp": "{party}{party}の {party}は{n}{num}下がった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0018",
+   "jp": "{party}{party}の {party}は{n}これ以上 下がらない!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0019",
+   "jp": "{c1}CLEAR {party}{party}{n}PARAMETER 1DOWN{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0020",
+   "jp": "{party}{party}は{n}鬼界から 抜け出した!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0021",
+   "jp": "{party}{party}は{n}ふいを つかれた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0022",
+   "jp": "{party}{party}は{n}じっと している!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0023",
+   "jp": "{party}({party})が{n}おそってきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0024",
+   "jp": "{party}が おそってきた!",
+   "en": null
+  },
+  {
+   "id": "b025_0025",
+   "jp": "{party}({party})が{n}あらわれた!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0026",
+   "jp": "{party}が あらわれた!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0027",
+   "jp": "{party}を ひろった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0028",
+   "jp": "つづらを 開けますか?",
+   "en": null
+  },
+  {
+   "id": "b025_0029",
+   "jp": "{party}{party}は{n}つづらを 開けずに 立ちさった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0030",
+   "jp": "どの つづらを 開けますか?",
+   "en": null
+  },
+  {
+   "id": "b025_0031",
+   "jp": "{party}{party}は つづらを 開けた!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0032",
+   "jp": "つづらの 中は{n}からだった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0033",
+   "jp": "つづらの中には{n}{party}({party})が{n}ひそんでいた!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0034",
+   "jp": "つづらの中には{n}{party}が ひそんでいた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0035",
+   "jp": "{party}{party}は{n}つづらの中から{n}{party}を 見つけた!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0036",
+   "jp": "{party}{party}の{n}術は ふういんされた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0037",
+   "jp": "{party}{party}の{n}術は ふういんされている!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0038",
+   "jp": "{party}{party}は{n}術が つかえるように なった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0039",
+   "jp": "{party}{party}は{n}鬼道を ふうじられた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0040",
+   "jp": "しかし {party}{party}の{n}鬼道は ふうじられている!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0041",
+   "jp": "{party}{party}は{n}鬼道が つかえるように なった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0042",
+   "jp": "{party}{party}は{n}毒を くらった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0043",
+   "jp": "{party}{party}は 猛毒に{n}{num}の 体力を うばわれた!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0044",
+   "jp": "{party}{party}は{n}体が しびれて{n}うごけなくなってしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0045",
+   "jp": "{party}{party}は{n}しびれて うごけない!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0046",
+   "jp": "{party}{party}の 攻撃は{n}あたりづらくなった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0047",
+   "jp": "{c1}CLEAR かげろう{n}OF {party}{party}!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0048",
+   "jp": "{party}{party}は 前が 見えなくなって{n}攻撃が 当たりにくくなった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0049",
+   "jp": "{c1}CLEAR どろ OF {party}{party}!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0050",
+   "jp": "{party}{party}は 目が くらんで{n}攻撃が 当たりづらくなった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0051",
+   "jp": "しかし {party}{party}は{n}とっさに 目を つぶり{n}まぶしい光の 攻撃を かわした!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0052",
+   "jp": "{c1}CLEAR 目{kata}シブシブ{n}{hira}OF {party}{party}!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0053",
+   "jp": "{party}{party}は{n}ねむってしまった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0054",
+   "jp": "{party}{party}は{n}ねむらなかった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0055",
+   "jp": "{party}{party}は{n}ねむっている!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0056",
+   "jp": "{party}{party}は{n}ねむりから さめた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0057",
+   "jp": "{party}{party}の 体に{n}{kata}ネバネバ{hira}の {kata}クモ{hira}の糸が からみつく!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0058",
+   "jp": "しかし {party}{party}は{n}{kata}クモ{hira}の糸を ふりはらった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0059",
+   "jp": "{party}{party}は{n}{kata}クモ{hira}の糸に からみつかれていて{n}うごくことが できない!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0060",
+   "jp": "{party}{party}は{n}力を こめて{n}{kata}クモ{hira}の糸を ふりはらった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0061",
+   "jp": "{party}{party}は{n}{party}{party}の 蛇'に{n}まきつかれてしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0062",
+   "jp": "{party}{party}は{n}{party}{party}の 蛇'に{n}まきつかれていて 動けない!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0063",
+   "jp": "{party}{party}は 力を こめて{n}{party}{party}の 蛇'の{n}まきつきから 抜け出した!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0064",
+   "jp": "{party}{party}の 体に{n}{kata}ブクブク{hira}の あわが まとわりつく!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0065",
+   "jp": "しかし {party}{party}は{n}{kata}ブクブク{hira}の あわを ふりはらった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0066",
+   "jp": "{kata}ブクブク{hira}の あわに{n}{num}の 体力を うばわれた!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0067",
+   "jp": "{party}{party}は{n}力を こめて{n}{kata}ブクブク{hira}の あわを ふりはらった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0068",
+   "jp": "{party}{party}は{n}{kata}キュウリ{hira}を かじっている!{n}{kata}カリポリカリポリ{hira}!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0069",
+   "jp": "{party}{party}は{n}{kata}キュウリ{hira}を 食べきって しまった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0070",
+   "jp": "{party}{party}{n}「日照りは よせーーーーー{kata}ッ{hira}!」{n}{page}{n}日照りに 弱い {party}{party}は{n}へたりこんで しまった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0071",
+   "jp": "{party}{party}は うごけない!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0072",
+   "jp": "{party}{party}{n}「なんで こんなに あついの?」{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0073",
+   "jp": "日照りに 弱い {party}{party}は{n}体力が {num}へった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0074",
+   "jp": "{party}{party}{n}「ぴゅるるるるぅ! まぶしい!」{n}{page}{n}日照りに 弱い {party}{party}は{n}すべての術が 使えなくなった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0075",
+   "jp": "{party}{party}{n}「ぐゎらり ぐゎらり! 寒い!」{n}{page}{n}あまりの寒さに {party}{party}は{n}すべての 術が つかえなくなった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0076",
+   "jp": "日照りで {party}{party}は{n}術が つかえない!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0077",
+   "jp": "あまりの 寒さに{n}{party}{party}は 術が つかえない!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0078",
+   "jp": "{party}{party}は みうごき できない!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0079",
+   "jp": "{party}{party}{n}「いやーん! 体がとけちゃうー!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0080",
+   "jp": "日照りで {party}{party}の{n}体力が {num}へった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0081",
+   "jp": "{party}{party}の 体が{n}金色の まくに おおわれた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0082",
+   "jp": "{party}{party}を おおう{n}金色の まくが{n}打撃を はねかえした!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0083",
+   "jp": "{party}{party}は あとずさった!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0084",
+   "jp": "{party}{party}は ひるまなかった!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0085",
+   "jp": "{party}{party}は ひるんでいる!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0086",
+   "jp": "{c1}REVIVE NEXT TURN",
+   "en": null
+  },
+  {
+   "id": "b025_0087",
+   "jp": "{party}{party}は 目をつぶされ{n}敵の くべつが つかなくなった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0088",
+   "jp": "{party}{party}は はらいのけた!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0089",
+   "jp": "{party}{party}は よっぱらった!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0090",
+   "jp": "{party}{party}には きかなかった!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0091",
+   "jp": "{party}{party}は{n}よっぱらって うごけない!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0092",
+   "jp": "{c1}REVIVE NEXT TURN",
+   "en": null
+  },
+  {
+   "id": "b025_0093",
+   "jp": "{party}{party}は{n}{party}{party}に{n}まきつかれてしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0094",
+   "jp": "{party}{party}は{n}{party}{party}に まきつかれていて{n}うごくことが できない!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0095",
+   "jp": "{party}{party}は 力を こめて{n}{party}{party}の まきつきから{n}抜け出した!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0096",
+   "jp": "なんと! {party}{party}が{n}{party}{party}の とうろうの 中に{n}吸い取られてしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0097",
+   "jp": "{party}{party}は{n}{party}{party}の とうろうの なかに{n}吸い取られていて うごけない!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0098",
+   "jp": "{kata}ワン{hira} {kata}ワン{hira}! {party}{party}が{n}すて身で {party}{party}を かばった!{page}{n}{party}{party}は はじきとばされ{n}戦闘から はずれた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0099",
+   "jp": "{party}{party}{n}「んー! 日照りは 気持ちいい!」{n}{page}{n}{party}{party}は のんきに 寝てしまった!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0100",
+   "jp": "{party}{party}は のんきに 寝ている!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0101",
+   "jp": "貧乏神{n}「どひーーー! 雷こわいのねん!」{n}{page}{n}雷におびえ 貧乏神は{n}戦いの場から 逃げだしてしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0102",
+   "jp": "{party}{party}を さくらんさせた!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0103",
+   "jp": "{party}{party}を{n}さくらんさせることが できなかった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0104",
+   "jp": "{party}{party}は{n}さくらんしている!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0105",
+   "jp": "{party}{party}は{n}正気に もどった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0106",
+   "jp": "{party}{party}の{n}術のききめが 弱まった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0107",
+   "jp": "{party}{party}は しばらくの間{n}連続で攻撃が できる!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0108",
+   "jp": "{party}{party}の 体が{n}ばねのようになった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0109",
+   "jp": "{party}{party}は{n}打撃を 半分 はねかえした!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0110",
+   "jp": "{kata}ハリネズミ{hira}の玉は{n}くだけちって しまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0111",
+   "jp": "{party}{party}は{n}打撃を そのまま はねかえした!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0112",
+   "jp": "山嵐の玉は{n}くだけちって しまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0113",
+   "jp": "{party}{party}は{n}{party}{party}を つかまえた!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0114",
+   "jp": "{party}{party}は{n}とあみを かわした!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0115",
+   "jp": "{party}{party}は{n}とあみの 中で もがいている!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0116",
+   "jp": "{party}{party}は{n}とあみを 切って ぬけだした!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0117",
+   "jp": "{party}{party}は{n}攻撃を 受け止めた!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0118",
+   "jp": "{party}{party}は{n}正体を あらわした!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0119",
+   "jp": "{party}{party}は 竜巻に{n}{num}の 打撃を うけた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0120",
+   "jp": "{party}{party}{n}「{kata}アッポ{hira}ー! あついんだなあ!」{n}{page}{n}日照りに 弱い {party}{party}の{n}うごきが にぶくなった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0121",
+   "jp": "{party}{party}は{n}{party}{party}の せいで{n}術が 使えなくなっている!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0122",
+   "jp": "うう きもちわるーーい!{n}{party}{party}は{n}うごけないでいる!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0123",
+   "jp": "{party}{party}の 体から{n}ぬるぬるが{n}なくなった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0124",
+   "jp": "{party}{party}の 体についた{n}{party}{party}の ぬるぬるの{n}おかげで 敵の攻撃が それた!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0125",
+   "jp": "「{kata}グ{hira}ーー{kata}スカ{hira} {kata}ピ{hira}ー!」{page}{n}{party}{party}は あいかわらず{n}ねむっている!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0126",
+   "jp": "「むにゃ むにゃ むにゃ……」{page}{n}{party}{party}は ねごとを{n}いっている ようだ!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0127",
+   "jp": "「おーしっ! いっちょ やるかー!」{page}{n}しかし {party}{party}の ただの{n}ねごと だったらしい!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0128",
+   "jp": "{party}{party}は{n}ねむっている!{n}「{kata}グ{hira}ーー{kata}スカ{hira} {kata}ピ{hira}ー!」{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0129",
+   "jp": "{party}{party}{n}「むにゃ むにゃ うーん……{n} あー よく 寝ただー!」{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0130",
+   "jp": "{party}{party}は{n}こおってしまった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0131",
+   "jp": "{party}{party}は{n}こおっている!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0132",
+   "jp": "{party}{party}は 氷を くだいて{n}すがたを あらわした!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0133",
+   "jp": "{party}{party}は みうごきが{n}とれなく なってしまった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0134",
+   "jp": "{party}{party}は{n}みうごきが とれない!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0135",
+   "jp": "「いやーーん! こわいーー!{n} {party}{party}さん たすけてー!」{n}{page}{n}{party}{party}は {party}{party}の{n}うしろに かくれた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0136",
+   "jp": "なんと!{n}{party}{party}が さらわれてしまった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0137",
+   "jp": "{party}{party}は{n}{party}{party}に{n}さらわれていて 動けない!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0138",
+   "jp": "さらわれていた {party}{party}が{n}戻ってきた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0139",
+   "jp": "{party}{party}は あまりの{n}くささと 下品さに{n}金しばりに あって しまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0140",
+   "jp": "{party}{party}は{n}うごけない!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0141",
+   "jp": "{party}{party}は{n}うごけるように なった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0142",
+   "jp": "{party}{party}の 子どもたちが{n}{party}{party}に とりつく!{n}{kata}ボチュ{hira}! {kata}ボチュ{hira}! {kata}ボチュ{hira}!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0143",
+   "jp": "{party}{party}の 子どもたちが{n}{party}{party}に とりつく!{n}{kata}ボチュ{hira}! {kata}ボチュ{hira}! {kata}ボチュ{hira}!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0144",
+   "jp": "{party}{party}は{n}お金を ひろいだした!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0145",
+   "jp": "{party}{party}は{n}お金を ひろうのに{n}夢中に なっている!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0146",
+   "jp": "{party}{party}は{n}敵に ねがえっている!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0147",
+   "jp": "「{hero}! おれが悪かった!{n} しかし 今のは{n} 敵をあざむく 作戦だったんだ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0148",
+   "jp": "{party}{party}は{n}こきゅうを あわせて{n}めいそう している!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0149",
+   "jp": "{party}{party}の 攻撃力は{n}{party}{party}と おなじ{n}{num}に なった!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0150",
+   "jp": "{party}{party}の 攻撃力は{n}かわらなかった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0151",
+   "jp": "{party}{party}を つつみこんでいた{n}きょだいな {kata}バラ{hira}が きえた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0152",
+   "jp": "しかし {party}{party}も{n}{num}の 打撃を うけている!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0153",
+   "jp": "{party}{party}は{n}いちもくさんに 逃げ出した!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0154",
+   "jp": "{party}{party}の{n}{num}かい こうげき!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0155",
+   "jp": "{party}{party}の 体力が{n}{num}{sub:B4}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0156",
+   "jp": "{party}{party}の 体力は{n}全{sub:B4}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0157",
+   "jp": "{party}{party}の 体力は{n}全{sub:B4}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0158",
+   "jp": "{party}{party}の 技が{n}{num}{sub:B4}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0159",
+   "jp": "{party}{party}の 技は{n}全{sub:B4}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0160",
+   "jp": "{party}{party}の 技は{n}全{sub:B4}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0161",
+   "jp": "天気は かわらなかった!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0162",
+   "jp": "{kata}ジリジリ{hira}と 地面が 熱くなって行く!{n}{n}{n}天気は 日照りになった!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0163",
+   "jp": "青空が ひろがって行く!{n}{n}{n}天気は 日本晴れになった!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0164",
+   "jp": "お日さまが 顔を 出した!{n}{n}{n}天気は 晴れになった!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0165",
+   "jp": "空が 暗くなってきたぞ!{n}{n}{n}天気は 雨になった!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0166",
+   "jp": "あっ! 雷だ!{n}{n}{n}天気は 雷雨になった!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0167",
+   "jp": "粉雪が まいはじめた!{n}{n}{n}天気は 雪になった!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0168",
+   "jp": "おおっ! 波が 高くなって来たぞ!{n}{n}{n}天気が 時化(しけ)に なった!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0169",
+   "jp": "{party}{party}は{n}{party}{sub:AE}を {sub:C4}{n}{page}{n}{party}{party}は{n}{sub:B1}が つかえるように なった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0170",
+   "jp": "しかし {party}{party}には{n}効きめが なかった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0171",
+   "jp": "{party}{party}に{n}効きめが なかった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0172",
+   "jp": "会心の一撃!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0173",
+   "jp": "痛恨の一撃!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0174",
+   "jp": "やったー!{n}貧乏神の{n}会心の盗み!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0175",
+   "jp": "{c1}TARGET IS DEAD!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0176",
+   "jp": "かぎつめに やどる{n}鬼神の魂が いきりたつ!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0177",
+   "jp": "連続攻撃!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0178",
+   "jp": "{party}を とりもどした!{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0179",
+   "jp": "{party}城は{n}{num}の 打撃を うけた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b025_0180",
+   "jp": "{party}城の 耐久度が{n}0に なってしまった!{n}{page}{n}{party}{party}は{n}鬼に むかって 突撃した!{n}{page}",
+   "en": null
+  }
+ ]
+}

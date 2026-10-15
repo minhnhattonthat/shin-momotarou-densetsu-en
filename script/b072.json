@@ -1,0 +1,108 @@
+{
+ "block": 72,
+ "mode": 1,
+ "ptr": "C8920F",
+ "tail": "",
+ "strings": [
+  {
+   "id": "b072_0000",
+   "jp": "「ここは {kata}イヌ{hira}の{n} 品評会(ひんぴょうかい)を する{n} {kata}コンテスト{hira}会場です!」{n}「おつれさまの {kata}ワン{hira}ちゃんも{n} 出場されてみては いかがですか?」{n}",
+   "en": null
+  },
+  {
+   "id": "b072_0001",
+   "jp": "「突風ぶり太夫さんの よみかたが{n} わからないって? せいは とっぷう{n} 名は ぶりだいゆう{kata}サン{hira}だ!」{n}「しんぱん ひとすじ 40年の{n} 有名な 人なんだから{n} 知らないと はずかしいよ!」",
+   "en": null
+  },
+  {
+   "id": "b072_0002",
+   "jp": "「今年こそ うちの のり{kata}ピ{hira}ーを{n} ゆうしょう させるぞ! たらふく{n} {kata}イヌ{hira}まっしぐら 食べさせたんだ!」",
+   "en": null
+  },
+  {
+   "id": "b072_0003",
+   "jp": "「しんぱんの 突風ぶり太夫さんは{n} {kata}トップブリ{hira}ー{kata}ダ{hira}ーに ふさわしいが{n} はんていが きびしくていけねえ!」",
+   "en": null
+  },
+  {
+   "id": "b072_0004",
+   "jp": "「うちの {kata}ミカミン{hira}が 今年も{n} ゆうしょう するざます!」{n}{n}「毎日 {kata}サバ{hira}の にぎり{n} 10{kata}キロ{hira} たべさせてるざますから{n} おっほっほっほ! お金もちざます」",
+   "en": null
+  },
+  {
+   "id": "b072_0005",
+   "jp": "「なかなか この {kata}コンテスト{hira}が{n} たのしみで 毎年 こうして{n} {kata}グキッ{hira}! う! ぎっくり腰が!」",
+   "en": null
+  },
+  {
+   "id": "b072_0006",
+   "jp": "「{kata}マダマダ{hira} {kata}コンテスト{n}{hira} {kata}スタ{hira}ー{kata}ト{hira} {kata}シナイネ{hira}!」{n}{n}「鬼 {kata}デビル{hira} {kata}タイジ{n}{hira} {kata}ド{hira}ー{kata}シタネ{hira}! {kata}アソンデル{n}{hira} {kata}バアイジャ{hira} {kata}ナイデショネ{hira}!」",
+   "en": null
+  },
+  {
+   "id": "b072_0007",
+   "jp": "「{kata}レディス{hira} {kata}アンド{hira} {kata}ジェントルマン{hira}!{n} {kata}マイ{hira} {kata}ネ{hira}ー{kata}ム{hira} {kata}イズ{hira} 突風ぶり太夫!{n} {kata}クラシック{hira} {kata}ナ{hira} {kata}ナマエネ{hira}ー!」{n}「{kata}コンテスト{hira} {kata}スタ{hira}ー{kata}ト{hira} {kata}マデ{n}{hira} 3 {kata}ミニッツ{hira}! 3{kata}プンネ{hira}!{n} 出場{kata}スル{hira} {kata}ヨロシカ{hira}? {kata}ユ{hira}ー!」",
+   "en": null
+  },
+  {
+   "id": "b072_0008",
+   "jp": "「{kata}ソン{hira} {kata}ソンダ{hira}ー {kata}ソンデスト{hira}!{n} {kata}モッタイナイ{hira} {kata}アルネ{hira}!」{n}",
+   "en": null
+  },
+  {
+   "id": "b072_0009",
+   "jp": "「{kata}ソレジャ{hira} {kata}ジャスト{hira} {kata}タイム{hira} {kata}ネ{hira}!{n} {kata}スグ{hira} {kata}コンテスト{hira} {kata}スタ{hira}ー{kata}ト{hira} {kata}ネ{hira}!」{n}{n}「{kata}ユ{hira}ー {kata}ドッグ{hira} {kata}ネ{hira}ー{kata}ム{hira} {kata}イズ{n}{hira} {party} {kata}アルネ{hira}!{n} {kata}ビュ{hira}ー{kata}リホ{hira}ー! {kata}ビュ{hira}ー{kata}リホ{hira}ー!」",
+   "en": null
+  },
+  {
+   "id": "b072_0010",
+   "jp": "「{kata}ディス{hira} {kata}イヤ{hira}ー!{n} {kata}ナンバ{hira}ー{kata}ワン{hira} {kata}ドッグ{hira} {kata}コンテスト{hira}!{n} {kata}マズ{hira} {kata}ハ{hira} {kata}ブモンショウ{hira} {kata}カラネ{hira}!」{n}「{kata}アタマ{hira} {kata}ノ{hira} {kata}ヨサ{hira} {kata}ブモン{hira}!」{n}{n}",
+   "en": null
+  },
+  {
+   "id": "b072_0011",
+   "jp": "「{kata}ツヅイテ{hira} {kata}コウキシン{hira} {kata}ブモン{hira}!」{n}{n}",
+   "en": null
+  },
+  {
+   "id": "b072_0012",
+   "jp": "「{kata}ツヅイテ{hira} {kata}ミノコナシ{hira} {kata}ブモン{hira}!」{n}{n}",
+   "en": null
+  },
+  {
+   "id": "b072_0013",
+   "jp": "「{kata}サイゴ{hira} {kata}ニ{n}{hira} {kata}ソウゴウ{hira} {kata}ユウショウ{hira} {kata}ハ{hira}?」{n}",
+   "en": null
+  },
+  {
+   "id": "b072_0014",
+   "jp": "「{kata}ソウゴウ{hira} {kata}ユウショウ{hira} {kata}ハ{n}{hira} {party} {kata}ニ{hira} {kata}ケッテ{hira}ーー{kata}イ{hira}!」{n}{n}「{kata}ユウショウ{hira} {kata}ショウキン{n}{hira} 10000両 {kata}プレゼント{hira}!」{n}",
+   "en": null
+  },
+  {
+   "id": "b072_0015",
+   "jp": "{hero}は{n}10000両 手に入れた!{n}",
+   "en": null
+  },
+  {
+   "id": "b072_0016",
+   "jp": "{hero}は{n}1000両{n}手に入れた!",
+   "en": null
+  },
+  {
+   "id": "b072_0017",
+   "jp": "「{kata}ワン{hira} {kata}ワン{hira}!」{n}{n}",
+   "en": null
+  },
+  {
+   "id": "b072_0018",
+   "jp": "「{kata}ワン{hira} {kata}ワワン{hira}!」{n}{n}",
+   "en": null
+  },
+  {
+   "id": "b072_0019",
+   "jp": "「{kata}ワワン{hira} {kata}ワン{hira}!」{n}{n}",
+   "en": null
+  }
+ ]
+}

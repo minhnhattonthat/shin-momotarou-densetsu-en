@@ -1,0 +1,1278 @@
+{
+ "block": 24,
+ "mode": 0,
+ "ptr": "C79EA4",
+ "tail": "",
+ "strings": [
+  {
+   "id": "b024_0000",
+   "jp": "{party}{party}の こうげき!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0001",
+   "jp": "やられたときの{n}とくしゅしょりなど{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0002",
+   "jp": "{party}{party}の はがねの 体が{n}打撃を 2倍にして はねかえす!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0003",
+   "jp": "{party}{party}は{n}鬼道吸い取りを 急じた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0004",
+   "jp": "{party}{party}の 体力が{n}半分 吸い取られてしまった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0005",
+   "jp": "{party}{party}は{n}{party}で しぼんでしまった!{page}{n}攻撃力が 元に 戻った!{n}守備力が 元に 戻った!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0006",
+   "jp": "{party}{party}は{n}怒りに 大きく もえあがった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0007",
+   "jp": "{party}{party}の{n}攻撃力が 2倍に ふえた!{n}守備力が 2倍に ふえた!",
+   "en": null
+  },
+  {
+   "id": "b024_0008",
+   "jp": "{party}{party}は{n}口から {kata}クモ{hira}の糸を 吐いた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0009",
+   "jp": "{party}{party}の 武'器に{n}{kata}ネバネバ{hira}の {kata}クモ{hira}の糸が からみつく!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0010",
+   "jp": "{party}{party}は{n}口から {kata}クモ{hira}の糸を 吐いた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0011",
+   "jp": "{party}{party}は{n}目から まぶしい光を はなった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0012",
+   "jp": "{party}{party}は{n}目から 怪しげな光を はなった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0013",
+   "jp": "{party}{party}の 体力と 技が{n}めちゃくちゃに{n}入れかわってしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0014",
+   "jp": "{party}{party}は{n}鬼道呪いときを 急じた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0015",
+   "jp": "{party}{party}は 改心した あかしに{n}{party}{party}の 体力を{n}回復してくれた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0016",
+   "jp": "{party}{party}は{n}しっぽを 切って{n}いちもくさんに 逃げ出した!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0017",
+   "jp": "{party}{party}は{n}雨ごいを はじめた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0018",
+   "jp": "{party}{party}の{n}攻撃力が 2倍に ふえた!{n}守備力が 2倍に ふえた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0019",
+   "jp": "しかし{n}{party}{party}の {kata}ヌルヌル{hira}の体で{n}武'器が すべってしまう!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0020",
+   "jp": "{party}{party}は {kata}ガマ{hira}のあぶらを{n}体じゅうに ぬりたくった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0021",
+   "jp": "{party}{party}は{n}雨ごいを はじめた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0022",
+   "jp": "{party}{party}の{n}攻撃力が 2倍に ふえた!{n}守備力が 2倍に ふえた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0023",
+   "jp": "{party}{party}は{n}さかだてた {kata}ハリ{hira}を 元に 戻した!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0024",
+   "jp": "{party}{party}は{n}全身の {kata}ハリ{hira}を さかだてた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0025",
+   "jp": "{party}{party}は{n}打撃を 半分 はねかえした!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0026",
+   "jp": "{party}{party}は{n}打撃を そのまま はねかえした!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0027",
+   "jp": "{party}{party}は{n}打撃を 2倍にして はねかえした!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0028",
+   "jp": "暗闇の なかで{n}{party}{party}の 目が{n}らんらんと かがやいている!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0029",
+   "jp": "{party}{party}は{n}{party}{party}の {sub:D6}から{n}{party}を 盗んだ!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0030",
+   "jp": "{party}{party}は{n}{party}{party}の {sub:D6}から{n}何か 盗もうとした!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0031",
+   "jp": "しかし {party}{party}は{n}{kata}ヒラリ{hira}と 攻撃を かわした!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0032",
+   "jp": "{party}{party}は{n}鬼道鬼界を 急じた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0033",
+   "jp": "なんと! {party}{party}は{n}{party}{party}と ともに{n}鬼界に 吸いこまれてしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0034",
+   "jp": "しかし {party}{party}に{n}炎の 効きめが 食べられてしまう!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0035",
+   "jp": "{party}{party}は{n}根性の玉を つかって{n}体力1で ふみとどまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0036",
+   "jp": "{party}{party}は 改心した あかしに{n}{party}{party}の 技と 体力を{n}全回復してくれた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0037",
+   "jp": "{party}{party}は{n}体あたりしてきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0038",
+   "jp": "{party}{party}は{n}体あたりしてきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0039",
+   "jp": "{party}{party}は{n}体あたりしてきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0040",
+   "jp": "{party}{party}は まきついてきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0041",
+   "jp": "さらに 体力が{n}{num} 吸い取られてしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0042",
+   "jp": "{party}{party}は{n}木の葉を まきちらした!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0043",
+   "jp": "{party}{party}は{n}自分たちの 並んでる順番が{n}わからなくなってしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0044",
+   "jp": "しかし {party}{party}には{n}効きめが なかった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0045",
+   "jp": "{party}{party}は{n}鬼道吸い取りを 急じた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0046",
+   "jp": "{party}{party}の 体力が{n}{num} 吸い取られてしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0047",
+   "jp": "{party}{party}の 竜が{n}かみついてきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0048",
+   "jp": "{party}{party}の 技の数が{n}{num} 吸い取られてしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0049",
+   "jp": "{party}{party}の 竜の 攻撃!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0050",
+   "jp": "{party}{party}は{n}鬼道とうろうを 急じた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0051",
+   "jp": "連続攻撃!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0052",
+   "jp": "{party}{party}は{n}{party}{party}を ばかした!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0053",
+   "jp": "{party}{party}の {sub:D6}の 中身が{n}めちゃくちゃに{n}入れかわってしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0054",
+   "jp": "{party}{party}は{n}高い声で 仲間を 呼んだ!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0055",
+   "jp": "しかし{n}仲間は かけつけてくれなかった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0056",
+   "jp": "{party}{party}は{n}口から 炎の息を 吐いた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0057",
+   "jp": "{party}{party}は{n}口から あわを 吐きだした!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0058",
+   "jp": "しかし{n}{party}{party}の 攻撃は{n}空を 切った!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0059",
+   "jp": "{party}{party}は{n}不気味に ほほえみだした!{page}{n}「くふっふっふっふっふっ!{n} いちばん 体が 弱っている奴は{n} 誰だあーーーーー?」{page}{n}「{party}{party}! {sub:B6}か!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0060",
+   "jp": "{party}{party}は{n}海の中から 上がってきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0061",
+   "jp": "{party}{party}は{n}海の中に もぐった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0062",
+   "jp": "しかし {party}{party}は{n}海の中に もぐっていて{n}{party}{party}の 攻撃は あたらない!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0063",
+   "jp": "{party}{party}は{n}海の中から 攻撃してきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0064",
+   "jp": "{party}{party}は{n}集中攻撃の 命令を 出した!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0065",
+   "jp": "{party}{party}が えらばれた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0066",
+   "jp": "しかし {party}{party}は{n}術の 効きめを はねかえしてきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0067",
+   "jp": "伏龍{n}「{kata}グォォォォ{hira}……{kata}ンッ{hira}!{n} なんじらの力 そのていどか!?」{n}「わしを 悲しみのふちに 立たすか?{n} わが前から 消えさるが よい!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0068",
+   "jp": "{party}{party}は なぜか{n}大きな声で{n}数を かぞえはじめた!?{page}{n}「ひとーーーーーつ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0069",
+   "jp": "「ふたーーーーーつ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0070",
+   "jp": "「みーーーーーっつ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0071",
+   "jp": "{party}{party}は こんしんの力で{n}金棒を ふりまわした!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0072",
+   "jp": "福の神が あらわれた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0073",
+   "jp": "「いつも きだての よい{n} {party}{party}に わしから{n} ほうびを つかわそう!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0074",
+   "jp": "{sub:A0}は 100両 手に入れた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0075",
+   "jp": "大黒様が あらわれた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0076",
+   "jp": "「おおっ! よいところで{n} あったものぢゃ {party}{party}!」{n}{n}「{sub:B6}たちを わしの 力で{n} 無敵に してやろう!」{n}{n}「これから しばらくの 間{n} {sub:B6}たちの 体が{n} 光ってるうちは 無敵{sub:A7}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0077",
+   "jp": "「{kata}ボンビ{hira}ー! 貧乏神 なのねん!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0078",
+   "jp": "貧乏神の 攻撃!",
+   "en": null
+  },
+  {
+   "id": "b024_0079",
+   "jp": "お金を1両 ぬすまれた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0080",
+   "jp": "「こどもの {kata}ミルク{hira}代が{n} 欲しいのねん!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0081",
+   "jp": "「今晩の おかずを{n} 一品 ふやしたいのねん!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0082",
+   "jp": "「たまには ふんぱつして{n} かいてんずし 行きたいのねん!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0083",
+   "jp": "「{kata}インスタントラ{hira}ー{kata}メン{hira}に{n} 生たまご 入れたいのねん!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0084",
+   "jp": "「{kata}プワッチ{hira}! {kata}プワッチ{hira}!{n} 赤貧 なのねん!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0085",
+   "jp": "赤貧の 攻撃!{page}{n}{party}{party}は お金を 半分{n}{num}両 ぬすまれた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0086",
+   "jp": "「むふ! むふふふふ!」{page}{n}赤貧は お金を盗む 喜びに{n}こうふんして 盗むことを{n}わすれて しまっていた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0087",
+   "jp": "「今夜は すきやき なのねん!{n} {kata}ブタ{hira}肉の すきやき なのねん!」",
+   "en": null
+  },
+  {
+   "id": "b024_0088",
+   "jp": "「今夜は {kata}ジャガイモ{hira} たっぷり!{n} 具の 大きい {kata}カレ{hira}ーなのねん!」",
+   "en": null
+  },
+  {
+   "id": "b024_0089",
+   "jp": "「{kata}クルマ{hira}は 中古の {kata}サニ{hira}ー{kata}ラ{n}{hira} 48回 ばらい なのねん!」",
+   "en": null
+  },
+  {
+   "id": "b024_0090",
+   "jp": "「{kata}レインコ{hira}ー{kata}ト{hira} 欲しいのねん!{n} もちろん {kata}リバ{hira}ー{kata}シブル{hira}なのねん!」",
+   "en": null
+  },
+  {
+   "id": "b024_0091",
+   "jp": "「{kata}ボク{hira} 一文無し なのねん!{n} ひもじいのねん! ううっ さぶー!{n} お金 1000両 欲しいのねん!」",
+   "en": null
+  },
+  {
+   "id": "b024_0092",
+   "jp": "「さ… さみしいのねん…!{n} でも… 誰だって きょうを{n} 生きるのに ひっしなのねん…」{n}「{kata}ボク{hira}… わがまま だったのねん!{n} ごめんねなのねん! さよなら!…」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0093",
+   "jp": "一文無しは{n}さみしそうに さっていった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0094",
+   "jp": "「ううっ! なんて やさしいのねん!{n} せ… せめて… これを{n} うけとって ほしいのねん!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0095",
+   "jp": "{party}{party}は {party}を{n}さしだした!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0096",
+   "jp": "「無いのに はい なんて言わないで…{n} 誰も 信じられなく なっちゃう{n} そんなの {kata}ボク{hira} いやだよー!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0097",
+   "jp": "一文無しは やりきれない{n}顔つきで さっていった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0098",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! そんなに{n} ねむりたくないなら 宿屋に{n} 入れなく してやるぜ!」{page}{n}{party}{party}は しばらくの間{n}宿屋に 泊まれなくなってしまった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0099",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! そうかい?{n} じゃあ! {kata}ウインドウ{hira}も なにも{n} 消してやるからよ! {kata}ヘイ{hira} {kata}ヘイ{hira}!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0100",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! 金持ちに なるには{n} まずは 気分からだぜ!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0101",
+   "jp": "{party}{party}は 金持ちになった{n}気分で 持っていた お金を{n}すべて ばらまいてしまった!{page}{n}{party}{party}の 持ち金 0!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0102",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}!{n} 風になって 消えちまおうぜ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0103",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}!{n} よっぱらっちまいな!{n} さすらっちまいな!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0104",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}!{n} 本当に いいんだな?{n} 1段から やりなおしだぜ!」",
+   "en": null
+  },
+  {
+   "id": "b024_0105",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}!{n} 本当に やるぜ!{n} いいんだな!」",
+   "en": null
+  },
+  {
+   "id": "b024_0106",
+   "jp": "「{sub:D0}{n} いい 心がけだ!{n} 1段から やりなおすんだな!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0107",
+   "jp": "「{sub:D0}{n} 気の小さい 奴だな!{n} もう一度 えらぶんだな!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0108",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}!{n} 石の上にも 3年って{n} 言葉が あったな!」{page}{n}ばびょーーーん!{page}{n}{party}{party}は 石に なってしまった!{n}しばらくの間 動けない!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0109",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}!{n} 汚ねえ {sub:D6}だな!{n} {kata}オレ{hira}が せいり してやるぜ!」{page}{n}「{sub:D0} どうだ!{n} きれいに なっただろ!{n} {sub:D6}を のぞいてみ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0110",
+   "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} {kata}オレ{hira}は かいしん したぞ!{n} このまえは わるかったな!」{n}「さあ! きみの のぞみを{n} かなえてあげよう {sub:D0}」{n}{n}「どれでも すきなほうを{n} えらびたまえ! {sub:D0}」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0111",
+   "jp": "{party}は {party}への{n}うらみを はらした!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0112",
+   "jp": "雪だるまが あらわれた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0113",
+   "jp": "雪だるまは 笑いながら{n}さって行った!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0114",
+   "jp": "{party}{party}は{n}ましらの {kata}マネ{hira}をした!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0115",
+   "jp": "{party}{party}は{n}鬼道ゆめみを 急じた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0116",
+   "jp": "{party}{party}は{n}{party}{party}の {kata}マネ{hira}をした!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0117",
+   "jp": "しかし {party}{party}の 体に{n}打撃の 効きめが{n}吸い取られてしまう!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0118",
+   "jp": "しかし {party}{party}の 体に{n}術の 効きめが 吸い取られてしまう!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0119",
+   "jp": "{party}{party}は{n}鬼道吸い取りを 急じた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0120",
+   "jp": "{party}{party}の 守備力が{n}{num} 吸い取られてしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0121",
+   "jp": "{party}{party}の 守備力が{n}{num}上がった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0122",
+   "jp": "「命を かけた 戦いに{n} 武'器や防具など 無用だ!」{n}{page}{n}「おたがい おのれの こぶしを{n} 武'器に 正々堂々{n} 戦おう ではないか!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0123",
+   "jp": "なんと! {party}{party}は{n}{party}{party}の 武'器 防具を{n}すべて はずして しまった!{page}{n}「いざ まいるぞ!」{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0124",
+   "jp": "しかし {party}{party}の 体に{n}打撃の 効きめが{n}吸い取られてしまう!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0125",
+   "jp": "{party}{party}は{n}とっくりの酒を{n}ぐびりと あおった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0126",
+   "jp": "{party}{party}は{n}とっくりの酒を{n}ぐびりぐびりと あおった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0127",
+   "jp": "{party}{party}は{n}とっくりの酒を{n}ぐびりぐびりぐびりと あおった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0128",
+   "jp": "連続攻撃!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0129",
+   "jp": "三千世界{n}「義!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0130",
+   "jp": "三千世界{n}「仁!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0131",
+   "jp": "三千世界{n}「礼!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0132",
+   "jp": "三千世界{n}「信!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0133",
+   "jp": "三千世界{n}「おどろいた! これほどの{n} 剣'の つかい手が いたとは!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0134",
+   "jp": "三千世界{n}「すばらしい! おたがいの{n} 弱点を おぎなう 戦い方か!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0135",
+   "jp": "三千世界{n}「おどろいた! {kata}オレ{hira}には ない{n} 剣'のやさしさを 持っている!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0136",
+   "jp": "三千世界{n}「すばらしい! 新しい時代の{n} 夜明けを 見るような 気分だ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0137",
+   "jp": "{party}{party}は{n}{party}{party}の 手もとを ねらって{n}攻撃してきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0138",
+   "jp": "{party}{party}は{n}武'器を 落としてしまった!{n}攻撃力が {num}下がった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0139",
+   "jp": "{party}{party}は{n}蛇'を 投げつけてきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0140",
+   "jp": "奪衣婆{n}「{kata}グヒヒヒヒッ{hira}!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0141",
+   "jp": "「それじゃ! さっそく{n} {sub:B6}さんの {party}を{n} いただこうかね! {kata}グヒヒヒヒッ{hira}!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0142",
+   "jp": "奪衣婆{n}「これは 三途の川を わたるときの{n} おやくそく だからねえ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0143",
+   "jp": "「あたしも 伐折羅王さまの{n} ごめいれいに そむくわけには{n} いかないしね! {kata}グヒヒヒヒッ{hira}!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0144",
+   "jp": "{party}{party}は{n}不気味に 笑いながら{n}つかみかかってきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0145",
+   "jp": "{party}{party}は {party}{party}に{n}{party}を 取られた!{n}守備力が {num}下がった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0146",
+   "jp": "「わるさ する子は いねえかーっ?」{page}{n}{party}{party}は 両手を ひろげて{n}つかみかかってきた!{page}{n}なんと!{n}{party}{party}が さらわれてしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0147",
+   "jp": "{sub:A0}の{n}攻撃力が {num}下がった!",
+   "en": null
+  },
+  {
+   "id": "b024_0148",
+   "jp": "守備力が {num}下がった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0149",
+   "jp": "すばやさが {num}下がった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0150",
+   "jp": "{party}{party}は{n}鬼道吸い取りを 急じた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0151",
+   "jp": "{party}{party}の 技の数が{n}半分 吸い取られてしまった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0152",
+   "jp": "「{kata}ピッ{hira} {kata}ポッ{hira} {kata}パッ{hira}!{n} 明日の お天気を{n} おしらせしまーす!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0153",
+   "jp": "「みなさん おはようございます!{n} きょうの お天気は {party}です!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0154",
+   "jp": "「あらー!? あたしの よそうが{n} 当たるなんて 何年ぶりかしら?{n} うっれしーーーーーーーーーい!」{page}{n}「この うれしい きもち!{n} {hero}さんたち! うけとめてー!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0155",
+   "jp": "何なんだ! この おんな!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0156",
+   "jp": "「んもーー! また あたしの{n} よそうが {kata}ハズレ{hira}ちゃったわ!{n} ごめんなさーーーーーい!」{page}{n}「これは {sub:C9}からの{n} おわびの し・る・し!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0157",
+   "jp": "「明日は 日本晴れの{n} とっても よい お天気です!{n} {kata}デ{hira}ー{kata}ト{hira}に さいてきよ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0158",
+   "jp": "「明日は 晴れ!{n} おせんたくに いいけど{n} やっぱり {kata}デ{hira}ー{kata}ト{hira}したいなー!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0159",
+   "jp": "「明日は うっとおしい 雨!{n} ちょっぴり ゆううつな 雨!{n} 1日 おうちに いよっかなー!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0160",
+   "jp": "「明日は きっと 雪!{n} あなたの 心のような{n} まっしろーーーーーい 雪!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0161",
+   "jp": "{party}{party}は 口から{n}怪しい けむりを 吐き出し{n}{party}{party}を まどわせた!{n}「{party}{party}よ! {sub:B6}は{n} {party}の術を{n} となえるのだ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0162",
+   "jp": "なんと! {party}{party}は{n}{party}{party}に あやつられるまま{n}{party}の術を となえた!",
+   "en": null
+  },
+  {
+   "id": "b024_0163",
+   "jp": "{party}{party}は{n}こんにゃくのような しっぽで{n}{kata}ペタペタ{hira}した!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0164",
+   "jp": "{party}{party}の 背すじに{n}つめたいものが 走った!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0165",
+   "jp": "しっぽの おかげで{n}{party}{party}の 気力が 戻ってきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0166",
+   "jp": "{party}{party}は{n}じっと たえている!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0167",
+   "jp": "黒河童{n}「{kata}カパッパ{hira}! まいった!」{n}{n}「こんなに たくさん{n} {kata}キュウリ{hira}を くれる人は{n} はじめてだよ!」{n}「あんた とっても いい人だ!」{n}{n}{n}「{kata}カパッパ{hira}! この{kata}オレ{hira}を{n} 仲間に してくれ!」{n}",
+   "en": null
+  },
+  {
+   "id": "b024_0168",
+   "jp": "「{kata}カパッパ{hira}! これからは{n} {kata}オレ{hira}も 心を 入れかえて{n} あんたの ために 戦うぜ!」",
+   "en": null
+  },
+  {
+   "id": "b024_0169",
+   "jp": "「{kata}カパッパ{hira}! ざんねんだな!{n} えんが あったら{n} また 会おうぜ!」{n}黒河童は 川の中へ きえさった!",
+   "en": null
+  },
+  {
+   "id": "b024_0170",
+   "jp": "でた! ごぞんじ{n}{party}{party}の ひっさつ技!{n}盗むぞ! 盗むぞ! {kata}シュシュッ{hira}!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0171",
+   "jp": "{party}{party}は なんと!{n}お金を 全部 盗んだ!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0172",
+   "jp": "でた! ごぞんじ{n}{party}{party}の ひっさつ技!{n}盗むぞ! 盗むぞ! {kata}シュシュッ{hira}!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0173",
+   "jp": "{party}{party}は なんと!{n}{party}{party}の {sub:D6}の 中身を{n}全部 盗んだ!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0174",
+   "jp": "{party}{party}は {sub:D6}から{n}{kata}キュウリ{hira}を 盗んだ!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0175",
+   "jp": "{party}{party}は{n}鬼道まったいらを 急じた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0176",
+   "jp": "{party}{party}の 体力と 技の数が{n}みんな いっしょに なってしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0177",
+   "jp": "でたーっ!{n}{party}{party}の{n}やめられない止まらない攻撃!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0178",
+   "jp": "{party}{party}の ひいている 馬が{n}けとばしてきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0179",
+   "jp": "{party}{party}は{n}ただよっている!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0180",
+   "jp": "{party}{party}は{n}貝がらを 開いた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0181",
+   "jp": "{party}{party}は{n}貝がらを とじた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0182",
+   "jp": "{party}{party}は{n}ふくらんだ 体を 元に もどした!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0183",
+   "jp": "{party}{party}は{n}大きく ふくれあがった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0184",
+   "jp": "{party}{party}は 大きく はじけた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0185",
+   "jp": "{party}{party}は 魚雷を 撃ち出してきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0186",
+   "jp": "{party}{party}は{n}月の光を 集めた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0187",
+   "jp": "{party}{party}は{n}不気味に ほほえみだした!{page}{n}「くふっふっふっふっふっ!{n} いちばん 元気なやつは 誰だあ?」{page}{n}「{party}{party}! {sub:B6}か!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0188",
+   "jp": "{party}{party}は{n}口から 氷の息を 吐いた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0189",
+   "jp": "{party}{party}は{n}不気味に 笑いながら{n}つかみかかってきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0190",
+   "jp": "{party}{party}は {party}{party}に{n}{party}を 取られた!{n}攻撃力が {num}下がった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0191",
+   "jp": "{party}{party}は{n}目から 怪しげな光を はなった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0192",
+   "jp": "{party}{party}は{n}術が 思うように{n}となえられなくなってしまった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0193",
+   "jp": "歴史の鬼は 歴史のかなたへ{n}消えて行って しまった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0194",
+   "jp": "「まだまだ! まだまだ!{n} {kata}ライフ{hira}回復で まだまだ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0195",
+   "jp": "「{kata}ピシュ{hira}ー{kata}ン{hira}! {kata}ピシュ{hira}ー{kata}ン{hira}!{n} よっしゃ! うまく行ったぜ!{n} {kata}ワンナップ{hira}だあああああっ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0196",
+   "jp": "しかし 仲間は こなかった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0197",
+   "jp": "「{kata}ピシュ{hira}ー{kata}ン{hira}! {kata}ピシュ{hira}ー{kata}ン{hira}!{n} {kata}ゲ{hira}ー{kata}ム{hira}の {kata}テク{hira}で{n} {kata}オレ{hira}に 勝てると おもうなよ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0198",
+   "jp": "「{kata}ピシュ{hira}ー{kata}ン{hira}! {kata}ピシュ{hira}ー{kata}ン{hira}!{n} 右上右上AAだ!{n} 左下左下BBだ! おりゃ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0199",
+   "jp": "「{kata}ピシュ{hira}ー{kata}ン{hira}! {kata}ピシュ{hira}ー{kata}ン{hira}!{n} おめえらは なんて{n} かたい やつらなんだ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0200",
+   "jp": "「{kata}ピシュ{hira}ー{kata}ン{hira}! {kata}ピシュ{hira}ー{kata}ン{hira}!{n} {kata}カチッ{hira} {kata}カチッ{hira}! げげぼっ!{n} もう {kata}ボム{hira}が ねえ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0201",
+   "jp": "{kata}ドッカ{hira}ー{kata}ン{hira}! {kata}ゲ{hira}ー{kata}ムオ{hira}ー{kata}バ{hira}ー!{page}{n}「まだまだ! まだまだ!{n} {kata}コンティニュ{hira}ーで もう1回だ!」{page}{n}{kata}ゲ{hira}ー{kata}ム{hira}の鬼は よみがえった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0202",
+   "jp": "「へい! らっしゃい!{n} {sub:C0} いかがっすか?{n} {kata}メニュ{hira}ーは こちら!」",
+   "en": null
+  },
+  {
+   "id": "b024_0203",
+   "jp": "「それー! 突撃ー{kata}ッ{hira}!{n} {party}{party}に 向かって{n} 集中攻撃だー{kata}ッ{hira}!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0204",
+   "jp": "「{sub:C9}は RPG史上 いちばん{n} 小さな 敵{kata}キャラ{hira}ですよー!{n} 誰かに おしえてくださーい」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0205",
+   "jp": "「{sub:C9}は のみ鬼じゃないですよー{n} ちゃんと 色がえ してますよー{n} 近づいて 見て{sub:C5}ねー!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0206",
+   "jp": "「{sub:C9}は 小さい わりに{n} しぶといでしょー?{n} みなさん そうおっしゃいますよー」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0207",
+   "jp": "「{sub:C9}は そうかんたんに{n} こらしめることが できませんよー{n} 体力{num}ありますからねー」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0208",
+   "jp": "「{sub:C9}と ばかり 戦ってると{n} あきちゃいますよー!{n} とくちょう ないですからねー」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0209",
+   "jp": "「{sub:C9}は 術も 特珠'攻撃も{n} ありませんよー つまんないですよー{n} 先に 行くほうが いいですよー」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0210",
+   "jp": "「{sub:C9}と 世間話 しますか?{n} きのう せっけんで 体を あらった{n} せっけんばなし ですよー」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0211",
+   "jp": "{party}{party}は{n}どろを 投げつけてきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0212",
+   "jp": "{party}{party}は{n}鉄の玉を 投げつけてきた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0213",
+   "jp": "{party}{party}は 両手を ひろげて{n}つかみかかってきた!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0214",
+   "jp": "「おい {sub:A0}!{n} この{kata}オレ{hira}様と {sub:B6}とでは{n} 力の差が ありすぎる!」{page}{n}「そこで! {kata}オレ{hira}が{n} これから となえる術を{n} {sub:B6}に えらばせてやろう!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0215",
+   "jp": "「{party}の術だな!{n} よかろう! いくぞ{sub:A0}!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0216",
+   "jp": "{party}{party}が 大きく 羽を はばたいた!{page}{n}邪悪な風が {party}{party}を おそった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0217",
+   "jp": "{party}{party}が 口を 大きく あけた!{page}{n}{party}{party}が 炎を 吐く!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0218",
+   "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!」{n}{n}「{sub:A0}!」{n}{n}{n}「月の血は {kata}オレ{hira}様に 大いなる{n} 力を あたえてくれたぞ!」{n}{n}「こんなことなら はじめから{n} かぐや姫の 生き血でも{n} 飲んでいれば よかった!」{n}「見よ! こんなに{n} 美しい 体を!」{n}{n}「見よ! こんなに{n} 強い 力を!」{n}{n}「見よ! こんなに{n} かしこい 知力を!」{n}{n}「{kata}オレ{hira}様は すべてを{n} 手に入れたのだっ!」{n}{n}「これから{n} 月に行き 月の血を{n} あびるほど 飲むのだ!」{n}「どうだ! {sub:A0}!{n} {sub:B6}も {kata}オレ{hira}様と いっしょに{n} 月へ 行かぬか?」{n}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!」{n}{n}{n}「誰が 月の血を{n} {sub:B6}に わけてやるものか!」{n}{n}「この空も! あの海も!{n} あの大地も! 森も! 林も!{n} 家も! 蔵も! 金も!」{n}「あらゆる 富は{n} 集まるべくして {kata}オレ{hira}様のもとに{n} あつまったのだーーーーー{kata}ッ{hira}!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0219",
+   "jp": "{party}{party}は{n}半河沙の玉を {sub:C4}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0220",
+   "jp": "{party}{party}は 内なる力を{n}気合いで 引き出す!{n}{n}{party}{party}{n}「はあああああああああああっ!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0221",
+   "jp": "{party}{party}が 天を 指さした!{page}{n}{party}{party}の 指先に 電流が 集まる!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0222",
+   "jp": "{party}{party}は{n}{party}{party}には{n}打撃を あたえなかった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0223",
+   "jp": "伐折羅王{n}「夜叉よ!{n} 何を ためらう!」{n}「{sub:B6}は{n} 鬼のおきてを わすれたか!」{n}{n}「われら 鬼族は{n} 戦いを とおして{n} わかりあうことを!」{n}「正しきことも 悪しきことも{n} すべては 戦いが{n} 真実を おしえてくれる!」{n}「{sub:B6}が わしに{n} 刃を むけないなら{n} わしから 行くぞ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0224",
+   "jp": "夜叉姫{n}「わかりました! 父上!」{n}{n}「でも {sub:C9}は{n} どうしても 父上に{n} わかって ほしいのです!」{n}「人間が 愛してやまぬ{n} 友情の力の すばらしさを!」{n}{n}「だから 戦います!」{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0225",
+   "jp": "伐折羅王{n}「{sub:B6}たちの{n} 戦い方は よく わかった!」{n}「そのていどで わしを{n} こらしめようとは あさはかな!」{n}{n}「戦いとは こういうものだ!」{n}{n}",
+   "en": null
+  },
+  {
+   "id": "b024_0226",
+   "jp": "伐折羅王{n}「…………………………」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0227",
+   "jp": "{party}{party}は{n}{party}{party}の {party}の術を{n}吸い取った!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0228",
+   "jp": "{kata}ダイダ{hira}王子は{n}{hero}の 月の水晶を{n}はじき とばした!{n}くだかれた 月の水晶は{n}四方八方に とびちった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0229",
+   "jp": "{party}{party}は{n}{party}{party}の {party}を{n}はじき とばした!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0230",
+   "jp": "{kata}ダイダ{hira}王子{n}「けっ! くだらん!{n} 話に ならんな!」{page}{n}「まず すばやさが たらん!{n} しかも つねに 友を{n} かばおうかと かんがえている!」{page}{n}「かばうのは そこの{n} ふとった {kata}ガキ{hira}に{n} まかせたほうが いい!」{page}{n}{kata}ダイダ{hira}王子は{n}戦いを やめてしまった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0231",
+   "jp": "{kata}ダイダ{hira}王子{n}「{hero}!」{n}{n}「まだ 術を どこで かけるのかの{n} はんだんが あまい!」{n}{n}「戦いに かたちが ない!」{n}{n}{n}{kata}ダイダ{hira}王子は{n}戦いを やめてしまった!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0232",
+   "jp": "{party}{party}は{n}攻撃を 受け止めた!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0233",
+   "jp": "{kata}アジャセ{hira}王子{n}「{sub:A0}… みごとなまでに{n} 刀に みだれが ない」{page}{n}「水晶のような 心を{n} 人間が もっているとは!{n} {sub:C9}の ふかくだ…」{page}{n}{kata}アジャセ{hira}は 攻撃を やめてしまった!{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0234",
+   "jp": "夜叉姫{n}「{hero}! これが あなたの{n} 力なのね! うれしくなるわ!」{page}{n}「{sub:C9}も ひさしぶりに{n} 本気を 出そうかしら?」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0235",
+   "jp": "夜叉姫が ついに 本気になった!{n}{n}{page}{n}夜叉姫の 攻撃力が 2倍になった!{n}夜叉姫の 守備力が 2倍になった!{n}夜叉姫の はやさが 2倍になった!{page}{n}「{hero}! たのしく{n} 戦いましょうね!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0236",
+   "jp": "風神(ふうじん){n}「ぴゅるるるるぅ!{n} ひさしぶりだな! {sub:A0}!」{page}{n}「こうして ここで {sub:B6}に{n} ふたたび 会うことを わびる!」{n}{n}「あのときは {sub:B6}を{n} 正しいと おもった!{n} しかし 鬼には 鬼のおきてがある」{n}「えんま様は {kata}カルラ{hira}の 命令は{n} 伐折羅王さま ひいては {kata}ダイダ{hira}王子の{n} 命令だから 聞けという!」{n}「{kata}オレ{hira}に とって{n} えんま様は ぜったいだ!」{n}{page}{n}「{kata}カルラ{hira}様の いう{n} {sub:B6}たちの 友情とやらも{n} たしかめて みたい!」{page}{n}「ぴゅるるるるぅ!」{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0237",
+   "jp": "{kata}カルラ{n}{hira}「{kata}キキキキキッ{hira}! 風神!{n} なぜ {hero}を 飛ばさぬ?」{page}{n}風神{n}「ぴゅるるるるぅ! {hero}は!」{n}{page}{n}風神{n}「前にも まして 愛と 勇気が{n} みなぎっているのです!」{n}{kata}カルラ{n}{hira}「ええい! 何を 血まよう!{n} 風神! {kata}オレ{hira}のいうことを 聞け!」{page}{n}風神{n}「…………………」{n}{page}{n}{kata}カルラ{n}{hira}「{kata}キキキキキッ{hira}! いうことを 聞け!{n} 伐折羅王さまの 命令だぞ!」{page}{n}風神{n}「ぴゅるるるるぅ! うぬぬぬぬぬ!{n} し… しかた あるまい!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0238",
+   "jp": "風神{n}「ぴゅるるるるぅ!{n} わが友 風よ! われに 力を!」{n}「樹木(じゅもく)を ねこそぎ{n} 海の 波がしらを さかまけ!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0239",
+   "jp": "{party}{party}は{n}竜巻を おこした!{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0240",
+   "jp": "風神{n}「ぴゅるるるるぅ!{n} 鬼のおきてを わすれたか?」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0241",
+   "jp": "風神{n}「ぴゅるるるるぅ!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0242",
+   "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} 問答無用! 戦うのみ!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0243",
+   "jp": "「しぜんに さわやか!{n} すっきり! {kata}ナチュラル{hira}攻撃!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0244",
+   "jp": "「はげしく あらぶる!{n} もえろ! {kata}フォルテッシモ{hira}攻撃!」{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0245",
+   "jp": "「やさしく! やさしく!{n} 愛の {kata}ピアニシモ{hira}攻撃!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0246",
+   "jp": "「ばりばり たたくぞ!{n} ごうりき! {kata}クレッシェンド{hira}攻撃!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0247",
+   "jp": "{party}{party}は{n}{party}{party}から{n}みごと いっぽん とった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0248",
+   "jp": "「{sub:A8}! わしの{n} 鹿角の術の すごさは {sub:B6}が{n} いちばん 知っておるな?」{page}{n}「ろっかくーーーーーん!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0249",
+   "jp": "{party}{party}は{n}{party}{party}から{n}みごと いっぽん とった!{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0250",
+   "jp": "「{hero}! いま{n} わしと {sub:B6}の 体力は{n} 1に なっておるぢゃろ!」{n}「その 体力を わしより{n} 先に 全回復させたら{n} {sub:B6}の 勝ち{sub:A7}{n}「自分の 体力を{n} 回復ばかり していると{n} わしが 攻撃 するぞ!」{n}「{sub:A8}! では 行くぞ!」{n}{n}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0251",
+   "jp": "「わしは とっくに 技の数を{n} つかいきったと いうのに{n} なにを ぐずぐず しとるん{sub:A7}{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0252",
+   "jp": "「さーて! 誰の{n} 体力を 回復させるかな?{n} まーんきーんたーん!」{page}",
+   "en": null
+  },
+  {
+   "id": "b024_0253",
+   "jp": "「{hero}! そう かんたんに{n} 修行は 終わらんぞ!{n} きーんそーーーーーう!」{page}",
+   "en": null
+  }
+ ]
+}
