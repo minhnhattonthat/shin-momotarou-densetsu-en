@@ -7,882 +7,882 @@
   {
    "id": "b017_0000",
    "jp": "{kata}ファミコン{hira}版『桃伝』のとき{n}{kata}サル{hira}は 何に しばりつけられていた?{n}",
-   "en": null
+   "en": "In the Famicom 'Momotaro Densetsu', what was the Monkey tied to?{n}"
   },
   {
    "id": "b017_0001",
    "jp": "地蔵",
-   "en": null
+   "en": "A Jizo statue"
   },
   {
    "id": "b017_0002",
    "jp": "松の木",
-   "en": null
+   "en": "A pine tree"
   },
   {
    "id": "b017_0003",
    "jp": "つづら",
-   "en": null
+   "en": "A wicker basket"
   },
   {
    "id": "b017_0004",
    "jp": "{kata}ファミコン{hira}版『桃伝』で{n}ぎんの{sub:AC}の 角は 何本?{n}",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', how many horns did the Silver Oni have?{n}"
   },
   {
    "id": "b017_0005",
    "jp": "角はなかった",
-   "en": null
+   "en": "It had no horns"
   },
   {
    "id": "b017_0006",
    "jp": "1本",
-   "en": null
+   "en": "One"
   },
   {
    "id": "b017_0007",
    "jp": "2本",
-   "en": null
+   "en": "Two"
   },
   {
    "id": "b017_0008",
    "jp": "はらだしの したは 何枚?{n}{n}",
-   "en": null
+   "en": "How many tongues does Bellyman have?{n}{n}"
   },
   {
    "id": "b017_0009",
    "jp": "1枚",
-   "en": null
+   "en": "One"
   },
   {
    "id": "b017_0010",
    "jp": "2枚",
-   "en": null
+   "en": "Two"
   },
   {
    "id": "b017_0011",
    "jp": "3枚",
-   "en": null
+   "en": "Three"
   },
   {
    "id": "b017_0012",
    "jp": "{kata}ファミコン{hira}版『桃伝』で{n}浦島の村で {kata}カメ{hira}を たすけるために{n}{sub:A0}は いくら はらった?",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', how much did Momotaro pay to save the turtle in Urashima's village?"
   },
   {
    "id": "b017_0013",
    "jp": "100両",
-   "en": null
+   "en": "100 ryo"
   },
   {
    "id": "b017_0014",
    "jp": "500両",
-   "en": null
+   "en": "500 ryo"
   },
   {
    "id": "b017_0015",
    "jp": "1000両",
-   "en": null
+   "en": "1000 ryo"
   },
   {
    "id": "b017_0016",
    "jp": "{kata}ファミコン{hira}版『桃伝』で{n}金太郎に ばけていた鬼の 正体を{n}あばいた ほうほうとは?",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', how did you expose the oni disguised as Kintaro?"
   },
   {
    "id": "b017_0017",
    "jp": "はらがけをはずす",
-   "en": null
+   "en": "Take off his bib"
   },
   {
    "id": "b017_0018",
    "jp": "すもうに勝つ",
-   "en": null
+   "en": "Beat him at sumo"
   },
   {
    "id": "b017_0019",
    "jp": "{kata}クイズ{hira}にこたえる",
-   "en": null
+   "en": "Answer a quiz"
   },
   {
    "id": "b017_0020",
    "jp": "{kata}ファミコン{hira}版『桃伝』のときに{n}{kata}スリ{hira}の銀次が はじめて 出てきたのは{n}どこの村?",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', in which village did Ginji the Pickpocket first appear?"
   },
   {
    "id": "b017_0021",
    "jp": "旅立ちの村",
-   "en": null
+   "en": "Journey's Start Village"
   },
   {
    "id": "b017_0022",
    "jp": "寝太郎の村",
-   "en": null
+   "en": "Netaro's Village"
   },
   {
    "id": "b017_0023",
    "jp": "ほほえみの村",
-   "en": null
+   "en": "Smile Village"
   },
   {
    "id": "b017_0024",
    "jp": "{kata}ファミコン{hira}版『桃伝』で{n}{sub:A0}が {kata}スリ{hira}の銀次に{n}盗まれた 宝物は?",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', what treasure did Ginji the Pickpocket steal from Momotaro?"
   },
   {
    "id": "b017_0025",
    "jp": "{kata}ホトケ{hira}のおはち",
-   "en": null
+   "en": "Buddha's Bowl"
   },
   {
    "id": "b017_0026",
    "jp": "{kata}リュウ{hira}のくびかざり",
-   "en": null
+   "en": "Dragon Necklace"
   },
   {
    "id": "b017_0027",
    "jp": "{kata}キン{hira}いろのけがわ",
-   "en": null
+   "en": "Golden Fur"
   },
   {
    "id": "b017_0028",
    "jp": "次の 3体の 鬼の中で{n}{kata}ファミコン{hira}版『桃伝』に{n}出てこなかったのは?",
-   "en": null
+   "en": "Of these three oni, which one did not appear in the Famicom game 'Momotaro Densetsu'?"
   },
   {
    "id": "b017_0029",
    "jp": "きんの{sub:AC}",
-   "en": null
+   "en": "Gold Oni"
   },
   {
    "id": "b017_0030",
    "jp": "{kata}パ{hira}ー{kata}ル{hira}の{sub:AC}",
-   "en": null
+   "en": "Pearl Oni"
   },
   {
    "id": "b017_0031",
    "jp": "{kata}プラチナ{hira}の{sub:AC}",
-   "en": null
+   "en": "Platinum Oni"
   },
   {
    "id": "b017_0032",
    "jp": "{kata}ファミコン{hira}版『桃伝』のとき{n}希望の都の 宿は{n}一泊 いくらだった?",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', how much was one night at the inn in the Capital of Hope?"
   },
   {
    "id": "b017_0033",
    "jp": "100両",
-   "en": null
+   "en": "100 ryo"
   },
   {
    "id": "b017_0034",
    "jp": "500両",
-   "en": null
+   "en": "500 ryo"
   },
   {
    "id": "b017_0035",
    "jp": "1000両",
-   "en": null
+   "en": "1000 ryo"
   },
   {
    "id": "b017_0036",
    "jp": "{kata}ファミコン{hira}版『桃伝』のときに{n}醜女が 守っていた 宝物とは?{n}",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', what treasure was Shikome guarding?{n}"
   },
   {
    "id": "b017_0037",
    "jp": "ひむろのけずりひ",
-   "en": null
+   "en": "Icehouse Shaved Ice"
   },
   {
    "id": "b017_0038",
    "jp": "ひむろのきんちゃく",
-   "en": null
+   "en": "Icehouse Pouch"
   },
   {
    "id": "b017_0039",
    "jp": "{kata}ホウライ{hira}の玉",
-   "en": null
+   "en": "Horai Jewel"
   },
   {
    "id": "b017_0040",
    "jp": "{kata}ファミコン{hira}版『桃伝』のときの{n}黄泉の塔の 敵の{kata}ボス{hira}は?{n}",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', who was the enemy boss of the Tower of Yomi?{n}"
   },
   {
    "id": "b017_0041",
    "jp": "ふうじん",
-   "en": null
+   "en": "Fujin"
   },
   {
    "id": "b017_0042",
    "jp": "らいじん",
-   "en": null
+   "en": "Raijin"
   },
   {
    "id": "b017_0043",
    "jp": "らしょうもんの{sub:AC}",
-   "en": null
+   "en": "Rashomon Oni"
   },
   {
    "id": "b017_0044",
    "jp": "{kata}ファミコン{hira}版『桃伝』で{n}{kata}フグ{hira}の毒に あたらないと{n}手に入らなかった 宝物は?",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', which treasure could you only get by eating poisonous blowfish?"
   },
   {
    "id": "b017_0045",
    "jp": "{kata}リュウ{hira}のくびかざり",
-   "en": null
+   "en": "Dragon Necklace"
   },
   {
    "id": "b017_0046",
    "jp": "{kata}キン{hira}いろのけがわ",
-   "en": null
+   "en": "Golden Fur"
   },
   {
    "id": "b017_0047",
    "jp": "{kata}ホウライ{hira}の{kata}タマ{hira}",
-   "en": null
+   "en": "Horai Jewel"
   },
   {
    "id": "b017_0048",
    "jp": "{kata}ファミコン{hira}版『桃伝』で{n}かぐや姫の 宝物の 中で{n}黄泉の塔に かくされていたのは?",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', which of Princess Kaguya's treasures was hidden in the Tower of Yomi?"
   },
   {
    "id": "b017_0049",
    "jp": "{kata}キン{hira}いろのけがわ",
-   "en": null
+   "en": "Golden Fur"
   },
   {
    "id": "b017_0050",
    "jp": "{kata}ホウライ{hira}の{kata}タマ{hira}",
-   "en": null
+   "en": "Horai Jewel"
   },
   {
    "id": "b017_0051",
    "jp": "{kata}ツバメ{hira}のこやすがい",
-   "en": null
+   "en": "Swallow's Cowrie"
   },
   {
    "id": "b017_0052",
    "jp": "{kata}ファミコン{hira}版『桃伝』で 次の{n}3つの 術の中で おぼえてないと{n}{kata}キジ{hira}を たすけだせないのは?",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', which of these three Arts did you need to rescue the Pheasant?"
   },
   {
    "id": "b017_0053",
    "jp": "{sub:B0}の術",
-   "en": null
+   "en": "Kintan"
   },
   {
    "id": "b017_0054",
    "jp": "ろっかくの術",
-   "en": null
+   "en": "Antlers"
   },
   {
    "id": "b017_0055",
    "jp": "いなずまの術",
-   "en": null
+   "en": "Lightning"
   },
   {
    "id": "b017_0056",
    "jp": "{kata}ファミコン{hira}版『桃伝』で{n}次の 3体の 鬼の中で{n}{kata}メガネ{hira}を かけていなかったのは?",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', which of these three oni was not wearing glasses?"
   },
   {
    "id": "b017_0057",
    "jp": "せきひん",
-   "en": null
+   "en": "Sekihin"
   },
   {
    "id": "b017_0058",
    "jp": "あか{kata}オニホ{hira}ー{kata}マ{hira}ー",
-   "en": null
+   "en": "Red Oni Homer"
   },
   {
    "id": "b017_0059",
    "jp": "べんきょうの{sub:AC}",
-   "en": null
+   "en": "Study Oni"
   },
   {
    "id": "b017_0060",
    "jp": "つぎの 3つの お店の中で{n}{kata}ファミコン{hira}版『桃伝』のときには{n}まだ なかったものは?",
-   "en": null
+   "en": "Of these three shops, which one did not exist yet in the Famicom game 'Momotaro Densetsu'?"
   },
   {
    "id": "b017_0061",
    "jp": "水あめ屋",
-   "en": null
+   "en": "Syrup Shop"
   },
   {
    "id": "b017_0062",
    "jp": "風鈴屋",
-   "en": null
+   "en": "Wind Chime Shop"
   },
   {
    "id": "b017_0063",
    "jp": "つけもの屋",
-   "en": null
+   "en": "Pickle Shop"
   },
   {
    "id": "b017_0064",
    "jp": "{kata}ファミコン{hira}版『桃伝』のときに つぎの{n}3つの 術の中で おぼえなくても{n}{kata}ゲ{hira}ー{kata}ム{hira}を {kata}クリア{hira}できたのは?",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', which of these three Arts could you beat the game without learning?"
   },
   {
    "id": "b017_0065",
    "jp": "いなずまの術",
-   "en": null
+   "en": "Lightning"
   },
   {
    "id": "b017_0066",
    "jp": "ふゆうの術",
-   "en": null
+   "en": "Float"
   },
   {
    "id": "b017_0067",
    "jp": "ほうひの術",
-   "en": null
+   "en": "Pass Gas"
   },
   {
    "id": "b017_0068",
    "jp": "{kata}ファミコン{hira}版『桃伝』で{n}かぐや姫の 宝物の 中で{n}竜宮城に おさめられていたのは?",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', which of Princess Kaguya's treasures was kept in the Dragon Palace?"
   },
   {
    "id": "b017_0069",
    "jp": "{kata}リュウ{hira}のくびかざり",
-   "en": null
+   "en": "Dragon Necklace"
   },
   {
    "id": "b017_0070",
    "jp": "{kata}キン{hira}いろのけがわ",
-   "en": null
+   "en": "Golden Fur"
   },
   {
    "id": "b017_0071",
    "jp": "{kata}ホウライ{hira}の{kata}タマ{hira}",
-   "en": null
+   "en": "Horai Jewel"
   },
   {
    "id": "b017_0072",
    "jp": "{kata}ファミコン{hira}版『桃伝』のとき{n}{sub:A0}の 段は{n}最大で いくつまで 上がった?",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', what was the highest Rank Momotaro could reach?"
   },
   {
    "id": "b017_0073",
    "jp": "30段",
-   "en": null
+   "en": "Rank 30"
   },
   {
    "id": "b017_0074",
    "jp": "45段",
-   "en": null
+   "en": "Rank 45"
   },
   {
    "id": "b017_0075",
    "jp": "99段",
-   "en": null
+   "en": "Rank 99"
   },
   {
    "id": "b017_0076",
    "jp": "{sub:A0}の {kata}サイフ{hira}の中には{n}全部で 何両までの お金を{n}入れることが できた?",
-   "en": null
+   "en": "What was the most money Momotaro's wallet could hold?"
   },
   {
    "id": "b017_0077",
    "jp": "60000両",
-   "en": null
+   "en": "60000 ryo"
   },
   {
    "id": "b017_0078",
    "jp": "65535両",
-   "en": null
+   "en": "65535 ryo"
   },
   {
    "id": "b017_0079",
    "jp": "99999両",
-   "en": null
+   "en": "99999 ryo"
   },
   {
    "id": "b017_0080",
    "jp": "{kata}クロガッパ{hira}が 山のように{n}出てきた 土地の 名前は?{n}",
-   "en": null
+   "en": "What was the name of the land where Black Kappa showed up by the mountainload?{n}"
   },
   {
    "id": "b017_0081",
    "jp": "鬼のつめあと",
-   "en": null
+   "en": "Oni's Claw Marks"
   },
   {
    "id": "b017_0082",
    "jp": "鬼のかぎづめ",
-   "en": null
+   "en": "Oni's Talons"
   },
   {
    "id": "b017_0083",
    "jp": "鬼のつめきり",
-   "en": null
+   "en": "Oni's Nail Clippers"
   },
   {
    "id": "b017_0084",
    "jp": "くびなし{sub:AC}の 角は 何本?{n}{n}",
-   "en": null
+   "en": "How many horns did the Headless Oni have?{n}{n}"
   },
   {
    "id": "b017_0085",
    "jp": "角はなかった",
-   "en": null
+   "en": "It had no horns"
   },
   {
    "id": "b017_0086",
    "jp": "1本",
-   "en": null
+   "en": "One"
   },
   {
    "id": "b017_0087",
    "jp": "2本",
-   "en": null
+   "en": "Two"
   },
   {
    "id": "b017_0088",
    "jp": "{kata}ファミコン{hira}版『桃伝』のとき{n}料亭いしいの {kata}メニュ{hira}ーに{n}なかったのは?",
-   "en": null
+   "en": "In the Famicom game 'Momotaro Densetsu', what was not on the menu at the Ishii restaurant?"
   },
   {
    "id": "b017_0089",
    "jp": "すきやき",
-   "en": null
+   "en": "Sukiyaki"
   },
   {
    "id": "b017_0090",
    "jp": "うなじゅう",
-   "en": null
+   "en": "Eel on rice"
   },
   {
    "id": "b017_0091",
    "jp": "{kata}フグ{hira}りょうり",
-   "en": null
+   "en": "Blowfish dishes"
   },
   {
    "id": "b017_0092",
    "jp": "つぎの 3つの {kata}セリフ{hira}の中で{n}{kata}ファミコン{hira}版『桃伝』に {n}出てこなかったのは?",
-   "en": null
+   "en": "Of these three lines, which one never appeared in the Famicom game 'Momotaro Densetsu'?{n}"
   },
   {
    "id": "b017_0093",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}!」",
-   "en": null
+   "en": "\"Ken! Ken!\""
   },
   {
    "id": "b017_0094",
    "jp": "「{kata}ポンポコポン{hira}!」",
-   "en": null
+   "en": "\"Ponpokopon!\""
   },
   {
    "id": "b017_0095",
    "jp": "「えし{kata}ェ{hira}!えし{kata}ェ{hira}!」",
-   "en": null
+   "en": "\"Eshe! Eshe!\""
   },
   {
    "id": "b017_0096",
    "jp": "つぎの 3体の 敵の鬼の 中で{n}{kata}ファミコン{hira}版『桃伝』に{n}出てこなかったのは?",
-   "en": null
+   "en": "Of these three enemy oni, which one did not appear in the Famicom game 'Momotaro Densetsu'?"
   },
   {
    "id": "b017_0097",
    "jp": "あお{sub:AC}",
-   "en": null
+   "en": "Blue Oni"
   },
   {
    "id": "b017_0098",
    "jp": "き{sub:AC}",
-   "en": null
+   "en": "Yellow Oni"
   },
   {
    "id": "b017_0099",
    "jp": "みどり{sub:AC}",
-   "en": null
+   "en": "Green Oni"
   },
   {
    "id": "b017_0100",
    "jp": "浦島の村にいた 3兄弟の鬼は{n}怪鬼と魅鬼と あと1匹は何?{n}",
-   "en": null
+   "en": "The three oni brothers in Urashima's village were Mystery Oni, Bewitching Oni and who else?{n}"
   },
   {
    "id": "b017_0101",
    "jp": "餓鬼",
-   "en": null
+   "en": "Gaki"
   },
   {
    "id": "b017_0102",
    "jp": "魃鬼",
-   "en": null
+   "en": "Drought Oni"
   },
   {
    "id": "b017_0103",
    "jp": "阿鬼",
-   "en": null
+   "en": "Ah Oni"
   },
   {
    "id": "b017_0104",
    "jp": "{sub:A0}たちが {sub:CE}のところへ{n}もっていった 桜は 何桜?{n}",
-   "en": null
+   "en": "What kind of cherry blossoms did Momotaro and friends bring to Ashura?{n}"
   },
   {
    "id": "b017_0105",
    "jp": "{kata}カスミザクラ{hira}",
-   "en": null
+   "en": "Kasumi cherry"
   },
   {
    "id": "b017_0106",
    "jp": "{kata}ソメイヨシノ{hira}",
-   "en": null
+   "en": "Somei-Yoshino"
   },
   {
    "id": "b017_0107",
    "jp": "{kata}ヤマザクラ{hira}",
-   "en": null
+   "en": "Mountain cherry"
   },
   {
    "id": "b017_0108",
    "jp": "大江山に 登場する 四天王の{n}1人 とらくま童子の かたがきは?{n}",
-   "en": null
+   "en": "What is the title of Torakuma Doji, one of the Four Heavenly Kings of Mt. Oe?{n}"
   },
   {
    "id": "b017_0109",
    "jp": "紅蓮",
-   "en": null
+   "en": "Crimson"
   },
   {
    "id": "b017_0110",
    "jp": "怪力無双",
-   "en": null
+   "en": "Unmatched Strength"
   },
   {
    "id": "b017_0111",
    "jp": "不死身",
-   "en": null
+   "en": "Immortal"
   },
   {
    "id": "b017_0112",
    "jp": "酒香童子から もらった{n}水晶は 何の水晶?{n}",
-   "en": null
+   "en": "What quartz did you get from Shuko Doji?{n}"
   },
   {
    "id": "b017_0113",
    "jp": "三日月の水晶",
-   "en": null
+   "en": "Crescent Quartz"
   },
   {
    "id": "b017_0114",
    "jp": "上弦の水晶",
-   "en": null
+   "en": "Waxing Quartz"
   },
   {
    "id": "b017_0115",
    "jp": "新月の水晶",
-   "en": null
+   "en": "New Moon Quartz"
   },
   {
    "id": "b017_0116",
    "jp": "氷室のけずりひと{n}氷室のきんちゃくは{n}誰から もらった?",
-   "en": null
+   "en": "Who gave you the Icehouse Shaved Ice{n}and the Icehouse Pouch?"
   },
   {
    "id": "b017_0117",
    "jp": "夜叉姫",
-   "en": null
+   "en": "Princess Yasha"
   },
   {
    "id": "b017_0118",
    "jp": "醜女",
-   "en": null
+   "en": "Shikome"
   },
   {
    "id": "b017_0119",
    "jp": "{sub:B0}仙人",
-   "en": null
+   "en": "Sage Kintan"
   },
   {
    "id": "b017_0120",
    "jp": "希望の都で 和菓子を{n}売るのが 夢だった 辰巳の{n}おかあさんは どこにすんでいる?",
-   "en": null
+   "en": "Tatsumi dreamed of selling sweets{n}in the Capital of Hope. Where does{n}Tatsumi's mother live?"
   },
   {
    "id": "b017_0121",
    "jp": "花咲かの村",
-   "en": null
+   "en": "Hanasaka Village"
   },
   {
    "id": "b017_0122",
    "jp": "浦島の村",
-   "en": null
+   "en": "Urashima Village"
   },
   {
    "id": "b017_0123",
    "jp": "寝太郎の村",
-   "en": null
+   "en": "Netaro Village"
   },
   {
    "id": "b017_0124",
    "jp": "ましらは どこで生まれた?{n}{n}",
-   "en": null
+   "en": "Where was Mashira born?{n}{n}"
   },
   {
    "id": "b017_0125",
    "jp": "{kata}ニュ{hira}ー{kata}ヨ{hira}ー{kata}ク{hira}ー",
-   "en": null
+   "en": "New Yoooork"
   },
   {
    "id": "b017_0126",
    "jp": "{kata}リバピ{hira}ー{kata}ル{hira}",
-   "en": null
+   "en": "Liverpoool"
   },
   {
    "id": "b017_0127",
    "jp": "{kata}パリッ{hira}",
-   "en": null
+   "en": "Paris"
   },
   {
    "id": "b017_0128",
    "jp": "ほほえみの村で だじゃれ大会の{n}しんぱんを 長年 つとめたいた人は?{n}",
-   "en": null
+   "en": "Who served for many years as judge{n}of the Smile Village pun contest?{n}"
   },
   {
    "id": "b017_0129",
    "jp": "だじゃれ伊之助",
-   "en": null
+   "en": "Punster Inosuke"
   },
   {
    "id": "b017_0130",
    "jp": "だじゃれ新之助",
-   "en": null
+   "en": "Punster Shinnosuke"
   },
   {
    "id": "b017_0131",
    "jp": "だじゃれ甚之助",
-   "en": null
+   "en": "Punster Jinnosuke"
   },
   {
    "id": "b017_0132",
    "jp": "氷室のけずりひを 寝太郎のどこに{n}たらして おこした?{n}",
-   "en": null
+   "en": "Where on Netaro did you drip the{n}Icehouse Shaved Ice to wake him?{n}"
   },
   {
    "id": "b017_0133",
    "jp": "目",
-   "en": null
+   "en": "His eyes"
   },
   {
    "id": "b017_0134",
    "jp": "鼻",
-   "en": null
+   "en": "His nose"
   },
   {
    "id": "b017_0135",
    "jp": "口",
-   "en": null
+   "en": "His mouth"
   },
   {
    "id": "b017_0136",
    "jp": "{sub:CE}の言った 『よもつ国{n}たたえて咲くや 夢見草』{n}とは 何のことだった?",
-   "en": null
+   "en": "What did Ashura mean by 'Blooming{n}in praise of the Land of Yomi,{n}the dream-seeing flower'?"
   },
   {
    "id": "b017_0137",
    "jp": "黄金のぶつぞう",
-   "en": null
+   "en": "A golden Buddha statue"
   },
   {
    "id": "b017_0138",
    "jp": "はなよめ",
-   "en": null
+   "en": "A bride"
   },
   {
    "id": "b017_0139",
    "jp": "桜の木",
-   "en": null
+   "en": "A cherry tree"
   },
   {
    "id": "b017_0140",
    "jp": "大江山には ぜんぶで{n}いくつの なぞときがあった?{n}",
-   "en": null
+   "en": "How many puzzles were there{n}on Mt. Oe in all?{n}"
   },
   {
    "id": "b017_0141",
    "jp": "6つ",
-   "en": null
+   "en": "6"
   },
   {
    "id": "b017_0142",
    "jp": "7つ",
-   "en": null
+   "en": "7"
   },
   {
    "id": "b017_0143",
    "jp": "8つ",
-   "en": null
+   "en": "8"
   },
   {
    "id": "b017_0144",
    "jp": "{kata}ダイダ{hira}王子と {kata}アジャセ{hira}王子は{n}どんな かんけい?{n}",
-   "en": null
+   "en": "How are Prince Daida and{n}Prince Ajase related?{n}"
   },
   {
    "id": "b017_0145",
    "jp": "兄弟",
-   "en": null
+   "en": "Brothers"
   },
   {
    "id": "b017_0146",
    "jp": "おやこ",
-   "en": null
+   "en": "Father and son"
   },
   {
    "id": "b017_0147",
    "jp": "いとこ",
-   "en": null
+   "en": "Cousins"
   },
   {
    "id": "b017_0148",
    "jp": "浦島の村で {sub:A0}たちが{n}おじいさんに なったとき{n}どのように なった?",
-   "en": null
+   "en": "When Momotaro's party turned into{n}old men in Urashima Village,{n}what happened to them?"
   },
   {
    "id": "b017_0149",
    "jp": "物が食べられない",
-   "en": null
+   "en": "They couldn't eat"
   },
   {
    "id": "b017_0150",
    "jp": "武'器がもてない",
-   "en": null
+   "en": "They couldn't hold weapons"
   },
   {
    "id": "b017_0151",
    "jp": "歩くのがおそい",
-   "en": null
+   "en": "They walked slowly"
   },
   {
    "id": "b017_0152",
    "jp": "まよけ仙人の 修行で{n}こらしめなければ いけない 鬼は?{n}",
-   "en": null
+   "en": "In the Charm Sage's training, which{n}oni did you have to punish?{n}"
   },
   {
    "id": "b017_0153",
    "jp": "{kata}ノヅチ{hira}",
-   "en": null
+   "en": "Nozuchi"
   },
   {
    "id": "b017_0154",
    "jp": "地虫",
-   "en": null
+   "en": "Grub"
   },
   {
    "id": "b017_0155",
    "jp": "{kata}ムカデ{hira}",
-   "en": null
+   "en": "Centipede"
   },
   {
    "id": "b017_0156",
    "jp": "{sub:A0}たちを 集中攻撃で{n}おそってくる 鬼は?{n}",
-   "en": null
+   "en": "Which oni attacks Momotaro's{n}party with focused attacks?{n}"
   },
   {
    "id": "b017_0157",
    "jp": "豆鬼",
-   "en": null
+   "en": "Bean Oni"
   },
   {
    "id": "b017_0158",
    "jp": "のみ鬼",
-   "en": null
+   "en": "Flea Oni"
   },
   {
    "id": "b017_0159",
    "jp": "ちび鬼",
-   "en": null
+   "en": "Tiny Oni"
   },
   {
    "id": "b017_0160",
    "jp": "月の鏡を 手に入れるために{n}何と 戦わなければ ならなかった?{n}",
-   "en": null
+   "en": "What did you have to fight{n}to get the Moon Mirror?{n}"
   },
   {
    "id": "b017_0161",
    "jp": "天龍",
-   "en": null
+   "en": "Heavenly Dragon"
   },
   {
    "id": "b017_0162",
    "jp": "臥龍",
-   "en": null
+   "en": "Sleeping Dragon"
   },
   {
    "id": "b017_0163",
    "jp": "飛龍",
-   "en": null
+   "en": "Flying Dragon"
   },
   {
    "id": "b017_0164",
    "jp": "金太郎の村の 夜店はいくつ?{n}{n}",
-   "en": null
+   "en": "How many night stalls are there{n}in Kintaro's village?{n}"
   },
   {
    "id": "b017_0165",
    "jp": "4つ",
-   "en": null
+   "en": "4"
   },
   {
    "id": "b017_0166",
    "jp": "6つ",
-   "en": null
+   "en": "6"
   },
   {
    "id": "b017_0167",
    "jp": "8つ",
-   "en": null
+   "en": "8"
   },
   {
    "id": "b017_0168",
    "jp": "希望の都にある{n}つけもの屋の 名前は?{n}",
-   "en": null
+   "en": "What's the name of the pickle{n}shop in the Capital of Hope?{n}"
   },
   {
    "id": "b017_0169",
    "jp": "順翁",
-   "en": null
+   "en": "Jun'o"
   },
   {
    "id": "b017_0170",
    "jp": "順庵",
-   "en": null
+   "en": "Junan"
   },
   {
    "id": "b017_0171",
    "jp": "順安",
-   "en": null
+   "en": "Jun'an"
   },
   {
    "id": "b017_0172",
    "jp": "希望の都で おこなわれている{n}{kata}イヌ{hira}の {kata}コンテスト{hira}の{n}しんぱんを つとめているのは?",
-   "en": null
+   "en": "Who judges the Dog Contest{n}held in the Capital of Hope?"
   },
   {
    "id": "b017_0173",
    "jp": "蜂乃屋",
-   "en": null
+   "en": "Hachinoya"
   },
   {
    "id": "b017_0174",
    "jp": "突風ぶり太夫",
-   "en": null
+   "en": "Toppu Buridayu"
   },
   {
    "id": "b017_0175",
    "jp": "{kata}トメ{hira}さん",
-   "en": null
+   "en": "Tome"
   }
  ]
 }

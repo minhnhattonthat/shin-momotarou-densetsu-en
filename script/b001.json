@@ -7,292 +7,292 @@
   {
    "id": "b001_0000",
    "jp": "桃太郎",
-   "en": null
+   "en": "Momotaro"
   },
   {
    "id": "b001_0001",
    "jp": "「けっ! しゃっきん してるやつなど{n} はなしたくも ないわいっ!」{n}",
-   "en": null
+   "en": "\"Feh! I ain't talkin' to{n} anybody who's in debt!\"{n}"
   },
   {
    "id": "b001_0002",
    "jp": "「100両 もってないぞ!{n} しかたがない! いま もってる{n} お金だけでも もらってやろう!」{n}{hero}は もっていた{n}{num}両を うばわれた!{n}",
-   "en": null
+   "en": "\"You don't have 100 ryo!{n} Oh well! I'll just take{n} whatever money you've got!\"{n}{hero} was robbed of{n}{num} ryo!{n}"
   },
   {
    "id": "b001_0003",
    "jp": "「これは {kata}オレ{hira}さまの てまちんだ!{n} 100両ためて また{n} くることだな! へっへっへ!」",
-   "en": null
+   "en": "\"That's my fee for the trouble!{n} Save up 100 ryo and{n} come back! Heh heh heh!\""
   },
   {
    "id": "b001_0004",
    "jp": "「金の ないやつは{n} このまちに ようがない!{n} かえれ! かえれ!」",
-   "en": null
+   "en": "\"No money, no business{n} in this town!{n} Get lost! Get lost!\""
   },
   {
    "id": "b001_0005",
    "jp": "「この はしを{n} わたりたくば 100両よこせ!」{n}",
-   "en": null
+   "en": "\"If you wanna cross{n} this bridge, pay 100 ryo!\"{n}"
   },
   {
    "id": "b001_0006",
    "jp": "せんにん",
-   "en": null
+   "en": "sage"
   },
   {
    "id": "b001_0007",
    "jp": "ぢゃ!」",
-   "en": null
+   "en": "!\""
   },
   {
    "id": "b001_0008",
    "jp": "{kata}ウヒャヒャ{hira}…",
-   "en": null
+   "en": "Uhyahya..."
   },
   {
    "id": "b001_0009",
    "jp": "いらっしゃーい",
-   "en": null
+   "en": "Welcome!"
   },
   {
    "id": "b001_0010",
    "jp": "ももたろう",
-   "en": null
+   "en": "Momotaro"
   },
   {
    "id": "b001_0011",
    "jp": "あたえた",
-   "en": null
+   "en": "gave"
   },
   {
    "id": "b001_0012",
    "jp": "{kata}オニ{hira}",
-   "en": null
+   "en": "oni"
   },
   {
    "id": "b001_0013",
    "jp": "おにがしま",
-   "en": null
+   "en": "Onigashima"
   },
   {
    "id": "b001_0014",
    "jp": "の{sub:B1}",
-   "en": null
+   "en": "'s Art"
   },
   {
    "id": "b001_0015",
    "jp": "わし",
-   "en": null
+   "en": "I"
   },
   {
    "id": "b001_0016",
    "jp": "きんたん",
-   "en": null
+   "en": "Kintan"
   },
   {
    "id": "b001_0017",
    "jp": "じゅつ",
-   "en": null
+   "en": "Art"
   },
   {
    "id": "b001_0018",
    "jp": "どうぐ",
-   "en": null
+   "en": "item"
   },
   {
    "id": "b001_0019",
    "jp": "つかう",
-   "en": null
+   "en": "use"
   },
   {
    "id": "b001_0020",
    "jp": "回復した!",
-   "en": null
+   "en": "recovered!"
   },
   {
    "id": "b001_0021",
    "jp": "{kata}チュチュン{hira}!",
-   "en": null
+   "en": "Chuchun!"
   },
   {
    "id": "b001_0022",
    "jp": "おまえ",
-   "en": null
+   "en": "you"
   },
   {
    "id": "b001_0023",
    "jp": "まえ",
-   "en": null
+   "en": "front"
   },
   {
    "id": "b001_0024",
    "jp": "せいぎ",
-   "en": null
+   "en": "justice"
   },
   {
    "id": "b001_0025",
    "jp": "ゆうき",
-   "en": null
+   "en": "courage"
   },
   {
    "id": "b001_0026",
    "jp": "あい",
-   "en": null
+   "en": "love"
   },
   {
    "id": "b001_0027",
    "jp": "たび",
-   "en": null
+   "en": "journey"
   },
   {
    "id": "b001_0028",
    "jp": "なか",
-   "en": null
+   "en": "inside"
   },
   {
    "id": "b001_0029",
    "jp": "ありがとうございま",
-   "en": null
+   "en": "Thank you"
   },
   {
    "id": "b001_0030",
    "jp": "たから",
-   "en": null
+   "en": "treasure"
   },
   {
    "id": "b001_0031",
    "jp": "じぞう",
-   "en": null
+   "en": "Jizo"
   },
   {
    "id": "b001_0032",
    "jp": "おにぎり",
-   "en": null
+   "en": "Rice Ball"
   },
   {
    "id": "b001_0033",
    "jp": "おきゃく",
-   "en": null
+   "en": "customer"
   },
   {
    "id": "b001_0034",
    "jp": "「おお!",
-   "en": null
+   "en": "\"Oh!"
   },
   {
    "id": "b001_0035",
    "jp": "{kata}ポイント{hira}の",
-   "en": null
+   "en": "points of"
   },
   {
    "id": "b001_0036",
    "jp": "つかった!",
-   "en": null
+   "en": "used!"
   },
   {
    "id": "b001_0037",
    "jp": "ください",
-   "en": null
+   "en": "please"
   },
   {
    "id": "b001_0038",
    "jp": "きんたろう",
-   "en": null
+   "en": "Kintaro"
   },
   {
    "id": "b001_0039",
    "jp": "むら",
-   "en": null
+   "en": "village"
   },
   {
    "id": "b001_0040",
    "jp": "すずめ",
-   "en": null
+   "en": "sparrow"
   },
   {
    "id": "b001_0041",
    "jp": "わたし",
-   "en": null
+   "en": "me"
   },
   {
    "id": "b001_0042",
    "jp": "やしゃひめ",
-   "en": null
+   "en": "Yasha"
   },
   {
    "id": "b001_0043",
    "jp": "うらしま",
-   "en": null
+   "en": "Urashima"
   },
   {
    "id": "b001_0044",
    "jp": "まつり",
-   "en": null
+   "en": "festival"
   },
   {
    "id": "b001_0045",
    "jp": "ちから",
-   "en": null
+   "en": "strength"
   },
   {
    "id": "b001_0046",
    "jp": "あしゅら",
-   "en": null
+   "en": "Ashura"
   },
   {
    "id": "b001_0047",
    "jp": "じごく",
-   "en": null
+   "en": "Hell"
   },
   {
    "id": "b001_0048",
    "jp": "{kata}ヘイ{hira}! {kata}ヘイ{hira}!",
-   "en": null
+   "en": "Hey! Hey!"
   },
   {
    "id": "b001_0049",
    "jp": "{sub:C1}さん!",
-   "en": null
+   "en": "Customer!"
   },
   {
    "id": "b001_0050",
    "jp": "ごようで?」",
-   "en": null
+   "en": "what can I do for you?\""
   },
   {
    "id": "b001_0051",
    "jp": "いただきます",
-   "en": null
+   "en": "thank you"
   },
   {
    "id": "b001_0052",
    "jp": "ございますか?",
-   "en": null
+   "en": "is there?"
   },
   {
    "id": "b001_0053",
    "jp": "「どなたが ",
-   "en": null
+   "en": "\"Who will"
   },
   {
    "id": "b001_0054",
    "jp": "道具袋",
-   "en": null
+   "en": "Item Bag"
   },
   {
    "id": "b001_0055",
    "jp": " {sub:D6}が",
-   "en": null
+   "en": " the Item Bag"
   },
   {
    "id": "b001_0056",
    "jp": "なりますか?",
-   "en": null
+   "en": "will it be?"
   },
   {
    "id": "b001_0057",
    "jp": " きょうは ",
-   "en": null
+   "en": " today"
   }
  ]
 }

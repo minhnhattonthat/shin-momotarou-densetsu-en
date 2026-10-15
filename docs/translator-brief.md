@@ -55,7 +55,9 @@ Run `python -X utf8 tools/batches.py check <batch>` from the repo root and fix e
   a title. Given name first.
 - Natural English a player enjoys reading: contractions in casual speech, characterful voices (Karura sneers and
   cackles, Basara is regal, villagers are folksy, Kintaro is brash, Yasha is a proud but kind princess).
-- Mistakes from earlier batches: (added as batches progress)
+- Notes from earlier batches: 順安 (pickle shop) = Jun'an; 辰巳 = Tatsumi; トメ = Tome (carpenter);
+  『桃伝』 = the Famicom 'Momotaro Densetsu'; 四天王 = the Four Heavenly Kings; 臥龍 = Garyu (Sleeping Dragon).
+  "{arg}'s" (possessive) is fine. Keep each speaker line's name exactly as the glossary.
 
 ## Consistency
 Never edit `glossary.md` or script files. For a recurring name or term not in the glossary/names list, pick a form,

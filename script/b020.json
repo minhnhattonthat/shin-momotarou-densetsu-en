@@ -7,17 +7,17 @@
   {
    "id": "b020_0000",
    "jp": "{arg}は {num}段に なった!{0B}{n}体力が {num}に なった!",
-   "en": null
+   "en": "{arg} reached Rank {num}!{0B}{n}Health rose to {num}!"
   },
   {
    "id": "b020_0001",
    "jp": "{arg}は {num}段になった!{0B}{n}",
-   "en": null
+   "en": "{arg} reached Rank {num}!{0B}{n}"
   },
   {
    "id": "b020_0002",
    "jp": "技の数が {num}に なった!{0B}",
-   "en": null
+   "en": "Skill points rose to {num}!{0B}"
   },
   {
    "id": "b020_0003",
@@ -27,7 +27,7 @@
   {
    "id": "b020_0004",
    "jp": "攻撃力が {num}上がった!",
-   "en": null
+   "en": "Attack rose by {num}!"
   },
   {
    "id": "b020_0005",
@@ -37,7 +37,7 @@
   {
    "id": "b020_0006",
    "jp": "守備力が {num}上がった!",
-   "en": null
+   "en": "Defense rose by {num}!"
   },
   {
    "id": "b020_0007",
@@ -47,7 +47,7 @@
   {
    "id": "b020_0008",
    "jp": "はやさが {num}上がった!",
-   "en": null
+   "en": "Speed rose by {num}!"
   },
   {
    "id": "b020_0009",
@@ -57,212 +57,212 @@
   {
    "id": "b020_0010",
    "jp": "{arg}の 体力と 技は{n}全{sub:B4}{n}{page}",
-   "en": null
+   "en": "{arg}'s Health and Skill{n}are fully restored!{n}{page}"
   },
   {
    "id": "b020_0011",
    "jp": "{arg}の 体力は{n}全{sub:B4}{n}{page}",
-   "en": null
+   "en": "{arg}'s Health{n}is fully restored!{n}{page}"
   },
   {
    "id": "b020_0012",
    "jp": "{arg}は{n}{arg}の術を{n}おぼえた!{page}",
-   "en": null
+   "en": "{arg}{n}learned the {arg} Art!{page}"
   },
   {
    "id": "b020_0013",
    "jp": "あまのじゃくは{n}竹こうげきを{n}おぼえた!{page}",
-   "en": null
+   "en": "Amanojaku{n}learned Bamboo Strike!{page}"
   },
   {
    "id": "b020_0014",
    "jp": "あまのじゃくは{n}松こうげきを{n}おぼえた!{page}",
-   "en": null
+   "en": "Amanojaku{n}learned Pine Strike!{page}"
   },
   {
    "id": "b020_0015",
    "jp": "あまのじゃくは{n}特こうげきを{n}おぼえた!{page}",
-   "en": null
+   "en": "Amanojaku{n}learned Special Strike!{page}"
   },
   {
    "id": "b020_0016",
    "jp": "銀次は 正義の ために{n}ふたたび 盗みの 技を{n}{sub:B3}ことにした!{page}",
-   "en": null
+   "en": "For the sake of justice, Ginji{n}decided to use his thieving{n}skills once again!{page}"
   },
   {
    "id": "b020_0017",
    "jp": "金太郎は すもう技{n}つっぱりを おぼえた!{n}{page}",
-   "en": null
+   "en": "Kintaro learned the{n}sumo move Slap Thrust!{n}{page}"
   },
   {
    "id": "b020_0018",
    "jp": "金太郎は すもう技{n}頭突きを おぼえた!{n}{page}",
-   "en": null
+   "en": "Kintaro learned the{n}sumo move Head-Butt!{n}{page}"
   },
   {
    "id": "b020_0019",
    "jp": "{arg}は{n}{sub:CD} つきはてた!{n}",
-   "en": null
+   "en": "{arg}{n}has run out of strength!{n}"
   },
   {
    "id": "b020_0020",
    "jp": "{arg}の 命も{n}あと{num}歩{n}",
-   "en": null
+   "en": "{arg}'s life is ebbing...{n}Steps left: {num}{n}"
   },
   {
    "id": "b020_0021",
    "jp": "{arg}の{n}{kata}マヒ{hira}が なおった!{n}",
-   "en": null
+   "en": "{arg}'s{n}paralysis is cured!{n}"
   },
   {
    "id": "b020_0022",
    "jp": "{hero}{arg}は 宿屋に 泊まっても{n}平気に なった!{n}",
-   "en": null
+   "en": "{hero}{arg} can stay at{n}inns again without trouble!{n}"
   },
   {
    "id": "b020_0023",
    "jp": "{hero}{arg}は {kata}ウインド{hira}ーが{n}見えるように なった!{n}",
-   "en": null
+   "en": "{hero}{arg} can see the{n}windows again!{n}"
   },
   {
    "id": "b020_0024",
    "jp": "{arg}は{n}{arg}を{n}{arg}に {sub:AB}!{0B}",
-   "en": null
+   "en": "{arg}{n}gave {arg}{n}to {arg}!{0B}"
   },
   {
    "id": "b020_0025",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {arg}{kata}サン{hira}!{n} とっても おいしいです!」{n}",
-   "en": null
+   "en": "\"Woof woof! {arg}!{n} This is so tasty!\"{n}"
   },
   {
    "id": "b020_0026",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {arg}{kata}サン{hira}!{n} おいしかったです!」{n}",
-   "en": null
+   "en": "\"Woof woof! {arg}!{n} That was tasty!\"{n}"
   },
   {
    "id": "b020_0027",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {arg}{kata}サン{hira}!{n} とっても おいしいです!」{n}",
-   "en": null
+   "en": "\"Kya kya! {arg}!{n} This is so tasty!\"{n}"
   },
   {
    "id": "b020_0028",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {arg}{kata}サン{hira}!{n} おいしかったです!」{n}",
-   "en": null
+   "en": "\"Kya kya! {arg}!{n} That was tasty!\"{n}"
   },
   {
    "id": "b020_0029",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {arg}{kata}サン{hira}!{n} とっても おいしいです!」{n}",
-   "en": null
+   "en": "\"Ken ken! {arg}!{n} This is so tasty!\"{n}"
   },
   {
    "id": "b020_0030",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {arg}{kata}サン{hira}!{n} おいしかったです!」{n}",
-   "en": null
+   "en": "\"Ken ken! {arg}!{n} That was tasty!\"{n}"
   },
   {
    "id": "b020_0031",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {arg}{kata}サン{hira}!{n} とろけるような おいしさです!」{n}",
-   "en": null
+   "en": "\"Woof woof! {arg}!{n} It's melt-in-your-mouth delicious!\"{n}"
   },
   {
    "id": "b020_0032",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {arg}{kata}サン{hira}!{n} やめられない おいしさです!」{n}",
-   "en": null
+   "en": "\"Kya kya! {arg}!{n} So good I can't stop eating!\"{n}"
   },
   {
    "id": "b020_0033",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {arg}{kata}サン{hira}!{n} とっても 上品なおいしさです!」{n}",
-   "en": null
+   "en": "\"Ken ken! {arg}!{n} Such a refined, elegant flavor!\"{n}"
   },
   {
    "id": "b020_0034",
    "jp": "{c2}誰にあげたんじゃ?",
-   "en": null
+   "en": "{c2}Who'd ya give it to?"
   },
   {
    "id": "b020_0035",
    "jp": "{arg}は {arg}が{n}1上がった!{n}{n}{arg}の {arg}は{n}{num}に なった!{n}",
-   "en": null
+   "en": "{arg}'s {arg}{n}rose by 1!{n}{n}{arg}'s {arg}{n}is now {num}!{n}"
   },
   {
    "id": "b020_0036",
    "jp": "{arg}は {arg}をおぼえた!{n}{n}",
-   "en": null
+   "en": "{arg} learned {arg}!{n}{n}"
   },
   {
    "id": "b020_0037",
    "jp": "{arg}の {arg}は{n}最高値に たっした!{n}もうこれ以上 あがらない!",
-   "en": null
+   "en": "{arg}'s {arg} has{n}reached its maximum!{n}It can't go any higher!"
   },
   {
    "id": "b020_0038",
    "jp": "{arg}を ここまで たいせつに{n}そだててくれた おれいに{n}{arg}を さずけよう!",
-   "en": null
+   "en": "In thanks for raising{n}{arg} with such care,{n}I bestow {arg} upon you!"
   },
   {
    "id": "b020_0039",
    "jp": "しかし {arg}の {arg}は{n}もうこれ以上 あがらない!{n}",
-   "en": null
+   "en": "But {arg}'s {arg}{n}can't go any higher!{n}"
   },
   {
    "id": "b020_0040",
    "jp": "しかし {hero}は{n}{arg}を おともに していなかった!{n}",
-   "en": null
+   "en": "But {hero} didn't have{n}{arg} along as a companion!{n}"
   },
   {
    "id": "b020_0041",
    "jp": "{sub:A0}の 人気度が 30をわったので{n}{arg}は {arg}を{n}たべなくなって しまった!",
-   "en": null
+   "en": "Momotaro's Popularity fell below 30,{n}so {arg} stopped{n}eating {arg}!"
   },
   {
    "id": "b020_0042",
    "jp": "{sub:A0}の 人気度が 30をわったので{n}{arg}は 言うことを{n}聞かなくなって しまった!",
-   "en": null
+   "en": "Momotaro's Popularity fell below 30,{n}so {arg} stopped{n}listening to orders!"
   },
   {
    "id": "b020_0043",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! 村の人たちに{n} ひょうばんの わるい {sub:A0}さんの{n} いうことを ききたくありません!」",
-   "en": null
+   "en": "\"Woof woof! I don't want to{n} obey a Momotaro who has{n} such a bad name among the villagers!\""
   },
   {
    "id": "b020_0044",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {sub:A0}さん!{n} 愛と 勇気の {sub:A0}は{n} どこに 行っちゃったんですか?」",
-   "en": null
+   "en": "\"Kya kya! Momotaro!{n} What happened to the Momotaro{n} of love and courage?\""
   },
   {
    "id": "b020_0045",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} だいじな 鬼たいじのことを{n} ちかごろ わすれてませんか?」",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} Haven't you been forgetting{n} our important oni hunt lately?\""
   },
   {
    "id": "b020_0046",
    "jp": "{c2}へっ?",
-   "en": null
+   "en": "{c2}Huh?"
   },
   {
    "id": "b020_0047",
    "jp": "{arg}は 大けがを しているので{n}道具を 使えない!",
-   "en": null
+   "en": "{arg} is badly hurt{n}and can't use items!"
   },
   {
    "id": "b020_0048",
    "jp": "{sub:A0}{arg}は おぼれてしまった!{n}{n}",
-   "en": null
+   "en": "Momotaro{arg} drowned!{n}{n}"
   },
   {
    "id": "b020_0049",
    "jp": "{sub:A0}は 足元を ほってみた!{n}{n}",
-   "en": null
+   "en": "Momotaro dug at his feet!{n}{n}"
   },
   {
    "id": "b020_0050",
    "jp": "なんと!{n}{num}両 うまっていた!{n}{n}{sub:A0}{arg}は{n}{num}両 手に入れた!{n}",
-   "en": null
+   "en": "Whoa!{n}{num} ryo was buried there!{n}{n}Momotaro{arg}{n}got {num} ryo!{n}"
   },
   {
    "id": "b020_0051",
    "jp": "なんと!{n}{arg}が ひそんでいた!{n}",
-   "en": null
+   "en": "Whoa!{n}{arg} was lurking there!{n}"
   },
   {
    "id": "b020_0052",

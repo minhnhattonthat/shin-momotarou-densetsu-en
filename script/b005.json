@@ -7,67 +7,67 @@
   {
    "id": "b005_0000",
    "jp": "{page}",
-   "en": null
+   "en": "{page}"
   },
   {
    "id": "b005_0001",
    "jp": "たち",
-   "en": null
+   "en": "all"
   },
   {
    "id": "b005_0002",
    "jp": "戦う",
-   "en": null
+   "en": "Fight"
   },
   {
    "id": "b005_0003",
    "jp": "守る",
-   "en": null
+   "en": "Guard"
   },
   {
    "id": "b005_0004",
    "jp": "術",
-   "en": null
+   "en": "Arts"
   },
   {
    "id": "b005_0005",
    "jp": "かばう",
-   "en": null
+   "en": "Cover"
   },
   {
    "id": "b005_0006",
    "jp": "道具",
-   "en": null
+   "en": "Items"
   },
   {
    "id": "b005_0007",
    "jp": "逃げる",
-   "en": null
+   "en": "Flee"
   },
   {
    "id": "b005_0008",
    "jp": "すもう技",
-   "en": null
+   "en": "Sumo Move"
   },
   {
    "id": "b005_0009",
    "jp": "合体",
-   "en": null
+   "en": "Combine"
   },
   {
    "id": "b005_0010",
    "jp": "盗む",
-   "en": null
+   "en": "Steal"
   },
   {
    "id": "b005_0011",
    "jp": "とつげき",
-   "en": null
+   "en": "Charge"
   },
   {
    "id": "b005_0012",
    "jp": "大砲",
-   "en": null
+   "en": "Cannon"
   },
   {
    "id": "b005_0013",
@@ -77,17 +77,17 @@
   {
    "id": "b005_0014",
    "jp": "攻撃力",
-   "en": null
+   "en": "Attack"
   },
   {
    "id": "b005_0015",
    "jp": "守備力",
-   "en": null
+   "en": "Defense"
   },
   {
    "id": "b005_0016",
    "jp": "はやさ",
-   "en": null
+   "en": "Speed"
   },
   {
    "id": "b005_0017",
@@ -97,387 +97,387 @@
   {
    "id": "b005_0018",
    "jp": "日照り",
-   "en": null
+   "en": "Drought"
   },
   {
    "id": "b005_0019",
    "jp": "日本晴れ",
-   "en": null
+   "en": "Fine Day"
   },
   {
    "id": "b005_0020",
    "jp": "晴れ",
-   "en": null
+   "en": "Clear"
   },
   {
    "id": "b005_0021",
    "jp": "雨",
-   "en": null
+   "en": "Rain"
   },
   {
    "id": "b005_0022",
    "jp": "雷雨",
-   "en": null
+   "en": "Storm"
   },
   {
    "id": "b005_0023",
    "jp": "雪",
-   "en": null
+   "en": "Snow"
   },
   {
    "id": "b005_0024",
    "jp": "時化",
-   "en": null
+   "en": "Gale"
   },
   {
    "id": "b005_0025",
    "jp": "段",
-   "en": null
+   "en": "Rank"
   },
   {
    "id": "b005_0026",
    "jp": "体力",
-   "en": null
+   "en": "Health"
   },
   {
    "id": "b005_0027",
    "jp": "技",
-   "en": null
+   "en": "Skill"
   },
   {
    "id": "b005_0028",
    "jp": "攻撃力",
-   "en": null
+   "en": "Attack"
   },
   {
    "id": "b005_0029",
    "jp": "守備力",
-   "en": null
+   "en": "Defense"
   },
   {
    "id": "b005_0030",
    "jp": "はやさ",
-   "en": null
+   "en": "Speed"
   },
   {
    "id": "b005_0031",
    "jp": "金",
-   "en": null
+   "en": "Money"
   },
   {
    "id": "b005_0032",
    "jp": "心",
-   "en": null
+   "en": "Heart"
   },
   {
    "id": "b005_0033",
    "jp": "{kata}アニメ{hira}",
-   "en": null
+   "en": "Anime"
   },
   {
    "id": "b005_0034",
    "jp": "／",
-   "en": null
+   "en": "/"
   },
   {
    "id": "b005_0035",
    "jp": "ねむりたくない!",
-   "en": null
+   "en": "I don't want to sleep!"
   },
   {
    "id": "b005_0036",
    "jp": "もう何も見たくない!",
-   "en": null
+   "en": "I don't want to see anything!"
   },
   {
    "id": "b005_0037",
    "jp": "お金もちになりたい!",
-   "en": null
+   "en": "I want to be rich!"
   },
   {
    "id": "b005_0038",
    "jp": "風になりたい!",
-   "en": null
+   "en": "I want to be the wind!"
   },
   {
    "id": "b005_0039",
    "jp": "さすらいたい!",
-   "en": null
+   "en": "I want to wander!"
   },
   {
    "id": "b005_0040",
    "jp": "一から出直したい!",
-   "en": null
+   "en": "I want to start over!"
   },
   {
    "id": "b005_0041",
    "jp": "石になりたい!",
-   "en": null
+   "en": "I want to be a stone!"
   },
   {
    "id": "b005_0042",
    "jp": "せいりせいとんしたい!",
-   "en": null
+   "en": "I want to tidy up!"
   },
   {
    "id": "b005_0043",
    "jp": " 72時間",
-   "en": null
+   "en": " 72 hours"
   },
   {
    "id": "b005_0044",
    "jp": "168時間",
-   "en": null
+   "en": "168 hours"
   },
   {
    "id": "b005_0045",
    "jp": "256時間",
-   "en": null
+   "en": "256 hours"
   },
   {
    "id": "b005_0046",
    "jp": "199本",
-   "en": null
+   "en": "199"
   },
   {
    "id": "b005_0047",
    "jp": "200本",
-   "en": null
+   "en": "200"
   },
   {
    "id": "b005_0048",
    "jp": "201本",
-   "en": null
+   "en": "201"
   },
   {
    "id": "b005_0049",
    "jp": "5匹",
-   "en": null
+   "en": "5"
   },
   {
    "id": "b005_0050",
    "jp": "7匹",
-   "en": null
+   "en": "7"
   },
   {
    "id": "b005_0051",
    "jp": "9匹",
-   "en": null
+   "en": "9"
   },
   {
    "id": "b005_0052",
    "jp": "70度",
-   "en": null
+   "en": "70 degrees"
   },
   {
    "id": "b005_0053",
    "jp": "80度",
-   "en": null
+   "en": "80 degrees"
   },
   {
    "id": "b005_0054",
    "jp": "90度",
-   "en": null
+   "en": "90 degrees"
   },
   {
    "id": "b005_0055",
    "jp": "5両に600人",
-   "en": null
+   "en": "5 ryo for 600"
   },
   {
    "id": "b005_0056",
    "jp": "6両に690人",
-   "en": null
+   "en": "6 ryo for 690"
   },
   {
    "id": "b005_0057",
    "jp": "どちらも おなじ!",
-   "en": null
+   "en": "Both the same!"
   },
   {
    "id": "b005_0058",
    "jp": "79",
-   "en": null
+   "en": "79"
   },
   {
    "id": "b005_0059",
    "jp": "89",
-   "en": null
+   "en": "89"
   },
   {
    "id": "b005_0060",
    "jp": "99",
-   "en": null
+   "en": "99"
   },
   {
    "id": "b005_0061",
    "jp": "じそく50{kata}キロ{hira}",
-   "en": null
+   "en": "50 km/h"
   },
   {
    "id": "b005_0062",
    "jp": "じそく55{kata}キロ{hira}",
-   "en": null
+   "en": "55 km/h"
   },
   {
    "id": "b005_0063",
    "jp": "じそく60{kata}キロ{hira}",
-   "en": null
+   "en": "60 km/h"
   },
   {
    "id": "b005_0064",
    "jp": "偶数の日",
-   "en": null
+   "en": "Even days"
   },
   {
    "id": "b005_0065",
    "jp": "奇数の日",
-   "en": null
+   "en": "Odd days"
   },
   {
    "id": "b005_0066",
    "jp": "おなじ",
-   "en": null
+   "en": "Same"
   },
   {
    "id": "b005_0067",
    "jp": "3800円",
-   "en": null
+   "en": "3800 yen"
   },
   {
    "id": "b005_0068",
    "jp": "4000円",
-   "en": null
+   "en": "4000 yen"
   },
   {
    "id": "b005_0069",
    "jp": "4200円",
-   "en": null
+   "en": "4200 yen"
   },
   {
    "id": "b005_0070",
    "jp": "3",
-   "en": null
+   "en": "3"
   },
   {
    "id": "b005_0071",
    "jp": "6",
-   "en": null
+   "en": "6"
   },
   {
    "id": "b005_0072",
    "jp": "9",
-   "en": null
+   "en": "9"
   },
   {
    "id": "b005_0073",
    "jp": "12",
-   "en": null
+   "en": "12"
   },
   {
    "id": "b005_0074",
    "jp": "18",
-   "en": null
+   "en": "18"
   },
   {
    "id": "b005_0075",
    "jp": "24",
-   "en": null
+   "en": "24"
   },
   {
    "id": "b005_0076",
    "jp": "じそく30{kata}キロ{hira}",
-   "en": null
+   "en": "30 km/h"
   },
   {
    "id": "b005_0077",
    "jp": "じそく60{kata}キロ{hira}",
-   "en": null
+   "en": "60 km/h"
   },
   {
    "id": "b005_0078",
    "jp": "じぞく90{kata}キロ{hira}",
-   "en": null
+   "en": "90 km/h"
   },
   {
    "id": "b005_0079",
    "jp": "6日間",
-   "en": null
+   "en": "6 days"
   },
   {
    "id": "b005_0080",
    "jp": "7日間",
-   "en": null
+   "en": "7 days"
   },
   {
    "id": "b005_0081",
    "jp": "8日間",
-   "en": null
+   "en": "8 days"
   },
   {
    "id": "b005_0082",
    "jp": "30 と 18",
-   "en": null
+   "en": "30 and 18"
   },
   {
    "id": "b005_0083",
    "jp": "36 と 12",
-   "en": null
+   "en": "36 and 12"
   },
   {
    "id": "b005_0084",
    "jp": "40 と  8",
-   "en": null
+   "en": "40 and  8"
   },
   {
    "id": "b005_0085",
    "jp": "2500円",
-   "en": null
+   "en": "2500 yen"
   },
   {
    "id": "b005_0086",
    "jp": "5000円",
-   "en": null
+   "en": "5000 yen"
   },
   {
    "id": "b005_0087",
    "jp": "7500円",
-   "en": null
+   "en": "7500 yen"
   },
   {
    "id": "b005_0088",
    "jp": "2",
-   "en": null
+   "en": "2"
   },
   {
    "id": "b005_0089",
    "jp": "11",
-   "en": null
+   "en": "11"
   },
   {
    "id": "b005_0090",
    "jp": "むずかしい!",
-   "en": null
+   "en": "Too hard!"
   },
   {
    "id": "b005_0091",
    "jp": "武'器",
-   "en": null
+   "en": "Weapon"
   },
   {
    "id": "b005_0092",
    "jp": "頭",
-   "en": null
+   "en": "Head"
   },
   {
    "id": "b005_0093",
    "jp": "胴",
-   "en": null
+   "en": "Body"
   },
   {
    "id": "b005_0094",
    "jp": "足",
-   "en": null
+   "en": "Feet"
   }
  ]
 }
