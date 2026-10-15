@@ -22,7 +22,7 @@
   {
    "id": "b117_0003",
    "jp": "「ふにふにっ! おそいぞ!{n} もう できあがって おるぞ!{n} だいじに つかえよ!」",
-   "en": "\"Funi-funi! You're late! It's long since finished! Take good care of it!\""
+   "en": "\"Funi-funi! You're late!{n} It's already finished! Take good care of it!\""
   },
   {
    "id": "b117_0004",
@@ -532,7 +532,7 @@
   {
    "id": "b117_0105",
    "jp": "「かぐや姫さまが {kata}フィ{hira}ー{kata}ネ{hira}!」{n}{n}{n}「おれの心 {kata}デクレシェンド{hira}!{n} この世は もう{n} {kata}ダ{hira}・{kata}カ{hira}ー{kata}ポ{hira} できないのか!」",
-   "en": "\"Princess Kaguya has reached her Fine!\"{n}{n}{n}\"My heart goes decrescendo! Can this world never go back da capo?\""
+   "en": "\"Princess Kaguya has reached her Fine! The end!\"{n}{n}{n}\"My heart goes decrescendo!{n} Can this world never go da capo, back to the start?\""
   },
   {
    "id": "b117_0106",

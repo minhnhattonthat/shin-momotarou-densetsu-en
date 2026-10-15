@@ -127,7 +127,7 @@
   {
    "id": "b230_0024",
    "jp": "「4人の 体力の 合計を{n} 500にしてから もう一度{n} ここに 来るが よい!」",
-   "en": "\"Bring the four of you to a combined 500 Health, then come here once more!\""
+   "en": "\"Come back here once the four of you have 500 Health in total!\""
   },
   {
    "id": "b230_0025",
@@ -192,7 +192,7 @@
   {
    "id": "b230_0037",
    "jp": "はらだし{n}「{kata}ハラホロヒレハレ{hira}ー!{n} でも {kata}ボク{hira}は 負けません!」",
-   "en": "Bellyman{n}\"Hara-horo-hire-hare~! But I won't give up!\""
+   "en": "Bellyman{n}\"Harahoro-hirehare~! But I won't give up!\""
   },
   {
    "id": "b230_0038",
@@ -277,7 +277,7 @@
   {
    "id": "b230_0054",
    "jp": "「酒香!」{n}{n}{n}「酒香童子では ないか?」{n}{n}{n}「{sub:B6} だったのか!{n} この岩に 穴をあけたのは…!」{n}{n}「む! 無理を しおって!」{n}{n}",
-   "en": "\"Shuko!\"{n}{n}{n}\"Is that not Shuko Doji?\"{n}{n}{n}\"So it was you! You're the one who bored a hole through this rock...!\"{n}{n}\"Wh-! You pushed yourself too hard!\"{n}{n}"
+   "en": "\"Shuko!\"{n}{n}{n}\"Is that not Shuko Doji?\"{n}{n}{n}\"So it was you! You're the one who bored a hole through this rock...!\"{n}{n}\"Ngh! You pushed yourself too hard!\"{n}{n}"
   },
   {
    "id": "b230_0055",
@@ -327,7 +327,7 @@
   {
    "id": "b230_0064",
    "jp": "酒香童子{n}「この………穴を…{n} ……ぬければ… {sub:B6}たちが……」{n}「{kata}ハア{hira}!…{kata}ハア{hira}!………のってきた…」{n}{n}{n}「{kata}ハア{hira}!…… ごふっ!{n} 城まで… たどりつける……{n} うおおおおおおおおおっ!」{n}「わが名は 酒香! 酒香童子!{n} かつて 軍神と よばれた鬼!」{n}{n}「たとえ 死すとも{n} 生きている者たちの{n} 心に 残れば それで よし!」",
-   "en": "Shuko Doji{n}\"If you go......through...this...hole... you......\"{n}\"Haa!...Haa!......the one you rode in...\"{n}{n}{n}\"Haa!...... *cough*! ...you can make it... to the castle......{n} Uooooooooooh!\"{n}\"My name is Shuko! Shuko Doji! The oni once called the War God!\"{n}{n}\"Even if I die, so long as I live on in the hearts of the living, that is enough!\""
+   "en": "Shuko Doji{n}\"If you go......through...this...hole... you......\"{n}\"Haa!...Haa!......I'm getting into the swing of it...\"{n}{n}{n}\"Haa!...... *cough*! ...you can make it... to the castle......{n} Uooooooooooh!\"{n}\"My name is Shuko! Shuko Doji! The oni once called the War God!\"{n}{n}\"Even if I die, so long as I live on in the hearts of the living, that is enough!\""
   },
   {
    "id": "b230_0065",

@@ -27,8 +27,11 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
 ## Status
 - Done: Step 0, recon (docs/re/text.md), extraction, engine (English font pages, VWF tables, 4 MB, LZSS insert,
   wrap 224 px, window scripts relocated in-bank with slot trailers, 12 px window mode = space 12/glyph 6, name
-  field patch), debug warp (tools/debug/warp.py text|win), names + window labels + credits translated,
-  dialogue batches t000-t071 in progress (~63%, merge with tools/batches.py merge tNNN).
-- Next: finish batches, consistency pass (鬼道 = Oni Arts), graphics (title logo, status icons 段体技両, name entry
-  grid b018), block 2 single glyphs 0036-0098 (unknown use), QA tour, release.
-- Open: status bar icons are VRAM tiles (codes 0x43-0x49 in window script w5B48B); names in old saves stay JP.
+  field patch), debug warp (tools/debug/warp.py text|win), translation 100% (7774 strings, lint 0),
+  consistency pass, status icons redrawn (tools/gfx.py), name grid, family tree. Blocks stored raw (mode 0):
+  sub-call opens (84:9F3F) never init LZSS -> hero name was blank when LZSS.
+- Review: sonnet reviewers (docs/reviewer-brief.md) -> work/tl/tNNN.fix.tsv -> `batches.py applyfix tNNN`.
+  Applied t000-t048. Running t049-t060; still to dispatch t061-t071. Ashura is male.
+- Next: finish review, QA tour (tools/debug/tour.py -> work/qa/tour/page_*.png), title logo (mode 7: chr
+  D8:60FA LZSS 0x3E00, map DF:AF95 LZSS 28-wide rows), release (tools/release.py to write).
+- Open: names in old saves stay JP; icons Lv/HP/SP/ry/Cu/Po/Pa are abbreviations (tile-size, flagged).

@@ -82,4 +82,49 @@ def apply(rom, pos):
     rom[pos:pos + len(comp)] = comp
     e = GFX_TABLE + 8 + 4
     rom[e:e + 3] = (0xC00000 | pos).to_bytes(3, 'little')
+    return title_logo(rom, pos + len(comp) + 2)
+
+
+# Title logo (mode 7, 8bpp tiles, colours 1 white / 2 grey / 3 black): chr = resource entry 100 (file 0x30320,
+# 0x3E00 = 248 tiles, only this screen); 28x28 map LZSS at file 0x1FAF95 (403 bytes, header 1C 1C before it,
+# loader pointer not found -> rewritten in place, must not grow).
+LOGO_ENTRY, LOGO_MAP, LOGO_MAP_LEN = 0x30320, 0x1FAF95, 403
+LOGO_FONT = 'C:/Windows/Fonts/FORTE.TTF'
+LOGO_LINES = [('The New', 32, 26), ('Legend of', 32, 66), ('Momotaro', 40, 116)]  # text, px size, top y
+LOGO_CX = 128  # screen centre falls at map x 128 (the map is shown shifted 16 px left)
+
+
+def logo_image():
+    from PIL import Image, ImageDraw, ImageFont
+    im = Image.new('L', (224, 224), 0)
+    d = ImageDraw.Draw(im)
+    for text, size, y in LOGO_LINES:
+        f = ImageFont.truetype(LOGO_FONT, size)
+        d.text((LOGO_CX - d.textlength(text, font=f) / 2, y), text, font=f, fill=255)
+    return im
+
+
+def logo_tiles():
+    """-> (chr bytes 0x3E00, map bytes 784)."""
+    px = logo_image().load()
+    level = lambda v: 3 if v < 64 else (2 if v < 176 else 1)
+    tiles, mp = [bytes([3] * 64)], []
+    for r in range(28):
+        for c in range(28):
+            t = bytes(level(px[c * 8 + x, r * 8 + y]) for y in range(8) for x in range(8))
+            if t not in tiles:
+                tiles.append(t)
+            mp.append(tiles.index(t))
+    assert len(tiles) <= 248, len(tiles)
+    return b''.join(tiles).ljust(0x3E00, b'\x03'), bytes(mp)
+
+
+def title_logo(rom, pos):
+    chr_, mp = logo_tiles()
+    cmap = lzss_encode(mp) + b'\x00'  # the map loader (80:D78E) loops over items; width 00 ends the list
+    assert len(cmap) <= LOGO_MAP_LEN + 1, len(cmap)
+    rom[LOGO_MAP:LOGO_MAP + len(cmap)] = cmap
+    comp = lzss_encode(chr_)
+    rom[pos:pos + len(comp)] = comp
+    rom[LOGO_ENTRY + 4:LOGO_ENTRY + 7] = (0xC00000 | pos).to_bytes(3, 'little')
     return pos + len(comp) + 2

@@ -17,7 +17,7 @@
   {
    "id": "b067_0002",
    "jp": "「順安の たくわんと 千枚漬けは{n} 冬だけの はんばいで ございます」{n}{n}「いまは こうして{n} {kata}ダイコン{hira}を 漬けこんでいます{n} {kata}ダイコン{hira}を お持ちの方ですか?」",
-   "en": "\"Jun'an's Pickled Radish and Senmai-zuke are sold only in winter.\"{n}{n}\"Right now we're pickling daikon, as you see. Do you happen to have any Daikon Radish?\""
+   "en": "\"Jun'an's Pickled Radish and Turnip Pickles are sold only in winter.\"{n}{n}\"Right now we're pickling daikon, as you see. Do you happen to have any Daikon Radish?\""
   },
   {
    "id": "b067_0003",
@@ -27,7 +27,7 @@
   {
    "id": "b067_0004",
    "jp": "「あいにく こちらでは {kata}ダイコン{hira}を{n} 64本以上 おあずかりする{n} 場所が ございません」{n}「たくわんか 千枚漬けを{n} そろそろ お作りに なっては?」{n}",
-   "en": "\"I'm afraid we haven't the room to keep more than 64 Daikon Radish here.\"{n}\"Perhaps it's time you had some Pickled Radish or Senmai-zuke made?\"{n}"
+   "en": "\"I'm afraid we haven't the room to keep more than 64 Daikon Radish here.\"{n}\"Perhaps it's time you had some Pickled Radish or Turnip Pickles made?\"{n}"
   },
   {
    "id": "b067_0005",
@@ -42,7 +42,7 @@
   {
    "id": "b067_0007",
    "jp": "「{kata}ダイコン{hira}を 8本で{n} 順安の たくわんを{n} 作って さしあげます」{n}「{kata}ダイコン{hira} 16本で{n} 順安の 千枚漬けを{n} 作って さしあげます」{n}「お持ちいただいた {kata}ダイコン{hira}は{n} こちらに 64本までなら{n} あずけておくことも できます」",
-   "en": "\"With 8 Daikon Radish, we'll make you Jun'an's Pickled Radish.\"{n}\"With 16 Daikon Radish, we'll make you Jun'an's Senmai-zuke.\"{n}\"We can also keep up to 64 of the Daikon Radish you bring here for you.\""
+   "en": "\"With 8 Daikon Radish, we'll make you Jun'an's Pickled Radish.\"{n}\"With 16 Daikon Radish, we'll make you Jun'an's Turnip Pickles.\"{n}\"We can also keep up to 64 of the Daikon Radish you bring here for you.\""
   },
   {
    "id": "b067_0008",
@@ -82,12 +82,12 @@
   {
    "id": "b067_0015",
    "jp": "「千枚漬けを つくるのに{n} あと {num}本たりないのですが…{n}",
-   "en": "\"To make Senmai-zuke, you're still {num} radish short...{n}"
+   "en": "\"To make Turnip Pickles, you're still {num} radish short...{n}"
   },
   {
    "id": "b067_0016",
    "jp": "「千枚漬けが {num}枚 作れますが{n} お作り いたしましょうか?」{n}",
-   "en": "\"We can make {num} Senmai-zuke. Shall we make them for you?\"{n}"
+   "en": "\"We can make {num} Turnip Pickles. Shall we make them for you?\"{n}"
   },
   {
    "id": "b067_0017",

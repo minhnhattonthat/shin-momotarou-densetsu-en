@@ -37,12 +37,12 @@
   {
    "id": "b089_0006",
    "jp": "「{sub:B6}は ここに 来るまでに{n} {kata}ノヅチ{hira}を {num}匹{n} こらしめておるな!」{n}「この 数では まよけの術を{n} さずけるには ちと{n} 修行が たりない!」",
-   "en": "\"On your way here, you've punished this many Nozuchi: {num}!\"{n}\"With that count, you lack the training for me to teach you the Ward Evil Art!\""
+   "en": "\"On your way here, you've punished {num} Nozuchi!\"{n}\"With that count, you lack the training for me to teach you the Ward Evil Art!\""
   },
   {
    "id": "b089_0007",
    "jp": "「修行として {kata}ノヅチ{hira}を{n} あと {num}匹{n} こらしめて 来るのじゃ!」",
-   "en": "\"For your training, go and punish this many more Nozuchi: {num}!\""
+   "en": "\"For your training, go and punish {num} more Nozuchi!\""
   },
   {
    "id": "b089_0008",
@@ -262,7 +262,7 @@
   {
    "id": "b089_0051",
    "jp": "「えんま様の 家族は えんまん!{n} どうぢゃ? おもしろいぢゃろ?」{n}",
-   "en": "\"King Enma's family lives in perfect harmony... Enma-ny! Well? Funny, ain't it?\"{n}"
+   "en": "\"King Enma's family is all in har-Enma-ny! Well? Funny, isn't it?\""
   },
   {
    "id": "b089_0052",

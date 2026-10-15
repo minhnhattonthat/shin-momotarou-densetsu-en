@@ -29,7 +29,7 @@ QA = {}  # id -> English, from --qa
 NO_WIN = False
 SKIP = set(os.environ.get('SMD_SKIP', '').split(','))  # debugging: gfx,namevar,measure,fixed12
 WIN_ONLY = set()
-RESERVED = (0x4F15C, 0x4F240)  # VWF width tables (fontgen.WIDTH_FREE) + patches.FIXED12_CODE
+RESERVED = (0x4F15C, 0x4F2A0)  # VWF width tables (fontgen.WIDTH_FREE) + patches.FIXED12_CODE
 WINMAP = {}  # window region id -> CPU address in the built ROM (written next to the ROM for tools/debug)
 
 

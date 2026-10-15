@@ -52,7 +52,7 @@
   {
    "id": "b072_0009",
    "jp": "「{kata}ソレジャ{hira} {kata}ジャスト{hira} {kata}タイム{hira} {kata}ネ{hira}!{n} {kata}スグ{hira} {kata}コンテスト{hira} {kata}スタ{hira}ー{kata}ト{hira} {kata}ネ{hira}!」{n}{n}「{kata}ユ{hira}ー {kata}ドッグ{hira} {kata}ネ{hira}ー{kata}ム{hira} {kata}イズ{n}{hira} {arg} {kata}アルネ{hira}!{n} {kata}ビュ{hira}ー{kata}リホ{hira}ー! {kata}ビュ{hira}ー{kata}リホ{hira}ー!」",
-   "en": "\"Then just in time-ne! Contest start right now-ne!\"{n}{n}\"Your dog name is {arg}-ne! Beautiful! Beautiful!\""
+   "en": "\"Then just in time-ne! Contest start right now-ne!\"{n}{n}\"Dog name is... {arg}! Yes-ne! Beautiful! Beautiful!\""
   },
   {
    "id": "b072_0010",
