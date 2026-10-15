@@ -757,12 +757,12 @@
   {
    "id": "b024_0150",
    "jp": "{arg}{arg}は{n}鬼道吸い取りを 急じた!{n}{page}",
-   "en": "{arg}{arg}{n}cast Oni Arts: Siphon!{n}{page}"
+   "en": "{arg}{arg}{n}cast Oni Arts: Drain!{n}{page}"
   },
   {
    "id": "b024_0151",
    "jp": "{arg}{arg}の 技の数が{n}半分 吸い取られてしまった!{n}{page}",
-   "en": "Half of {arg}{arg}'s{n}Skill points were siphoned away!{n}{page}"
+   "en": "Half of {arg}{arg}'s{n}Skill points were drained away!{n}{page}"
   },
   {
    "id": "b024_0152",

@@ -13,6 +13,7 @@ RULES = [
     (r'\bRumble, rumble\b', 'Gwarari, gwarari'),           # Raijin's ぐゎらり
     (r'\bBlue Meteorite\b', 'Blue Meteor'),                # 青き隕星
     (r'\bLightning Sage\b', 'Bolt Sage'),                  # 稲妻仙人
+    (r'\b[Ii]tem bag\b', 'Item Bag'),                       # 道具袋
     (r"\bMomotaro's Old Man\b", "Momotaro's Grandpa"),
     (r"\bMomotaro's Old Woman\b", "Momotaro's Grandma"),
 ]

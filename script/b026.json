@@ -512,7 +512,7 @@
   {
    "id": "b026_0101",
    "jp": "{arg}{arg}は 大きな 大きな{n}あくびを した!{n}つめたいいきが あたりに ひろがる!{page}{n}{kata}カチ{hira}ーーーー{kata}ン{hira}!{page}",
-   "en": "{arg}{arg} let out a big,{n}big yawn!{n}An icy breath spread all around!{page}{n}Ka-chiiiiing!{page}"
+   "en": "{arg}{arg} let out a big,{n}big yawn!{n}An icy breath spread all around!{page}{n}Kachiiiin!{page}"
   },
   {
    "id": "b026_0102",
@@ -682,7 +682,7 @@
   {
    "id": "b026_0135",
    "jp": "「{sub:D0} おれの酒が{n} 香めないってのか!?{n} さあ のめ! それ のめ!」{page}{n}{arg}{arg}は{n}むりに のまされて{n}かくらんして しまった!{page}",
-   "en": "\"Hey! Hey!{n} Ya sayin' my sake ain't fit to drink!? Come on, drink! Drink up!\"{page}{n}{arg}{arg}{n}was forced to drink{n}and got all confused!{page}"
+   "en": "\"Hey! Hey!{n} Ya sayin' you can't drink my sake!? Come on, drink! Drink up!\"{page}{n}{arg}{arg}{n}was forced to drink{n}and got all confused!{page}"
   },
   {
    "id": "b026_0136",

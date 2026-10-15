@@ -262,7 +262,7 @@
   {
    "id": "b029_0051",
    "jp": "「おや? {sub:C1}さんは{n} 売れる物を{n} 持っていませんね!」",
-   "en": "\"Oh? It seems you don't have anything you can sell, sir!\""
+   "en": "\"Oh? Customer, you don't have anything I can buy!\""
   },
   {
    "id": "b029_0052",
@@ -297,7 +297,7 @@
   {
    "id": "b029_0058",
    "jp": "「{sub:D1}{n} それは ちょっと{n} 値段が つけられない品です!」",
-   "en": "\"Sir!{n} I'm afraid that's an item I can't put a price on!\""
+   "en": "\"Customer!{n} I'm afraid that's an item I can't put a price on!\""
   },
   {
    "id": "b029_0059",
@@ -312,7 +312,7 @@
   {
    "id": "b029_0061",
    "jp": "「{sub:D1}{n} {kata}トカゲ{hira}のしっぽを{n} お持ちで ないようですが…」",
-   "en": "\"Sir!{n} It seems you don't have a Lizard Tail...\""
+   "en": "\"Customer!{n} It seems you don't have a Lizard Tail...\""
   },
   {
    "id": "b029_0062",

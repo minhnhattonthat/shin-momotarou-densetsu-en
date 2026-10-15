@@ -163,8 +163,9 @@ def build(marker_mode=False, out_path=None, only=None):
     rom[0xFFD7] = 0x0C
     pos = EXP_BASE
     for n in sorted(changed):
-        comp = lzss_encode(changed[n])
-        blob = b'\x01' + comp + b'\x00\x00'  # 2 pad bytes: the decoder may peek past the last item
+        # Raw (mode 0): blocks reached through sub-calls ({sub:XX} -> block 1, {hero} -> block 4, {arg} -> any
+        # block) are opened by 84:9F3F, which initialises only the Huffman decoder, never LZSS. The 4 MB has room.
+        blob = b'\x00' + changed[n]
         if pos + len(blob) > EXP_END:
             raise SystemExit('expanded area full')
         rom[pos:pos + len(blob)] = blob

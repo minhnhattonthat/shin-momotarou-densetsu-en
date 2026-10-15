@@ -442,7 +442,7 @@
   {
    "id": "b023_0087",
    "jp": "{arg}の術は{n}いまは つかえません!{n}",
-   "en": "{arg}{n}can't be used right now!{n}"
+   "en": "The {arg} Art{n}can't be used right now!{n}"
   },
   {
    "id": "b023_0088",
