@@ -141,7 +141,9 @@ def en_run(jp, cells, en, slack=0):
     if room < -6 * slack:
         raise ValueError(f'{en!r} longer than {2 * (cells - lead)} chars')
     room = max(room, 0)
-    return ' ' * lead + label + ' ' * (room // 12) + '\xa0' * (room % 12 // 6)
+    # The odd 6 px goes before the trailing spaces: a run ending in the drawn blank \xa0 right before a number
+    # variable left a stale tile there (status window "Defense S244").
+    return ' ' * lead + label + '\xa0' * (room % 12 // 6) + ' ' * (room // 12)
 
 
 def rebuild(rom, start, en_by_id, encode_en):
@@ -176,4 +178,9 @@ def trailer_len(rom, start):
     """Bytes after the terminator that travel with a relocated script: 3 per cursor slot (handler pointers)."""
     _, toks, end = tokens(rom, start)
     slots = sum(1 for k, b in toks if k == 'code' and b == b'\x21\x3e')
-    return 3 * slots
+    return max(3 * slots, TRAILER_EXTRA.get(start, 0))
+
+
+# Screens that keep other data after the 00, read through the script's end pointer (found in QA):
+# status window: a 0x35-byte variable table (garbage name/values and stray text without it).
+TRAILER_EXTRA = {0x5BFC2: 0x35}

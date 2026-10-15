@@ -165,7 +165,7 @@ def build(marker_mode=False, out_path=None, only=None):
     for n in sorted(changed):
         # Raw (mode 0): blocks reached through sub-calls ({sub:XX} -> block 1, {hero} -> block 4, {arg} -> any
         # block) are opened by 84:9F3F, which initialises only the Huffman decoder, never LZSS. The 4 MB has room.
-        blob = b'\x00' + changed[n]
+        blob = (b'\x01' + lzss_encode(changed[n]) + b'\x00\x00') if 'raw' in SKIP else (b'\x00' + changed[n])
         if pos + len(blob) > EXP_END:
             raise SystemExit('expanded area full')
         rom[pos:pos + len(blob)] = blob
