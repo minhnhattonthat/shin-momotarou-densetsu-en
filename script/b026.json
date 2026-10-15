@@ -7,617 +7,617 @@
   {
    "id": "b026_0000",
    "jp": "{arg}{arg}は{n}{arg}{arg}の 道具を{n}盗みにいった!{page}",
-   "en": null
+   "en": "{arg}{arg} went{n}to steal {arg}{arg}'s{n}items!{page}"
   },
   {
    "id": "b026_0001",
    "jp": "{arg}{arg}から{n}{arg}を 盗んできた!{n}{page}",
-   "en": null
+   "en": "Stole from {arg}{arg}:{n}{arg}!{n}{page}"
   },
   {
    "id": "b026_0002",
    "jp": "しかし {arg}{arg}は{n}盗みに しっぱいした!{n}{page}",
-   "en": null
+   "en": "But {arg}{arg}{n}failed to steal!{n}{page}"
   },
   {
    "id": "b026_0003",
    "jp": "大砲の玉が ありません!{page}",
-   "en": null
+   "en": "No cannonballs left!{page}"
   },
   {
    "id": "b026_0004",
    "jp": "{arg}城の 耐久度が{n}0に なったので{n}大砲は 使えない!{page}",
-   "en": null
+   "en": "{arg} Castle's durability{n}is 0, so{n}the cannon can't be used!{page}"
   },
   {
    "id": "b026_0005",
    "jp": "城修理道具が ありません!{page}",
-   "en": null
+   "en": "No Castle Toolkit left!{page}"
   },
   {
    "id": "b026_0006",
    "jp": "敵1体に かならず 打撃をあたえ{n}さらに 攻撃力 守備力を 下げる!{n}ただ最大体力の 4分の1を {sub:B3}!{page}",
-   "en": null
+   "en": "Always damages one enemy{n}and lowers its Attack and Defense!{n}But it uses a quarter of max Health!{page}"
   },
   {
    "id": "b026_0007",
    "jp": "いまの 攻撃力の 4分の3の 力で{n}敵全員に 打撃を あたえる!{n}ただ最大体力の 3分の1を {sub:B3}!{page}",
-   "en": null
+   "en": "Hits all enemies with three quarters{n}of current Attack!{n}But it uses a third of max Health!{page}"
   },
   {
    "id": "b026_0008",
    "jp": "敵1体に 会心の一撃を{n}あたえることが できます! でも!{n}最大体力の 2分の1を つかいます!{page}",
-   "en": null
+   "en": "Lands a critical hit{n}on one enemy! But!{n}It uses half of max Health!{page}"
   },
   {
    "id": "b026_0009",
    "jp": "{arg}{arg}の はり手!{page}",
-   "en": null
+   "en": "{arg}{arg}'s open-hand slap!{page}"
   },
   {
    "id": "b026_0010",
    "jp": "{arg}{arg}の つっぱり!{page}",
-   "en": null
+   "en": "{arg}{arg}'s palm thrusts!{page}"
   },
   {
    "id": "b026_0011",
    "jp": "{arg}{arg}の 頭突き!{page}",
-   "en": null
+   "en": "{arg}{arg}'s headbutt!{page}"
   },
   {
    "id": "b026_0012",
    "jp": "しかし {arg}{arg}は{n}残りの 体力が たりなかった!{page}",
-   "en": null
+   "en": "But {arg}{arg}{n}didn't have enough Health left!{page}"
   },
   {
    "id": "b026_0013",
    "jp": "風神と雷神の{n}合体攻撃!{n}{page}",
-   "en": null
+   "en": "Fujin and Raijin's{n}combined attack!{n}{page}"
   },
   {
    "id": "b026_0014",
    "jp": "「そーら! よっこらせっ!」{page}{n}{arg}{arg}の 大きな{n}こぶしが うなりを あげた!{page}",
-   "en": null
+   "en": "\"Heave-ho! Hup!\"{page}{n}{arg}{arg}'s huge{n}fist swung with a roar!{page}"
   },
   {
    "id": "b026_0015",
    "jp": "「ここは おいらに まかせるだ!」{page}{n}{arg}{arg}が {arg}{arg}の まえに{n}ゆうかんに たちはだかった!{page}",
-   "en": null
+   "en": "\"Leave this to me, I says!\"{page}{n}{arg}{arg} bravely stood{n}in front of {arg}{arg}!{page}"
   },
   {
    "id": "b026_0016",
    "jp": "「{kata}アッポ{hira}ー!」{page}",
-   "en": null
+   "en": "\"Appooh!\"{page}"
   },
   {
    "id": "b026_0017",
    "jp": "「{kata}アッポ{hira}ー! ぼ ぼ ぼくの{n} 攻撃は とても きくんだな!」{page}",
-   "en": null
+   "en": "\"Appooh! M-m-my attacks are really strong, y'know!\"{page}"
   },
   {
    "id": "b026_0018",
    "jp": "「{kata}アッポ{hira}ー! み み みんな{n} あぶないから はなれてて{n} ほしいんだな! {kata}アッポ{hira}ー!」{page}",
-   "en": null
+   "en": "\"Appooh! E-e-everybody, it's dangerous, so I want you to stay back, y'know! Appooh!\"{page}"
   },
   {
    "id": "b026_0019",
    "jp": "「{kata}アッポ{hira}ー! {kata}チョ{hira} {kata}チョ{n}{hira} {kata}チョップ{hira}で 攻撃しちゃうんだな!」{page}",
-   "en": null
+   "en": "\"Appooh! I'm gonna attack with a ch-ch-chop, y'know!\"{page}"
   },
   {
    "id": "b026_0020",
    "jp": "「{kata}アッポ{hira}ー! ぼ ぼ ぼくの{n} 十六文{kata}キック{hira}は{n} とても いたいんだな {kata}アッポ{hira}ー!」{page}",
-   "en": null
+   "en": "\"Appooh! M-m-my size-sixteen kick really hurts, y'know! Appooh!\"{page}"
   },
   {
    "id": "b026_0021",
    "jp": "{arg}{arg}の からだは{n}{kata}ヌルッ{hira}としていて{n}攻撃が あたらない!{page}",
-   "en": null
+   "en": "{arg}{arg}'s body is{n}all slimy and slippery,{n}so attacks don't land!{page}"
   },
   {
    "id": "b026_0022",
    "jp": "「えー? 術ぅー? あたし{n} それ つかえなーい! じゃ{n} かわりに なにかやろーっと!」{page}",
-   "en": null
+   "en": "\"Huh? Arts? I can't use those! So I'll do something else instead!\"{page}"
   },
   {
    "id": "b026_0023",
    "jp": "「{num}両 もらいまっさー!」",
-   "en": null
+   "en": "\"That'll be {num} ryo, thank ya kindly!\""
   },
   {
    "id": "b026_0024",
    "jp": "「お客はん!{n} しょうばいにん なめてもうたら{n} こまりまんな! 金たりまへんで!」{page}",
-   "en": null
+   "en": "\"Customer! Don't ya go makin' a fool of a merchant! That ain't enough money!\"{page}"
   },
   {
    "id": "b026_0025",
    "jp": "「{arg}の術なら{n} {num}両 でんなー!」{n}",
-   "en": null
+   "en": "\"The {arg} Art'll run ya {num} ryo!\"{n}"
   },
   {
    "id": "b026_0026",
    "jp": "「そうでんなー かばうみたいな{n} たいへんなこと やるんやったら{n} {num}両 というとこでんな!」",
-   "en": null
+   "en": "\"Let's see now... for somethin' as tough as coverin' for someone, I'd say {num} ryo!\""
   },
   {
    "id": "b026_0027",
    "jp": "「お客はん!{n} しょうばいにん なめてもうたら{n} こまりまんな! 金たりまへんで!」{page}",
-   "en": null
+   "en": "\"Customer! Don't ya go makin' a fool of a merchant! That ain't enough money!\"{page}"
   },
   {
    "id": "b026_0028",
    "jp": "玉こめ よーし!{n}火薬 じゅんび よーし!{n}よーく ねらいを さだめて…{page}",
-   "en": null
+   "en": "Load the shot -- ready!{n}Powder -- ready!{n}Take careful aim...{page}"
   },
   {
    "id": "b026_0029",
    "jp": "撃てーーーーーーーーーーっ!{n}{n}",
-   "en": null
+   "en": "Fiiiiiiiiiiire!{n}{n}"
   },
   {
    "id": "b026_0030",
    "jp": "大砲の玉が きれてしまった!{page}",
-   "en": null
+   "en": "Out of cannonballs!{page}"
   },
   {
    "id": "b026_0031",
    "jp": "{arg}城は 逃げだした!",
-   "en": null
+   "en": "{arg} Castle fled!"
   },
   {
    "id": "b026_0032",
    "jp": "城大工{n}「よっしゃ! 城の修理は{n} まかせて おくんなさい!」",
-   "en": null
+   "en": "Castle Carpenter{n}\"All right! Leave the castle repairs to me!\""
   },
   {
    "id": "b026_0033",
    "jp": "{arg}城の 耐久度が{n}300{sub:B4}{n}{page}",
-   "en": null
+   "en": "{arg} Castle{n}recovered 300 Durability!{n}{page}"
   },
   {
    "id": "b026_0034",
    "jp": "{arg}城の 耐久度が{n}全{sub:B4}{n}{page}",
-   "en": null
+   "en": "{arg} Castle's Durability{n}was fully restored!{n}{page}"
   },
   {
    "id": "b026_0035",
    "jp": "城修理道具が ありません!{page}",
-   "en": null
+   "en": "You have no Castle Toolkit!{page}"
   },
   {
    "id": "b026_0036",
    "jp": "{kata}ワン{hira} {kata}ワン{hira}! {arg}{arg}が{n}敵に とびかかった!{n}{page}",
-   "en": null
+   "en": "Woof, woof! {arg}{arg}{n}leapt at the enemy!{n}{page}"
   },
   {
    "id": "b026_0037",
    "jp": "{kata}ワン{hira} {kata}ワン{hira}! {arg}{arg}が{n}敵に かみついた!{n}{page}",
-   "en": null
+   "en": "Woof, woof! {arg}{arg}{n}bit the enemy!{n}{page}"
   },
   {
    "id": "b026_0038",
    "jp": "{kata}ワン{hira} {kata}ワン{hira}! {arg}{arg}は{n}はげしく 敵に 体あたりした!{page}",
-   "en": null
+   "en": "Woof, woof! {arg}{arg}{n}slammed hard into the enemy!{page}"
   },
   {
    "id": "b026_0039",
    "jp": "{arg}{arg}は はらいのけた!{page}",
-   "en": null
+   "en": "{arg}{arg} brushed it off!{page}"
   },
   {
    "id": "b026_0040",
    "jp": "{arg}{arg}は ふっとんだ!{page}",
-   "en": null
+   "en": "{arg}{arg} was sent flying!{page}"
   },
   {
    "id": "b026_0041",
    "jp": "{kata}ワン{hira} {kata}ワン{hira}! {arg}{arg}は{n}うなり声を あげた!{n}{page}",
-   "en": null
+   "en": "Woof, woof! {arg}{arg}{n}let out a growl!{n}{page}"
   },
   {
    "id": "b026_0042",
    "jp": "{kata}ワン{hira} {kata}ワン{hira}! {arg}{arg}は{n}{arg}{arg}の{n}顔を {kata}ペロペロ{hira} なめた!{page}",
-   "en": null
+   "en": "Woof, woof! {arg}{arg}{n}licked{n}{arg}{arg}'s{n}face! Lick, lick!{page}"
   },
   {
    "id": "b026_0043",
    "jp": "{kata}キャッ{hira} {kata}キャッ{hira}! {arg}{arg}が{n}敵に とびかかった!{n}{page}",
-   "en": null
+   "en": "Eek, eek! {arg}{arg}{n}leapt at the enemy!{n}{page}"
   },
   {
    "id": "b026_0044",
    "jp": "{kata}キャッ{hira} {kata}キャッ{hira}! {arg}{arg}が{n}敵を ひっかいた!{n}{page}",
-   "en": null
+   "en": "Eek, eek! {arg}{arg}{n}scratched the enemy!{n}{page}"
   },
   {
    "id": "b026_0045",
    "jp": "{kata}キャッ{hira} {kata}キャッ{hira}! {arg}{arg}は{n}{kata}サル{hira}酒を 敵に あびせた!{n}{page}",
-   "en": null
+   "en": "Eek, eek! {arg}{arg}{n}doused the enemy with monkey sake!{n}{page}"
   },
   {
    "id": "b026_0046",
    "jp": "{kata}キャッ{hira} {kata}キャッ{hira}! {arg}{arg}は{n}飛びかかって 敵の 両目を突いた!{n}{page}",
-   "en": null
+   "en": "Eek, eek! {arg}{arg}{n}pounced and poked the enemy in both eyes!{n}{page}"
   },
   {
    "id": "b026_0047",
    "jp": "{kata}キャッ{hira} {kata}キャッ{hira}! {arg}{arg}は{n}秘薬 {kata}サルノコシカケ{hira}を{n}{arg}{arg}に のませた!{page}",
-   "en": null
+   "en": "Eek, eek! {arg}{arg} gave{n}the secret remedy, Monkey's Bench mushroom,{n}to {arg}{arg}!{page}"
   },
   {
    "id": "b026_0048",
    "jp": "{kata}ケン{hira} {kata}ケン{hira}! {arg}{arg}が{n}敵に 飛びかかった!{n}{page}",
-   "en": null
+   "en": "Ken, ken! {arg}{arg}{n}leapt at the enemy!{n}{page}"
   },
   {
    "id": "b026_0049",
    "jp": "{kata}ケン{hira} {kata}ケン{hira}! {arg}{arg}は{n}まもりの術を となえた!{n}{page}",
-   "en": null
+   "en": "Ken, ken! {arg}{arg}{n}cast the Guard Art!{n}{page}"
   },
   {
    "id": "b026_0050",
    "jp": "{kata}ケン{hira} {kata}ケン{hira}! {arg}{arg}は{n}{sub:B0}の術を となえた!{n}{page}",
-   "en": null
+   "en": "Ken, ken! {arg}{arg}{n}cast the Kintan Art!{n}{page}"
   },
   {
    "id": "b026_0051",
    "jp": "{kata}ケン{hira} {kata}ケン{hira}! {arg}{arg}は{n}せん{sub:B0}の術を となえた!{n}{page}",
-   "en": null
+   "en": "Ken, ken! {arg}{arg}{n}cast the Senkintan Art!{n}{page}"
   },
   {
    "id": "b026_0052",
    "jp": "{kata}ケン{hira} {kata}ケン{hira}! {arg}{arg}は{n}くちばしで {kata}ツボ{hira}を ついた!{n}{page}",
-   "en": null
+   "en": "Ken, ken! {arg}{arg}{n}pecked the pressure points with its beak!{n}{page}"
   },
   {
    "id": "b026_0053",
    "jp": "{kata}ケン{hira} {kata}ケン{hira}!{arg}{arg}は{n}毒消しの術を となえた!{n}{page}",
-   "en": null
+   "en": "Ken, ken! {arg}{arg}{n}cast the Antidote Art!{n}{page}"
   },
   {
    "id": "b026_0054",
    "jp": "{arg}{arg}は 逃げ出した!{page}",
-   "en": null
+   "en": "{arg}{arg} ran away!{page}"
   },
   {
    "id": "b026_0055",
    "jp": "「逃げちゃ いやなのねん!{n} ひとりに しないでね なのねん!」{n}{page}",
-   "en": null
+   "en": "\"Don't run away, nanonen! Don't leave me all alone, nanonen!\"{n}{page}"
   },
   {
    "id": "b026_0056",
    "jp": "「{kata}ボク{hira}から 逃げようったって{n} {kata}ダメ{hira}さ! だって{n} ちきゅうは まるいんだもん!」{page}",
-   "en": null
+   "en": "\"You can't run away from me! 'Cause the earth is round, y'know!\"{page}"
   },
   {
    "id": "b026_0057",
    "jp": "{arg}{arg}を こらしめないと{n}鬼界から 抜け出せない!{n}{page}",
-   "en": null
+   "en": "Unless you punish{n}{arg}{arg}, you can't escape{n}the Oni Realm!{n}{page}"
   },
   {
    "id": "b026_0058",
    "jp": "しかし",
-   "en": null
+   "en": "But"
   },
   {
    "id": "b026_0059",
    "jp": "{arg}{arg}からは{n}逃れられなかった!{page}",
-   "en": null
+   "en": "there was no escaping{n}{arg}{arg}!{page}"
   },
   {
    "id": "b026_0060",
    "jp": "{arg}{arg}は 追いかけてきた!",
-   "en": null
+   "en": "{arg}{arg} gave chase!"
   },
   {
    "id": "b026_0061",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! 村の人たちに{n} ひょうばんの わるい {arg}{arg}さんの{n} いうことを ききたくありません!」",
-   "en": null
+   "en": "\"Woof, woof! I don't wanna listen to {arg}{arg}, who's got such a bad name with the villagers!\""
   },
   {
    "id": "b026_0062",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {arg}{arg}さん!{n} 愛と 勇気の {arg}{arg}は{n} どこに 行っちゃったんですか?」",
-   "en": null
+   "en": "\"Eek, eek! {arg}{arg}! Where did the {arg}{arg} of love and courage go?\""
   },
   {
    "id": "b026_0063",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {arg}{arg}さん!{n} だいじな 鬼たいじのことを{n} ちかごろ わすれてませんか?」",
-   "en": null
+   "en": "\"Ken, ken! {arg}{arg}! Haven't you been forgetting the important oni hunt lately?\""
   },
   {
    "id": "b026_0064",
    "jp": "{arg}{arg}の 人気度が 30をわったので{n}{arg}{arg}は きびだんごを{n}たべなくなって しまった!{page}",
-   "en": null
+   "en": "{arg}{arg}'s Popularity fell below 30,{n}so {arg}{arg} stopped{n}eating millet dumplings!{page}"
   },
   {
    "id": "b026_0065",
    "jp": "でた! ごぞんじ{n}{arg}{arg}の ひっさつ技!{n}盗むぞ! 盗むぞ! {kata}シュシュッ{hira}!{page}",
-   "en": null
+   "en": "Here it comes! The famous{n}special skill of {arg}{arg}!{n}Gonna steal! Gonna steal! Swish-swish!{page}"
   },
   {
    "id": "b026_0066",
    "jp": "{kata}ガガ{hira}ーーー{kata}ン{hira}! {arg}{arg}が{n}盗んだのは {kata}キュウリ{hira}だった!{n}{page}",
-   "en": null
+   "en": "Gagaaaan! What {arg}{arg}{n}stole was a cucumber!{n}{page}"
   },
   {
    "id": "b026_0067",
    "jp": "{arg}{arg}は {arg}{arg}から{n}{arg}を 盗んだ!{n}{page}",
-   "en": null
+   "en": "{arg}{arg} robbed {arg}{arg}{n}of {arg}!{n}{page}"
   },
   {
    "id": "b026_0068",
    "jp": "しかし {arg}{arg}は{n}盗みに しっぱいした!{n}{page}",
-   "en": null
+   "en": "But {arg}{arg}{n}failed to steal!{n}{page}"
   },
   {
    "id": "b026_0069",
    "jp": "{kata}ガガ{hira}ーーー{kata}ン{hira}! {arg}{arg}は{n}{arg}{arg}の {sub:D6}から{n}かってに {kata}キュウリ{hira}をとりだした!{page}",
-   "en": null
+   "en": "Gagaaaan! {arg}{arg}{n}helped itself to a cucumber from{n}{arg}{arg}'s Item Bag!{page}"
   },
   {
    "id": "b026_0070",
    "jp": "{arg}{arg}は {arg}{arg}を{n}水中に ひきこんだ!{n}{kata}ガボガボガボ{hira}……{page}",
-   "en": null
+   "en": "{arg}{arg} dragged {arg}{arg}{n}underwater!{n}Glub glub glub......{page}"
   },
   {
    "id": "b026_0071",
    "jp": "{arg}{arg}は 魚を とってきた!{n}食べた!{n}{page}",
-   "en": null
+   "en": "{arg}{arg} caught a fish!{n}And ate it!{n}{page}"
   },
   {
    "id": "b026_0072",
    "jp": "{arg}{arg}は 魚を とってきた!{n}そして その魚を{n}{arg}{arg}に 食べさせた!{page}",
-   "en": null
+   "en": "{arg}{arg} caught a fish!{n}Then it fed that fish{n}to {arg}{arg}!{page}"
   },
   {
    "id": "b026_0073",
    "jp": "なんだ なんだ!?{n}{arg}{arg}が とつぜん{n}おおごえを 出したぞ!?{n}みんな みみが{n}{kata}キ{hira}ーーーー{kata}ン{hira}と なった!{n}{n}な なんと! 敵も 味方も{n}ぜんいん 術が{n}つかえなく なってしまった!{page}",
-   "en": null
+   "en": "What's this, what's this!?{n}{arg}{arg} suddenly{n}let out a huge shout!?{n}Everyone's ears{n}rang -- kiiiiiiing!{n}{n}W-what's this! Friend and foe alike{n}can no longer{n}use Arts!{page}"
   },
   {
    "id": "b026_0074",
    "jp": "でた! {arg}{arg}の 体からでる{n}生ぐさーい においの攻撃!{n}{kata}ヌニュルニュニュ{hira}ーーー!",
-   "en": null
+   "en": "Here it comes! {arg}{arg}'s body gives off{n}a reeeeally fishy stench attack!{n}Nunyurunyunyuuuuu!"
   },
   {
    "id": "b026_0075",
    "jp": "なんと! そこに{n}{arg}{arg}も くわわった!{n}{n}「くさい においなら{n} まけないの ねんのねん!」{n}{n}くさいぞ! くさいぞ!{n}がったい におい攻撃!{n}",
-   "en": null
+   "en": "What's this! Now{n}{arg}{arg} joins in too!{n}{n}\"When it comes to stink, I won't lose, nen-no-nen!\"{n}{n}It stinks! It stinks!{n}Combined stench attack!{n}"
   },
   {
    "id": "b026_0076",
    "jp": "{arg}{arg}は あまりの{n}くささに 力つきてしまった!{n}おそるべし! がったい におい攻撃!{page}",
-   "en": null
+   "en": "{arg}{arg} collapsed{n}from the awful stink!{n}Fear it! The combined stench attack!{page}"
   },
   {
    "id": "b026_0077",
    "jp": "でた! {arg}{arg}の{n}くすぐり攻撃!{n}{kata}コチョコチョコチョ{hira}……{page}",
-   "en": null
+   "en": "Here it comes! {arg}{arg}'s{n}tickle attack!{n}Tickle tickle tickle......{page}"
   },
   {
    "id": "b026_0078",
    "jp": "{arg}{arg}は{n}術が つかえなくなった!{n}{page}",
-   "en": null
+   "en": "{arg}{arg}{n}can no longer use Arts!{n}{page}"
   },
   {
    "id": "b026_0079",
    "jp": "{arg}{arg}は ぬるぬるの体を{n}{arg}{arg}に すりつけた!{n}{page}",
-   "en": null
+   "en": "{arg}{arg} rubbed its slimy body{n}all over {arg}{arg}!{n}{page}"
   },
   {
    "id": "b026_0080",
    "jp": "でた! {arg}{arg}の{n}ひっさつ しりこ玉 攻撃!{n}",
-   "en": null
+   "en": "Here it comes! {arg}{arg}'s{n}deadly butt-soul attack!{n}"
   },
   {
    "id": "b026_0081",
    "jp": "{arg}{arg}は {arg}{arg}の{n}しりこ玉を ぬいた! {kata}スポ{hira}!{n}{page}",
-   "en": null
+   "en": "{arg}{arg} pulled out{n}{arg}{arg}'s{n}butt-soul! Pop!{n}{page}"
   },
   {
    "id": "b026_0082",
    "jp": "{arg}{arg}は {arg}{arg}の{n}しりこ玉を ぬくことが{n}できなかった! ざんねんむねん!{page}",
-   "en": null
+   "en": "{arg}{arg} couldn't{n}pull out {arg}{arg}'s{n}butt-soul! What a crying shame!{page}"
   },
   {
    "id": "b026_0083",
    "jp": "{arg}{arg}は 河童の世界に{n}古くから 伝わる{n}きんそうこうを 取り出した!{n}そして きんそうこうを{n}みんなに ぬって まわった!{n}{page}",
-   "en": null
+   "en": "{arg}{arg} brought out{n}a wound salve handed down{n}since olden times in the kappa world!{n}Then it went around{n}rubbing the salve on everyone!{n}{page}"
   },
   {
    "id": "b026_0084",
    "jp": "おっと! {arg}{arg}の うでが{n}ぬけてしまった! {kata}スポン{hira}!{n}{page}",
-   "en": null
+   "en": "Whoops! {arg}{arg}'s arm{n}came off! Pop!{n}{page}"
   },
   {
    "id": "b026_0085",
    "jp": "おっと! {arg}{arg}の{n}あたまの おさらから 水が{n}こぼれてしまったぞ!? {kata}ジャ{hira}ー!{page}",
-   "en": null
+   "en": "Whoops! The water in the dish{n}on {arg}{arg}'s head{n}spilled out!? Sploosh!{page}"
   },
   {
    "id": "b026_0086",
    "jp": "{arg}{arg}の 攻撃力は{n}{num}下がった!{n}{page}",
-   "en": null
+   "en": "{arg}{arg}'s Attack{n}fell by {num}!{n}{page}"
   },
   {
    "id": "b026_0087",
    "jp": "{arg}{arg}は とても{n}おもしろい{n}だじゃれを おもいついた!",
-   "en": null
+   "en": "{arg}{arg} came up with{n}a really{n}funny pun!"
   },
   {
    "id": "b026_0088",
    "jp": "「でんわには でんわ!",
-   "en": null
+   "en": "\"Why did the phone get married? It found the right ring!"
   },
   {
    "id": "b026_0089",
    "jp": "「{kata}ブタ{hira}が ぶった!",
-   "en": null
+   "en": "\"What do you call a pig that knows karate? A pork chop!"
   },
   {
    "id": "b026_0090",
    "jp": "「{kata}フトン{hira}が ふっとんだ!",
-   "en": null
+   "en": "\"My bedsheets blew away! Now I'm sheet out of luck!"
   },
   {
    "id": "b026_0091",
    "jp": "「かびんが われた! {kata}カピ{hira}ー{kata}ン{hira}!",
-   "en": null
+   "en": "\"I dropped the vase! It broke! What a smashing time! Crash!"
   },
   {
    "id": "b026_0092",
    "jp": "「{kata}サイ{hira}が {kata}オナラ{hira}した く{kata}サイ{hira}!",
-   "en": null
+   "en": "\"A rhino tooted! Stinky! Hold your rhi-nose!"
   },
   {
    "id": "b026_0093",
    "jp": "「{kata}イタチ{hira}が そこに いたっち!",
-   "en": null
+   "en": "\"There's a weasel over there! I weasel-y saw it!"
   },
   {
    "id": "b026_0094",
    "jp": "「この ほん だれの? {kata}ブック{hira}の!",
-   "en": null
+   "en": "\"Whose book is this? I'm booked if I know!"
   },
   {
    "id": "b026_0095",
    "jp": "「{sub:C9} おすしが だい{kata}スシ{hira}!",
-   "en": null
+   "en": "\"Me? I think sushi is soy good!"
   },
   {
    "id": "b026_0096",
    "jp": " {kata}キャハハハハハハ{hira}!」{n}{page}{n}「えーー? みんな{n} そんなに おもしろかったー?」{n}{page}",
-   "en": null
+   "en": " Kyahahahahahaha!\"{n}{page}{n}\"Whaaat? Was it really that funny, everyone?\"{n}{page}"
   },
   {
    "id": "b026_0097",
    "jp": "おっと! {arg}{arg}の{n}かわいい {kata}ウインク{hira}だ!{n}{n}「えへ! これからも{n} ずーっと なかよくしてね!{n} ぱちっ! ぱちっ! ぱちっ!」{page}",
-   "en": null
+   "en": "Whoa! It's {arg}{arg}'s{n}cute wink!{n}{n}\"Tee-hee! Let's stay friends forever and ever! Wink! Wink! Wink!\"{page}"
   },
   {
    "id": "b026_0098",
    "jp": "「ふわわわわわわわわぁーっ{n} がんばって 戦っ{sub:BE}{n} ねむく なってきちゃった!」{n}「おやすみなさーーーーい!」{n}{n}{page}",
-   "en": null
+   "en": "\"Fwaaaaaaaaah... I fought so hard I'm getting sleepy!\"{n}\"Good niiiiiight!\"{n}{n}{page}"
   },
   {
    "id": "b026_0099",
    "jp": "「ねぇー なんだか あたし{n} たいくつに なっちゃった!{n} なんかして あそぼうよ!」{n}「あそぼ あそぼ あそぼ!{n} かまって かまって!」{n}{page}",
-   "en": null
+   "en": "\"Heeey, I'm kinda bored! Let's do something fun!\"{n}\"Play, play, play! Pay attention to me, pay attention to me!\"{n}{page}"
   },
   {
    "id": "b026_0100",
    "jp": "{arg}{arg}は {arg}{arg}を{n}相手に しなかった!{n}{page}",
-   "en": null
+   "en": "{arg}{arg} paid no attention{n}to {arg}{arg}!{n}{page}"
   },
   {
    "id": "b026_0101",
    "jp": "{arg}{arg}は 大きな 大きな{n}あくびを した!{n}つめたいいきが あたりに ひろがる!{page}{n}{kata}カチ{hira}ーーーー{kata}ン{hira}!{page}",
-   "en": null
+   "en": "{arg}{arg} let out a big,{n}big yawn!{n}An icy breath spread all around!{page}{n}Ka-chiiiiing!{page}"
   },
   {
    "id": "b026_0102",
    "jp": "「みんな 元気が ないなぁー!{n} もっと {kata}パ{hira}ー{kata}ッ{hira}と{n} はでに 戦いましょうよ!」{page}",
-   "en": null
+   "en": "\"Everyone's so low on energy! Let's fight with more flash and pizzazz!\"{page}"
   },
   {
    "id": "b026_0103",
    "jp": "{arg}{arg}の 攻撃力は{n}2倍に なった!{n}{page}",
-   "en": null
+   "en": "{arg}{arg}'s Attack{n}doubled!{n}{page}"
   },
   {
    "id": "b026_0104",
    "jp": "「えー {sub:C9}って{n} そんなに かわいいって{n} やだー!!」{page}",
-   "en": null
+   "en": "\"Ehh, you think I'm that cute? Stop iiit!!\"{page}"
   },
   {
    "id": "b026_0105",
    "jp": "「うーーーーん! もう!{n} あたしの ために{n} 戦うのは もうやめてーー!」{page}",
-   "en": null
+   "en": "\"Mmmmmm! Geez! Please stop fighting over meeee!\"{page}"
   },
   {
    "id": "b026_0106",
    "jp": "{arg}{arg}の せいで{n}戦いは おわってしまった!{n}{page}",
-   "en": null
+   "en": "Because of {arg}{arg},{n}the battle came to an end!{n}{page}"
   },
   {
    "id": "b026_0107",
    "jp": "{arg}{arg}は{n}{kata}ユキ{hira}の {sub:C0}を とりだして{n}みんなに くばった!{n}「みなさん さしいれでーす!{n} もっと もっと がんばってね!」{n}{page}",
-   "en": null
+   "en": "{arg}{arg}{n}took out Yuki's Rice Balls{n}and handed them out!{n}\"Snacks for everyone! Keep up the good work!\"{n}{page}"
   },
   {
    "id": "b026_0108",
    "jp": "「えーーと えーーと{n} どこまで 戦ったか{n} わかんなく なっちゃったーー!」{page}{n}「ごめん もいちどね!」{page}{n}なんと! ぜんいんが{n}戦いの さいしょに{n}ひきもどされて しまった!{page}",
-   "en": null
+   "en": "\"Umm, ummm... I forgot how far we got in the fight!\"{page}{n}\"Sorry, one more time!\"{page}{n}What!? Everyone was{n}pulled back to the{n}start of the battle!{page}"
   },
   {
    "id": "b026_0109",
    "jp": "「あ そうだ! あたし{n} ちょっと かいものに{n} いって くるねーー!」{page}",
-   "en": null
+   "en": "\"Oh, I know! I'm just gonna pop out and do some shopping!\"{page}"
   },
   {
    "id": "b026_0110",
    "jp": "{arg}{arg}が 戦いから{n}はずれて しまった!{n}ああ なんと みがってな!{page}",
-   "en": null
+   "en": "{arg}{arg} left{n}the battle!{n}How selfish!{page}"
   },
   {
    "id": "b026_0111",
    "jp": "「もーーーーーーーっ! みんな{n} いいかげんに しなさいよね!{n} あたし おこったーーーーーーっ!」{n}なんと! 雪だるまの 体から{n}1000本の 氷の刃が{n}とびだしたぞーーーーーーー!?{page}",
-   "en": null
+   "en": "\"Hmmmmmmph! All of you, cut it out already! I'm maaaaaaad!\"{n}What! From the snowman's body{n}1000 blades of ice{n}came flying ouuuuuuut!?{page}"
   },
   {
    "id": "b026_0112",
    "jp": "「{sub:D0}{n} 今日は いい天気だなー!」{n}{page}",
-   "en": null
+   "en": "\"Hey! Hey! What nice weather today!\"{n}{page}"
   },
   {
    "id": "b026_0113",
    "jp": "これだけは ききたくなかった!{n}{arg}{arg}の 子守歌攻撃だ!{n}{n}「{sub:D0} {kata}ホゲゲ{hira}ー!{n} {kata}ホゲゲ{hira}ー! {kata}ヘヘイ{hira}! {kata}ヘイ{hira}!」{n}{page}",
-   "en": null
+   "en": "The one thing you never wanted to hear!{n}{arg}{arg}'s lullaby attack!{n}{n}\"Hey! Hey! Hogegeee! Hogegeee! Hehey! Hey!\"{n}{page}"
   },
   {
    "id": "b026_0114",
    "jp": "おおーっと!? なんと!{n}そこへ ましらも くわわった!{n}{n}「{kata}ズンドコ{hira}! {kata}ドコドコ{hira}!{n} {kata}ドコドン{hira}! {kata}ズコドン{hira}!」{n}{page}",
-   "en": null
+   "en": "Whoa-ho!? What's this!{n}Mashira joins in too!{n}{n}\"Zundoko! Dokodoko! Dokodon! Zukodon!\"{n}{page}"
   },
   {
    "id": "b026_0115",
    "jp": "{arg}{arg}は{n}耳を ふさいでいた!{n}{page}",
-   "en": null
+   "en": "{arg}{arg}{n}had their ears plugged!{n}{page}"
   },
   {
    "id": "b026_0116",
    "jp": "でたー{kata}ッ{hira}! {arg}{arg}{n}おとくいの {kata}ハッタリ{hira}攻撃!{n}{page}",
-   "en": null
+   "en": "Here it comeees! {arg}{arg}'s{n}trademark bluff attack!{n}{page}"
   },
   {
    "id": "b026_0117",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} {hero}たちの 攻撃力が{n} 100000上がった!」{page}",
-   "en": null
+   "en": "\"Hey! Hey! Hey! The Attack of {hero}'s party went up by 100000!\"{page}"
   },
   {
    "id": "b026_0118",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} 鹿角の術でも くらいな!」{n}{page}",
-   "en": null
+   "en": "\"Hey! Hey! Hey! Take this Antlers Art!\"{n}{page}"
   },
   {
    "id": "b026_0119",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} 流れ星の術でも くらいな!」{n}{page}",
-   "en": null
+   "en": "\"Hey! Hey! Hey! Take this Falling Star Art!\"{n}{page}"
   },
   {
    "id": "b026_0120",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} {kata}オレ{hira}さまたちは 99段だぜ!」{n}{page}",
-   "en": null
+   "en": "\"Hey! Hey! Hey! We're all Rank 99, baby!\"{n}{page}"
   },
   {
    "id": "b026_0121",
    "jp": "敵は ぜんいん あわてて{n}逃げ出して しまった!{n}",
-   "en": null
+   "en": "All the enemies panicked{n}and ran away!{n}"
   },
   {
    "id": "b026_0122",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} ただの {kata}ハッタリ{hira}だぜ!」{n}{page}",
-   "en": null
+   "en": "\"Hey! Hey! Hey! It was just a bluff!\"{n}{page}"
   },
   {
    "id": "b026_0123",

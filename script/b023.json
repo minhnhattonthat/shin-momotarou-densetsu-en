@@ -7,7 +7,7 @@
   {
    "id": "b023_0000",
    "jp": "{arg}{arg}は{n}{arg}の術を となえた!",
-   "en": null
+   "en": "{arg}{arg}{n}cast {arg}!"
   },
   {
    "id": "b023_0001",
@@ -17,7 +17,7 @@
   {
    "id": "b023_0002",
    "jp": "{arg}{arg}は{n}{arg}の術を となえた!",
-   "en": null
+   "en": "{arg}{arg}{n}cast {arg}!"
   },
   {
    "id": "b023_0003",
@@ -27,627 +27,627 @@
   {
    "id": "b023_0004",
    "jp": "しかし{n}なにも おきなかった!{n}{page}",
-   "en": null
+   "en": "But{n}nothing happened!{n}{page}"
   },
   {
    "id": "b023_0005",
    "jp": "{arg}の術は{n}いまは つかえません!{n}{page}",
-   "en": null
+   "en": "The {arg} Art{n}can't be used right now!{n}{page}"
   },
   {
    "id": "b023_0006",
    "jp": "{c1}{arg}{arg}は{n}つかえない術を{n}つかおうとしました!{page}",
-   "en": null
+   "en": "{c1}{arg}{arg}{n}tried to use{n}an Art they can't use!{page}"
   },
   {
    "id": "b023_0007",
    "jp": "{c1}{num}の 術は{n}{sub:AC}には つかえません!{n}{page}",
-   "en": null
+   "en": "{c1}Art No. {num}{n}can't be used on oni!{n}{page}"
   },
   {
    "id": "b023_0008",
    "jp": "{c1}三上まで{n}れんらくして{sub:C5}!{n}{page}",
-   "en": null
+   "en": "{c1}Please contact{n}Mikami!{n}{page}"
   },
   {
    "id": "b023_0009",
    "jp": "しかし {arg}は{n}声が 出なくなる 呪いのせいで{n}術が となえられない!{page}",
-   "en": null
+   "en": "But {arg} is cursed{n}to lose their voice{n}and can't cast Arts!{page}"
   },
   {
    "id": "b023_0010",
    "jp": "{arg}は 大けがを しているので{n}術が となえられない!{n}{page}",
-   "en": null
+   "en": "{arg} is badly wounded{n}and can't cast Arts!{n}{page}"
   },
   {
    "id": "b023_0011",
    "jp": "技数3で 味方 ひとりの 体力を{n}すこし 回復できます!{n}{page}",
-   "en": null
+   "en": "For 3 Skill points, restores a{n}little Health to one ally!{n}{page}"
   },
   {
    "id": "b023_0012",
    "jp": "技数5で 味方 ひとりの 体力を{n}かなり 回復できます!{n}{page}",
-   "en": null
+   "en": "For 5 Skill points, restores a{n}lot of Health to one ally!{n}{page}"
   },
   {
    "id": "b023_0013",
    "jp": "技数10で 味方 ひとりの 体力を{n}全回復できます!{n}{page}",
-   "en": null
+   "en": "For 10 Skill points, fully restores{n}one ally's Health!{n}{page}"
   },
   {
    "id": "b023_0014",
    "jp": "技数10で 味方 すべての 体力を{n}すこし 回復できます!{n}{page}",
-   "en": null
+   "en": "For 10 Skill points, restores a{n}little Health to all allies!{n}{page}"
   },
   {
    "id": "b023_0015",
    "jp": "技数18で 味方 すべての 体力を{n}かなり 回復できます!{n}{page}",
-   "en": null
+   "en": "For 18 Skill points, restores a{n}lot of Health to all allies!{n}{page}"
   },
   {
    "id": "b023_0016",
    "jp": "技数32で 味方 すべての 体力を{n}全回復できます!{n}{page}",
-   "en": null
+   "en": "For 32 Skill points, fully restores{n}all allies' Health!{n}{page}"
   },
   {
    "id": "b023_0017",
    "jp": "技数10で 味方 ぜんいんの 体力を{n}いくらかずつ 回復します!{n}{page}",
-   "en": null
+   "en": "For 10 Skill points, restores some{n}Health to every ally, bit by bit!{n}{page}"
   },
   {
    "id": "b023_0018",
    "jp": "{arg}{arg}は やわらかい{n}かおりに つつまれた!{n}{page}",
-   "en": null
+   "en": "{arg}{arg} was wrapped{n}in a gentle fragrance!{n}{page}"
   },
   {
    "id": "b023_0019",
    "jp": "技数28で 味方 ひとりの{n}大けがを なおし 最大体力の{n}2分の1まで 回復します!{page}",
-   "en": null
+   "en": "For 28 Skill points, heals one{n}ally's grave wounds and restores{n}half their maximum Health!{page}"
   },
   {
    "id": "b023_0020",
    "jp": "しかし{n}なにも おきなかった!{n}{page}",
-   "en": null
+   "en": "But{n}nothing happened!{n}{page}"
   },
   {
    "id": "b023_0021",
    "jp": "{arg}{arg}が おきあがった!{n}{n}{page}",
-   "en": null
+   "en": "{arg}{arg} got back up!{n}{n}{page}"
   },
   {
    "id": "b023_0022",
    "jp": "{arg}{arg}は{n}いしきを とりもどした!{n}{page}",
-   "en": null
+   "en": "{arg}{arg}{n}regained consciousness!{n}{page}"
   },
   {
    "id": "b023_0023",
    "jp": "技数2で 味方 ひとりの{n}毒を 消します!{n}{page}",
-   "en": null
+   "en": "For 2 Skill points, cures{n}one ally's poison!{n}{page}"
   },
   {
    "id": "b023_0024",
    "jp": "しかし{n}なにも おきなかった!{n}{page}",
-   "en": null
+   "en": "But{n}nothing happened!{n}{page}"
   },
   {
    "id": "b023_0025",
    "jp": "技数3で 味方 ひとりの{n}{kata}マヒ{hira}を なおせます!{n}{page}",
-   "en": null
+   "en": "For 3 Skill points, cures{n}one ally's paralysis!{n}{page}"
   },
   {
    "id": "b023_0026",
    "jp": "技数3で 小波をよび すべての{n}鬼に 打撃を あたえます!{n}{page}",
-   "en": null
+   "en": "For 3 Skill points, calls ripples{n}to damage all oni!{n}{page}"
   },
   {
    "id": "b023_0027",
    "jp": "技数6で 大波をよび すべての{n}鬼に かなりの 打撃を あたえます!{n}{page}",
-   "en": null
+   "en": "For 6 Skill points, calls a big wave{n}to deal heavy damage to all oni!{n}{page}"
   },
   {
    "id": "b023_0028",
    "jp": "技数12で 津波をよび すべての{n}鬼に 大打撃を あたえます!{n}{page}",
-   "en": null
+   "en": "For 12 Skill points, calls a tsunami{n}to deal massive damage to all oni!{n}{page}"
   },
   {
    "id": "b023_0029",
    "jp": "技数4で 稲妻を 落とし{n}岩を こわしたり 鬼の 1{kata}グル{hira}ー{kata}プ{hira}に{n}打撃を あたえます!{page}",
-   "en": null
+   "en": "For 4 Skill points, drops lightning{n}to smash rocks or damage{n}one group of oni!{page}"
   },
   {
    "id": "b023_0030",
    "jp": "技数4で かみなりを よび{n}鬼1匹に 打撃を あたえます!{n}{page}",
-   "en": null
+   "en": "For 4 Skill points, calls thunder{n}to damage one oni!{n}{page}"
   },
   {
    "id": "b023_0031",
    "jp": "技数8で かみなりをよび 鬼1匹に{n}かなりの 打撃を あたえます!{n}{page}",
-   "en": null
+   "en": "For 8 Skill points, calls thunder{n}to deal heavy damage to one oni!{n}{page}"
   },
   {
    "id": "b023_0032",
    "jp": "技数16で かみなりをよび 鬼1匹に{n}大打撃を あたえます!{n}{page}",
-   "en": null
+   "en": "For 16 Skill points, calls thunder{n}to deal massive damage to one oni!{n}{page}"
   },
   {
    "id": "b023_0033",
    "jp": "技数4で つむじ風を おこし{n}すべての 鬼に 打撃を あたえます!{n}{page}",
-   "en": null
+   "en": "For 4 Skill points, raises a whirlwind{n}to damage all oni!{n}{page}"
   },
   {
    "id": "b023_0034",
    "jp": "技数8で 突風を おこし すべての{n}鬼に かなりの 打撃を あたえます!{n}{page}",
-   "en": null
+   "en": "For 8 Skill points, raises a gust{n}to deal heavy damage to all oni!{n}{page}"
   },
   {
    "id": "b023_0035",
    "jp": "技数14で はげしい風を おこし{n}すべての 鬼に{n}大打撃を あたえます!{page}",
-   "en": null
+   "en": "For 14 Skill points, raises a fierce{n}wind to deal massive damage{n}to all oni!{page}"
   },
   {
    "id": "b023_0036",
    "jp": "技数4で 炎をよび 鬼の{n}1{kata}グル{hira}ー{kata}プ{hira}に 打撃を あたえます!{n}{page}",
-   "en": null
+   "en": "For 4 Skill points, calls flames{n}to damage one group of oni!{n}{page}"
   },
   {
    "id": "b023_0037",
    "jp": "技数8で 火炎をよび 鬼の{n}1{kata}グル{hira}ー{kata}プ{hira}に かなりの{n}打撃を あたえます!{page}",
-   "en": null
+   "en": "For 8 Skill points, calls a blaze{n}to deal heavy damage{n}to one group of oni!{page}"
   },
   {
    "id": "b023_0038",
    "jp": "技数16で 火炎を走らせ 鬼の{n}1{kata}グル{hira}ー{kata}プ{hira}に 大打撃を あたえます!{n}{page}",
-   "en": null
+   "en": "For 16 Skill points, sends a blaze racing{n}to deal massive damage to one group of oni!{n}{page}"
   },
   {
    "id": "b023_0039",
    "jp": "{kata}バラ{hira}吹雪の術は 体力が きょくたんに{n}へらないと となえられない!{n}{page}",
-   "en": null
+   "en": "Rose Flurry can't be cast unless{n}Health is extremely low!{n}{page}"
   },
   {
    "id": "b023_0040",
    "jp": "技数12で {kata}バラ{hira}吹雪を よび{n}すべての 鬼に{n}かなりの 打撃を あたえます!{page}",
-   "en": null
+   "en": "For 12 Skill points, calls a Rose{n}Flurry to deal heavy damage{n}to all oni!{page}"
   },
   {
    "id": "b023_0041",
    "jp": "{arg}{arg}の 体から{n}数万本の {kata}バラ{hira}が{n}鬼たちにむかって 飛んで行った!{page}",
-   "en": null
+   "en": "Tens of thousands of roses flew{n}from {arg}{arg}'s body{n}toward the oni!{page}"
   },
   {
    "id": "b023_0042",
    "jp": "忍冬の術は 体力と 技の数が{n}のこっていないと となえられない!{n}{page}",
-   "en": null
+   "en": "Honeysuckle can't be cast unless{n}Health and Skill points remain!{n}{page}"
   },
   {
    "id": "b023_0043",
    "jp": "体力と 技の ほとんどを{n}ぎせいにして すべての 鬼に{n}大打撃を あたえます!{page}",
-   "en": null
+   "en": "Sacrifices nearly all Health{n}and Skill points to deal{n}massive damage to all oni!{page}"
   },
   {
    "id": "b023_0044",
    "jp": "忍冬(すいかずら)の{n}花ことばは 献身(けんしん)!{n}{n}{arg}{arg}は ねむれる 力の{n}すべてを 出しきって{n}{arg}{arg}に 身を ささげた!{page}",
-   "en": null
+   "en": "In the language of flowers,{n}honeysuckle means devotion!{n}{n}{arg}{arg} poured out every{n}last drop of hidden power{n}in devotion to {arg}{arg}!{page}"
   },
   {
    "id": "b023_0045",
    "jp": "最大技数の 3分の1ぐらいで{n}流れ星を よび すべての 鬼に{n}大打撃を あたえます!{page}",
-   "en": null
+   "en": "For about a third of max Skill points,{n}calls down falling stars to deal{n}massive damage to all oni!{page}"
   },
   {
    "id": "b023_0046",
    "jp": "「夜空に かがやく{n} いく千の 星よ!{n} われに 力を {sub:AB}まえ!」{n}{arg}{arg}の 体に{n}流れ星の 力が 加わった!{n}{page}",
-   "en": null
+   "en": "\"O thousand stars that shine{n} in the night sky!{n} Grant me your power!\"{n}The power of the falling stars{n}filled {arg}{arg}'s body!{n}{page}"
   },
   {
    "id": "b023_0047",
    "jp": "最大技数の 3分の1ぐらいで{n}{sub:A0}の すべての力を はなち{n}会心の一撃を あたえます!{page}",
-   "en": null
+   "en": "For about a third of max Skill points,{n}unleashes all of Momotaro's power{n}for a critical hit!{page}"
   },
   {
    "id": "b023_0048",
    "jp": "{arg}{arg}の{n}刀は するどさを ました!{n}{page}",
-   "en": null
+   "en": "{arg}{arg}'s{n}sword grew sharper!{n}{page}"
   },
   {
    "id": "b023_0049",
    "jp": "技数5で すべての 鬼から{n}お金を 盗み さらに{n}鬼に 打撃を あたえます!{page}",
-   "en": null
+   "en": "For 5 Skill points, steals money{n}from all oni and{n}deals them damage too!{page}"
   },
   {
    "id": "b023_0050",
    "jp": "{arg}{arg}は{n}{arg}{arg}から{n}{num}両 盗んだ!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}stole {num} ryo{n}from {arg}{arg}!{page}"
   },
   {
    "id": "b023_0051",
    "jp": "技数12で すべての 鬼から{n}大金を 盗み さらに{n}かなりの 打撃を あたえます!{page}",
-   "en": null
+   "en": "For 12 Skill points, steals a fortune{n}from all oni and{n}deals them heavy damage too!{page}"
   },
   {
    "id": "b023_0052",
    "jp": "技数24で すべての 鬼に{n}ものすごい 大打撃を あたえます!{n}{page}",
-   "en": null
+   "en": "For 24 Skill points, deals{n}tremendous damage to all oni!{n}{page}"
   },
   {
    "id": "b023_0053",
    "jp": "鬼たちは びびって{n}全身の 力が ぬけてしまった!{n}{n}すかさず {arg}{arg}が{n}体中の 力を あつめて{n}鬼たちに ぶつけた!{page}",
-   "en": null
+   "en": "The oni got so spooked{n}their strength drained away!{n}{n}Without missing a beat, {arg}{arg}{n}gathered every ounce of power{n}and slammed it into the oni!{page}"
   },
   {
    "id": "b023_0054",
    "jp": "技数20で 鬼は 力がぬけ{n}味方すべての 体力が{n}すこし 回復します!{page}",
-   "en": null
+   "en": "For 20 Skill points, saps the oni{n}and restores a little Health{n}to all allies!{page}"
   },
   {
    "id": "b023_0055",
    "jp": "なんと! 鬼たち 全員の{n}攻撃力と 守備力と すばやさが{n}下がってしまった!{page}",
-   "en": null
+   "en": "Whoa! The Attack, Defense{n}and Speed of every oni{n}went down!{page}"
   },
   {
    "id": "b023_0056",
    "jp": "さらに! 味方全員に{n}みな{sub:B0}の術が かかった!{n}こんな術 ありか!?{page}",
-   "en": null
+   "en": "What's more! The Minakintan Art{n}took effect on all allies!{n}Is that even allowed!?{page}"
   },
   {
    "id": "b023_0057",
    "jp": "最大技数の 半分ぐらいで 鬼1匹に{n}ものすごい 大打撃を あたえます!{n}{page}",
-   "en": null
+   "en": "For about half of max Skill points,{n}deals tremendous damage to one oni!{n}{page}"
   },
   {
    "id": "b023_0058",
    "jp": "「だだだだだだだだ ぢぢぢぢぢぢぢぢ{n} づづづづづづづづ でででででででで{n} どどどどどど どどーーーーーん!」{page}",
-   "en": null
+   "en": "\"Dadadadadadadada jijijijijijijiji{n} zuzuzuzuzuzuzuzu dededededededede{n} dododododo dodoooooooom!\"{page}"
   },
   {
    "id": "b023_0059",
    "jp": "技数6で 味方 ひとりの{n}攻撃力が 上がります!{n}戦闘中 なんどでも つかえます!{page}",
-   "en": null
+   "en": "For 6 Skill points, raises{n}one ally's Attack!{n}Usable any number of times in battle!{page}"
   },
   {
    "id": "b023_0060",
    "jp": "技数4で 味方 すべての{n}守備力が 上がります!{n}戦闘中 なんどでも つかえます!{page}",
-   "en": null
+   "en": "For 4 Skill points, raises{n}all allies' Defense!{n}Usable any number of times in battle!{page}"
   },
   {
    "id": "b023_0061",
    "jp": "技数2で 味方 すべての{n}すばやさが あがります!{n}戦闘中 なんどでも つかえます!{page}",
-   "en": null
+   "en": "For 2 Skill points, raises{n}all allies' Speed!{n}Usable any number of times in battle!{page}"
   },
   {
    "id": "b023_0062",
    "jp": "技数3で 味方全員を ねむりや{n}かくらんから とくことが できます!{n}{page}",
-   "en": null
+   "en": "For 3 Skill points, wakes all allies{n}and clears their confusion!{n}{page}"
   },
   {
    "id": "b023_0063",
    "jp": "技数4で 鬼からの 術の打撃を{n}よわめます!{n}{page}",
-   "en": null
+   "en": "For 4 Skill points, weakens{n}damage from oni Arts!{n}{page}"
   },
   {
    "id": "b023_0064",
    "jp": "技数8で しばらくの間 連続攻撃が{n}できるように なります!{n}{page}",
-   "en": null
+   "en": "For 8 Skill points, allows{n}consecutive attacks for a while!{n}{page}"
   },
   {
    "id": "b023_0065",
    "jp": "最大技数の 5分の1ぐらいで{n}自分の 分身を つくり{n}戦いに さんか させます!{page}",
-   "en": null
+   "en": "For about a fifth of max Skill points,{n}creates a double of yourself{n}to join the battle!{page}"
   },
   {
    "id": "b023_0066",
    "jp": "分身は 1体しか{n}あらわれない!{n}{page}",
-   "en": null
+   "en": "Only one double{n}can appear!{n}{page}"
   },
   {
    "id": "b023_0067",
    "jp": "{arg}{arg}の 体が{n}真っ白に かがやいた!{n}{n}{arg}{arg}の 分身が{n}あらわれた!{n}{page}",
-   "en": null
+   "en": "{arg}{arg}'s body{n}shone pure white!{n}{n}A double of {arg}{arg}{n}appeared!{n}{page}"
   },
   {
    "id": "b023_0068",
    "jp": "技数2で 攻撃は できませんが{n}鬼からの 攻撃を{n}まったく うけなくなります!{page}",
-   "en": null
+   "en": "For 2 Skill points, you can't attack,{n}but you take no damage at all{n}from oni attacks!{page}"
   },
   {
    "id": "b023_0069",
    "jp": "しかし{n}なにも おきなかった!{n}{page}",
-   "en": null
+   "en": "But{n}nothing happened!{n}{page}"
   },
   {
    "id": "b023_0070",
    "jp": "きょだいな {kata}バラ{hira}が{n}{arg}{arg}を つつみこんだ!{n}{page}{n}鬼は {arg}{arg}に{n}攻撃が できなくなってしまった!{n}{page}",
-   "en": null
+   "en": "A giant rose{n}enveloped {arg}{arg}!{n}{page}{n}The oni could no longer{n}attack {arg}{arg}!{n}{page}"
   },
   {
    "id": "b023_0071",
    "jp": "技数6で おならをして{n}すべての 鬼の 攻撃力を 下げます!{n}戦闘中 なんどでも つかえます!{page}",
-   "en": null
+   "en": "For 6 Skill points, breaks wind to{n}lower the Attack of all oni!{n}Usable any number of times in battle!{page}"
   },
   {
    "id": "b023_0072",
    "jp": "「{sub:A0}{kata}サン{hira} くさいですよ!」",
-   "en": null
+   "en": "\"Mister Momotaro, you stink!\""
   },
   {
    "id": "b023_0073",
    "jp": "技数3で すべての 鬼の{n}守備力を 下げます!{n}戦闘中 なんどでも つかえます!{page}",
-   "en": null
+   "en": "For 3 Skill points, lowers{n}the Defense of all oni!{n}Usable any number of times in battle!{page}"
   },
   {
    "id": "b023_0074",
    "jp": "技数3で すべての 鬼の{n}すばやさを さげます!{n}{page}",
-   "en": null
+   "en": "For 3 Skill points, lowers{n}the Speed of all oni!{n}{page}"
   },
   {
    "id": "b023_0075",
    "jp": "技数3で すべての 鬼の術を{n}ふうじます!{n}{page}",
-   "en": null
+   "en": "For 3 Skill points, seals{n}the Arts of all oni!{n}{page}"
   },
   {
    "id": "b023_0076",
    "jp": "鬼1匹の 技数を すこし{n}じぶんの ものに できます!{n}{page}",
-   "en": null
+   "en": "Takes a few Skill points{n}from one oni for yourself!{n}{page}"
   },
   {
    "id": "b023_0077",
    "jp": "{arg}{arg}は{n}{arg}{arg}から{n}技を {num}盗んだ!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}stole {num} Skill points{n}from {arg}{arg}!{page}"
   },
   {
    "id": "b023_0078",
    "jp": "技数6で 鬼1匹を なぐるだけの{n}攻撃しか できないように します!{n}{page}",
-   "en": null
+   "en": "For 6 Skill points, leaves one oni{n}able to do nothing but punch!{n}{page}"
   },
   {
    "id": "b023_0079",
    "jp": "技数4で 鬼1匹と 1対1の{n}勝負を することが できます!{n}{page}",
-   "en": null
+   "en": "For 4 Skill points, lets you fight{n}one oni one-on-one!{n}{page}"
   },
   {
    "id": "b023_0080",
    "jp": "しかし{n}なにも おきなかった!{n}{page}",
-   "en": null
+   "en": "But{n}nothing happened!{n}{page}"
   },
   {
    "id": "b023_0081",
    "jp": "{arg}{arg}は{n}{arg}{arg}を{n}うつろひの世界へと いざなった!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}lured {arg}{arg}{n}into the Fading World!{page}"
   },
   {
    "id": "b023_0082",
    "jp": "技数8で すべての 鬼と味方の{n}守備力を 下げます!{n}戦闘中 なんどでも つかえます!{page}",
-   "en": null
+   "en": "For 8 Skill points, lowers the Defense{n}of all oni and allies!{n}Usable any number of times in battle!{page}"
   },
   {
    "id": "b023_0083",
    "jp": "技数10で 自分 いがいの{n}鬼と味方の すべてが しばらくの間{n}うごけなく なります!{page}",
-   "en": null
+   "en": "For 10 Skill points, all oni and allies{n}except the caster can't move{n}for a while!{page}"
   },
   {
    "id": "b023_0084",
    "jp": "{arg}{arg}を とりまく{n}鬼も 味方も すべての{n}うごきが とまってしまった!{page}",
-   "en": null
+   "en": "All around {arg}{arg},{n}oni and allies alike{n}froze in their tracks!{page}"
   },
   {
    "id": "b023_0085",
    "jp": "技数6で すべての ものを{n}ねむりに さそいます!{n}{page}",
-   "en": null
+   "en": "For 6 Skill points, lulls{n}everyone to sleep!{n}{page}"
   },
   {
    "id": "b023_0086",
    "jp": "技数8で いままでに 立ちよった村に{n}飛ぶことが できます!{n}{page}",
-   "en": null
+   "en": "For 8 Skill points, flies you to{n}any village you've visited before!{n}{page}"
   },
   {
    "id": "b023_0087",
    "jp": "{arg}の術は{n}いまは つかえません!{n}",
-   "en": null
+   "en": "{arg}{n}can't be used right now!{n}"
   },
   {
    "id": "b023_0088",
    "jp": "技数8で 洞窟や 塔の中から{n}ぬけだすことが できます!{n}{page}",
-   "en": null
+   "en": "For 8 Skill points, gets you out{n}of caves and towers!{n}{page}"
   },
   {
    "id": "b023_0089",
    "jp": "しかし ここでは 何もおきなかった!{n}{n}",
-   "en": null
+   "en": "But nothing happened here!{n}{n}"
   },
   {
    "id": "b023_0090",
    "jp": "技数4で しばらくの間 自分よりも{n}弱い敵が 出なくなります!{n}{page}",
-   "en": null
+   "en": "For 4 Skill points, keeps enemies weaker{n}than you away for a while!{n}{page}"
   },
   {
    "id": "b023_0091",
    "jp": "りょうりを しても{n}これいじょう もちきれない!{n}{page}",
-   "en": null
+   "en": "Even if you cook,{n}you can't carry any more!{n}{page}"
   },
   {
    "id": "b023_0092",
    "jp": "技数8で {sub:C0}を{n}つくることが できます!{n}{page}",
-   "en": null
+   "en": "For 8 Skill points, makes{n}rice balls!{n}{page}"
   },
   {
    "id": "b023_0093",
    "jp": "{arg}は{n}{sub:C0}を つくった!{n}",
-   "en": null
+   "en": "{arg}{n}made rice balls!{n}"
   },
   {
    "id": "b023_0094",
    "jp": "しかし {arg}{arg}は{n}りょうりに しっぱいした!{n}{page}",
-   "en": null
+   "en": "But {arg}{arg}{n}botched the cooking!{n}{page}"
   },
   {
    "id": "b023_0095",
    "jp": "{arg}{arg}は{n}{sub:C0}を つくった!{n}{page}",
-   "en": null
+   "en": "{arg}{arg}{n}made rice balls!{n}{page}"
   },
   {
    "id": "b023_0096",
    "jp": "技数4で 戦闘の間中 鬼からの{n}呪い攻撃を 防ぎます!{n}{page}",
-   "en": null
+   "en": "For 4 Skill points, blocks oni{n}curse attacks for the whole battle!{n}{page}"
   },
   {
    "id": "b023_0097",
    "jp": "しかし{n}なにも おきなかった!{n}{page}",
-   "en": null
+   "en": "But{n}nothing happened!{n}{page}"
   },
   {
    "id": "b023_0098",
    "jp": "{arg}{arg}は{n}邪悪な力を しりぞける{n}光に つつまれた!{page}",
-   "en": null
+   "en": "{arg}{arg} was wrapped{n}in a light that repels{n}the powers of evil!{page}"
   },
   {
    "id": "b023_0099",
    "jp": "技数4で 体が ちゅうに ういて{n}毒の沼地でも へいきです!{n}{page}",
-   "en": null
+   "en": "For 4 Skill points, you float in the air{n}and poison swamps can't hurt you!{n}{page}"
   },
   {
    "id": "b023_0100",
    "jp": "{hero}{arg}の{n}体が ちゅうに ういた!{n}",
-   "en": null
+   "en": "{hero}{arg}'s{n}body floated into the air!{n}"
   },
   {
    "id": "b023_0101",
    "jp": "{arg}{arg}の{n}体が ちゅうに ういた!{n}{page}",
-   "en": null
+   "en": "{arg}{arg}'s{n}body floated into the air!{n}{page}"
   },
   {
    "id": "b023_0102",
    "jp": "技数5で その戦いの とちゅうから{n}やりなおすことが できます!{n}{page}",
-   "en": null
+   "en": "For 5 Skill points, lets you restart{n}the battle from the middle!{n}{page}"
   },
   {
    "id": "b023_0103",
    "jp": "しかし{n}なにも おきなかった!{n}{page}",
-   "en": null
+   "en": "But{n}nothing happened!{n}{page}"
   },
   {
    "id": "b023_0104",
    "jp": "すべては うたかたの{n}かなたに 消えて行った!{n}{page}",
-   "en": null
+   "en": "Everything vanished away{n}like foam on the waves!{n}{page}"
   },
   {
    "id": "b023_0105",
    "jp": "あやかしの術は{n}ここでは つかえない!{n}{page}",
-   "en": null
+   "en": "The Phantom Art{n}can't be used here!{n}{page}"
   },
   {
    "id": "b023_0106",
    "jp": "海の上で なければ{n}時化を おこせない!{n}{page}",
-   "en": null
+   "en": "You can't stir up a storm{n}unless you're out at sea!{n}{page}"
   },
   {
    "id": "b023_0107",
    "jp": "技数3で 洞窟や 塔の中いがいの{n}天気を すきな天気に{n}かえることが できます!{page}",
-   "en": null
+   "en": "For 3 Skill points, changes the weather{n}anywhere but caves and towers{n}to whatever weather you like!{page}"
   },
   {
    "id": "b023_0108",
    "jp": "技数60で なんと おふろに{n}でかけることが できます!{n}{page}",
-   "en": null
+   "en": "For 60 Skill points, you can, believe it{n}or not, go off for a bath!{n}{page}"
   },
   {
    "id": "b023_0109",
    "jp": "げげっ! なんと のんきな!{n}はらだしは おんせん旅行に{n}でかけてしまった!",
-   "en": null
+   "en": "Yikes! How carefree!{n}Bellyman went off on{n}a hot spring trip!"
   },
   {
    "id": "b023_0110",
    "jp": "なんと! {arg}{arg}の{n}体力が 1に なってしまった!{n}{page}",
-   "en": null
+   "en": "Whoa! {arg}{arg}'s{n}Health dropped to 1!{n}{page}"
   },
   {
    "id": "b023_0111",
    "jp": "なんと! {arg}{arg}の{n}体力が {num}に なってしまった!{n}{page}",
-   "en": null
+   "en": "Whoa! {arg}{arg}'s{n}Health dropped to {num}!{n}{page}"
   },
   {
    "id": "b023_0112",
    "jp": "かげろうが たちこめて{n}{arg}{arg}の 攻撃が{n}あたりづらくなった!{page}",
-   "en": null
+   "en": "A heat haze rose up, and{n}{arg}{arg}'s attacks{n}became hard to land!{page}"
   },
   {
    "id": "b023_0113",
    "jp": "しかし{n}なにも おきなかった!{n}{page}",
-   "en": null
+   "en": "But{n}nothing happened!{n}{page}"
   },
   {
    "id": "b023_0114",
    "jp": "あたりの けしきが{n}ゆがんで いく!{n}{page}",
-   "en": null
+   "en": "The scenery all around{n}began to warp!{n}{page}"
   },
   {
    "id": "b023_0115",
    "jp": "しかし {arg}{arg}の{n}技の数は たりなかった!{n}{page}",
-   "en": null
+   "en": "But {arg}{arg}{n}didn't have enough Skill points!{n}{page}"
   },
   {
    "id": "b023_0116",
    "jp": "{c1}{arg}{arg} 技のこり {num}{page}",
-   "en": null
+   "en": "{c1}{arg}{arg} Skill points left: {num}{page}"
   },
   {
    "id": "b023_0117",
    "jp": "「お客はん! 金たりまへんで!」{page}",
-   "en": null
+   "en": "\"Hey, customer! Ya ain't got enough money!\"{page}"
   },
   {
    "id": "b023_0118",
    "jp": "{arg}の{n}技の数が たりない!{n}",
-   "en": null
+   "en": "{arg}{n}doesn't have enough Skill points!{n}"
   },
   {
    "id": "b023_0119",
    "jp": "{arg}{arg}の{n}技の数が たりない!{n}{page}",
-   "en": null
+   "en": "{arg}{arg}{n}doesn't have enough Skill points!{n}{page}"
   },
   {
    "id": "b023_0120",
    "jp": "{c1}{arg}{arg} 技 EMPTY{page}",
-   "en": null
+   "en": "{c1}{arg}{arg} Skill points: EMPTY{page}"
   },
   {
    "id": "b023_0121",
    "jp": "「お客はん! 金たりまへんで!」{page}",
-   "en": null
+   "en": "\"Hey, customer! Ya ain't got enough money!\"{page}"
   },
   {
    "id": "b023_0122",
    "jp": "会心の術!{page}",
-   "en": null
+   "en": "Critical Art!{page}"
   },
   {
    "id": "b023_0123",
    "jp": "{arg}が {arg}の術を{n}打ち消した!{page}",
-   "en": null
+   "en": "{arg} canceled out{n}the Art of {arg}!{page}"
   },
   {
    "id": "b023_0124",
    "jp": "{arg}が {arg}の術の{n}いきおいを 増した!{page}",
-   "en": null
+   "en": "{arg} boosted the force{n}of the Art of {arg}!{page}"
   },
   {
    "id": "b023_0125",
    "jp": "{arg}{arg}は{n}{arg}の術を{n}となえようとした!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}tried to cast{n}{arg}!{page}"
   },
   {
    "id": "b023_0126",
    "jp": "しかし 怪しげな光のせいで{n}{arg}の術を{n}となえてしまった!{page}",
-   "en": null
+   "en": "But because of an eerie light,{n}{arg}{n}was cast instead!{page}"
   },
   {
    "id": "b023_0127",
    "jp": "天の仙人{n}「{sub:A8}!{n} わしは 天の仙人{sub:A7}{n}「くおりゃ! {sub:A0}!{n} 何を のんきなことを{n} しようとして おるの{sub:A7}{n}「はやく したくを{n} ととのえて {kata}カルラ{hira}を{n} おうのぢゃーーーーー{kata}ッ{hira}!」",
-   "en": null
+   "en": "Heavenly Sage{n}\"Uhyahya...!{n} I am the Heavenly Sage!\"{n}\"Oi, you! Momotaro!{n} What carefree nonsense are you{n} trying to pull?!\"{n}\"Hurry up and get ready{n} and go after Karuraaaaaaa!\""
   },
   {
    "id": "b023_0128",
    "jp": "{arg}{arg}には{n}{arg}の術が{n}つかえない!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}can't use{n}{arg}!{page}"
   }
  ]
 }

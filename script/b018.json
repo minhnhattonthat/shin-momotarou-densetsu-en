@@ -7,122 +7,122 @@
   {
    "id": "b018_0000",
    "jp": "「{kata}プハ{hira}ー{kata}ッ{hira}! うんめー!」{n}{n}",
-   "en": null
+   "en": "\"Pwahh! Deeelicious!\"{n}{n}"
   },
   {
    "id": "b018_0001",
    "jp": "「うーん! おいしいですね!」{n}{n}",
-   "en": null
+   "en": "\"Mmm! This is delicious!\"{n}{n}"
   },
   {
    "id": "b018_0002",
    "jp": "「つめたくて おいしー!」{n}{n}",
-   "en": null
+   "en": "\"So cold and yummy!\"{n}{n}"
   },
   {
    "id": "b018_0003",
    "jp": "{sub:C2} なんと うまいんだ!」{n}{n}",
-   "en": null
+   "en": "\"Oh! How delicious!\"{n}{n}"
   },
   {
    "id": "b018_0004",
    "jp": "{sub:C2} なんと うまいんだ!」{n}{n}",
-   "en": null
+   "en": "\"Oh! How delicious!\"{n}{n}"
   },
   {
    "id": "b018_0005",
    "jp": "「こいつは うまい!」{n}{n}",
-   "en": null
+   "en": "\"Now this is tasty!\"{n}{n}"
   },
   {
    "id": "b018_0006",
    "jp": "「ぐはー! うまいぞ! ぐかー!」{n}{n}",
-   "en": null
+   "en": "\"Guhaa! Tasty! Guhkaa!\"{n}{n}"
   },
   {
    "id": "b018_0007",
    "jp": "「うまいんだなー! あっぽー!」{n}{n}",
-   "en": null
+   "en": "\"It's sooo tasty! Appoh!\"{n}{n}"
   },
   {
    "id": "b018_0008",
    "jp": "「これは 100万両の{n} おいしさですな!」{n}",
-   "en": null
+   "en": "\"Now this tastes{n} like a million ryo!\"{n}"
   },
   {
    "id": "b018_0009",
    "jp": "「{kata}キャ{hira}ー! なに! なに!{n} なんなの この おいしさ!」{n}",
-   "en": null
+   "en": "\"Eeek! What? What?!{n} What is this deliciousness?!\"{n}"
   },
   {
    "id": "b018_0010",
    "jp": "「ふっふっふ! 私の{n} うつくしさの ような 水ですね」{n}",
-   "en": null
+   "en": "\"Heh heh heh! This water is{n} as lovely as I am.\"{n}"
   },
   {
    "id": "b018_0011",
    "jp": "「{kata}ヘイヘイ{hira}! うまいぜ! {kata}ヘイ{hira}!」{n}{n}",
-   "en": null
+   "en": "\"Hey hey! It's tasty! Hey!\"{n}{n}"
   },
   {
    "id": "b018_0012",
    "jp": "「こんな おいしい お水{n} はじめて のむのねん!」{n}",
-   "en": null
+   "en": "\"I've never drunk water{n} this delicious before, ya know!\"{n}"
   },
   {
    "id": "b018_0013",
    "jp": "「{sub:A8}! 力が{n} わいてきたぞー!」{n}",
-   "en": null
+   "en": "\"Uhyahya... I feel{n} my strength welling up!\"{n}"
   },
   {
    "id": "b018_0014",
    "jp": "「力が みなぎる ようですぜ!」{n}{n}",
-   "en": null
+   "en": "\"I feel the power surgin' through me!\"{n}{n}"
   },
   {
    "id": "b018_0015",
    "jp": "「{kata}アンダンテ{hira}! 小川の{n} せせらぎの {kata}リズム{hira}だ!」{n}",
-   "en": null
+   "en": "\"Andante! The rhythm of{n} a babbling brook!\"{n}"
   },
   {
    "id": "b018_0016",
    "jp": "「{kata}ピレパレポロパレ{hira}ー!{n} おいしいっちゃー!」{n}",
-   "en": null
+   "en": "\"Pirepare-poropareee!{n} It's yummy-cha!\"{n}"
   },
   {
    "id": "b018_0017",
    "jp": "「{kata}カパッパ{hira}! お皿に 水が!{n} うれしい {kata}カパッパ{hira}!」{n}",
-   "en": null
+   "en": "\"Kapappa! Water for my head-dish!{n} Happy kapappa!\"{n}"
   },
   {
    "id": "b018_0018",
    "jp": "つめたい 水をのんで{n}身も心も {kata}スッキリ{hira}した!{n}",
-   "en": null
+   "en": "The cold water left{n}body and soul refreshed!{n}"
   },
   {
    "id": "b018_0019",
    "jp": "医者",
-   "en": null
+   "en": "Doctor"
   },
   {
    "id": "b018_0020",
    "jp": "茶店",
-   "en": null
+   "en": "Teahouse"
   },
   {
    "id": "b018_0021",
    "jp": "ひのきのお風呂",
-   "en": null
+   "en": "Cypress Bath"
   },
   {
    "id": "b018_0022",
    "jp": "{sub:A0}歴史部屋",
-   "en": null
+   "en": "Momotaro History Room"
   },
   {
    "id": "b018_0023",
    "jp": "{kata}リハウス{hira}の糸",
-   "en": null
+   "en": "Rehouse Thread"
   },
   {
    "id": "b018_0024",

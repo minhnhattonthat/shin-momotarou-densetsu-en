@@ -7,187 +7,187 @@
   {
    "id": "b022_0000",
    "jp": "装備すると{n}攻撃力が {num}上がります!{page}{n}",
-   "en": null
+   "en": "When equipped,{n}raises Attack by {num}!{page}{n}"
   },
   {
    "id": "b022_0001",
    "jp": "装備すると{n}守備力が {num}上がります!{page}{n}",
-   "en": null
+   "en": "When equipped,{n}raises Defense by {num}!{page}{n}"
   },
   {
    "id": "b022_0002",
    "jp": "戦いで 使うと{n}何が おこるか おたのしみ!{page}",
-   "en": null
+   "en": "Use it in battle,{n}and see what happens!{page}"
   },
   {
    "id": "b022_0003",
    "jp": "{arg}{arg}の 体に{n}玄'武'の魂が やどった!{page}",
-   "en": null
+   "en": "The soul of Genbu came to dwell{n}in {arg}{arg}'s body!{page}"
   },
   {
    "id": "b022_0004",
    "jp": "戦いで 使うと{n}何が おこるか おたのしみ!{page}",
-   "en": null
+   "en": "Use it in battle,{n}and see what happens!{page}"
   },
   {
    "id": "b022_0005",
    "jp": "{arg}{arg}の 体に{n}白虎の魂が やどった!{page}",
-   "en": null
+   "en": "The soul of Byakko came to dwell{n}in {arg}{arg}'s body!{page}"
   },
   {
    "id": "b022_0006",
    "jp": "戦いで 使うと{n}何が おこるか おたのしみ!{page}",
-   "en": null
+   "en": "Use it in battle,{n}and see what happens!{page}"
   },
   {
    "id": "b022_0007",
    "jp": "朱雀の魂が 怒り{n}炎のうずを まきおこす!{page}",
-   "en": null
+   "en": "The soul of Suzaku rages,{n}stirring up a whirl of flame!{page}"
   },
   {
    "id": "b022_0008",
    "jp": "戦いで 使うと{n}何が おこるか おたのしみ!{page}",
-   "en": null
+   "en": "Use it in battle,{n}and see what happens!{page}"
   },
   {
    "id": "b022_0009",
    "jp": "青竜の魂が 怒り{n}猛吹雪を まきおこす!{page}",
-   "en": null
+   "en": "The soul of Seiryu rages,{n}stirring up a raging blizzard!{page}"
   },
   {
    "id": "b022_0010",
    "jp": "身につけていると{n}何か いいことが おこるかも!{page}",
-   "en": null
+   "en": "Wear it, and something{n}good just might happen!{page}"
   },
   {
    "id": "b022_0011",
    "jp": "戦いで 使うと{n}何が おこるか おたのしみ!{page}",
-   "en": null
+   "en": "Use it in battle,{n}and see what happens!{page}"
   },
   {
    "id": "b022_0012",
    "jp": "夕日の光が ふりそそぎ{n}{arg}{arg}を やさしく つつみこむ!{page}",
-   "en": null
+   "en": "Evening sunlight pours down,{n}gently embracing {arg}{arg}!{page}"
   },
   {
    "id": "b022_0013",
    "jp": "戦いで 使うと{n}何が おこるか おたのしみ!{page}",
-   "en": null
+   "en": "Use it in battle,{n}and see what happens!{page}"
   },
   {
    "id": "b022_0014",
    "jp": "朝日の光が ふりそそぎ{n}{arg}{arg}を 力強く つつみこむ!{page}",
-   "en": null
+   "en": "Morning sunlight pours down,{n}embracing {arg}{arg} with power!{page}"
   },
   {
    "id": "b022_0015",
    "jp": "戦いの間 毎回なかまひとりの{n}体力が すこし 回復します!{page}",
-   "en": null
+   "en": "In battle, restores a little Health{n}to one ally every turn!{page}"
   },
   {
    "id": "b022_0016",
    "jp": "包丁の きらめきが {arg}{arg}の{n}体力を 回復させた!{page}",
-   "en": null
+   "en": "The knife's gleam restored{n}{arg}{arg}'s Health!{page}"
   },
   {
    "id": "b022_0017",
    "jp": "戦いの間{n}2回攻撃が できます!{page}",
-   "en": null
+   "en": "Lets you attack{n}twice in battle!{page}"
   },
   {
    "id": "b022_0018",
    "jp": "戦いの間 鬼1匹の 守備力を{n}下げることが あります!{page}",
-   "en": null
+   "en": "In battle, it may lower{n}one oni's Defense!{page}"
   },
   {
    "id": "b022_0019",
    "jp": "とびちる 花火が {arg}{arg}の{n}守備力を 下げた!{page}",
-   "en": null
+   "en": "Scattering fireworks lowered{n}{arg}{arg}'s Defense!{page}"
   },
   {
    "id": "b022_0020",
    "jp": "戦いの間 {kata}ハズレ{hira}ることも ありますが{n}大きな 打撃を あたえられます!{page}",
-   "en": null
+   "en": "In battle, it sometimes misses,{n}but it deals heavy damage!{page}"
   },
   {
    "id": "b022_0021",
    "jp": "戦いの間 毎回なかまひとりの{n}体力が 多めに 回復します!{page}",
-   "en": null
+   "en": "In battle, restores a good amount{n}of Health to one ally every turn!{page}"
   },
   {
    "id": "b022_0022",
    "jp": "戦いの間 毎回みんなの{n}体力が すこし 回復します!{page}",
-   "en": null
+   "en": "In battle, restores a little{n}Health to everyone every turn!{page}"
   },
   {
    "id": "b022_0023",
    "jp": "包丁の きらめきが{n}{arg}{arg}に 力を そそいだ!{page}",
-   "en": null
+   "en": "The knife's gleam poured{n}strength into {arg}{arg}!{page}"
   },
   {
    "id": "b022_0024",
    "jp": "戦いの間 毎回なかまひとりの{n}体力が かなり多めに 回復します!{page}",
-   "en": null
+   "en": "In battle, restores a great deal{n}of Health to one ally every turn!{page}"
   },
   {
    "id": "b022_0025",
    "jp": "戦いの間 毎回みんなの{n}体力が 回復します!{page}",
-   "en": null
+   "en": "In battle, restores Health{n}to everyone every turn!{page}"
   },
   {
    "id": "b022_0026",
    "jp": "身につけていると{n}何か いいことが おこるかも!{page}",
-   "en": null
+   "en": "Wear it, and something{n}good just might happen!{page}"
   },
   {
    "id": "b022_0027",
    "jp": "{sub:B0}の錫杖が 鈴を かなでる!{n}きんたーーーーーん!{page}",
-   "en": null
+   "en": "The Elixir Rod rings its bells!{n}Kintaaaaan!{page}"
   },
   {
    "id": "b022_0028",
    "jp": "身につけていると{n}何か いいことが おこるかも!{page}",
-   "en": null
+   "en": "Wear it, and something{n}good just might happen!{page}"
   },
   {
    "id": "b022_0029",
    "jp": "稲妻の錫杖が 鈴を かなでる!{n}いなずまーーーーーん!{page}",
-   "en": null
+   "en": "The Lightning Rod rings its bells!{n}Lightniiiiing!{page}"
   },
   {
    "id": "b022_0030",
    "jp": "身につけていると{n}何か いいことが おこるかも!{page}",
-   "en": null
+   "en": "Wear it, and something{n}good just might happen!{page}"
   },
   {
    "id": "b022_0031",
    "jp": "まよけの錫杖が 鈴を かなでる!{n}いざよけまよけーーーーーん!{page}",
-   "en": null
+   "en": "The Warding Rod rings its bells!{n}Begone, evil, begoooooone!{page}"
   },
   {
    "id": "b022_0032",
    "jp": "身につけていると{n}何か いいことが おこるかも!{page}",
-   "en": null
+   "en": "Wear it, and something{n}good just might happen!{page}"
   },
   {
    "id": "b022_0033",
    "jp": "鹿角の錫杖が 鈴を かなでる!{n}ろっかくーーーーーん!{page}",
-   "en": null
+   "en": "The Antler Rod rings its bells!{n}Antleeeeeers!{page}"
   },
   {
    "id": "b022_0034",
    "jp": "{arg}{arg}の{n}錫杖が するどさを ました!{page}",
-   "en": null
+   "en": "{arg}{arg}'s{n}rod grew sharper!{page}"
   },
   {
    "id": "b022_0035",
    "jp": "戦いで 使うと{n}何が おこるか おたのしみ!{page}",
-   "en": null
+   "en": "Use it in battle,{n}and see what happens!{page}"
   },
   {
    "id": "b022_0036",
    "jp": "身につけていると{n}何か いいことが おこるかも!{page}",
-   "en": null
+   "en": "Wear it, and something{n}good just might happen!{page}"
   }
  ]
 }

@@ -267,702 +267,702 @@
   {
    "id": "b020_0052",
    "jp": "なんと!{n}{arg}が うまっていた!{n}",
-   "en": null
+   "en": "Well, what do you know!{n}{arg} was buried here!{n}"
   },
   {
    "id": "b020_0053",
    "jp": "{arg}は 絶好調になった!{n}{n}",
-   "en": null
+   "en": "{arg} is in top form!{n}{n}"
   },
   {
    "id": "b020_0054",
    "jp": "ふゆうの 効果がきれた!{n}{hero}{arg}は{n}地面に おりたった!",
-   "en": null
+   "en": "The Float effect wore off!{n}{hero}{arg}{n}landed on the ground!"
   },
   {
    "id": "b020_0055",
    "jp": "{hero}{arg}は{n}元の すがたに もどった!{n}",
-   "en": null
+   "en": "{hero}{arg}{n}returned to normal!{n}"
   },
   {
    "id": "b020_0056",
    "jp": "{hero}は 目の前を 調べた!{0B}",
-   "en": null
+   "en": "{hero} searched straight ahead!{0B}"
   },
   {
    "id": "b020_0057",
    "jp": "{hero}は 城の中から{n}下の ようすを うかがった!{0B}",
-   "en": null
+   "en": "{hero} peered down from{n}inside the castle!{0B}"
   },
   {
    "id": "b020_0058",
    "jp": "{hero}は 船から 水中を 調べた!{0B}",
-   "en": null
+   "en": "{hero} searched the water from the boat!{0B}"
   },
   {
    "id": "b020_0059",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} {num}両に なりました!」{n}",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} That makes {num} ryo!\"{n}"
   },
   {
    "id": "b020_0060",
    "jp": "おや?{n}{n}{n}貧乏神の 様子が{n}なんか へんだぞ?????{n}{n}ま… まさか!{n}{n}{n}貧乏神が 伝説の{n}{kata}キングボンビ{hira}ーに{n}へんしん しようと してるのでは!",
-   "en": null
+   "en": "Huh?{n}{n}{n}The God of Poverty, Binbo,{n}is acting kinda strange?????{n}{n}N... no way!{n}{n}{n}Could Binbo be about to{n}transform into the legendary{n}King Bonbi!?"
   },
   {
    "id": "b020_0061",
    "jp": "{sub:A0}の 人気度は{num}上がった!{n}{n}",
-   "en": null
+   "en": "Momotaro's Popularity rose by {num}!{n}{n}"
   },
   {
    "id": "b020_0062",
    "jp": "おめでとうございます!{n}人気度100 たっせい きねんに{n}崑崙の玉を {kata}プレゼント{hira}いたします!{n}なお {sub:A0}の 人気度は{n}これ以上 上がりません!{n}あしからず!",
-   "en": null
+   "en": "Congratulations!{n}To celebrate your Popularity reaching 100,{n}we present you with the Kunlun Orb!{n}Please note that Momotaro's Popularity{n}cannot rise any higher!{n}We thank you for your understanding!"
   },
   {
    "id": "b020_0063",
    "jp": "{sub:A0}の 人気度は とうとう{n}80をこえた! これから{n}何か いいことが おきそうだ!",
-   "en": null
+   "en": "Momotaro's Popularity has finally{n}passed 80! Something good{n}seems bound to happen now!"
   },
   {
    "id": "b020_0064",
    "jp": "{sub:A0}の 人気度は{num}下がった!{n}{n}",
-   "en": null
+   "en": "Momotaro's Popularity fell by {num}!{n}{n}"
   },
   {
    "id": "b020_0065",
    "jp": "{sub:A0}の 人気度が{n}30を わってしまった!{n}{n}これから {sub:A0}の身に{n}とんでもないことが おきるぞ!{n}はやく よいことを するんだ!",
-   "en": null
+   "en": "Momotaro's Popularity has{n}dropped below 30!{n}{n}Something terrible is going{n}to happen to Momotaro!{n}Hurry and do some good deeds!"
   },
   {
    "id": "b020_0066",
    "jp": "{sub:A0}の 人気度は{num}になった!{n}{n}",
-   "en": null
+   "en": "Momotaro's Popularity is now {num}!{n}{n}"
   },
   {
    "id": "b020_0067",
    "jp": "しかし {arg}{arg}は{sub:D7}{n}いっぱいなのに 気がついた!{n}",
-   "en": null
+   "en": "But {arg}{arg} noticed the item bag{n}was full!{n}"
   },
   {
    "id": "b020_0068",
    "jp": "{sub:D6}から 何かを 捨てますか?{n}{n}",
-   "en": null
+   "en": "Throw something out of an item bag?{n}{n}"
   },
   {
    "id": "b020_0069",
    "jp": "誰の {sub:D6}から 捨てますか?{n}{n}",
-   "en": null
+   "en": "Whose item bag will you throw it out of?{n}{n}"
   },
   {
    "id": "b020_0070",
    "jp": "{arg}{arg}は{n}{arg}を{n}あきらめた!",
-   "en": null
+   "en": "{arg}{arg}{n}gave up on{n}{arg}!"
   },
   {
    "id": "b020_0071",
    "jp": "{arg}は 捨てられない!{n}{n}",
-   "en": null
+   "en": "{arg} can't be thrown away!{n}{n}"
   },
   {
    "id": "b020_0072",
    "jp": "{arg}は{n}{arg}を 捨てて{n}{arg}を 手に入れた!{page}",
-   "en": null
+   "en": "{arg}{n}threw away {arg}{n}and got {arg}!{page}"
   },
   {
    "id": "b020_0073",
    "jp": "{arg}は{n}{arg}を 手に入れた!{n}{page}",
-   "en": null
+   "en": "{arg}{n}got {arg}!{n}{page}"
   },
   {
    "id": "b020_0074",
    "jp": "{arg}を捨てます!{n}よろしいですか?{n}",
-   "en": null
+   "en": "Throw away {arg}!{n}Are you sure?{n}"
   },
   {
    "id": "b020_0075",
    "jp": "貧乏神の {arg}が{n}仲間に くわわった!{n}",
-   "en": null
+   "en": "{arg}, the God of Poverty,{n}joined the party!{n}"
   },
   {
    "id": "b020_0076",
    "jp": "{sub:A0}は {kata}イヌ{hira}の{n}{arg}を おともにした!{n}",
-   "en": null
+   "en": "Momotaro took the Dog{n}{arg} along as a companion!{n}"
   },
   {
    "id": "b020_0077",
    "jp": "{sub:A0}は {kata}サル{hira}の{n}{arg}を おともにした!{n}",
-   "en": null
+   "en": "Momotaro took the Monkey{n}{arg} along as a companion!{n}"
   },
   {
    "id": "b020_0078",
    "jp": "{sub:A0}は {kata}キジ{hira}の{n}{arg}を おともにした!{n}",
-   "en": null
+   "en": "Momotaro took the Pheasant{n}{arg} along as a companion!{n}"
   },
   {
    "id": "b020_0079",
    "jp": "{arg}が 仲間に 加わった!{n}{n}{page}",
-   "en": null
+   "en": "{arg} joined the party!{n}{n}{page}"
   },
   {
    "id": "b020_0080",
    "jp": "旅を続けるのに この人数では{n}まとまりが つかない!{n}誰を 城へ もどしますか?",
-   "en": null
+   "en": "With this many people, the journey{n}can't stay organized!{n}Who will you send back to the castle?"
   },
   {
    "id": "b020_0081",
    "jp": "「それじゃあ {sub:C9}は{n} {sub:A0}さんの城を{n} 鬼から まもっています!」{page}",
-   "en": null
+   "en": "\"Well then, I'll guard your castle from the oni, Momotaro!\"{page}"
   },
   {
    "id": "b020_0082",
    "jp": "「そうですか では {sub:C9}は{n} ひとあしさきに {arg}城に{n} もどっている ことにしますね!」{n}浦島は 城に もどっていった!{n}{n}{page}",
-   "en": null
+   "en": "\"I see. Then I'll go on ahead and wait back at {arg} Castle!\"{n}Urashima went back to the castle!{n}{n}{page}"
   },
   {
    "id": "b020_0083",
    "jp": "「{kata}オラ{hira}を おいてくのか? {sub:A0}!{n} きっと {kata}オラ{hira}の 怪力がないと{n} 鬼たいじが つらくなるど!」{page}",
-   "en": null
+   "en": "\"Yer leavin' me behind, Momotaro? Without my mighty strength, I bet huntin' oni's gonna get real tough!\"{page}"
   },
   {
    "id": "b020_0084",
    "jp": "「まったく しょうがねえな!{n} {kata}オラ{hira}がいなくても がんばって{n} 鬼たいじ するんだぞ! いいな!」{n}金太郎は 城に もどっていった!{n}{n}{page}",
-   "en": null
+   "en": "\"Jeez, fine, have it your way! You keep huntin' oni even without me, got it?\"{n}Kintaro went back to the castle!{n}{n}{page}"
   },
   {
    "id": "b020_0085",
    "jp": "「では ちょっぴり さみしいけど{n} {sub:A0}さんの{n} るすを まもっています!」{page}",
-   "en": null
+   "en": "\"Then, though I'll be a little lonely, I'll watch over things while you're away, Momotaro!\"{page}"
   },
   {
    "id": "b020_0086",
    "jp": "「じゃあ わかりました!{n} {sub:C9}は お城にもどります{n} みなさん がんばって {sub:C5}!」{n}「でも ちょっぴり さみしいな」{n}{n}{n}夜叉姫は 城に もどっていった!{n}{n}{page}",
-   "en": null
+   "en": "\"Very well, I understand! I'll go back to the castle. Do your best, everyone!\"{n}\"But I'll be a little lonely...\"{n}{n}{n}Princess Yasha went back to the castle!{n}{n}{page}"
   },
   {
    "id": "b020_0087",
    "jp": "「{kata}フフフフッ{hira}… いたしかたない!{n} では この 美しき城を{n} 守っていると しましょう!」{page}",
-   "en": null
+   "en": "\"Fu-fu-fu-fu... It cannot be helped! I shall stay and guard this beautiful castle, then!\"{page}"
   },
   {
    "id": "b020_0088",
    "jp": "「{kata}フフフフッ{hira}…! いいでしょう!{n} では 城で いい知らせを{n} まっていますよ!」{n}{sub:CE}は あやしいきりと ともに{n}城に もどっていった!{n}{page}",
-   "en": null
+   "en": "\"Fu-fu-fu-fu...! Very well! I shall await good news at the castle!\"{n}Ashura went back to the castle{n}in an eerie mist!{n}{page}"
   },
   {
    "id": "b020_0089",
    "jp": "「{kata}ソファシレド{hira}! {kata}ラファレミシ{hira}!{n} {sub:C9}の かなしみの 歌です!」{n}{page}",
-   "en": null
+   "en": "\"Sol-fa-ti-re-do! La-fa-re-mi-ti! This is my song of sorrow!\"{n}{page}"
   },
   {
    "id": "b020_0090",
    "jp": "「わかった! では 城で{n} 歌の れんしゅうするよ!{n} {kata}ラララ{hira} {kata}ラソファ{hira} {kata}ミミミ{hira}!」{n}ましらは 歌いながら{n}城に もどっていった!{n}{page}",
-   "en": null
+   "en": "\"Gotcha! Then I'll practice my singing at the castle! La la la, la-sol-fa, mi mi mi!\"{n}Mashira went back to the castle,{n}singing all the way!{n}{page}"
   },
   {
    "id": "b020_0091",
    "jp": "「それじゃあ お城で 出番を{n} まってるんだな! {kata}アッポ{hira}ー!」{n}{page}",
-   "en": null
+   "en": "\"Then I'll wait for my turn at the castle, I guess! Appooo!\"{n}{page}"
   },
   {
    "id": "b020_0092",
    "jp": "「んー {kata}アッポ{hira}ー!{n} そ そんじゃ {kata}オラ{hira} お城で{n} まってることに するんだな!」{n}でか太郎は 城に もどっていった!{n}{n}{page}",
-   "en": null
+   "en": "\"Mmm, appooo! W-well then, I'll go wait at the castle, I guess!\"{n}Dekataro went back to the castle!{n}{n}{page}"
   },
   {
    "id": "b020_0093",
    "jp": "「じゃーあ もう すこーし{n} 寝ーてーるーだー {kata}ムニャムニャ{hira}…」{n}{page}",
-   "en": null
+   "en": "\"Then I'll sleeeep a liiiittle looooonger... Mumble mumble...\"{n}{page}"
   },
   {
    "id": "b020_0094",
    "jp": "「{kata}グ{hira}ー {kata}ス{hira}ー {kata}ピ{hira}ー!{n} うーん むにゃむにゃ{n} おー城ー どーっーちー?」{n}寝太郎は ねぼけながら{n}城に もどっていった!{n}{page}",
-   "en": null
+   "en": "\"Zzz... snorrre... phweee! Mmm, mumble mumble... whiiich waaay's the caaastle?\"{n}Netaro went back to the castle,{n}still half asleep!{n}{page}"
   },
   {
    "id": "b020_0095",
    "jp": "「それじゃ あっしに{n} できることが あれば また{n} 声を かけておくんなせえ!」{page}",
-   "en": null
+   "en": "\"Well then, if there's anythin' this fella can do, just give me a holler again!\"{page}"
   },
   {
    "id": "b020_0096",
    "jp": "「わかりやした {sub:A0}さん!{n} では あっしは お城を{n} まもっていることに しやすぜ!」{n}銀次は はやてのように{n}城に もどっていった!{n}{page}",
-   "en": null
+   "en": "\"Understood, Momotaro! Then this fella'll keep guard over the castle!\"{n}Ginji went back to the castle{n}swift as the wind!{n}{page}"
   },
   {
    "id": "b020_0097",
    "jp": "「えー! だめー?{n} ここに ずっと いるのー?!{n} そんなの つまんなーーーい!」{page}",
-   "en": null
+   "en": "\"Whaaat! I can't come? I gotta stay here foreeever?! That's so boriiiing!\"{page}"
   },
   {
    "id": "b020_0098",
    "jp": "「ええーーー!?{n} お城に 帰るのーーー!?{n} そんなの つまんなーーい!」{n}{n}「ねーーー!{n} かえらなくて いいでしょっ?」{n}{page}",
-   "en": null
+   "en": "\"Whaaaaat!? I have to go back to the castle!? That's so boriiing!\"{n}{n}\"Pleeeease! I don't have to go back, right?\"{n}{page}"
   },
   {
    "id": "b020_0099",
    "jp": "「わーーーい! うれしい!{n} {sub:A0}さん だいすき!{n} うれしいから かえってあげる!」{page}",
-   "en": null
+   "en": "\"Yaaaay! I'm so happy! I love you, Momotaro! I'm so happy, I'll go back for you!\"{page}"
   },
   {
    "id": "b020_0100",
    "jp": "「えー! ひっどーい!{n} さいっっってーー!{n} いぢわるー! ぷーいっ!」{n}雪だるまは {kata}プンプン{hira}しながら{n}城に もどっていった!{n}{page}",
-   "en": null
+   "en": "\"Whaaat! That's so meeean! You're the wooorst! Meanie! Hmph!\"{n}The Snowman went back to the castle{n}in a huff!{n}{page}"
   },
   {
    "id": "b020_0101",
    "jp": "「そうでっか! しゃあないな!{n} そやけど かせいだ お金は{n} といち屋に あずけとくんなはれ!」{page}",
-   "en": null
+   "en": "\"Is that so! Can't be helped! But mind ya deposit the money ya earn with Toichiya, y'hear!\"{page}"
   },
   {
    "id": "b020_0102",
    "jp": "「そうでっかー ほなら{n} お城で お金の{n} かんじょうでも してまっさ!」{n}といちやは 城に もどっていった!{n}{n}{page}",
-   "en": null
+   "en": "\"Is that so? Well then, I'll be countin' up the money at the castle!\"{n}Toichiya went back to the castle!{n}{n}{page}"
   },
   {
    "id": "b020_0103",
    "jp": "「そうか! では わしは{n} 城に 福を よんでおくかの!{n} 心して 鬼たいじに はげめよ!」{page}",
-   "en": null
+   "en": "\"I see! Then I shall call good fortune to the castle! Put your heart into hunting the oni!\"{page}"
   },
   {
    "id": "b020_0104",
    "jp": "「{sub:A8}…! では{n} わしは お城に 福を{n} よんでおくと するかの!」{n}福の神は 城に もどっていった!{n}{n}{page}",
-   "en": null
+   "en": "\"Uhyahya...! Well then, I shall go call good fortune to the castle!\"{n}The God of Fortune went back to the castle!{n}{n}{page}"
   },
   {
    "id": "b020_0105",
    "jp": "「さ… さみしいのねん…!{n} はやく もどってきて{n} ほしいのねん!」{page}",
-   "en": null
+   "en": "\"I-I'm lonely, nyen...! Please come back soon, nyen!\"{page}"
   },
   {
    "id": "b020_0106",
    "jp": "「{kata}ボク{hira}は お城で いつまでも{n} いつまでも みなさんの{n} かえりを まっているのねん!」{n}貧乏神は なきながら{n}城に もどっていった!{n}{page}",
-   "en": null
+   "en": "\"I'll be waiting at the castle forever and ever for everyone to come home, nyen!\"{n}Binbo went back to the castle{n}in tears!{n}{page}"
   },
   {
    "id": "b020_0107",
    "jp": "「{sub:D0}{n} そいつは ただしいぜ!」{n}{page}",
-   "en": null
+   "en": "\"Hey! Hey! Now that's the right call!\"{n}{page}"
   },
   {
    "id": "b020_0108",
    "jp": "「{kata}ヘイヘイ{hira}! そんじゃ{n} {kata}オレ{hira}さまは 城で すきかってに{n} させて もらうからな!」{n}天の邪鬼は {kata}ボツボツ{hira}!と{n}さけびながら 城に もどっていった!{n}{page}",
-   "en": null
+   "en": "\"Hey hey! Then I'm gonna do whatever I darn well please at the castle!\"{n}Amanojaku went back to the castle{n}shouting \"Rejected! Rejected!\"{n}{page}"
   },
   {
    "id": "b020_0109",
    "jp": "「{kata}カパッパ{hira}! しょうがねえ!{n} それじゃあ ここで{n} ゆっくりさせて もらうぜ!」{page}",
-   "en": null
+   "en": "\"Kapappa! Can't be helped! Then I'll just take it easy right here!\"{page}"
   },
   {
    "id": "b020_0110",
    "jp": "「{kata}カパッパ{hira}! それじゃ{n} {kata}オレ{hira}は 城で のんびり{n} くつろがせて もらおうかな!」{n}黒河童は 城に もどっていった!{n}{n}{page}",
-   "en": null
+   "en": "\"Kapappa! Well then, I think I'll go kick back and relax at the castle!\"{n}The Black Kappa went back to the castle!{n}{n}{page}"
   },
   {
    "id": "b020_0111",
    "jp": "「そうですか…{n} では ここで {sub:A0}さんの{n} おかえりを まってます!」{page}",
-   "en": null
+   "en": "\"I see... Then I'll wait here for you to come back, Momotaro!\"{page}"
   },
   {
    "id": "b020_0112",
    "jp": "「{kata}ハラホロヒレハレ{hira}ー!{n} {kata}ボク{hira}は お城で{n} 力を たくわえて おきます!」{n}はらだしは 城に もどっていった!{n}{n}{page}",
-   "en": null
+   "en": "\"Hara-horo-hire-hareee! I'll build up my strength at the castle!\"{n}Bellyman went back to the castle!{n}{n}{page}"
   },
   {
    "id": "b020_0113",
    "jp": "「そうか… では ここで{n} 力を たくわえて おこうぞ!」{n}{page}",
-   "en": null
+   "en": "\"I see... Then I shall build up my strength here!\"{n}{page}"
   },
   {
    "id": "b020_0114",
    "jp": "「ぴゅるるるるぅ! よかろう!{n} あらたな 戦いのため{n} 力を たくわえて おこうぞ!」{n}風神は たつまきと ともに{n}城に もどっていった!{n}{page}",
-   "en": null
+   "en": "\"Pyururururuu! Very well! I shall build up my strength for battles to come!\"{n}Fujin went back to the castle{n}in a whirlwind!{n}{page}"
   },
   {
    "id": "b020_0115",
    "jp": "「そうか… ならば{n} わしは ここで{n} 修行に いそしもう!」{page}",
-   "en": null
+   "en": "\"I see... Then I shall devote myself to training here!\"{page}"
   },
   {
    "id": "b020_0116",
    "jp": "「ぐゎらり ぐゎらり!{n} つぎなる 戦いのため{n} しゅぎょうに いそしもうぞ!」{n}雷神は いなずまと ともに{n}城に もどっていった!{n}{page}",
-   "en": null
+   "en": "\"Gwarari, gwarari! I shall devote myself to training for the next battle!\"{n}Raijin went back to the castle{n}in a flash of lightning!{n}{page}"
   },
   {
    "id": "b020_0117",
    "jp": "「うむ… そうか!{n} ならば わしは ここで{n} 城の 守りを かためるとしよう!」{page}",
-   "en": null
+   "en": "\"Hmm... I see! Then I shall shore up the castle's defenses from here!\"{page}"
   },
   {
    "id": "b020_0118",
    "jp": "「うむ! わかった!」{n}{n}{n}えんまは じひびきと ともに{n}城に もどっていった!{n}{page}",
-   "en": null
+   "en": "\"Hmm! Understood!\"{n}{n}{n}Enma went back to the castle{n}with an earthshaking rumble!{n}{page}"
   },
   {
    "id": "b020_0119",
    "jp": "「{kata}グェッヘッヘッ{hira}! いいだろう!{n} では この城で {kata}ボンビラス{hira}の{n} 世界の 夢を みよう!」{n}「{kata}キ{hira}ーーーーー{kata}ング{hira} {kata}ボンビ{hira}ー!」{n}{n}{page}",
-   "en": null
+   "en": "\"Gweh-heh-heh! Very well! Then I shall dream of a world of Bonbiras in this castle!\"{n}\"Kiiiiiing Bonbiiii!\"{n}{n}{page}"
   },
   {
    "id": "b020_0120",
    "jp": "「{kata}グェッヘッヘッ{hira}!{n} いいだろう! では {sub:C9}は{n} 城に もどって やるとしよう!」{n}「{kata}キ{hira}ーーーーー{kata}ング{hira} {kata}ボンビ{hira}ー!」{n}{n}{n}{kata}キングボンビ{hira}ーは{n}ぶきみな ふんいきと ともに{n}城に もどっていった!{page}",
-   "en": null
+   "en": "\"Gweh-heh-heh! Very well! I shall deign to return to the castle!\"{n}\"Kiiiiiing Bonbiiii!\"{n}{n}{n}King Bonbi went back to the castle{n}amid an eerie aura!{page}"
   },
   {
    "id": "b020_0121",
    "jp": "{arg}は ひとまず{n}城で やすむことになった!{n}{page}",
-   "en": null
+   "en": "{arg} will rest at{n}the castle for now!{n}{page}"
   },
   {
    "id": "b020_0122",
    "jp": "{arg}を おともに したことで{n}{sub:A0}の 攻撃力が {num}上がった!{0B}{n}守備力が {num}上がった!{0B}{n}はやさが {num}上がった!{0B}",
-   "en": null
+   "en": "With {arg} as a companion,{n}Momotaro's Attack rose by {num}!{0B}{n}Defense rose by {num}!{0B}{n}Speed rose by {num}!{0B}"
   },
   {
    "id": "b020_0123",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} この あたりには 鬼は{n} ひそんでいないようです!」",
-   "en": null
+   "en": "\"Woof woof! Momotaro! There don't seem to be any oni lurking around here!\""
   },
   {
    "id": "b020_0124",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} それでは かいでみます!{n} {kata}クン{hira} {kata}クン{hira} {kata}クン{hira}」{n}「{sub:A0}さん! ここに{n} なにか うまっているようです!」{n}{n}{sub:A0}は 足元を ほってみた!{n}{n}",
-   "en": null
+   "en": "\"Woof woof! Momotaro! I'll sniff around, then! Sniff sniff sniff\"{n}\"Momotaro! Something seems to be buried here!\"{n}{n}Momotaro dug at his feet!{n}{n}"
   },
   {
    "id": "b020_0125",
    "jp": "なんと!{n}{arg}が うまっていた!{n}",
-   "en": null
+   "en": "Well, what do you know!{n}{arg} was buried here!{n}"
   },
   {
    "id": "b020_0126",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} それでは かいでみます!{n} {kata}クン{hira} {kata}クン{hira} {kata}クン{hira}」",
-   "en": null
+   "en": "\"Woof woof! Momotaro! I'll sniff around, then! Sniff sniff sniff\""
   },
   {
    "id": "b020_0127",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} ここの 地面には なにも{n} うまっていないようです!」",
-   "en": null
+   "en": "\"Woof woof! Momotaro! Nothing seems to be buried in the ground here!\""
   },
   {
    "id": "b020_0128",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} 見て{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Woof woof! Momotaro! Please look!\"{n}"
   },
   {
    "id": "b020_0129",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} ここでは ちょっと{n} きけんすぎます!」",
-   "en": null
+   "en": "\"Woof woof! Momotaro! It's a little too dangerous here!\""
   },
   {
    "id": "b020_0130",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} それでは ひとおよぎ{n} してきます!」",
-   "en": null
+   "en": "\"Woof woof! Momotaro! I'll go for a little swim, then!\""
   },
   {
    "id": "b020_0131",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} ここでは{n} およげませんよ!」",
-   "en": null
+   "en": "\"Woof woof! Momotaro! I can't swim here!\""
   },
   {
    "id": "b020_0132",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} では ここに めじるしを{n} つけておきましょう!」{0B}",
-   "en": null
+   "en": "\"Woof woof! Momotaro! Then I'll leave a mark here!\"{0B}"
   },
   {
    "id": "b020_0133",
    "jp": "しゃーーーーー{n}{n}",
-   "en": null
+   "en": "Psssssssh...{n}{n}"
   },
   {
    "id": "b020_0134",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} ここじゃ はずかしいですよ!」{n}",
-   "en": null
+   "en": "\"Woof woof! Momotaro! Not here, it's embarrassing!\"{n}"
   },
   {
    "id": "b020_0135",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} ここじゃ きけんですよ!」{n}",
-   "en": null
+   "en": "\"Woof woof! Momotaro! It's dangerous here!\"{n}"
   },
   {
    "id": "b020_0136",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} なにか 道具を{n} なげて{sub:C5}!」",
-   "en": null
+   "en": "\"Woof woof! Momotaro! Please throw something for me!\""
   },
   {
    "id": "b020_0137",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} そんな だいじなものを{n} なげちゃって いいんですか!」",
-   "en": null
+   "en": "\"Woof woof! Momotaro! Are you sure you should throw something that important?!\""
   },
   {
    "id": "b020_0138",
    "jp": "{sub:A0}は {arg}を{n}ほうりなげた!{n}",
-   "en": null
+   "en": "Momotaro tossed{n}{arg} away!{n}"
   },
   {
    "id": "b020_0139",
    "jp": "「ごめんなさい! {sub:A0}さん!{n} いっしょけんめい さがしたのですが{n} 見つかりませんでした {kata}ワン{hira}!」",
-   "en": null
+   "en": "\"I'm sorry, Momotaro! I searched as hard as I could, but I couldn't find it, woof!\""
   },
   {
    "id": "b020_0140",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} {arg}を{n} ひろってきました!」",
-   "en": null
+   "en": "\"Woof woof! Momotaro! I fetched {arg}!\""
   },
   {
    "id": "b020_0141",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} {arg}を{n} ひろってきました! あれ?」",
-   "en": null
+   "en": "\"Woof woof! Momotaro! I fetched {arg}! Huh?\""
   },
   {
    "id": "b020_0142",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! {sub:A0}さん!{n} ここには たんさくが{n} できるところが ありません!」",
-   "en": null
+   "en": "\"Woof woof! Momotaro! There's nowhere here to search!\""
   },
   {
    "id": "b020_0143",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}! では{n} たんさくに{n} いってまいります!」",
-   "en": null
+   "en": "\"Woof woof! Well then,{n} I'm off to search!\""
   },
   {
    "id": "b020_0144",
    "jp": "「ここほれ {kata}ワン{hira} {kata}ワン{hira}!」{n}{n}",
-   "en": null
+   "en": "\"Dig here, woof woof!\"{n}{n}"
   },
   {
    "id": "b020_0145",
    "jp": "「西{num}歩",
-   "en": null
+   "en": "\"{num} steps west,"
   },
   {
    "id": "b020_0146",
    "jp": "「東{num}歩",
-   "en": null
+   "en": "\"{num} steps east,"
   },
   {
    "id": "b020_0147",
    "jp": " 北{num}歩に",
-   "en": null
+   "en": " {num} steps north,"
   },
   {
    "id": "b020_0148",
    "jp": " 南{num}歩に",
-   "en": null
+   "en": " {num} steps south,"
   },
   {
    "id": "b020_0149",
    "jp": " なにかが うまっているようです!」",
-   "en": null
+   "en": " something seems to be buried there!\""
   },
   {
    "id": "b020_0150",
    "jp": "「ここほれ {kata}ワン{hira} {kata}ワン{hira}!」{n}{n}{n}「このあたりには{n} なにも うまっていないようです!」{n}",
-   "en": null
+   "en": "\"Dig here, woof woof!\"{n}{n}{n}\"Nothing seems to be buried around here!\"{n}"
   },
   {
    "id": "b020_0151",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {sub:A0}さん!{n} 見て{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Kya kya! Momotaro!{n} Please look!\"{n}"
   },
   {
    "id": "b020_0152",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {sub:A0}さん!{n} ここでは きけんすぎます!」{n}",
-   "en": null
+   "en": "\"Kya kya! Momotaro!{n} It's too dangerous here!\"{n}"
   },
   {
    "id": "b020_0153",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {sub:A0}さん!{n} それでは なにか{n} さがしてきます!」{n}{arg}は ものさがしに{n}でかけていった!{n}",
-   "en": null
+   "en": "\"Kya kya! Momotaro!{n} Then I'll go look for something!\"{n}{arg} went off{n}to search for things!{n}"
   },
   {
    "id": "b020_0154",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {sub:A0}さん!{n} {arg}を{n} 見つけてきました!」",
-   "en": null
+   "en": "\"Kya kya! Momotaro!{n} I found {arg}!\""
   },
   {
    "id": "b020_0155",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {sub:A0}さん!{n} あちこち さがしたのですが{n} なにも 見つかりませんでした!」",
-   "en": null
+   "en": "\"Kya kya! Momotaro!{n} I searched all over, but I didn't find anything!\""
   },
   {
    "id": "b020_0156",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {sub:A0}さん!{n} では なかまを{n} 呼んでみます!」{n}{arg}が さけびごえを あげると{n}どこからともなく たくさんの {kata}サル{hira}が{n}かごをしょって あらわれた!{n}{sub:A0}たちは{n}{kata}サル{hira}の かごで そとに{n}ぬけだすことが できた!",
-   "en": null
+   "en": "\"Kya kya! Momotaro!{n} Then I'll call my friends!\"{n}When {arg} let out a cry,{n}a crowd of monkeys carrying baskets{n}appeared out of nowhere!{n}Momotaro and the others{n}rode out in the monkeys' baskets{n}and escaped!"
   },
   {
    "id": "b020_0157",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {sub:A0}さん!」{n}{n}{n}「このあたりには{n} {kata}オイラ{hira}の なかまは{n} いないようです!」",
-   "en": null
+   "en": "\"Kya kya! Momotaro!\"{n}{n}{n}\"None of my friends seem to be around here!\""
   },
   {
    "id": "b020_0158",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {sub:A0}さん!{n} それでは ていさつに{n} いってきます!」",
-   "en": null
+   "en": "\"Kya kya! Momotaro!{n} Then I'll go scout ahead!\""
   },
   {
    "id": "b020_0159",
    "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {sub:A0}さん!{n} ここでは ていさつする{n} ひつようは ありませんよ!」",
-   "en": null
+   "en": "\"Kya kya! Momotaro!{n} There's no need to scout around here!\""
   },
   {
    "id": "b020_0160",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} いま {num}両 もっています{n} 何両になったら いいましょう?」",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} You have {num} ryo now.{n} At what amount should I tell you?\""
   },
   {
    "id": "b020_0161",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! では{n} {num}両に なったら{n} お知らせします!」",
-   "en": null
+   "en": "\"Ken ken! Very well,{n} I'll let you know when you have {num} ryo!\""
   },
   {
    "id": "b020_0162",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} もう {num}両{n} もってますよ!」",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} You've got {num} ryo now!\""
   },
   {
    "id": "b020_0163",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} では いそいで{n} お医者様を 呼んできます!」{n}{arg}は 医者を 呼びに{n}飛び立った! {kata}ケン{hira} {kata}ケン{hira}!{n}",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} I'll hurry and fetch the doctor!\"{n}{arg} flew off{n}to fetch the doctor! Ken ken!{n}"
   },
   {
    "id": "b020_0164",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} お医者様を おつれしました!」{n}{0B}",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} I've brought the doctor!\"{n}{0B}"
   },
   {
    "id": "b020_0165",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} それでは お医者様を{n} おくってきますね!」",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} Well then, I'll take the doctor home!\""
   },
   {
    "id": "b020_0166",
    "jp": "{arg}は 医者を つれて{n}飛び立った!{n}",
-   "en": null
+   "en": "{arg} flew off{n}with the doctor!{n}"
   },
   {
    "id": "b020_0167",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} お医者様を{n} おくってきました!」",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} I took the doctor home!\""
   },
   {
    "id": "b020_0168",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} ここでは つづらの数を{n} 調べることは できません!",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} I can't count the wicker chests here!"
   },
   {
    "id": "b020_0169",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} それでは ここにある つづらを{n} 調べてみますね!」",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} Then I'll check the wicker chests here!\""
   },
   {
    "id": "b020_0170",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} わかりました!」{n}{n}「ここには あと{num}個の{n} あけていないつづらが{n} あるようです!」",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} I've got it!\"{n}{n}\"There seem to be {num} more{n} unopened wicker chests here!\""
   },
   {
    "id": "b020_0171",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} わかりました!」{n}{n}「ここにある つづらは{n} もう すべて{n} あけてしまったようです!」",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} I've got it!\"{n}{n}\"It looks like every wicker chest here{n} has already been opened!\""
   },
   {
    "id": "b020_0172",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} それでは 先を{n} みにいってきます!」",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} Then I'll go see what's ahead!\""
   },
   {
    "id": "b020_0173",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} ここからでは{n} 先を見ることが できません!」",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} I can't see ahead from here!\""
   },
   {
    "id": "b020_0174",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} ここからでは{n} おつかいに いけません!」",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} I can't run errands from here!\""
   },
   {
    "id": "b020_0175",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}!{n} どこへ 買いに いきましょうか?」{n}",
-   "en": null
+   "en": "\"Ken ken!{n} Where shall I go shopping?\"{n}"
   },
   {
    "id": "b020_0176",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} どの お店で{n} 買ってきましょうか?」",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} Which shop shall I buy from?\""
   },
   {
    "id": "b020_0177",
    "jp": "「なにを 買ってきましょうか?」{n}{n}",
-   "en": null
+   "en": "\"What shall I buy?\"{n}{n}"
   },
   {
    "id": "b020_0178",
    "jp": "「{arg} ですね?」{n}{n}",
-   "en": null
+   "en": "\"{arg}, right?\"{n}{n}"
   },
   {
    "id": "b020_0179",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} お金が たりないのに{n} おつかいさせないで {sub:C5}よ」{n}「まさか ねぎってこいって{n} いうんじゃ ないでしょうね!」{n}",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} Please don't send me shopping when you don't have enough money!\"{n}\"You're not telling me to go haggle, are you?!\"{n}"
   },
   {
    "id": "b020_0180",
    "jp": "「では おつかいに{n} 行ってきます! {kata}ケン{hira} {kata}ケン{hira}!」{n}{n}{arg}は おつかいに でかけた!{n}{n}",
-   "en": null
+   "en": "\"Well then, I'm off{n} on my errand! Ken ken!\"{n}{n}{arg} went off on the errand!{n}{n}"
   },
   {
    "id": "b020_0181",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}!{n} ほかに なにか 買いますか?」{n}",
-   "en": null
+   "en": "\"Ken ken!{n} Shall I buy anything else?\"{n}"
   },
   {
    "id": "b020_0182",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} 買い物に いってきました!」{n}",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} I'm back from shopping!\"{n}"
   },
   {
    "id": "b020_0183",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} それでは 上から見てみましょう!」{n}",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} Then let's take a look from above!\"{n}"
   },
   {
    "id": "b020_0184",
    "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} ここでは 見わたせません!」{n}",
-   "en": null
+   "en": "\"Ken ken! Momotaro!{n} I can't see far from here!\"{n}"
   },
   {
    "id": "b020_0185",
    "jp": "{arg}が でかけたので{n}{sub:A0}の 攻撃力が3下がった!{n}{n}守備力が2下がった!{n}{n}{n}はやさが3下がった!{n}{n}",
-   "en": null
+   "en": "Since {arg} went off,{n}Momotaro's Attack fell by 3!{n}{n}Defense fell by 2!{n}{n}{n}Speed fell by 3!{n}{n}"
   },
   {
    "id": "b020_0186",
    "jp": "{arg}が かえってきたので{n}{sub:A0}の 力は{n}もとに もどった!",
-   "en": null
+   "en": "Since {arg} came back,{n}Momotaro's strength{n}returned to normal!"
   },
   {
    "id": "b020_0187",
    "jp": "{arg}が でかけたので{n}{sub:A0}の 攻撃力が2下がった!{n}{n}守備力が10下がった!{n}{n}{n}はやさが2下がった!{n}{n}",
-   "en": null
+   "en": "Since {arg} went off,{n}Momotaro's Attack fell by 2!{n}{n}Defense fell by 10!{n}{n}{n}Speed fell by 2!{n}{n}"
   },
   {
    "id": "b020_0188",
    "jp": "{arg}が かえってきたので{n}{sub:A0}の 力は{n}もとに もどった!",
-   "en": null
+   "en": "Since {arg} came back,{n}Momotaro's strength{n}returned to normal!"
   },
   {
    "id": "b020_0189",
    "jp": "{sub:A0}は {arg}に{n}きびだんごを {sub:AB}!{n}{0B}",
-   "en": null
+   "en": "Momotaro gave {arg}{n}a millet dumpling!{n}{0B}"
   },
   {
    "id": "b020_0190",
    "jp": "{sub:A0}は {arg}にあたえる{n}きびだんごを 持っていないことに{n}気がついた!",
-   "en": null
+   "en": "Momotaro realized he had{n}no millet dumplings{n}to give {arg}!"
   },
   {
    "id": "b020_0191",
    "jp": "{c1}{kata}キジ{n}{c0}{hira}「{kata}ケン{hira} {kata}ケン{hira}!{n} すると のこりは……」{n}「{arg} {arg}{n} {arg} {arg}{n} {arg} {arg} ですね!」",
-   "en": null
+   "en": "{c1}Pheasant{n}{c0}\"Ken ken!{n} So what's left is......\"{n}\"{arg} {arg}{n} {arg} {arg}{n} {arg} {arg}, right?\""
   }
  ]
 }

@@ -25,6 +25,10 @@ EXP_END = 0x400000
 
 
 QA = {}  # id -> English, from --qa
+NO_WIN = False
+WIN_ONLY = set()
+RESERVED = (0x4F15C, 0x4F1E0)  # VWF width tables (fontgen.WIDTH_FREE) + patches.FIXED12_CODE
+WINMAP = {}  # window region id -> CPU address in the built ROM (written next to the ROM for tools/debug)
 
 
 def load_script():
@@ -66,20 +70,64 @@ def insert_windows(rom, pos):
     doc = json.loads((ROOT / 'script' / 'win.json').read_text(encoding='utf-8'))
     en = {r['id']: r['en'] for r in doc['runs'] if r.get('en') is not None}
     en.update({k: v for k, v in QA.items() if k.startswith('w')})
+    if WIN_ONLY:
+        en = {k: v for k, v in en.items() if k.split('_')[0] in WIN_ONLY}
+    # Scripts must stay in their own 64 KB bank (menu code reaches per-menu data through the script's bank), and
+    # in the upper half when the code addresses them through a $8x bank (lower half = WRAM/IO there).
     orig = bytes(rom[:0x200000])
-    for start, (end, ents) in sorted(winscript.regions(orig).items()):
+    regs = winscript.regions(orig)
+    blobs = {}
+    for start, (end, ents) in regs.items():
         rid = winscript.region_id(start)
-        if not any(k.startswith(rid + '_') for k in en):
-            continue
-        blob = winscript.rebuild(orig, start, en, encode_en)
-        if (pos & 0xFFFF) + len(blob) > 0x10000:  # keep a script inside one bank (16-bit body index)
-            pos = (pos | 0xFFFF) + 1
-        rom[pos:pos + len(blob)] = blob
+        if any(k.startswith(rid + '_') for k in en):
+            blobs[start] = winscript.rebuild(orig, start, en, encode_en)
+    free = {}  # bank -> [[lo, hi)] free spans
+    for start in blobs:
+        free.setdefault(start >> 16, []).append([start, regs[start][0]])
+    for bank in list(free):
+        lo, i = bank << 16, bank << 16
+        while i < lo + 0x10000:
+            if orig[i] == 0xFF:
+                j = i
+                while j < lo + 0x10000 and orig[j] == 0xFF:
+                    j += 1
+                if j - i >= 32:
+                    free[bank].append([i + 8, j])  # keep a few FF bytes as a guard after data
+                i = j
+            else:
+                i += 1
+        cut = []
+        for s in free[bank]:
+            if s[0] < RESERVED[1] and s[1] > RESERVED[0]:
+                if s[0] < RESERVED[0]:
+                    cut.append([s[0], RESERVED[0]])
+                if s[1] > RESERVED[1] + 8:
+                    cut.append([RESERVED[1] + 8, s[1]])
+            else:
+                cut.append(s)
+        free[bank] = cut
+    for start in sorted(blobs, key=lambda s: -len(blobs[s])):
+        end, ents = regs[start]
+        blob = blobs[start]
+        upper = any(orig[bs] < 0xC0 for _, _, bs in ents)
+        bank = start >> 16
+        spans = sorted(free[bank], key=lambda s: s[1] - s[0])
+        for s in spans:
+            a = max(s[0], (bank << 16) | 0x8000) if upper else s[0]
+            if s[1] - a >= len(blob):
+                break
+        else:
+            raise SystemExit(f'window {winscript.region_id(start)}: no room in bank {bank:02X} ({len(blob)} bytes)')
+        rom[a:a + len(blob)] = blob
+        if a > s[0]:
+            free[bank].append([s[0], a])
+        s[0] = a + len(blob)
+        rid = winscript.region_id(start)
         for tgt, lo_site, bank_site in ents:
-            addr = 0xC00000 | (pos + tgt - start)
-            rom[lo_site:lo_site + 2] = (addr & 0xFFFF).to_bytes(2, 'little')
-            rom[bank_site] = addr >> 16
-        pos += len(blob)
+            addr = (a + tgt - start) & 0xFFFF
+            rom[lo_site:lo_site + 2] = addr.to_bytes(2, 'little')
+            rom[bank_site] = (orig[bank_site] & 0xC0) | bank
+        WINMAP[rid] = (0x80 | bank) << 16 | (a & 0xFFFF) if upper else 0xC00000 | a
     return pos
 
 
@@ -120,7 +168,8 @@ def build(marker_mode=False, out_path=None, only=None):
         ptr = 0xC00000 | pos
         rom[TABLE + 3 * (n - 1):TABLE + 3 * n] = ptr.to_bytes(3, 'little')
         pos += len(blob)
-    pos = insert_windows(rom, pos)
+    if not NO_WIN:
+        pos = insert_windows(rom, pos)
     fontgen.build_font(rom)
     patches.apply(rom)
     print(f'blocks re-encoded: {len(changed)}; expanded area used: {pos - EXP_BASE:#x} bytes')
@@ -133,12 +182,18 @@ def main():
     ap.add_argument('--out', default=str(ROOT / 'build' / 'smd_en.sfc'))
     ap.add_argument('--only', default='')
     ap.add_argument('--qa', action='append', default=[], help='ID=English override (stress tests)')
+    ap.add_argument('--no-win', action='store_true', help='leave window scripts Japanese (debugging)')
+    ap.add_argument('--win-only', default='', help='comma list of window regions to translate (debugging)')
     a = ap.parse_args()
+    global NO_WIN, WIN_ONLY
+    NO_WIN = a.no_win
+    WIN_ONLY = set(x for x in a.win_only.split(',') if x)
     only = {int(x) for x in a.only.split(',') if x}
     QA.update(q.split('=', 1) for q in a.qa)
     data = build(a.marker, a.out, only)
     Path(a.out).parent.mkdir(exist_ok=True)
     Path(a.out).write_bytes(data)
+    Path(a.out).with_suffix('.winmap.json').write_text(json.dumps(WINMAP, indent=1), encoding='utf-8')
     print('wrote', a.out)
 
 

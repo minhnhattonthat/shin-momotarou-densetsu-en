@@ -57,6 +57,7 @@ Run `python -X utf8 tools/batches.py check <batch>` from the repo root and fix e
   cackles, Basara is regal, villagers are folksy, Kintaro is brash, Yasha is a proud but kind princess).
 - Notes from earlier batches: 順安 (pickle shop) = Jun'an; 辰巳 = Tatsumi; トメ = Tome (carpenter);
   『桃伝』 = the Famicom 'Momotaro Densetsu'; 四天王 = the Four Heavenly Kings; 臥龍 = Garyu (Sleeping Dragon).
+  鬼道 = "Oni Arts" (鬼道吸い取り = Oni Arts Drain); つづら = wicker chest; 道具袋 = Item Bag.
   "{arg}'s" (possessive) is fine. Keep each speaker line's name exactly as the glossary.
 
 ## Consistency

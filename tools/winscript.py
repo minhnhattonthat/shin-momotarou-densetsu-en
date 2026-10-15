@@ -117,14 +117,18 @@ def extract(rom):
 def en_run(jp, cells, en, slack=0):
     """English for a run: Japanese leading spaces doubled, then the label, padded to 2 x cells.
     slack: extra chars allowed for a run that ends its line (the window grows to its longest line)."""
+    # Window mode: code 50 (' ') keeps a 12 px cell, every English glyph and the narrow blank \xa0 take 6 px.
     if en.startswith('^'):  # exact text, no lead/limit: the line may grow (single-line or end-aligned windows)
-        s = en[1:]
-        return s + ' ' * max(0, 2 * cells - len(s))
-    lead = len(jp) - len(jp.lstrip(' '))
-    s = ' ' * (2 * lead) + en
-    if len(s) > 2 * cells + slack:
-        raise ValueError(f'{en!r} longer than {2 * cells} chars')
-    return s + ' ' * max(0, 2 * cells - len(s))
+        lead, label = 0, en[1:].replace(' ', '\xa0')
+        slack = 10 ** 6
+    else:
+        lead = len(jp) - len(jp.lstrip(' '))
+        label = en.replace(' ', '\xa0')
+    room = 12 * cells - 12 * lead - 6 * len(label)
+    if room < -6 * slack:
+        raise ValueError(f'{en!r} longer than {2 * (cells - lead)} chars')
+    room = max(room, 0)
+    return ' ' * lead + label + ' ' * (room // 12) + '\xa0' * (room % 12 // 6)
 
 
 def rebuild(rom, start, en_by_id, encode_en):
@@ -150,4 +154,13 @@ def rebuild(rom, start, en_by_id, encode_en):
         else:
             out += encode_en(en_run(jp.replace('{kata}', '').replace('{hira}', ''), run_cells(r), en,
                                     EOL_SLACK if eol else 0))
+    # Menu code finds per-slot data (handler pointers etc.) right after the script's 00: copy it along.
+    out += rom[end:end + trailer_len(rom, start)]
     return bytes(out)
+
+
+def trailer_len(rom, start):
+    """Bytes after the terminator that travel with a relocated script: 3 per cursor slot (handler pointers)."""
+    _, toks, end = tokens(rom, start)
+    slots = sum(1 for k, b in toks if k == 'code' and b == b'\x21\x3e')
+    return 3 * slots

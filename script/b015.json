@@ -187,392 +187,392 @@
   {
    "id": "b015_0036",
    "jp": "{c3}「こんな くさった魚じゃ{n} {kata}ニ{hira}ー{kata}チェ{hira}も 焼いても 食えん!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"This fish is so rotten, it can't be eaten even if it's Nietzsche-ly cooked!\"{n}{c0}"
   },
   {
    "id": "b015_0037",
    "jp": "{c3}「もっと あなたを{n} {kata}アインシュタイン{hira}!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Love me more!{n} Love me with Einstein-sity!\"{n}{c0}"
   },
   {
    "id": "b015_0038",
    "jp": "{c3}「{sub:C9}たち… {kata}プラトンニック{hira}な{n} れんあい かんけいなんです」{n}{c0}",
-   "en": null
+   "en": "{c3}\"We're just... in a strictly Plato-nic relationship.\"{n}{c0}"
   },
   {
    "id": "b015_0039",
    "jp": "{c3}「こたえは 少数点いか {kata}キリスト{hira}!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"The answer: drop everything after the decimal point, nice and Christ-p!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0040",
    "jp": "{c3}「なんだよ! おい!{n} いい{kata}ガガ{hira}ー{kata}リン{hira}を つけるなよ!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"What's your problem? Hey!{n} Quit Gagarin' on about nothin'!\"{n}{c0}"
   },
   {
    "id": "b015_0041",
    "jp": "{c3}「な～ぎさの{n} {kata}マルコ{hira}ー{kata}ニ{hira}で 待ってて…」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Wait for me~{n} on the moonlit Marconi...\"{n}{c0}"
   },
   {
    "id": "b015_0042",
    "jp": "{c3}「学校の 図{kata}ショパン{hira}で{n} 本を かりた～～～～～{kata}ッ{hira}!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"I went Chopin' for books{n} at the school libraryyyyy!\"{n}{c0}"
   },
   {
    "id": "b015_0043",
    "jp": "{c3}「ういやつじゃ!{n} もそっと {kata}チコ{hira}うよれ!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"What a darling!{n} Come closer, my little Pet-rarch!\"{n}{c0}"
   },
   {
    "id": "b015_0044",
    "jp": "{c3}「{kata}ガム{hira}が 手について{n} {kata}ベ{hira}ー{kata}ト{hira}ー{kata}ベン{hira}と する～～～～～!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"I got gum on my hand{n} and I just can't Handel iiiiit!\"{n}{c0}"
   },
   {
    "id": "b015_0045",
    "jp": "{c3}「かみなり くらいで{n} {kata}ガタガタ{hira} さ{kata}ワ{hira}ー{kata}グナ{hira}ー!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"It's only thunder!{n} Quit Wagner-ing around in a panic!\"{n}{c0}"
   },
   {
    "id": "b015_0046",
    "jp": "{c3}「{kata}シュリ{hira}ー{kata}マン{hira}せん!{n} 道を たずねたいのですが!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"S'cuse me, Schlie-mann!{n} Could I ask for directions?\"{n}{c0}"
   },
   {
    "id": "b015_0047",
    "jp": "{c3}「1918年 {kata}カント{hira}大しんさい!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"1918: the year the earth Kant stop shaking!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0048",
    "jp": "{c3}「なかなかやるな! しかし{n} {kata}ハイデガ{hira}ー 悪かったな!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Not bad at all! But{n} you can't Heidegger from me forever!\"{n}{c0}"
   },
   {
    "id": "b015_0049",
    "jp": "{c3}「それは とっても {kata}パスカル{hira}!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"That is just sooo Pas-cool!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0050",
    "jp": "{c3}「えっ? 9回うら{n} {kata}モ{hira}ー{kata}ツァルト{hira}?」{n}{c0}",
-   "en": null
+   "en": "{c3}\"What? Bottom of the ninth{n} and Mo-zart two outs already?\"{n}{c0}"
   },
   {
    "id": "b015_0051",
    "jp": "{c3}「これは いだいなる しょうせつか{n} {kata}サリンジャ{hira}ーの {kata}サイン{hira}じゃー!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"This here's the signature of the great novelist{n} Salinger! I'll be Salin' it for a fortune!\"{n}{c0}"
   },
   {
    "id": "b015_0052",
    "jp": "{c3}「{kata}ダンテ{hira} しょうがないじゃない～」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"I just Dante help it~\"{n}{n}{c0}"
   },
   {
    "id": "b015_0053",
    "jp": "{c3}「{kata}シラ{hira}ーぬ ぞんぜぬ{n} きおくに {kata}ゴ{hira}ー{kata}ギャン{hira}ません!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Schiller? Never heard of him!{n} It's all Gauguin from my memory!\"{n}{c0}"
   },
   {
    "id": "b015_0054",
    "jp": "{c3}「車は {kata}キュ{hira}ー{kata}リ{hira}ー止まれない!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"Cars can't stop in a Curie!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0055",
    "jp": "{c3}「いま はいてる{n} {kata}パンツ{hira}の色は {kata}ブル{hira}ー{kata}タス{hira}!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"And the color of the undies{n} I'm wearing today is... Blue-tus!\"{n}{c0}"
   },
   {
    "id": "b015_0056",
    "jp": "{c3}「もう つよ{kata}ガリレイ{hira}も{n} いいかげんにしなさいよ!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Enough of your tough-guy act!{n} Quit Galile-ying to yourself!\"{n}{c0}"
   },
   {
    "id": "b015_0057",
    "jp": "{c3}「やくそく やぶるなんて{n} あなた ひどい {kata}ヒトラ{hira}ー!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Breaking your promise like that?{n} You're Hitler-ly heartless!\"{n}{c0}"
   },
   {
    "id": "b015_0058",
    "jp": "{c3}「ようこそ ここへ{n} {kata}クック{hira} {kata}クック{hira}!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Welcome, welcome{n} to my place! Cook-a-doodle-doo!\"{n}{c0}"
   },
   {
    "id": "b015_0059",
    "jp": "{c3}「{kata}サラディン{hira}・{kata}ロ{hira}ー{kata}ン{n}{hira} りゃくして {kata}サラ{hira}金!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Saladin Loans...{n} for when you're short of lettuce!\"{n}{c0}"
   },
   {
    "id": "b015_0060",
    "jp": "{c3}「おならが 止まらないの!{n} {kata}プ{hira}ー{kata}シキン{hira}!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"I can't stop tootin'!{n} Pfft... Pushkin!\"{n}{c0}"
   },
   {
    "id": "b015_0061",
    "jp": "{c3}「さあ! えんりょしないで{n} {kata}ドップラ{hira}ーでも かかってこい!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Come on! Don't hold back!{n} Doppler or nothing!\"{n}{c0}"
   },
   {
    "id": "b015_0062",
    "jp": "{c3}「なんなんだよ? この{kata}カルピス{hira}!{n} よく{kata}マゼラン{hira}じゃないか!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"What is this lemonade?!{n} It's a whole Magellan of water!\"{n}{c0}"
   },
   {
    "id": "b015_0063",
    "jp": "{c3}「本当に 君には{n} 頭が {kata}シャガ{hira}ー{kata}ル{hira}よ!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Truly, my friend,{n} I Chagall-ute you!\"{n}{c0}"
   },
   {
    "id": "b015_0064",
    "jp": "{c3}「この冬も 寒いだろうから{n} 今から{kata}セ{hira}ー{kata}タ{hira}ーを {kata}アムンゼン{hira}!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"This winter's gonna be cold again,{n} so I'm knitting a Peary of mittens now!\"{n}{c0}"
   },
   {
    "id": "b015_0065",
    "jp": "{c3}「5かける1は {kata}ゴヤ{hira}!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"Two times two is... Fourier!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0066",
    "jp": "{c3}「{kata}ゲ{hira}ー{kata}テ{hira}は {kata}ゲ{hira}ー{kata}テ{hira}もの食いだった?」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"Did Goethe go eat the weird stuff?\"{n}{n}{c0}"
   },
   {
    "id": "b015_0067",
    "jp": "{c3}「何し{kata}トルストイ{hira}!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"What're you Tolstoying around with?!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0068",
    "jp": "{c3}「昔のことは{n} {kata}ディズニ{hira}ー ながそう」{n}{c0}",
-   "en": null
+   "en": "{c3}\"The past is past...{n} let's just Disney-miss it.\"{n}{c0}"
   },
   {
    "id": "b015_0069",
    "jp": "{c3}「{kata}ブ{hira}ー {kata}ブ{hira}ー{n} {kata}ムンク{hira}を たれるな!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Grumble, grumble!{n} Quit your Munch-ering!\"{n}{c0}"
   },
   {
    "id": "b015_0070",
    "jp": "{c3}「ちゃんと ふとん{n} {kata}フォスタ{hira}ー?」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Did you hang your futon out{n} or did you Fosterget?\"{n}{c0}"
   },
   {
    "id": "b015_0071",
    "jp": "{c3}「どくしょ かん{kata}ソンブン{hira}」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"My book report: one long Sun Yat-sentence.\"{n}{n}{c0}"
   },
   {
    "id": "b015_0072",
    "jp": "{c3}「{kata}リハク{hira}三日の おんせん旅行」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"A hot springs trip: go, soak, and come Bach in three days!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0073",
    "jp": "{c3}「のうみんと {kata}ゴマ{hira}のあぶらは{n} しぼれば {kata}シ{hira}ー{kata}ボルト{hira}でる」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Peasants and sesame seeds:{n} squeeze 'em hard and you'll See-bold results!\"{n}{c0}"
   },
   {
    "id": "b015_0074",
    "jp": "{c3}「そんな は{kata}デュナン{hira} ふく{n} きていくのか!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"You're goin' out all Dunant{n} in those flashy clothes?!\"{n}{c0}"
   },
   {
    "id": "b015_0075",
    "jp": "{c3}「それに さわると{n} {kata}カンディンスキ{hira}ー!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Touch that and{n} you'll get Volta-ged!\"{n}{c0}"
   },
   {
    "id": "b015_0076",
    "jp": "{c3}「お好みやきじゃ ないよ!{n} {kata}ロダン{hira}やきだよ!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"It's not okonomiyaki!{n} It's Rodin-house barbecue!\"{n}{c0}"
   },
   {
    "id": "b015_0077",
    "jp": "{c3}「せいかつに もっと{n} {kata}ユトリロ{hira}が ほしいよね!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"My life could use{n} a little more Monet!\"{n}{c0}"
   },
   {
    "id": "b015_0078",
    "jp": "{c3}「{kata}オイラ{hira}ーの だじゃれ{n} いかがでしたか?」{n}{c0}",
-   "en": null
+   "en": "{c3}\"So, how were my puns?{n} Pretty Euler-gant, huh?\"{n}{c0}"
   },
   {
    "id": "b015_0079",
    "jp": "{c3}「べんきょう べんきょうで{n} {kata}ガンジ{hira}ー がらめだ!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Study, study, study...{n} I'm all Gandhi-cuffed!\"{n}{c0}"
   },
   {
    "id": "b015_0080",
    "jp": "{c3}「かぜに {kata}パブロフ{n}{hira} はやめの {kata}パブロフ{hira}」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Got a cold? Take Pavlov!{n} At the first ring of a sniffle, Pavlov!\"{n}{c0}"
   },
   {
    "id": "b015_0081",
    "jp": "{c3}「{kata}ピカソ{hira}うな 時計だね!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"What a lovely clock! It's Dali-cious!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0082",
    "jp": "{c3}「水が ぜんぜん {kata}ジェンナ{hira}ー!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"The water ain't Jenner-ating at all!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0083",
    "jp": "{c3}「きたねー!{n} そんなの あ{kata}リンカ{hira}ー{kata}ン{hira}よ!{n}{c0}",
-   "en": null
+   "en": "{c3}\"No fair!{n} That's Lincoln-ceivable!\"{n}{c0}"
   },
   {
    "id": "b015_0084",
    "jp": "{c3}「{sub:B6}は 時間に{n} {kata}ル{hira}ー{kata}ズベルト{hira}!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"You're so{n} Roose-velt with time!\"{n}{c0}"
   },
   {
    "id": "b015_0085",
    "jp": "{c3}「家が ぼろくて{n} 雨が {kata}モ{hira}ー{kata}ルス{hira}!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"My house is so run-down{n} the rain drips in Morse code!\"{n}{c0}"
   },
   {
    "id": "b015_0086",
    "jp": "{c3}「{kata}ゴ{hira}ー{kata}イング{n}{hira} {kata}マイ{hira} {kata}ヘミングウエイ{hira}」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Going{n} my Hemingway~\"{n}{c0}"
   },
   {
    "id": "b015_0087",
    "jp": "{c3}「{kata}シュバイツア{hira}ーが{n} しばい{kata}ツア{hira}ーに 行く!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Schweitzer's{n} off to Switzerland!\"{n}{c0}"
   },
   {
    "id": "b015_0088",
    "jp": "{c3}「電話で しゃ{kata}ベル{hira}!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"Gimme a Bell on the phone!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0089",
    "jp": "{c3}「ああ! びっくりして{n} {kata}メンデル{hira} とこだったよ!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Yikes! You scared me so bad{n} my heart needs Mendel-ing!\"{n}{c0}"
   },
   {
    "id": "b015_0090",
    "jp": "{c3}「{kata}イソップ{hira} あわびの かたおもい!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"Unrequited love... what an Aesop story!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0091",
    "jp": "{c3}「夏が すぎて{n} もう {kata}アキレス{hira}ね～!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Summer's over...{n} there's Achilles in the air~!\"{n}{c0}"
   },
   {
    "id": "b015_0092",
    "jp": "{c3}「夏 遊んでる人と{n} 夏 がんばってる人の ことを{n} {kata}アリストテレス{hira}! く 苦しい!」{c0}",
-   "en": null
+   "en": "{c3}\"The folks who play all summer{n} and the folks who work all summer...{n} Aristotle and the Grasshopper! Ugh, painful!\"{c0}"
   },
   {
    "id": "b015_0093",
    "jp": "{c3}「なんだ この つぼは?{n} {kata}カラヤン{hira}け!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"What's this pot?{n} A genuine Vase-co da Gama!\"{n}{c0}"
   },
   {
    "id": "b015_0094",
    "jp": "{c3}「{kata}グ{hira}ー{kata}テンベルク{hira}が かつじを{n} はつめいしたのは ほんの{n} {kata}グ{hira}ー{kata}テンベルク{hira}!」{c0}",
-   "en": null
+   "en": "{c3}\"Gutenberg invented printing{n} because he wanted{n} a Guten-read!\"{c0}"
   },
   {
    "id": "b015_0095",
    "jp": "{c3}「{kata}ブス{hira}が {kata}コロンブス{hira}!{n} ありがちねー!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Clumsy Columbus!{n} Tripped and Colum-busted! So typical!\"{n}{c0}"
   },
   {
    "id": "b015_0096",
    "jp": "{c3}「{kata}フラスコ{hira}が さびてるぞ!{n} {kata}フランシスコ{hira}・{kata}ザビエル{hira}ぞー!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"This flask is rusty!{n} Francisco Xa-vier-y rusty!\"{n}{c0}"
   },
   {
    "id": "b015_0097",
    "jp": "{c3}「{kata}ゴ{hira}ー{kata}ガン{hira}無知!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"Gauguin-orance is bliss!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0098",
    "jp": "{c3}「{kata}マック{hira}・{kata}シェイク{hira}は もっと{n} {kata}シェ{hira}ー{kata}クスピア{hira}してないと{n} ほっぺたが 痛くなるんだ!」{c0}",
-   "en": null
+   "en": "{c3}\"A milkshake needs{n} a good Shakespeare-ing{n} or your cheeks'll ache from sucking!\"{c0}"
   },
   {
    "id": "b015_0099",
    "jp": "{c3}「ぺっ! ぺっ!{n} なんで こんなに{n} この うめぼしは {kata}ショパン{hira}だ!」{c0}",
-   "en": null
+   "en": "{c3}\"Ptooey! Ptooey!{n} Why, oh why{n} is this pickled plum so Sal-ieri?!\"{c0}"
   },
   {
    "id": "b015_0100",
    "jp": "{c3}「ええ～? いやどすわ～{n} そんなのと {kata}チャイコススキ{hira}ー?」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Ooh, I'd rather not~{n} Sip Tchai-kovsky with the likes of him?\"{n}{c0}"
   },
   {
    "id": "b015_0101",
    "jp": "{c3}「{kata}ビビデ{hira} {kata}ダビデ{hira} {kata}ブ{hira}ー!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"Bibbidi Davidi Boo!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0102",
    "jp": "{c3}「{kata}デカルト{hira}・{kata}ビデオ{hira}!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"Descartes-oon videos!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0103",
    "jp": "{c3}「やべえ! {kata}サツ{hira}だ!{n} {kata}ドストエフスキ{hira}ー! わかんねえか?{n} {kata}ドス{hira}を しめえってんだよ!」{c0}",
-   "en": null
+   "en": "{c3}\"Uh-oh! The cops!{n} Dostoevsky! Don't get it?{n} Stow-evsky the blade, I said!\"{c0}"
   },
   {
    "id": "b015_0104",
    "jp": "{c3}「こどもは はやく {kata}ネロ{hira}!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"Kids, off to bed! Get your Rest-putin!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0105",
    "jp": "{c3}「いまから {kata}ノ{hira}ー{kata}ベル{hira}ことを{n} よく 聞いておくんだぞ!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Listen carefully to what I'm about{n} to tell you! It's the Nobel truth!\"{n}{c0}"
   },
   {
    "id": "b015_0106",
    "jp": "{c3}「あんたって いつも{n} うそ{kata}バッカス{hira}!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"You are always{n} so full of Bacchus-loney!\"{n}{c0}"
   },
   {
    "id": "b015_0107",
    "jp": "{c3}「ねえ ねえ! おかあさん!{n} {kata}ハムレット{hira} かってもいい?{n} それ {kata}ハムスタ{hira}ーでしょ?」{c0}",
-   "en": null
+   "en": "{c3}\"Hey, hey! Mom!{n} Can I buy a Hamlet?{n} That's a baby hamster, right?\"{c0}"
   },
   {
    "id": "b015_0108",
    "jp": "{c3}「ねこは こたつで {kata}ビスマルク{hira}!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"The cat's curled up by the kotatsu, Purr-cini-ing!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0109",
    "jp": "{c3}「日通の {kata}ペリ{hira}ーかんびん!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"Perry Express! Perry-can deliver anything!\"{n}{n}{c0}"
   },
   {
    "id": "b015_0110",
    "jp": "{c3}「もっと {kata}マホメット{n}{hira} べんきょう しなさい!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Show some Mohammed-ivation{n} and hit the books!\"{n}{c0}"
   },
   {
    "id": "b015_0111",
    "jp": "{c3}「{sub:C9}が あやまれば みんな{n} {kata}マルクス{hira}むことだ!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"If I just apologize,{n} everyone gets full Marx!\"{n}{c0}"
   },
   {
    "id": "b015_0112",
    "jp": "{c3}「{sub:C9}は {kata}モ{hira}ー{kata}ス{hira}と{n} もうす者です!」{n}{c0}",
-   "en": null
+   "en": "{c3}\"Allow me to introduce myself:{n} Moses, a Moses-tly humble man!\"{n}{c0}"
   },
   {
    "id": "b015_0113",
    "jp": "{c3}「{kata}ルノア{hira}ー{kata}ル{hira}ことは 3度ある!」{n}{n}{c0}",
-   "en": null
+   "en": "{c3}\"What happens twice will Renoir-cur a third time!\"{n}{n}{c0}"
   }
  ]
 }

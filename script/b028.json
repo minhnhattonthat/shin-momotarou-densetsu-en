@@ -122,802 +122,802 @@
   {
    "id": "b028_0023",
    "jp": "「いつもより 多めに!」",
-   "en": null
+   "en": "\"Even more than usual!\""
   },
   {
    "id": "b028_0024",
    "jp": "「ほんじゃまか {kata}ホイホイ{hira}!」",
-   "en": null
+   "en": "\"Honjamaka, hoi hoi!\""
   },
   {
    "id": "b028_0025",
    "jp": "合計 {num}両 手に入れた!{page}{n}「めでたいの{kata}ォ{hira} {arg}!{n} めったに 出ない{n} 32回の ごほうびが 出たぞ!」{page}{n}「これも 何かの おぼしめしぢゃ!{n} 心して 鬼たいじに{n} はげめよ! {sub:A8}!」{page}",
-   "en": null
+   "en": "You got {num} ryo in all!{page}{n}\"How auspicious, {arg}! You've won the rare 32nd-round reward!\"{page}{n}\"This must be a sign from above! Take it to heart and strive in your oni hunt! Uhyahya...\"{page}"
   },
   {
    "id": "b028_0026",
    "jp": "合計 {num}両 手に入れた!{n}よかったね!{page}",
-   "en": null
+   "en": "You got {num} ryo in all!{n}Lucky you!{page}"
   },
   {
    "id": "b028_0027",
    "jp": "「{arg}! {sub:B6}が{n} 苦しんでる 顔を 見るのが{n} なによりの たのしみなんだ!」{page}",
-   "en": null
+   "en": "\"{arg}! Watching you suffer is what I enjoy most of all!\"{page}"
   },
   {
    "id": "b028_0028",
    "jp": "「{arg}! {kata}オレ{hira}には{n} 金で 動く 友だちが{n} たくさん いるんだ!」{page}",
-   "en": null
+   "en": "\"{arg}! I've got plenty of friends who'll do anything for money!\"{page}"
   },
   {
    "id": "b028_0029",
    "jp": "「{arg}! {kata}オレ{hira}の くつを{n} なめろ! ひざまづけ!{n} それが いちばん おにあいだ!」{page}",
-   "en": null
+   "en": "\"{arg}! Lick my shoes! Get on your knees! That suits you best!\"{page}"
   },
   {
    "id": "b028_0030",
    "jp": "「{arg}! {sub:B6}は{n} {kata}オレ{hira}さまの しもべと なって{n} 一生 くらせば いいんだ!」{page}",
-   "en": null
+   "en": "\"{arg}! You should just spend the rest of your life as my servant!\"{page}"
   },
   {
    "id": "b028_0031",
    "jp": "「{arg}{kata}サン{hira}! ゆるしてくれ!{n} {kata}オレ{hira}は お金でしか{n} 人を はんだん できないんだ!」{page}",
-   "en": null
+   "en": "\"{arg}! Forgive me! Money's the only way I know how to judge people!\"{page}"
   },
   {
    "id": "b028_0032",
    "jp": "「{arg}{kata}サン{hira}! わるかった!{n} {kata}オレ{hira}には 本当の{n} 友だちが いないんだ!」{page}",
-   "en": null
+   "en": "\"{arg}! I was wrong! I don't have a single real friend!\"{page}"
   },
   {
    "id": "b028_0033",
    "jp": "「{arg}{kata}サン{hira}! これからは{n} 心を いれかえるから{n} かんべん してくれー!」{page}",
-   "en": null
+   "en": "\"{arg}! I'll turn over a new leaf from now on, so let me off the hook!\"{page}"
   },
   {
    "id": "b028_0034",
    "jp": "「{arg}{kata}サン{hira}! {kata}オレ{hira}はもう{n} あんたの 目に ふれないところへ{n} 行くから ゆるしてくれ!」{page}",
-   "en": null
+   "en": "\"{arg}! I'll go somewhere you'll never lay eyes on me again, so forgive me!\"{page}"
   },
   {
    "id": "b028_0035",
    "jp": "「{arg}{kata}サン{hira}! {kata}オレ{hira}にも{n} せいかつが あるんだ!{n} うらぎるつもりは なかったんだ!」{page}",
-   "en": null
+   "en": "\"{arg}! I've got a living to make too! I never meant to betray you!\"{page}"
   },
   {
    "id": "b028_0036",
    "jp": "「{arg}{kata}サン{hira}! {kata}オレ{hira}は{n} なさけない {kata}ホモ{hira}やろうだ!{n} すべて {kata}オレ{hira}が わるかった!」{page}",
-   "en": null
+   "en": "\"{arg}! I'm a pathetic, spineless creep! It's all my fault!\"{page}"
   },
   {
    "id": "b028_0037",
    "jp": "「{arg}{kata}サン{hira}! {kata}オレ{hira}と あんたは{n} 大の 親友 だっただろ!?」{n}{page}",
-   "en": null
+   "en": "\"{arg}! You and me were the best of buddies, weren't we!?\"{n}{page}"
   },
   {
    "id": "b028_0038",
    "jp": "「{arg}{kata}サン{hira}! そんなに{n} いじめないで くれよ!{n} 悪気は なかったんだよ!」{page}",
-   "en": null
+   "en": "\"{arg}! Don't pick on me like that! I didn't mean any harm!\"{page}"
   },
   {
    "id": "b028_0039",
    "jp": "「{arg}{kata}サン{hira}! あんたを{n} うらぎったせいで こんな{n} すがたに なっちゃったよ!」{page}",
-   "en": null
+   "en": "\"{arg}! Look what I turned into for betraying you!\"{page}"
   },
   {
    "id": "b028_0040",
    "jp": "「{arg}{kata}サン{hira}! ごめんよ!{n} ごめんよ! ごめんよ! ごめんよ!{n} すべて {kata}オレ{hira}が わるかったよ!」{page}",
-   "en": null
+   "en": "\"{arg}! I'm sorry! I'm sorry! I'm sorry! I'm sorry! I'm sorry! It's all my fault!\"{page}"
   },
   {
    "id": "b028_0041",
    "jp": "「{arg}{kata}サン{hira}! こんな ところで{n} {kata}ボク{hira}は いっしょう くらせば{n} いいんだよね! ね! ね!」{page}",
-   "en": null
+   "en": "\"{arg}! I'm supposed to live my whole life in a place like this, right? Right? Right?\"{page}"
   },
   {
    "id": "b028_0042",
    "jp": "「{arg}{kata}サン{hira}! つらいよー!{n} ひとを うらぎると こんなめに{n} あっちまうんだな! つらいよー!」{page}",
-   "en": null
+   "en": "\"{arg}! It hurts! This is what happens when you betray people! It hurts!\"{page}"
   },
   {
    "id": "b028_0043",
    "jp": "おかか",
-   "en": null
+   "en": "Bonito"
   },
   {
    "id": "b028_0044",
    "jp": "おかか",
-   "en": null
+   "en": "Bonito"
   },
   {
    "id": "b028_0045",
    "jp": "べに{kata}シャケ{hira}",
-   "en": null
+   "en": "Red Salmon"
   },
   {
    "id": "b028_0046",
    "jp": "べに{kata}シャケ{hira}",
-   "en": null
+   "en": "Red Salmon"
   },
   {
    "id": "b028_0047",
    "jp": "うめ",
-   "en": null
+   "en": "Plum"
   },
   {
    "id": "b028_0048",
    "jp": "うめ",
-   "en": null
+   "en": "Plum"
   },
   {
    "id": "b028_0049",
    "jp": "たらこ",
-   "en": null
+   "en": "Cod Roe"
   },
   {
    "id": "b028_0050",
    "jp": "たらこ",
-   "en": null
+   "en": "Cod Roe"
   },
   {
    "id": "b028_0051",
    "jp": "こんぶ",
-   "en": null
+   "en": "Kelp"
   },
   {
    "id": "b028_0052",
    "jp": "こんぶ",
-   "en": null
+   "en": "Kelp"
   },
   {
    "id": "b028_0053",
    "jp": "{kata}チキン{hira}からし",
-   "en": null
+   "en": "Chicken Mustard"
   },
   {
    "id": "b028_0054",
    "jp": "{kata}チキン{hira}からし",
-   "en": null
+   "en": "Chicken Mustard"
   },
   {
    "id": "b028_0055",
    "jp": "めんたいこ",
-   "en": null
+   "en": "Spicy Cod Roe"
   },
   {
    "id": "b028_0056",
    "jp": "めんたいこ",
-   "en": null
+   "en": "Spicy Cod Roe"
   },
   {
    "id": "b028_0057",
    "jp": "{kata}シ{hira}ー{kata}チキン{hira}",
-   "en": null
+   "en": "Canned Tuna"
   },
   {
    "id": "b028_0058",
    "jp": "{kata}シ{hira}ー{kata}チキン{hira}",
-   "en": null
+   "en": "Canned Tuna"
   },
   {
    "id": "b028_0059",
    "jp": "「{arg}かい? おいしいよ!」{page}{n}{arg}{arg}は {arg}が 入った{n}{sub:C0}を 食べた!{page}",
-   "en": null
+   "en": "\"{arg}, is it? It's tasty!\"{page}{n}{arg}{arg} ate a rice ball{n}with {arg} inside!{page}"
   },
   {
    "id": "b028_0060",
    "jp": "「なくよ {kata}ウグイス{hira} 歴史の鬼!」{page}",
-   "en": null
+   "en": "\"Seven-ninety-four, the nightingales sing! History Oni!\"{page}"
   },
   {
    "id": "b028_0061",
    "jp": "「いよ 国が みえた 歴史の鬼!」{page}",
-   "en": null
+   "en": "\"Fourteen-ninety-two, a new land in view! History Oni!\"{page}"
   },
   {
    "id": "b028_0062",
    "jp": "「いい国 つくろう 歴史の鬼!」{page}",
-   "en": null
+   "en": "\"Eleven-ninety-two, a fine nation's due! History Oni!\"{page}"
   },
   {
    "id": "b028_0063",
    "jp": "「なんと りっぱな 歴史の鬼!」{page}",
-   "en": null
+   "en": "\"Seven-ten, how splendid! History Oni!\"{page}"
   },
   {
    "id": "b028_0064",
    "jp": "「さあ! きみは どっちの{n} 問題を えらぶんだい?」{n}",
-   "en": null
+   "en": "\"Well! Which question will you pick?\"{n}"
   },
   {
    "id": "b028_0065",
    "jp": "「こたえは これで いいんだね?」",
-   "en": null
+   "en": "\"Is that your final answer?\""
   },
   {
    "id": "b028_0066",
    "jp": "「正解だよ {arg}さん!{n} なかなか やるじゃん!」{page}",
-   "en": null
+   "en": "\"That's right, {arg}! Not bad at all!\"{page}"
   },
   {
    "id": "b028_0067",
    "jp": "「{kata}ダメ{hira}だなー {arg}さん!{n} {kata}ママ{hira}が べんきょう できない子と{n} 遊ぶなって 言ってたよ!」{page}{n}{kata}ママゴン{hira} {kata}パ{hira}ーーーーー{kata}ンチ{hira}!{page}",
-   "en": null
+   "en": "\"Nope, {arg}! My mama says not to play with kids who can't study!\"{page}{n}Mama-zilla Puuuuunch!{page}"
   },
   {
    "id": "b028_0068",
    "jp": "{arg}{arg} 全員の 体力が{n}半分に なってしまった!{page}",
-   "en": null
+   "en": "The Health of {arg}{arg}'s whole party{n}was cut in half!{page}"
   },
   {
    "id": "b028_0069",
    "jp": "「都が 奈良に うつったのは{n} 何年だったけー?{n} 問題 {kata}カンタン{hira}すぎるかな?」",
-   "en": null
+   "en": "\"What year did the capital move to Nara? Is this question too easy?\""
   },
   {
    "id": "b028_0070",
    "jp": "「かまくらばくふが 開かれたのは{n} 何年だったっけー?{n} 源頼朝って 人だよ」",
-   "en": null
+   "en": "\"What year was the Kamakura shogunate founded? It was a guy called Minamoto no Yoritomo.\""
   },
   {
    "id": "b028_0071",
    "jp": "「{kata}フランス{hira}かくめいって なんだか{n} わからないことだけど 何年?」",
-   "en": null
+   "en": "\"I don't really get what the French Revolution was, but what year was it?\""
   },
   {
    "id": "b028_0072",
    "jp": "「{kata}アメリカ{hira}が {kata}イギリス{hira}から{n} 独立したのは 何年かなー?{n} {kata}コロンブス{hira}は 1492年だよ!」",
-   "en": null
+   "en": "\"What year did America win independence from Britain? Columbus was 1492!\""
   },
   {
    "id": "b028_0073",
    "jp": "「{kata}ペリ{hira}ーが {kata}ニッポン{hira}に{n} やってきて {kata}ドカ{hira}ー{kata}ン{hira} {kata}ドカ{hira}ー{kata}ン{hira}と{n} 大砲撃ったのは 何年?」",
-   "en": null
+   "en": "\"What year did Perry come to Japan and fire his cannons, ka-boom, ka-boom?\""
   },
   {
    "id": "b028_0074",
    "jp": "「徳川家康! 石田光成(みつなり)!{n} 天下分け目の 大合戦!{n} 関が原の 戦いは 何年?」",
-   "en": null
+   "en": "\"Tokugawa Ieyasu! Ishida Mitsunari! The great battle that decided the realm! What year was the Battle of Sekigahara?\""
   },
   {
    "id": "b028_0075",
    "jp": "「何だか 知らないけど 有名な{n} 大化の改新(たいかのかいしん)は{n} 何年かな? 数字は 3{kata}ケタ{hira}だよ」",
-   "en": null
+   "en": "\"It's famous, though who knows why... what year was the Taika Reform? The number has 3 digits.\""
   },
   {
    "id": "b028_0076",
    "jp": "「徳川家康が{n} 徳川ばくふを 開いたのは?」",
-   "en": null
+   "en": "\"When did Tokugawa Ieyasu found the Tokugawa shogunate?\""
   },
   {
    "id": "b028_0077",
    "jp": "「おら! おら! おら! おら!{n} きょうかしょ 見ても {kata}ムダ{hira}だぜ!{n} 安土城が かんせいしたのは?」",
-   "en": null
+   "en": "\"Hey! Hey! Hey! Hey! No use peeking at your textbook! When was Azuchi Castle finished?\""
   },
   {
    "id": "b028_0078",
    "jp": "「おら! おら! おら! おら!{n} {kata}ニッポン{hira}で はじめて{n} {kata}テレビ{hira}が ほうそうされたのは?」",
-   "en": null
+   "en": "\"Hey! Hey! Hey! Hey! When was television first broadcast in Japan?\""
   },
   {
    "id": "b028_0079",
    "jp": "「おら! おら! おら! おら!{n} {kata}ハドソン{hira}が そうせつされたのは?{n} 歴史てきな 出来事だぞ!」",
-   "en": null
+   "en": "\"Hey! Hey! Hey! Hey! When was Hudson founded? A historic event, that!\""
   },
   {
    "id": "b028_0080",
    "jp": "「おら! おら! おら! おら!{n} {kata}タ{hira}ー{kata}ヘルアナトミア{hira}!{n} 杉田玄'白の 解体新書は?」",
-   "en": null
+   "en": "\"Hey! Hey! Hey! Hey! Tafel Anatomia! When was Sugita Genpaku's New Book of Anatomy?\""
   },
   {
    "id": "b028_0081",
    "jp": "「おら! おら! おら! おら!{n} たねが島に 鉄砲が伝来したのは{n} いつのことだ! {kata}パンパンパン{hira}!」",
-   "en": null
+   "en": "\"Hey! Hey! Hey! Hey! When did guns first come to Tanegashima? Bang bang bang!\""
   },
   {
    "id": "b028_0082",
    "jp": "「おら! おら! おら! おら!{n} {kata}ナポレオン{hira}の {kata}ク{hira}ー{kata}デタ{hira}ーは?{n} お酒の 話じゃないよ!」",
-   "en": null
+   "en": "\"Hey! Hey! Hey! Hey! When was Napoleon's coup d'etat? And no, it's not about brandy!\""
   },
   {
    "id": "b028_0083",
    "jp": "「おら! おら! おら! おら!{n} 人はみな 心で おうえん!{n} 大塩平八郎の乱は 何年?」",
-   "en": null
+   "en": "\"Hey! Hey! Hey! Hey! Everyone cheered him on in their hearts! What year was Oshio Heihachiro's Rebellion?\""
   },
   {
    "id": "b028_0084",
    "jp": "「おら! おら! おら! おら!{n} 織'田信長が 明智光秀に{n} 暗殺された 本能寺の変は?」",
-   "en": null
+   "en": "\"Hey! Hey! Hey! Hey! When was the Honnoji Incident, where Akechi Mitsuhide assassinated Oda Nobunaga?\""
   },
   {
    "id": "b028_0085",
    "jp": "「数学は {kata}ニッポン{hira}の 明日をきずく{n} だいじな 学問 なんだよ!」{n}{page}{n}「さあ! きみも{n} 数学の 問題を 解いて{n} 頭 {kata}スッキリ{hira}になろう!」{n}「さて 問題です!」{n}{n}{page}",
-   "en": null
+   "en": "\"Math is an important subject that builds Japan's tomorrow!\"{n}{page}{n}\"Come on! Solve a math problem too and clear your head!\"{n}\"Now, here's the question!\"{n}{n}{page}"
   },
   {
    "id": "b028_0086",
    "jp": "「1週間は 何時間でしょう?」",
-   "en": null
+   "en": "\"How many hours are in one week?\""
   },
   {
    "id": "b028_0087",
    "jp": "「長さ2{kata}キロ{hira}の 道路に{n} {kata}サクラ{hira}の木を 10{kata}メ{hira}ー{kata}トル{hira}おきに{n} うえました {kata}サクラ{hira}の木は 何本?」",
-   "en": null
+   "en": "\"Cherry trees were planted every 10 meters along a road 2 kilometers long. How many cherry trees are there?\""
   },
   {
    "id": "b028_0088",
    "jp": "「池に {kata}ツル{hira}と{kata}カメ{hira}が 15匹います!{n} 足の数は あわせて 44本です!{n} さて {kata}カメ{hira}は 何匹いたでしょう?」",
-   "en": null
+   "en": "\"There are 15 cranes and turtles in a pond! They have 44 legs in all! So how many turtles are there?\""
   },
   {
    "id": "b028_0089",
    "jp": "「いま 1時20分です!{n} 短針と長針の あいだの{n} 角度は 何度でしょう?」",
-   "en": null
+   "en": "\"It's now 1:20! What is the angle between the hour hand and the minute hand?\""
   },
   {
    "id": "b028_0090",
    "jp": "「5両に 600人のってる 電車と{n} 6両に 690人のってる 電車では{n} どちらが こんで いるでしょう?」",
-   "en": null
+   "en": "\"A 5-car train carrying 600 people, or a 6-car train carrying 690 people: which is more crowded?\""
   },
   {
    "id": "b028_0091",
    "jp": "「6で 割ると 3あまり{n} 5で 割ると 4あまる 2{kata}ケタ{hira}の{n} 数のうち いちばん 大きいのは?」",
-   "en": null
+   "en": "\"Divided by 6 it leaves 3, divided by 5 it leaves 4. What's the largest 2-digit number like that?\""
   },
   {
    "id": "b028_0092",
    "jp": "「家から 35{kata}キロ{hira}はなれた {kata}プ{hira}ー{kata}ル{hira}に{n} 車で行くと 35分 かかりました!{n} じそく何{kata}キロ{hira}で 走ったでしょう」",
-   "en": null
+   "en": "\"Driving to a pool 35 kilometers from home took 35 minutes! How many kilometers per hour was the car going?\""
   },
   {
    "id": "b028_0093",
    "jp": "「うるう年の 年では{n} 偶数の日と 奇数の日{n} どちらの日が 多いでしょう?」",
-   "en": null
+   "en": "\"In a leap year, are there more even-numbered days or odd-numbered days?\""
   },
   {
    "id": "b028_0094",
    "jp": "「ある 品物のを 1割5分引きで{n} 売ると 3400円に なりました!{n} もとの 値段は いくらでしょう」",
-   "en": null
+   "en": "\"An item sold at 15% off came to 3400 yen! What was the original price?\""
   },
   {
    "id": "b028_0095",
    "jp": "「次の うち 素数(そすう)は{n} どれでしょう?」{n}",
-   "en": null
+   "en": "\"Which of the following is a prime number?\"{n}"
   },
   {
    "id": "b028_0096",
    "jp": "「次の うち 6と9の{n} 公倍数は どれでしょう?」{n}",
-   "en": null
+   "en": "\"Which of the following is a common multiple of 6 and 9?\"{n}"
   },
   {
    "id": "b028_0097",
    "jp": "「90{kata}キロ{hira}の きょりを{n} 1時間30分で 走るには{n} じそく何{kata}キロ{hira}で 走ればいい?」",
-   "en": null
+   "en": "\"To travel 90 kilometers in 1 hour 30 minutes, how many kilometers per hour do you need to go?\""
   },
   {
    "id": "b028_0098",
    "jp": "「8人の 大工さんが 2週間かかって{n} 終わる しごとが あります!{n} 14人だと 何日ですむでしょう?」",
-   "en": null
+   "en": "\"A job takes 8 carpenters 2 weeks to finish! How many days would it take 14 carpenters?\""
   },
   {
    "id": "b028_0099",
    "jp": "「ある 2つの数を 足すと 48{n} 引くと 24に なります!{n} 2つの数は いくつでしょう?」",
-   "en": null
+   "en": "\"Two numbers add up to 48, and their difference is 24! What are the two numbers?\""
   },
   {
    "id": "b028_0100",
    "jp": "「A君の おこづかいは B君の3倍!{n} 2人あわせて 10000円です!{n} A君の おこづかいは いくら?」",
-   "en": null
+   "en": "\"A's allowance is three times B's! Together they get 10000 yen! How much is A's allowance?\""
   },
   {
    "id": "b028_0101",
    "jp": "「1 たす 1は?」",
-   "en": null
+   "en": "\"What's 1 plus 1?\""
   },
   {
    "id": "b028_0102",
    "jp": "「{kata}キャハハハハハハ{hira}!{n} {sub:C9} {arg}{arg}{kata}サン{hira}のこと{n} だーーーーーーいすき!」{n}雪だるまは {arg}{arg}に{n}{kata}キス{hira}を した!{n}{n}{arg}{arg}は 絶好調に なった!{n}{n}{page}",
-   "en": null
+   "en": "\"Kyahahahahaha! I just looooooove you, {arg}{arg}!\"{n}The Snowman gave {arg}{arg}{n}a kiss!{n}{n}{arg}{arg} is in top form!{n}{n}{page}"
   },
   {
    "id": "b028_0103",
    "jp": "「{kata}キャハハハハハハ{hira}!{n} {sub:C9} {arg}{arg}{kata}サン{hira}のこと{n} 嫌いじゃないわよ!」{n}雪だるまは {arg}{arg}に{n}投げ{kata}キッス{hira}を した!{n}",
-   "en": null
+   "en": "\"Kyahahahahaha! I don't dislike you, {arg}{arg}!\"{n}The Snowman blew {arg}{arg}{n}a kiss!{n}"
   },
   {
    "id": "b028_0104",
    "jp": "「{kata}キャハハハハハハ{hira}!{n} {arg}{arg}さん あんまり{n} {kata}ムリ{hira}しちゃ {kata}ダメ{hira}! {kata}ハイ{hira} これ!」",
-   "en": null
+   "en": "\"Kyahahahahaha! Don't push yourself too hard, {arg}{arg}! Here, take this!\""
   },
   {
    "id": "b028_0105",
    "jp": "{arg}{arg}は {arg}を{n}さしだした!{n}{page}",
-   "en": null
+   "en": "{arg}{arg} held out{n}{arg}!{n}{page}"
   },
   {
    "id": "b028_0106",
    "jp": "「{kata}キャハハハハハハ{hira}!{n} なんだか{sub:D9}たのしいわね{n} {kata}キャハハハハハハ{hira}! じゃあね!」",
-   "en": null
+   "en": "\"Kyahahahahaha! Today's kind of fun, isn't it? Kyahahahahaha! Bye now!\""
   },
   {
    "id": "b028_0107",
    "jp": "「あれー? {sub:C9}の 大好きな{n} 風鈴を 持ってるのね?{n} それ {sub:C9}に くれない?」",
-   "en": null
+   "en": "\"Huh? You've got a wind chime, my very favorite thing! Won't you give it to me?\""
   },
   {
    "id": "b028_0108",
    "jp": "「うれしい! {sub:C9} あなたたちの{n} 仲間に なってあげる!」{n}{n}たのみも しないのに 雪だるまは{n}仲間に 加わることに なった!{n}{page}",
-   "en": null
+   "en": "\"Yay! I'll be your friend and join your party!\"{n}{n}Nobody asked, but the Snowman{n}joined the party anyway!{n}{page}"
   },
   {
    "id": "b028_0109",
    "jp": "「えー! けち!{n} じゃあ いいわ! {kata}プン{hira}! {kata}プン{hira}!」{page}{n}雪だるまは さって行った!{page}",
-   "en": null
+   "en": "\"Aww, stingy! Fine, forget it! Hmph! Hmph!\"{page}{n}The Snowman went away!{page}"
   },
   {
    "id": "b028_0110",
    "jp": "お日さま {kata}サンサン{hira}!{n}{hero}の 体に 力がみなぎった!{page}",
-   "en": null
+   "en": "The sun shines bright!{n}Strength surged through {hero}'s body!{page}"
   },
   {
    "id": "b028_0111",
    "jp": "金太郎{n}「いっちょ やったるかー!」{n}{page}{n}日本晴れなら 金太郎!{n}金太郎の 体に 力がみなぎった!{n}{page}",
-   "en": null
+   "en": "Kintaro{n}\"Let's get to it!\"{n}{page}{n}Clear skies mean Kintaro!{n}Strength surged through Kintaro's body!{n}{page}"
   },
   {
    "id": "b028_0112",
    "jp": "銀次{n}「日本晴れは 気分が いいねえ!」{n}{page}{n}銀次の 体に 力がみなぎった!{n}{n}{page}",
-   "en": null
+   "en": "Ginji{n}\"Clear skies sure feel great!\"{n}{page}{n}Strength surged through Ginji's body!{n}{n}{page}"
   },
   {
    "id": "b028_0113",
    "jp": "といちや{n}「こりゃまた いい天気でんな!」{n}{page}{n}さわやか 日本晴れ!{n}といちやの もみ手に 力が入った!{n}{page}",
-   "en": null
+   "en": "Toichiya{n}\"Well now, ain't this lovely weather!\"{n}{page}{n}Fresh, clear skies!{n}Toichiya rubbed his hands with new vigor!{n}{page}"
   },
   {
    "id": "b028_0114",
    "jp": "夜叉姫{n}「寒さは {sub:C9}の 味方!」{n}{page}{n}寒さに 強い{n}夜叉姫の 体に 力がみなぎった!{n}{page}",
-   "en": null
+   "en": "Yasha{n}\"The cold is on my side!\"{n}{page}{n}Hardy in the cold,{n}Yasha felt strength surge through her body!{n}{page}"
   },
   {
    "id": "b028_0115",
    "jp": "寝太郎{n}「{kata}オラ{hira}は 雪国そだちだー!」{n}{page}{n}寝太郎の 体に 力がみなぎった!{n}{n}{page}",
-   "en": null
+   "en": "Netaro{n}\"I was raised in snow country!\"{n}{page}{n}Strength surged through Netaro's body!{n}{n}{page}"
   },
   {
    "id": "b028_0116",
    "jp": "でか太郎{n}「{kata}アッポ{hira}ー! 雪は 好きなんだな!」{n}{page}{n}大好きな 雪を あびて{n}でか太郎は 元気百倍になった!{n}{page}",
-   "en": null
+   "en": "Dekataro{n}\"Appoo! I sure do like snow!\"{n}{page}{n}Showered in snow he loves,{n}Dekataro felt a hundred times livelier!{n}{page}"
   },
   {
    "id": "b028_0117",
    "jp": "{arg}{n}「ちべたくって いい{kata}キモチ{hira}!」{n}{page}{n}雪や{kata}コンコン{hira}! あられや{kata}コンコン{hira}!{n}{arg}は 元気百倍になった!!{n}{page}",
-   "en": null
+   "en": "{arg}{n}\"So chilly-willy, it feels sooo nice!\"{n}{page}{n}Snow falls, flurry flurry! Hail falls, flurry flurry!{n}{arg} felt a hundred times livelier!!{n}{page}"
   },
   {
    "id": "b028_0118",
    "jp": "風神{n}「ぴゅるるるるぅ! 雨は わが友!」{n}{page}{n}雨に 強い{n}風神の 体に 力がみなぎった!{n}{page}",
-   "en": null
+   "en": "Fujin{n}\"Pyururururu! The rain is my friend!\"{n}{page}{n}Hardy in the rain,{n}Fujin felt strength surge through his body!{n}{page}"
   },
   {
    "id": "b028_0119",
    "jp": "はらだし{n}「{kata}パラポロピレパレ{hira}ーーーーー!」{n}{page}{n}雨が 大好きな{n}はらだしの 体に 力がみなぎった!{n}{page}",
-   "en": null
+   "en": "Bellyman{n}\"Paraporopirepareeeeee!\"{n}{page}{n}Loving the rain,{n}Bellyman felt strength surge through his body!{n}{page}"
   },
   {
    "id": "b028_0120",
    "jp": "風神{n}「ぴゅるるるるぅ! 嵐よふけ!」{n}{page}{n}嵐に 強い{n}風神の 体に 力がみなぎった!{n}{page}",
-   "en": null
+   "en": "Fujin{n}\"Pyururururu! Blow, O storm!\"{n}{page}{n}Hardy in storms,{n}Fujin felt strength surge through his body!{n}{page}"
   },
   {
    "id": "b028_0121",
    "jp": "雷神{n}「ぐゎらり! 稲妻よ! 天をつけ!」{n}{page}{n}雷雨に 強い{n}雷神の 体に 力がみなぎった!{n}{page}",
-   "en": null
+   "en": "Raijin{n}\"Gwarari! Lightning! Pierce the heavens!\"{n}{page}{n}Hardy in thunderstorms,{n}Raijin felt strength surge through his body!{n}{page}"
   },
   {
    "id": "b028_0122",
    "jp": "黒河童{n}「{kata}カパッパ{hira}! こりゃ うれしい!」{n}{page}{n}頭の皿に 雨をうけて{n}黒河童の 体に 力がみなぎった!{n}{page}",
-   "en": null
+   "en": "Black Kappa{n}\"Kappappa! Now this is a treat!\"{n}{page}{n}Rain fell on the dish atop his head,{n}and power surged through the Black Kappa!{n}{page}"
   },
   {
    "id": "b028_0123",
    "jp": "{kata}キングボンビ{hira}ー{n}「{kata}グエッヘッヘッ{hira}! 雷雨とは{n} ずいぶん いい天気だな!」{page}{n}{kata}キングボンビ{hira}ーの 力は{n}一段と {kata}パワ{hira}ー{kata}アップ{hira}した!{n}{page}",
-   "en": null
+   "en": "King Bonbi{n}\"Gweh-heh-heh! A thunderstorm? What lovely weather!\"{page}{n}King Bonbi's strength{n}powered up even further!{n}{page}"
   },
   {
    "id": "b028_0124",
    "jp": "雷神{n}「ぐゎらり! 嵐よ! あれくるえ!」{n}{page}{n}嵐に 強い{n}雷神の 体に 力がみなぎった!{n}{page}",
-   "en": null
+   "en": "Raijin{n}\"Gwarari! O storm! Rage on!\"{n}{page}{n}Raijin thrives in storms,{n}and power surged through his body!{n}{page}"
   },
   {
    "id": "b028_0125",
    "jp": "ましら{n}「日照りは 野外{kata}ステ{hira}ー{kata}ジ{hira}さ!」{n}{page}{n}ましらの 歌声が さえわたる!{n}{n}{page}",
-   "en": null
+   "en": "Mashira{n}\"A drought? That's my open-air stage!\"{n}{page}{n}Mashira's singing voice rings out clear!{n}{n}{page}"
   },
   {
    "id": "b028_0126",
    "jp": "{kata}ダイダ{hira}王子{n}「なぜだ? こんな かぼそい力で{n} 羅生門に 勝ったというのか?」{page}",
-   "en": null
+   "en": "Prince Daida{n}\"Why? With such feeble strength, he beat Rashomon?\"{page}"
   },
   {
    "id": "b028_0127",
    "jp": "{kata}ダイダ{hira}王子{n}「なぜだ? こんな 弱いやつに{n} みんなが ついていくのか?」{page}",
-   "en": null
+   "en": "Prince Daida{n}\"Why? Why does everyone follow someone so weak?\"{page}"
   },
   {
    "id": "b028_0128",
    "jp": "{kata}ダイダ{hira}王子{n}「なぜだ? こいつらは{n} 勝ちたいと おもわないのか?」{page}",
-   "en": null
+   "en": "Prince Daida{n}\"Why? Don't these people want to win?\"{page}"
   },
   {
    "id": "b028_0129",
    "jp": "{kata}ダイダ{hira}王子{n}「何{kata}ィ{hira}? 弱さのなかに{n} 力が ひめられているのか?」{page}",
-   "en": null
+   "en": "Prince Daida{n}\"What? There is strength hidden within weakness?\"{page}"
   },
   {
    "id": "b028_0130",
    "jp": "{kata}ダイダ{hira}王子{n}「何{kata}ィ{hira}? 弱いからこそ{n} {hero}に ついて行くだと?」{page}",
-   "en": null
+   "en": "Prince Daida{n}\"What? They follow {hero} precisely because they're weak?\"{page}"
   },
   {
    "id": "b028_0131",
    "jp": "{kata}ダイダ{hira}王子{n}「弱いから みんなの力で 助け合う!{n} それが 友情の力なのか!!!!!」{page}",
-   "en": null
+   "en": "Prince Daida{n}\"Because they're weak, they help each other with everyone's strength! Is that the power of friendship!!!!!\"{page}"
   },
   {
    "id": "b028_0132",
    "jp": "{kata}ダイダ{hira}王子{n}「弱い心が ひとつのたばと なって{n} 大きな力と なって行くのか!!!」{page}",
-   "en": null
+   "en": "Prince Daida{n}\"Weak hearts, bound together into one bundle, become a great strength!!!\"{page}"
   },
   {
    "id": "b028_0133",
    "jp": "{kata}ダイダ{hira}王子{n}「そうか! {sub:B6}たちは{n} 大木でなく 華(あし)なのか!」{n}「大きな木は 力強いが{n} そだちにくいし 一度折れれば{n} 二度と 立ち直れない!」{n}「{hero}! {sub:B6}は はじめから{n} 川面に そよぐ 華(あし)を{n} めざしていたのか!」{n}「だから {sub:B6}の 剣'は{n} 弱いのではなく{n} 風に そよぐ 華だったわけだ!」",
-   "en": null
+   "en": "Prince Daida{n}\"I see! You're not great trees, you're reeds!\"{n}\"A great tree is mighty, but it grows slowly, and once it breaks, it can never stand again!\"{n}\"{hero}! Were you aiming from the very start to be a reed swaying on the river's surface?\"{n}\"So your sword wasn't weak at all... it was a reed bending in the wind!\""
   },
   {
    "id": "b028_0134",
    "jp": "「そして {arg}!{n} {sub:B6}が{n} {hero}を ささえたわけだ!」",
-   "en": null
+   "en": "\"And {arg}! You supported {hero}!\""
   },
   {
    "id": "b028_0135",
    "jp": "「そして {arg}! {arg}!{n} {sub:B6}たちが{n} {hero}を ささえたわけだ!」",
-   "en": null
+   "en": "\"And {arg}! {arg}! You all supported {hero}!\""
   },
   {
    "id": "b028_0136",
    "jp": "「そして {arg}! {arg}!{n} {arg}! {sub:B6}たちが{n} {hero}を ささえたわけだ!」",
-   "en": null
+   "en": "\"And {arg}! {arg}! {arg}! You all supported {hero}!\""
   },
   {
    "id": "b028_0137",
    "jp": "「わかったぞ! {hero}!{n} とぎすまされた 剣'でもって{n} {sub:B6}に おしえられた!」{n}「まことの 強さを!{n} {kata}オレ{hira}の なすべきことを!」{n}{page}",
-   "en": null
+   "en": "\"I understand now, {hero}! With your honed sword, you have taught me!\"{n}\"What true strength is! And what I must do!\"{n}{page}"
   },
   {
    "id": "b028_0138",
    "jp": "{kata}カルラ{n}{hira}「{kata}ケ{hira}ー{kata}ッケッケッ{hira}!」{n}{n}「ああ! いやだ!{n} いやだ! まったく!」{n}{n}「このわしが 人間などと{n} 戦うとはな!{n} ああ! けがらわしい!」{n}「はやく 戦いを すませて{n} 酒でも のまねば{n} この うさは はれぬわい!」{n}「さあ! かかれ!{n} 右魂鬼! 左魂鬼!」{n}{n}「心ゆくまで {sub:A0}を{n} しゃぶりつくして やれ!{n} {kata}ケ{hira}ー{kata}ッケッケッ{hira}! {kata}ケ{hira}ー{kata}ケッケッ{hira}!」{page}",
-   "en": null
+   "en": "Karura{n}\"Keeh, keh-keh-keh!\"{n}{n}\"Ugh! How I hate this! I hate it, truly I do!\"{n}{n}\"To think that I must fight mere humans! Ugh! How filthy!\"{n}\"I must end this battle quickly and drink some sake, or I'll never shake off this gloom!\"{n}\"Now! Attack! Ukonki! Sakonki!\"{n}{n}\"Gnaw Momotaro down to the bone to your hearts' content! Keeh, keh-keh-keh! Keeh, keh-keh-keh!\"{page}"
   },
   {
    "id": "b028_0139",
    "jp": "「{kata}ケ{hira}ー{kata}ッケッケッ{hira}! ああ!{n} いやだ! いやだ!{n} 虫けらと 戦うのは いやだ!」{page}",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh! Ugh! I hate it! I hate it! I hate fighting insects!\"{page}"
   },
   {
    "id": "b028_0140",
    "jp": "「{kata}ケ{hira}ー{kata}ケッケッ{hira}! ああ!{n} 人間の においは{n} くさくて たまらん!」{page}",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh! Ugh! The stench of humans is unbearable!\"{page}"
   },
   {
    "id": "b028_0141",
    "jp": "「{kata}ケ{hira}ー{kata}ケッケッ{hira}! ああ!{n} これ以上 戦ってると{n} 人間のにおいが しみつく!」{page}",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh! Ugh! If I keep fighting, the human stench will soak into me!\"{page}"
   },
   {
    "id": "b028_0142",
    "jp": "「{kata}ケ{hira}ー{kata}ケッケッ{hira}! ああ!{n} いやだ! いやだ!{n} 虫けらの においが しみつく!」{page}",
-   "en": null
+   "en": "\"Keeh, keh-keh-keh! Ugh! I hate it! I hate it! The stench of insects will soak into me!\"{page}"
   },
   {
    "id": "b028_0143",
    "jp": "{kata}カルラ{n}{hira}「な? な? なんだと?」{n}{n}「わ? わ? わしが?{n} ま? ま? まけるのか?」{n}{n}「{kata}グギャギャギャギャギャギャギャ{n}{hira} {kata}ギャギャギャギャギャギャギャ{hira}」{n}{n}「{kata}ギャギャギャギャギャギャギャ{n}{hira} {kata}ギャギャギャギャギャギャギャ{n}{hira} {kata}ギャギャギャギャギャ{hira}ーー{kata}ッ{hira}!」{n}{kata}カルラ{n}{hira}「この わしが! この わしが!{n} 人間ごときに まけるのか?」{n}「そ… そんなことは わしの{n} 鬼としての ほこりが ゆるせん!{n} この上は みずから 死をえらぶ!」{n}「さらば {kata}カルラ{hira}王国よ!{n} えいえん なれ!」{n}{page}",
-   "en": null
+   "en": "Karura{n}\"Wh-wh-what did you say?\"{n}{n}\"I-I-I... I'm l-l-losing?\"{n}{n}\"Gugyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya\"{n}{n}\"Gyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya{n} gyagyagyagyagyaaaah!\"{n}Karura{n}\"Me! Me, of all oni! Losing to mere humans?\"{n}\"Th... that my pride as an oni cannot allow! Then I shall choose death by my own hand!\"{n}\"Farewell, Karura Kingdom! May you last forever!\"{n}{page}"
   },
   {
    "id": "b028_0144",
    "jp": "{kata}カルラ{n}{hira}「{kata}オレ{hira}様は 月の王{n} {kata}カルラ{hira}だーーーーー{kata}ッ{hira}!」{page}",
-   "en": null
+   "en": "Karura{n}\"I am the King of the Moon, Karuraaaaaa!\"{page}"
   },
   {
    "id": "b028_0145",
    "jp": "{kata}カルラ{n}{hira}「{kata}オレ{hira}様は 地獄の王{n} {kata}カルラ{hira}だーーーーー{kata}ッ{hira}!」{page}",
-   "en": null
+   "en": "Karura{n}\"I am the King of Hell, Karuraaaaaa!\"{page}"
   },
   {
    "id": "b028_0146",
    "jp": "{kata}カルラ{n}{hira}「{kata}オレ{hira}様は 大地の王{n} {kata}カルラ{hira}だーーーーー{kata}ッ{hira}!」{page}",
-   "en": null
+   "en": "Karura{n}\"I am the King of the Earth, Karuraaaaaa!\"{page}"
   },
   {
    "id": "b028_0147",
    "jp": "{kata}カルラ{n}{hira}「{kata}オレ{hira}様は 天上の王{n} {kata}カルラ{hira}だーーーーー{kata}ッ{hira}!」{page}",
-   "en": null
+   "en": "Karura{n}\"I am the King of Heaven, Karuraaaaaa!\"{page}"
   },
   {
    "id": "b028_0148",
    "jp": "{kata}カルラ{n}{hira}「虫けらごときが{n} 鬼に さからいおって!」{page}",
-   "en": null
+   "en": "Karura{n}\"Mere insects, daring to defy the oni!\"{page}"
   },
   {
    "id": "b028_0149",
    "jp": "{kata}カルラ{n}{hira}「虫が 鳥が 人間に さからうか?{n} 人間は 鬼に したがうのだ!」{page}",
-   "en": null
+   "en": "Karura{n}\"Does an insect or a bird defy humans? Humans obey the oni!\"{page}"
   },
   {
    "id": "b028_0150",
    "jp": "{kata}カルラ{n}{hira}「えらばれた者が みなを{n} したがわせるのが なぜ 悪い!」{page}",
-   "en": null
+   "en": "Karura{n}\"What's wrong with the chosen few making everyone obey!\"{page}"
   },
   {
    "id": "b028_0151",
    "jp": "{kata}カルラ{n}{hira}「頭の 悪いやつは {kata}オレ{hira}様の{n} いうことを 聞いてりゃいいんだ!」{page}",
-   "en": null
+   "en": "Karura{n}\"Dimwits should just do as I say!\"{page}"
   },
   {
    "id": "b028_0152",
    "jp": "{kata}カルラ{n}{hira}「どうしたことだ! {kata}オレ{hira}様の{n} 足が かたくなっていく!」{page}",
-   "en": null
+   "en": "Karura{n}\"What's happening! My legs are stiffening!\"{page}"
   },
   {
    "id": "b028_0153",
    "jp": "{kata}カルラ{n}{hira}「まさか? 村人の声がする!{n} 足に 強い怨みを かんじる!」{page}",
-   "en": null
+   "en": "Karura{n}\"It can't be! I hear the villagers' voices! I feel a fierce grudge in my legs!\"{page}"
   },
   {
    "id": "b028_0154",
    "jp": "{kata}カルラ{n}{hira}「この さけび声は 何だ?{n} 鬼の声だ! うめき声だ!」{page}",
-   "en": null
+   "en": "Karura{n}\"What are these screams? Oni voices! Moans!\"{page}"
   },
   {
    "id": "b028_0155",
    "jp": "{kata}カルラ{n}{hira}「うわわわわっ! {sub:B6}は{n} {kata}ダイダ{hira}王子! なぜ生きている!」{page}",
-   "en": null
+   "en": "Karura{n}\"Waaaaah! You're... Prince Daida! Why are you alive!\"{page}"
   },
   {
    "id": "b028_0156",
    "jp": "{kata}カルラ{n}{hira}「{kata}キキキキキッ{hira}! やめろ!{n} さけぶな! {kata}ザコ{hira}鬼ども!」{n}「{kata}キキキキキッ{hira}! 死にぞこないが!{n} うわわわわっ! 消えろーーー{kata}ッ{hira}!」{n}{page}",
-   "en": null
+   "en": "Karura{n}\"Kikikikiki! Stop! Quit screaming, you small-fry oni!\"{n}\"Kikikikiki! You half-dead wretches! Waaaaah! Vanish!!!\"{n}{page}"
   },
   {
    "id": "b028_0157",
    "jp": "{kata}カルラ{n}{hira}「{kata}キキキキキッ{hira}! {kata}オレ{hira}様が{n} {sub:B6}ら 何をしたというのだ!」{n}「{kata}グギャギャギャギャギャギャギャ{n}{hira} {kata}ギャギャギャギャギャギャギャッ{n}{hira} {kata}ギャギャギャギャギャギャギャッ{hira}!」{page}",
-   "en": null
+   "en": "Karura{n}\"Kikikikiki! What did I ever do to you!\"{n}\"Gugyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya!\"{page}"
   },
   {
    "id": "b028_0158",
    "jp": "{kata}カルラ{n}{hira}「{kata}キキキキキッ{hira}! よるな! 村人!{n} {kata}ガキ{hira}どもが! 近づくんじゃねえ!」{n}「{kata}キキキキキッ{hira}! 死ね! 死ね!{n} うわわわわっ! みんな 死ね!」{n}{page}",
-   "en": null
+   "en": "Karura{n}\"Kikikikiki! Get back, villagers! You brats! Don't come near me!\"{n}\"Kikikikiki! Die! Die! Waaaaah! Everyone die!\"{n}{page}"
   },
   {
    "id": "b028_0159",
    "jp": "{kata}カルラ{n}{hira}「{kata}キキキキキッ{hira}! 死ね! 村娘!{n} 死ね! 人魚! 死ね! {kata}ザコ{hira}鬼!」{n}「{kata}グギャギャギャギャギャギャギャ{n}{hira} {kata}ギャギャギャギャギャギャギャッ{n}{hira} {kata}ギャギャギャギャギャギャギャッ{hira}!」{page}",
-   "en": null
+   "en": "Karura{n}\"Kikikikiki! Die, village girl! Die, mermaid! Die, small-fry oni!\"{n}\"Gugyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya!\"{page}"
   },
   {
    "id": "b028_0160",
    "jp": "{kata}カルラ{n}{hira}「{kata}グギャギャギャギャギャギャギャ{n}{hira} {kata}ギャギャギャギャギャギャギャッ{hira}!」{n}「うそだ! うそだ! この{kata}オレ{hira}様が!{n} 人間ごときに 負けるわけがない!{n} うそだ! うそだ! うそだ!」{n}「{kata}グギャギャギャギャギャギャギャ{n}{hira} {kata}ギャギャギャギャギャギャギャ{n}{hira} {kata}ギャギャギャギャギャギャギャッ{hira}!」{n}「うそだ! うそだ! うそだ!{n} うそだ! うそだ! うそだ!{n} うそだ! うそだ! うそだ!」{n}「{kata}グギャギャギャギャギャギャギャ{n}{hira} {kata}ギャギャギャギャギャギャギャ{n}{hira} {kata}ギャギャギャギャギャギャギャッ{hira}!」{n}「うそだ! うそだ! うそだ!{n} うそだ! うそだ! うそだ!{n} うそだ! うそだ! うそだ!」{n}「{kata}グギャギャギャギャギャギャギャ{n}{hira} {kata}ギャギャギャギャギャギャギャ{n}{hira} {kata}ギャギャギャギャギャギャギャッ{hira}!」{n}「うそだ! うそだ! うそだ!{n} うそだ! うそだ! うそだ!{n} うそだ! うそだ! うそだ!」{n}「{kata}グギャギャギャギャギャギャギャ{n}{hira} {kata}ギャギャギャギャギャギャギャ{n}{hira} {kata}ギャギャギャギャギャギャギャッ{hira}!」{n}「体が石になる!」{n}{n}{n}「体が…石に……なる!」{n}{n}{n}「体が…石に…」{n}{n}{n}「{kata}オレ{hira}様の…野望は…」{n}{n}{n}「終わ…る…の…か?」{n}{n}{n}「…………………………」{n}{n}{n}{kata}カルラ{hira}の 体は とうとう{n}全部 石に なってしまった!{n}{page}",
-   "en": null
+   "en": "Karura{n}\"Gugyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya!\"{n}\"Lies! Lies! Me, the great Karura! There's no way I could lose to mere humans! Lies! Lies! Lies!\"{n}\"Gugyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya!\"{n}\"Lies! Lies! Lies!{n} Lies! Lies! Lies!{n} Lies! Lies! Lies!\"{n}\"Gugyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya!\"{n}\"Lies! Lies! Lies!{n} Lies! Lies! Lies!{n} Lies! Lies! Lies!\"{n}\"Gugyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya!\"{n}\"Lies! Lies! Lies!{n} Lies! Lies! Lies!{n} Lies! Lies! Lies!\"{n}\"Gugyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya{n} gyagyagyagyagyagyagya!\"{n}\"My body is turning to stone!\"{n}{n}{n}\"My body... is turning... to stone!\"{n}{n}{n}\"My body... to stone...\"{n}{n}{n}\"My... ambitions...\"{n}{n}{n}\"Are they... at... an... end?\"{n}{n}{n}\"......................\"{n}{n}{n}At last, Karura's body{n}turned completely to stone!{n}{page}"
   },
   {
    "id": "b028_0161",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} えんま様の 汚名を はらすため!」{n}「風神 雷神が そろうとき{n} 天は とどろき!{n} 地は さける!」{n}「{hero}よ!{n} われらの 攻撃 うけてみよ!」{n}{page}",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! To clear King Enma's name!\"{n}\"When Fujin and Raijin unite, the heavens roar and the earth splits!\"{n}\"{hero}! Take our attack!\"{n}{page}"
   },
   {
    "id": "b028_0162",
    "jp": "雷神{n}「風神よ! 来たれ!{n} えんま様の 汚名はらすため!」{n}「力を かせ! かしてくれ!{n} われら ふたりで{n} {hero}を たおすのだ!」",
-   "en": null
+   "en": "Raijin{n}\"Fujin! Come! To clear King Enma's name!\"{n}\"Lend me your strength! I beg you, lend it! The two of us shall defeat {hero}!\""
   },
   {
    "id": "b028_0163",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} なぜだ? 風神!」",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! Why, Fujin?\""
   },
   {
    "id": "b028_0164",
    "jp": "「{sub:CE}も 夜叉姫さまも{n} {sub:A0}を 信じきっているぞ!」{n}{page}",
-   "en": null
+   "en": "\"Ashura and Princess Yasha both trust Momotaro completely!\"{n}{page}"
   },
   {
    "id": "b028_0165",
    "jp": "「{sub:CE}は ほんとうに{n} {sub:A0}を 信じきっているぞ!」{n}{page}",
-   "en": null
+   "en": "\"Ashura truly trusts Momotaro completely!\"{n}{page}"
   },
   {
    "id": "b028_0166",
    "jp": "「夜叉姫さまは ほんとうに{n} {sub:A0}を 信じきっているぞ!」{n}{page}",
-   "en": null
+   "en": "\"Princess Yasha truly trusts Momotaro completely!\"{n}{page}"
   },
   {
    "id": "b028_0167",
    "jp": "「やつらの せなかに{n} 何万 何千の 村人たちの{n} すがたが 見えるのだ!」{page}",
-   "en": null
+   "en": "\"Behind them, I can see thousands upon thousands of villagers!\"{page}"
   },
   {
    "id": "b028_0168",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} たしかに! しかも…」{n}「{kata}カルラ{hira}は ほんとうに{n} えんま様を 助ける気が{n} あるのだろうか?」{n}雷神{n}「ぐゎらり ぐゎらり!{n} わしも今 かんがえていた!」",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! Indeed! What's more...\"{n}\"Does Karura truly mean to save King Enma at all?\"{n}Raijin{n}\"Gwarari, gwarari! I was just wondering that myself!\""
   },
   {
    "id": "b028_0169",
    "jp": "雷神{n}「ぐゎらり ぐゎらり! {hero}!{n} われらに 時間をくれ!」{n}風神{n}「ぴゅるるるるぅ! {hero}!{n} もう一度 かんがえたいのだ!」",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! {hero}! Give us time!\"{n}Fujin{n}\"Pyururururuu! {hero}! We wish to think it over once more!\""
   },
   {
    "id": "b028_0170",
    "jp": "{sub:CE}{n}「まて! 風神! 雷神!」{n}",
-   "en": null
+   "en": "Ashura{n}\"Wait! Fujin! Raijin!\"{n}"
   },
   {
    "id": "b028_0171",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} {sub:A0}! また あおう!」{page}",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! Momotaro! We shall meet again!\"{page}"
   },
   {
    "id": "b028_0172",
    "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}! {hero}さん!{n} おあいしとうございました!」{page}",
-   "en": null
+   "en": "{arg}{n}\"Woof woof! {hero}! How I've longed to see you!\"{page}"
   },
   {
    "id": "b028_0173",
    "jp": "{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}! {hero}さん!{n} ただいま すけだちいたします!」{page}",
-   "en": null
+   "en": "{arg}{n}\"Eek eek! {hero}! I'll lend you a hand right away!\"{page}"
   },
   {
    "id": "b028_0174",
    "jp": "{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}! {hero}さん!{n} よく 来て{sub:C5}ました!」{page}",
-   "en": null
+   "en": "{arg}{n}\"Ken ken! {hero}! Thank you so much for coming!\"{page}"
   },
   {
    "id": "b028_0175",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} 吹けよ! 風よ! 雨よ! 嵐よ!」{page}",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! Blow, wind! Come, rain! Rage, storm!\"{page}"
   },
   {
    "id": "b028_0176",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} わが風は 鎧も 吹き飛ばす!」{page}",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! My wind blows away even armor!\"{page}"
   },
   {
    "id": "b028_0177",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} こ! この気持ち! やはり!」{page}",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! Wh-what is this feeling! Just as I thought!\"{page}"
   },
   {
    "id": "b028_0178",
    "jp": "風神{n}「ぴゅるるるるぅ!{n} これが 友情の力なのか!」{page}",
-   "en": null
+   "en": "Fujin{n}\"Pyururururuu! Is this the power of friendship!\"{page}"
   },
   {
    "id": "b028_0179",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} 雷よ! われに力を!」{page}",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! Thunder! Grant me power!\"{page}"
   },
   {
    "id": "b028_0180",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} 雷よ! 大地を 引きさけ!」{page}",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! Thunder! Tear the earth asunder!\"{page}"
   },
   {
    "id": "b028_0181",
    "jp": "雷神{n}「ぐゎらり ぐゎらり! これか!{n} われらが もとめる 答えは!」{page}",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! Is this it! The answer we have sought!\"{page}"
   },
   {
    "id": "b028_0182",
    "jp": "雷神{n}「ぐゎらり ぐゎらり!{n} まことなり! 友情の力!」{page}",
-   "en": null
+   "en": "Raijin{n}\"Gwarari, gwarari! It is true! The power of friendship!\"{page}"
   },
   {
    "id": "b028_0183",

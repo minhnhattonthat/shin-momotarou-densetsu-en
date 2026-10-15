@@ -11,7 +11,8 @@ EN_PAGE1 = (' 0123456789?!,.…'
             "'ABCDEFGHIJKLMNO"
             'PQRSTUVWXYZ()":~'
             '-;/+&%*#=<>[]@$^')
-EN_PAGE2 = 'abcdefghijklmnopqrstuvwxyz'  # 90-A9; page 2 holds up to 47 glyphs (90-BE)
+EN_PAGE2 = 'abcdefghijklmnopqrstuvwxyz\xa0'  # 90-AA; page 2 holds up to 47 glyphs (90-BE)
+# \xa0 (AA) = blank 6 px cell for window labels: in the 12 px window mode code 50 (space) keeps 12 px.
 
 ROW0, ROW1 = 2, 14          # glyph rows stored (extents byte 0x2E): 13 rows
 H = ROW1 - ROW0 + 1
@@ -66,6 +67,7 @@ def build_page(chars, n):
     widths = []
     for i in range(n):
         ch = chars[i] if i < len(chars) else ' '
+        ch = ' ' if ch == '\xa0' else ch
         adv, rows = _cell(ch, g)
         data += _glyph_bytes(rows)
         widths.append(adv)
