@@ -35,5 +35,8 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
 - Title logo English (tools/gfx.py title_logo: chr entry 0x30320 relocated, map rewritten in place + 00 end).
 - Fixed 6 px mode centres narrow glyphs (patches.FIXED12 at 84:F240).
 - Savestates from older builds are stale (RAM caches script pointers): make new ones from cold boot (work/qa/cold6).
-- Next: battle/shop/status QA from a fresh state, then `tools/release.py`.
+- QA: cold boot -> opening -> field (work/states/field_en2.mss, current build), status screen fixed
+  (winscript.TRAILER_EXTRA), all 87 window regions warp-rendered (work/qa/warp/page_*.png), 3 labels shortened.
+- Released v1.0 locally: release/shin-momotarou-densetsu_en.zip (bps sha1 59fff1b8..., patched crc32 67AA87DA).
+- Not done: real battle/shop playthrough (warp only); status top-row see-through cell.
 - Open: names in old saves stay JP; icons Lv/HP/SP/ry/Cu/Po/Pa are abbreviations (tile-size, flagged).

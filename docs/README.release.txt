@@ -27,9 +27,11 @@ Rev 0 is not supported.
 
 Notes
 -----
-- Tested in MesenCE 2.2.1 from a cold boot through the opening, the field, menus,
-  shops and battle. Start a new game; saves made with the Japanese version still show
-  Japanese names that were stored in the save itself.
+- Tested in MesenCE 2.2.1: a cold boot through the opening into the first field, the field
+  menus and status screen; every dialogue block and every menu/window screen was also checked
+  with a debug warp. It was not played through to the end, so please report anything odd.
+- Start a new game; saves made with the Japanese version still show Japanese names that
+  were stored in the save itself.
 - Honorifics are dropped; names are given-name first. Puns and parodies were rewritten
   so the joke still works in English.
 - The ROM is expanded to 4 MB (HiROM); use an emulator or flash cart that supports it.
@@ -39,6 +41,7 @@ Known issues
 - Status icons are single 8x8 tiles, so they use short tags: Lv (level), HP, SP, ry (ryo),
   Cu (cursed), Po (poison), Pa (paralysis).
 - The small calligraphy signature in the corner of the title screen is left as drawn.
+- The status screen's top row has one blank (see-through) cell at its right end.
 
 Credits
 -------
