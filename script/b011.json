@@ -12,12 +12,12 @@
   {
    "id": "b011_0001",
    "jp": "おまんじゅう",
-   "en": null
+   "en": "Steamed Bun"
   },
   {
    "id": "b011_0002",
    "jp": "さつまいも",
-   "en": null
+   "en": "Sweet Potato"
   },
   {
    "id": "b011_0003",
@@ -27,407 +27,407 @@
   {
    "id": "b011_0004",
    "jp": "きびだんご",
-   "en": null
+   "en": "Millet Dumpling"
   },
   {
    "id": "b011_0005",
    "jp": "ゆきの{sub:C0}",
-   "en": null
+   "en": "Yuki's Rice Ball"
   },
   {
    "id": "b011_0006",
    "jp": "たけのすいとう",
-   "en": null
+   "en": "Bamboo Canteen"
   },
   {
    "id": "b011_0007",
    "jp": "{sub:C8}のなみだ",
-   "en": null
+   "en": "Sparrow's Tears"
   },
   {
    "id": "b011_0008",
    "jp": "{sub:A6}のかすみ",
-   "en": null
+   "en": "Sage's Mist"
   },
   {
    "id": "b011_0009",
    "jp": "{sub:A6}のもも",
-   "en": null
+   "en": "Sage's Peach"
   },
   {
    "id": "b011_0010",
    "jp": "うちでのこづち",
-   "en": null
+   "en": "Magic Mallet"
   },
   {
    "id": "b011_0011",
    "jp": "やきいも",
-   "en": null
+   "en": "Baked Yam"
   },
   {
    "id": "b011_0012",
    "jp": "めいか",
-   "en": null
+   "en": "Fine Sweets"
   },
   {
    "id": "b011_0013",
    "jp": "だいこん",
-   "en": null
+   "en": "Daikon Radish"
   },
   {
    "id": "b011_0014",
    "jp": "たくわん",
-   "en": null
+   "en": "Pickled Radish"
   },
   {
    "id": "b011_0015",
    "jp": "せんまいづけ",
-   "en": null
+   "en": "Turnip Pickles"
   },
   {
    "id": "b011_0016",
    "jp": "はんがしゃのたま",
-   "en": null
+   "en": "Half Ganges Orb"
   },
   {
    "id": "b011_0017",
    "jp": "げんきのたま",
-   "en": null
+   "en": "Vigor Orb"
   },
   {
    "id": "b011_0018",
    "jp": "こうがしゃのたま",
-   "en": null
+   "en": "Ganges Orb"
   },
   {
    "id": "b011_0019",
    "jp": "きょうりょくたん",
-   "en": null
+   "en": "Strength Pill"
   },
   {
    "id": "b011_0020",
    "jp": "こんろんのたま",
-   "en": null
+   "en": "Kunlun Orb"
   },
   {
    "id": "b011_0021",
    "jp": "どくけし",
-   "en": null
+   "en": "Antidote"
   },
   {
    "id": "b011_0022",
    "jp": "まひけし",
-   "en": null
+   "en": "Paralysis Cure"
   },
   {
    "id": "b011_0023",
    "jp": "のろいけし",
-   "en": null
+   "en": "Curse Cure"
   },
   {
    "id": "b011_0024",
    "jp": "きこうがん",
-   "en": null
+   "en": "Wonder Pill"
   },
   {
    "id": "b011_0025",
    "jp": "きんそうたん",
-   "en": null
+   "en": "Wound Salve"
   },
   {
    "id": "b011_0026",
    "jp": "ばんのうたん",
-   "en": null
+   "en": "Cure-All Pill"
   },
   {
    "id": "b011_0027",
    "jp": "きゅうり",
-   "en": null
+   "en": "Cucumber"
   },
   {
    "id": "b011_0028",
    "jp": "いわし",
-   "en": null
+   "en": "Sardine"
   },
   {
    "id": "b011_0029",
    "jp": "さば",
-   "en": null
+   "en": "Mackerel"
   },
   {
    "id": "b011_0030",
    "jp": "はまち",
-   "en": null
+   "en": "Amberjack"
   },
   {
    "id": "b011_0031",
    "jp": "まぐろ",
-   "en": null
+   "en": "Tuna"
   },
   {
    "id": "b011_0032",
    "jp": "たい",
-   "en": null
+   "en": "Sea Bream"
   },
   {
    "id": "b011_0033",
    "jp": "くさったいわし",
-   "en": null
+   "en": "Rotten Sardine"
   },
   {
    "id": "b011_0034",
    "jp": "くさったさば",
-   "en": null
+   "en": "Rotten Mackerel"
   },
   {
    "id": "b011_0035",
    "jp": "くさったはまち",
-   "en": null
+   "en": "Rotten Amberjack"
   },
   {
    "id": "b011_0036",
    "jp": "くさったまぐろ",
-   "en": null
+   "en": "Rotten Tuna"
   },
   {
    "id": "b011_0037",
    "jp": "くさったたい",
-   "en": null
+   "en": "Rotten Sea Bream"
   },
   {
    "id": "b011_0038",
    "jp": "はらだしのおちゃ",
-   "en": null
+   "en": "Bare Belly Tea"
   },
   {
    "id": "b011_0039",
    "jp": "みずあめ",
-   "en": null
+   "en": "Starch Syrup"
   },
   {
    "id": "b011_0040",
    "jp": "しろしゅうり{sub:B2}",
-   "en": null
+   "en": "Castle Toolkit"
   },
   {
    "id": "b011_0041",
    "jp": "あめざいく",
-   "en": null
+   "en": "Candy Sculpture"
   },
   {
    "id": "b011_0042",
    "jp": "ふういんのたま",
-   "en": null
+   "en": "Seal Orb"
   },
   {
    "id": "b011_0043",
    "jp": "みがわり{sub:BF}",
-   "en": null
+   "en": "Stand-In Jizo"
   },
   {
    "id": "b011_0044",
    "jp": "さんごのおふだ",
-   "en": null
+   "en": "Coral Charm"
   },
   {
    "id": "b011_0045",
    "jp": "かねのなるき",
-   "en": null
+   "en": "Money Tree"
   },
   {
    "id": "b011_0046",
    "jp": "おにのなみだ",
-   "en": null
+   "en": "Oni's Tears"
   },
   {
    "id": "b011_0047",
    "jp": "おにのかくらん",
-   "en": null
+   "en": "Oni's Sunstroke"
   },
   {
    "id": "b011_0048",
    "jp": "はりねずみのたま",
-   "en": null
+   "en": "Hedgehog Orb"
   },
   {
    "id": "b011_0049",
    "jp": "やまあらしのたま",
-   "en": null
+   "en": "Porcupine Orb"
   },
   {
    "id": "b011_0050",
    "jp": "とあみ",
-   "en": null
+   "en": "Casting Net"
   },
   {
    "id": "b011_0051",
    "jp": "はんぶんのたま",
-   "en": null
+   "en": "Halving Orb"
   },
   {
    "id": "b011_0052",
    "jp": "びっくりだま",
-   "en": null
+   "en": "Surprise Orb"
   },
   {
    "id": "b011_0053",
    "jp": "かくれみの",
-   "en": null
+   "en": "Hiding Cloak"
   },
   {
    "id": "b011_0054",
    "jp": "おにのふえ",
-   "en": null
+   "en": "Oni Flute"
   },
   {
    "id": "b011_0055",
    "jp": "おにののろし",
-   "en": null
+   "en": "Oni Smoke Signal"
   },
   {
    "id": "b011_0056",
    "jp": "おにのはた",
-   "en": null
+   "en": "Oni Banner"
   },
   {
    "id": "b011_0057",
    "jp": "おにののろい",
-   "en": null
+   "en": "Oni Curse"
   },
   {
    "id": "b011_0058",
    "jp": "どうぶつのとも",
-   "en": null
+   "en": "Animal Friend"
   },
   {
    "id": "b011_0059",
    "jp": "いぬまっしぐら",
-   "en": null
+   "en": "Doggy Dash"
   },
   {
    "id": "b011_0060",
    "jp": "きじまめ",
-   "en": null
+   "en": "Pheasant Beans"
   },
   {
    "id": "b011_0061",
    "jp": "さるらっきょ",
-   "en": null
+   "en": "Monkey Shallots"
   },
   {
    "id": "b011_0062",
    "jp": "はごろも",
-   "en": null
+   "en": "Feather Robe"
   },
   {
    "id": "b011_0063",
    "jp": "てんにょのはごろも",
-   "en": null
+   "en": "Celestial Robe"
   },
   {
    "id": "b011_0064",
    "jp": "くものいと",
-   "en": null
+   "en": "Spider Thread"
   },
   {
    "id": "b011_0065",
    "jp": "ふゆうのたま",
-   "en": null
+   "en": "Float Orb"
   },
   {
    "id": "b011_0066",
    "jp": "ものふやしのたま",
-   "en": null
+   "en": "Doubling Orb"
   },
   {
    "id": "b011_0067",
    "jp": "こんじょうのたま",
-   "en": null
+   "en": "Grit Orb"
   },
   {
    "id": "b011_0068",
    "jp": "ほうおうのふえ",
-   "en": null
+   "en": "Phoenix Flute"
   },
   {
    "id": "b011_0069",
    "jp": "よび",
-   "en": null
+   "en": "Support Spare 2"
   },
   {
    "id": "b011_0070",
    "jp": "よび",
-   "en": null
+   "en": "Support Spare 3"
   },
   {
    "id": "b011_0071",
    "jp": "ひでりのいし",
-   "en": null
+   "en": "Drought Stone"
   },
   {
    "id": "b011_0072",
    "jp": "にほんばれのいし",
-   "en": null
+   "en": "Clear Sky Stone"
   },
   {
    "id": "b011_0073",
    "jp": "はれのいし",
-   "en": null
+   "en": "Sunny Stone"
   },
   {
    "id": "b011_0074",
    "jp": "あめよびのいし",
-   "en": null
+   "en": "Rainmaker Stone"
   },
   {
    "id": "b011_0075",
    "jp": "らいうのいし",
-   "en": null
+   "en": "Storm Stone"
   },
   {
    "id": "b011_0076",
    "jp": "ふゆぎんがのいし",
-   "en": null
+   "en": "Winter Sky Stone"
   },
   {
    "id": "b011_0077",
    "jp": "うみなりのいし",
-   "en": null
+   "en": "Sea Roar Stone"
   },
   {
    "id": "b011_0078",
    "jp": "じざいてんのいし",
-   "en": null
+   "en": "Jizaiten Stone"
   },
   {
    "id": "b011_0079",
    "jp": "げた",
-   "en": null
+   "en": "Geta Clogs"
   },
   {
    "id": "b011_0080",
    "jp": "よび",
-   "en": null
+   "en": "Weather Spare 2"
   },
   {
    "id": "b011_0081",
    "jp": "よび",
-   "en": null
+   "en": "Weather Spare 3"
   },
   {
    "id": "b011_0082",
    "jp": "かいしんのたま",
-   "en": null
+   "en": "Critical Orb"
   },
   {
    "id": "b011_0083",
    "jp": "はやぶさのたま",
-   "en": null
+   "en": "Falcon Orb"
   },
   {
    "id": "b011_0084",
    "jp": "きよめのしお",
-   "en": null
+   "en": "Purifying Salt"
   },
   {
    "id": "b011_0085",
@@ -437,147 +437,147 @@
   {
    "id": "b011_0086",
    "jp": "よび",
-   "en": null
+   "en": "Attack Spare 1"
   },
   {
    "id": "b011_0087",
    "jp": "よび",
-   "en": null
+   "en": "Attack Spare 2"
   },
   {
    "id": "b011_0088",
    "jp": "よび",
-   "en": null
+   "en": "Attack Spare 3"
   },
   {
    "id": "b011_0089",
    "jp": "ほん",
-   "en": null
+   "en": "Book"
   },
   {
    "id": "b011_0090",
    "jp": "しょもつ",
-   "en": null
+   "en": "Tome"
   },
   {
    "id": "b011_0091",
    "jp": "ひでんしょ",
-   "en": null
+   "en": "Secret Scroll"
   },
   {
    "id": "b011_0092",
    "jp": "にんきのせんず",
-   "en": null
+   "en": "Popularity Bean"
   },
   {
    "id": "b011_0093",
    "jp": "いのちのせんず",
-   "en": null
+   "en": "Life Bean"
   },
   {
    "id": "b011_0094",
    "jp": "わざのせんず",
-   "en": null
+   "en": "Skill Bean"
   },
   {
    "id": "b011_0095",
    "jp": "はやさのせんず",
-   "en": null
+   "en": "Speed Bean"
   },
   {
    "id": "b011_0096",
    "jp": "たたかいのせんず",
-   "en": null
+   "en": "Battle Bean"
   },
   {
    "id": "b011_0097",
    "jp": "まもりのせんず",
-   "en": null
+   "en": "Defense Bean"
   },
   {
    "id": "b011_0098",
    "jp": "きんだんのせんず",
-   "en": null
+   "en": "Forbidden Bean"
   },
   {
    "id": "b011_0099",
    "jp": "あいのようかん",
-   "en": null
+   "en": "Love Bean Jelly"
   },
   {
    "id": "b011_0100",
    "jp": "とらのぶ",
-   "en": null
+   "en": "Toranobu Sweets"
   },
   {
    "id": "b011_0101",
    "jp": "よび",
-   "en": null
+   "en": "Boost Spare 1"
   },
   {
    "id": "b011_0102",
    "jp": "よび",
-   "en": null
+   "en": "Boost Spare 2"
   },
   {
    "id": "b011_0103",
    "jp": "よび",
-   "en": null
+   "en": "Boost Spare 3"
   },
   {
    "id": "b011_0104",
    "jp": "がらくた",
-   "en": null
+   "en": "Junk"
   },
   {
    "id": "b011_0105",
    "jp": "きんとかげのしっぽ",
-   "en": null
+   "en": "Gold Lizard Tail"
   },
   {
    "id": "b011_0106",
    "jp": "ぶんぶくちゃがま",
-   "en": null
+   "en": "Bunbuku Kettle"
   },
   {
    "id": "b011_0107",
    "jp": "せんりょうばこ",
-   "en": null
+   "en": "1000-Ryo Chest"
   },
   {
    "id": "b011_0108",
    "jp": "ふるびたつぼ",
-   "en": null
+   "en": "Old Pot"
   },
   {
    "id": "b011_0109",
    "jp": "きんぽのたま",
-   "en": null
+   "en": "Gold Step Orb"
   },
   {
    "id": "b011_0110",
    "jp": "からくりたま",
-   "en": null
+   "en": "Gadget Orb"
   },
   {
    "id": "b011_0111",
    "jp": "ぎやまんのたま",
-   "en": null
+   "en": "Cut-Glass Orb"
   },
   {
    "id": "b011_0112",
    "jp": "ちゃみせけん",
-   "en": null
+   "en": "Teahouse Ticket"
   },
   {
    "id": "b011_0113",
    "jp": "おとまりのてがた",
-   "en": null
+   "en": "Lodging Pass"
   },
   {
    "id": "b011_0114",
    "jp": "よみせけん",
-   "en": null
+   "en": "Night Stall Pass"
   },
   {
    "id": "b011_0115",
@@ -592,142 +592,142 @@
   {
    "id": "b011_0117",
    "jp": "きんののべぼう",
-   "en": null
+   "en": "Gold Bar"
   },
   {
    "id": "b011_0118",
    "jp": "はらだしのたま",
-   "en": null
+   "en": "Bare Belly Orb"
   },
   {
    "id": "b011_0119",
    "jp": "つきのあゆみ",
-   "en": null
+   "en": "Moon Steps"
   },
   {
    "id": "b011_0120",
    "jp": "かにのあゆみ",
-   "en": null
+   "en": "Crab Steps"
   },
   {
    "id": "b011_0121",
    "jp": "ふうりん",
-   "en": null
+   "en": "Wind Chime"
   },
   {
    "id": "b011_0122",
    "jp": "すみ",
-   "en": null
+   "en": "Charcoal"
   },
   {
    "id": "b011_0123",
    "jp": "ほおずき",
-   "en": null
+   "en": "Ground Cherry"
   },
   {
    "id": "b011_0124",
    "jp": "いにしえのせきばん",
-   "en": null
+   "en": "Ancient Tablet"
   },
   {
    "id": "b011_0125",
    "jp": "よび",
-   "en": null
+   "en": "Play Spare 3"
   },
   {
    "id": "b011_0126",
    "jp": "よび",
-   "en": null
+   "en": "Play Spare 4"
   },
   {
    "id": "b011_0127",
    "jp": "よび",
-   "en": null
+   "en": "Play Spare 5"
   },
   {
    "id": "b011_0128",
    "jp": "よび",
-   "en": null
+   "en": "Play Spare 6"
   },
   {
    "id": "b011_0129",
    "jp": "よび",
-   "en": null
+   "en": "Play Spare 7"
   },
   {
    "id": "b011_0130",
    "jp": "よび",
-   "en": null
+   "en": "Play Spare 8"
   },
   {
    "id": "b011_0131",
    "jp": "くまでぐわ",
-   "en": null
+   "en": "Rake Hoe"
   },
   {
    "id": "b011_0132",
    "jp": "つきのかがみ",
-   "en": null
+   "en": "Moon Mirror"
   },
   {
    "id": "b011_0133",
    "jp": "かぎなわ",
-   "en": null
+   "en": "Grappling Hook"
   },
   {
    "id": "b011_0134",
    "jp": "ひむろのきんちゃく",
-   "en": null
+   "en": "Icehouse Pouch"
   },
   {
    "id": "b011_0135",
    "jp": "なわばりのいと",
-   "en": null
+   "en": "Territory Thread"
   },
   {
    "id": "b011_0136",
    "jp": "りゅうのうろこ",
-   "en": null
+   "en": "Dragon Scale"
   },
   {
    "id": "b011_0137",
    "jp": "つりざお",
-   "en": null
+   "en": "Fishing Rod"
   },
   {
    "id": "b011_0138",
    "jp": "とかげのしっぽ",
-   "en": null
+   "en": "Lizard Tail"
   },
   {
    "id": "b011_0139",
    "jp": "てんじゅのたね",
-   "en": null
+   "en": "Sky Tree Seed"
   },
   {
    "id": "b011_0140",
    "jp": "にんぎょのなみだ",
-   "en": null
+   "en": "Mermaid's Tears"
   },
   {
    "id": "b011_0141",
    "jp": "りはうすのいと",
-   "en": null
+   "en": "Rehouse Thread"
   },
   {
    "id": "b011_0142",
    "jp": "たまてばこ",
-   "en": null
+   "en": "Jeweled Box"
   },
   {
    "id": "b011_0143",
    "jp": "どくけしのまきもの",
-   "en": null
+   "en": "Antidote Scroll"
   },
   {
    "id": "b011_0144",
    "jp": "ひえんのまきもの",
-   "en": null
+   "en": "Swallow Scroll"
   },
   {
    "id": "b011_0145",
@@ -742,27 +742,27 @@
   {
    "id": "b011_0147",
    "jp": "ひみつのちず",
-   "en": null
+   "en": "Secret Map"
   },
   {
    "id": "b011_0148",
    "jp": "つきのすいしょう",
-   "en": null
+   "en": "Moon Quartz"
   },
   {
    "id": "b011_0149",
    "jp": "かみのみぞしる",
-   "en": null
+   "en": "God-Knows Soup"
   },
   {
    "id": "b011_0150",
    "jp": "おにのめいれいけいとうず",
-   "en": null
+   "en": "Oni Command Map"
   },
   {
    "id": "b011_0151",
    "jp": "つきのすず",
-   "en": null
+   "en": "Moon Bell"
   },
   {
    "id": "b011_0152",
@@ -772,62 +772,62 @@
   {
    "id": "b011_0153",
    "jp": "しゃぼんだま",
-   "en": null
+   "en": "Soap Bubble"
   },
   {
    "id": "b011_0154",
    "jp": "げんないのつえ",
-   "en": null
+   "en": "Sagennai's Staff"
   },
   {
    "id": "b011_0155",
    "jp": "{sub:B9}のかがみ",
-   "en": null
+   "en": "Courage Mirror"
   },
   {
    "id": "b011_0156",
    "jp": "おにのけいず",
-   "en": null
+   "en": "Oni Family Tree"
   },
   {
    "id": "b011_0157",
    "jp": "しんげつのすいしょう",
-   "en": null
+   "en": "New Moon Quartz"
   },
   {
    "id": "b011_0158",
    "jp": "みかづきのすいしょう",
-   "en": null
+   "en": "Crescent Quartz"
   },
   {
    "id": "b011_0159",
    "jp": "じょうげんのすいしょう",
-   "en": null
+   "en": "Waxing Quartz"
   },
   {
    "id": "b011_0160",
    "jp": "かげんのすいしょう",
-   "en": null
+   "en": "Waning Quartz"
   },
   {
    "id": "b011_0161",
    "jp": "ふしまちのすいしょう",
-   "en": null
+   "en": "19th Moon Quartz"
   },
   {
    "id": "b011_0162",
    "jp": "いまちのすいしょう",
-   "en": null
+   "en": "18th Moon Quartz"
   },
   {
    "id": "b011_0163",
    "jp": "いざよいのすいしょう",
-   "en": null
+   "en": "16th Moon Quartz"
   },
   {
    "id": "b011_0164",
    "jp": "まんげつのすいしょう",
-   "en": null
+   "en": "Full Moon Quartz"
   }
  ]
 }

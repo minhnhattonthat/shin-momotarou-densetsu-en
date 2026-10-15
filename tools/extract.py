@@ -17,6 +17,7 @@ ROM = ROOT / 'rom' / 'Shin Momotarou Densetsu (Japan) (Rev 1).sfc'
 
 def main():
     force = '--force' in sys.argv
+    refresh = '--refresh-jp' in sys.argv  # re-decode jp after a table fix, keep en
     rom = ROM.read_bytes()
     out = ROOT / 'script'
     out.mkdir(exist_ok=True)
@@ -24,6 +25,15 @@ def main():
     for b in read_blocks(rom):
         strs, tail = T.split_strings(b['data'])
         path = out / ('b%03d.json' % b['n'])
+        if path.exists() and refresh:
+            doc = json.loads(path.read_text(encoding='utf-8'))
+            for e, s in zip(doc['strings'], strs):
+                e['jp'] = T.decode(s)
+            with open(path, 'w', encoding='utf-8', newline='\n') as f:
+                json.dump(doc, f, ensure_ascii=False, indent=1)
+                f.write('\n')
+            wrote += 1
+            continue
         if path.exists() and not force:
             skipped += 1
             continue
@@ -34,6 +44,15 @@ def main():
             f.write('\n')
         wrote += 1
     print(f'wrote {wrote}, kept {skipped} existing')
+    win = out / 'win.json'
+    if force or not win.exists():
+        import winscript
+        rows = winscript.extract(rom)
+        with open(win, 'w', encoding='utf-8', newline='\n') as f:
+            json.dump(dict(note='window-script text runs: en <= 2*cells chars, padded by the build',
+                           runs=rows), f, ensure_ascii=False, indent=1)
+            f.write('\n')
+        print(f'win.json: {len(rows)} runs')
 
 
 if __name__ == '__main__':

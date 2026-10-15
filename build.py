@@ -16,6 +16,7 @@ from en import encode_en, text_width
 import fontgen
 import kinds
 import patches
+import winscript
 from wrap import wrap_text
 
 ROM = ROOT / 'rom' / 'Shin Momotarou Densetsu (Japan) (Rev 1).sfc'
@@ -60,6 +61,28 @@ def marker(sid, jp):
     return ''.join(out)
 
 
+def insert_windows(rom, pos):
+    """Relocate every window script that has English to the expanded area and repoint its loaders."""
+    doc = json.loads((ROOT / 'script' / 'win.json').read_text(encoding='utf-8'))
+    en = {r['id']: r['en'] for r in doc['runs'] if r.get('en') is not None}
+    en.update({k: v for k, v in QA.items() if k.startswith('w')})
+    orig = bytes(rom[:0x200000])
+    for start, (end, ents) in sorted(winscript.regions(orig).items()):
+        rid = winscript.region_id(start)
+        if not any(k.startswith(rid + '_') for k in en):
+            continue
+        blob = winscript.rebuild(orig, start, en, encode_en)
+        if (pos & 0xFFFF) + len(blob) > 0x10000:  # keep a script inside one bank (16-bit body index)
+            pos = (pos | 0xFFFF) + 1
+        rom[pos:pos + len(blob)] = blob
+        for tgt, lo_site, bank_site in ents:
+            addr = 0xC00000 | (pos + tgt - start)
+            rom[lo_site:lo_site + 2] = (addr & 0xFFFF).to_bytes(2, 'little')
+            rom[bank_site] = addr >> 16
+        pos += len(blob)
+    return pos
+
+
 def build(marker_mode=False, out_path=None, only=None):
     rom = bytearray(ROM.read_bytes())
     docs = load_script()
@@ -97,6 +120,7 @@ def build(marker_mode=False, out_path=None, only=None):
         ptr = 0xC00000 | pos
         rom[TABLE + 3 * (n - 1):TABLE + 3 * n] = ptr.to_bytes(3, 'little')
         pos += len(blob)
+    pos = insert_windows(rom, pos)
     fontgen.build_font(rom)
     patches.apply(rom)
     print(f'blocks re-encoded: {len(changed)}; expanded area used: {pos - EXP_BASE:#x} bytes')

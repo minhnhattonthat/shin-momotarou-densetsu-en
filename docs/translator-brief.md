@@ -11,7 +11,10 @@ Repo root: H:\translation\batch\projects\shin-momotarou-densetsu (run commands f
 1. `glossary.md` - rulings, style rules and binding names/terms. Use those English forms exactly.
 2. `docs/style-reference.md` - approved example pairs (voice, speaker-line format, wrapping).
 3. `docs/names.tsv` (if present) - approved English for every item, monster, place and character name in the game.
-   When dialogue mentions one of these, use the same English.
+   When dialogue mentions one of these, use the same English. Exception: `character` rows are 8-character menu
+   forms; in dialogue use the glossary's full form (福の神 "the God of Fortune", 黒河童 "the Black Kappa",
+   天の邪鬼 "Amanojaku", はらだし "Bellyman", 夜叉姫 "Yasha" or "Princess Yasha").
+   Search it with grep, e.g. `grep -F 'きびだんご' docs/names.tsv`.
 
 ## Input: `work/tl/<batch>.tsv`
 `id<TAB>form<TAB>limit<TAB>Japanese`. Lines are in game order: use neighbours for context.

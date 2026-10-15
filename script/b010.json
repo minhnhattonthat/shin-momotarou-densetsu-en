@@ -17,462 +17,462 @@
   {
    "id": "b010_0002",
    "jp": "せん{sub:B0}",
-   "en": null
+   "en": "Senkintan"
   },
   {
    "id": "b010_0003",
    "jp": "まん{sub:B0}",
-   "en": null
+   "en": "Mankintan"
   },
   {
    "id": "b010_0004",
    "jp": "みな{sub:B0}",
-   "en": null
+   "en": "Minakintan"
   },
   {
    "id": "b010_0005",
    "jp": "みなせんたん",
-   "en": null
+   "en": "Minasentan"
   },
   {
    "id": "b010_0006",
    "jp": "みなまんたん",
-   "en": null
+   "en": "Minamantan"
   },
   {
    "id": "b010_0007",
    "jp": "まほろば",
-   "en": null
+   "en": "Mahoroba"
   },
   {
    "id": "b010_0008",
    "jp": "きんそう",
-   "en": null
+   "en": "Heal Wounds"
   },
   {
    "id": "b010_0009",
    "jp": "どくけし",
-   "en": null
+   "en": "Antidote"
   },
   {
    "id": "b010_0010",
    "jp": "まひけし",
-   "en": null
+   "en": "Unparalyze"
   },
   {
    "id": "b010_0011",
    "jp": "小波",
-   "en": null
+   "en": "Ripple"
   },
   {
    "id": "b010_0012",
    "jp": "大波",
-   "en": null
+   "en": "Big Wave"
   },
   {
    "id": "b010_0013",
    "jp": "津波",
-   "en": null
+   "en": "Tsunami"
   },
   {
    "id": "b010_0014",
    "jp": "稲妻",
-   "en": null
+   "en": "Lightning"
   },
   {
    "id": "b010_0015",
    "jp": "雷鳴",
-   "en": null
+   "en": "Thunderclap"
   },
   {
    "id": "b010_0016",
    "jp": "雷撃",
-   "en": null
+   "en": "Thunderbolt"
   },
   {
    "id": "b010_0017",
    "jp": "雷電",
-   "en": null
+   "en": "Thunderstorm"
   },
   {
    "id": "b010_0018",
    "jp": "旋風",
-   "en": null
+   "en": "Whirlwind"
   },
   {
    "id": "b010_0019",
    "jp": "突風",
-   "en": null
+   "en": "Gust"
   },
   {
    "id": "b010_0020",
    "jp": "烈風",
-   "en": null
+   "en": "Gale"
   },
   {
    "id": "b010_0021",
    "jp": "炎",
-   "en": null
+   "en": "Flame"
   },
   {
    "id": "b010_0022",
    "jp": "火炎",
-   "en": null
+   "en": "Blaze"
   },
   {
    "id": "b010_0023",
    "jp": "火走",
-   "en": null
+   "en": "Wildfire"
   },
   {
    "id": "b010_0024",
    "jp": "{kata}バラ{hira}吹雪",
-   "en": null
+   "en": "Rose Flurry"
   },
   {
    "id": "b010_0025",
    "jp": "忍冬",
-   "en": null
+   "en": "Honeysuckle"
   },
   {
    "id": "b010_0026",
    "jp": "流れ星",
-   "en": null
+   "en": "Falling Star"
   },
   {
    "id": "b010_0027",
    "jp": "鹿角",
-   "en": null
+   "en": "Antlers"
   },
   {
    "id": "b010_0028",
    "jp": "ぶんどり",
-   "en": null
+   "en": "Snatch"
   },
   {
    "id": "b010_0029",
    "jp": "ねこそぎ",
-   "en": null
+   "en": "Clean Out"
   },
   {
    "id": "b010_0030",
    "jp": "尻出し",
-   "en": null
+   "en": "Mooning"
   },
   {
    "id": "b010_0031",
    "jp": "もろだし",
-   "en": null
+   "en": "Full Monty"
   },
   {
    "id": "b010_0032",
    "jp": "だだぢぢ",
-   "en": null
+   "en": "Dadajiji"
   },
   {
    "id": "b010_0033",
    "jp": "ばいりき",
-   "en": null
+   "en": "Power Up"
   },
   {
    "id": "b010_0034",
    "jp": "まもり",
-   "en": null
+   "en": "Guard"
   },
   {
    "id": "b010_0035",
    "jp": "はやて",
-   "en": null
+   "en": "Haste"
   },
   {
    "id": "b010_0036",
    "jp": "めざまし",
-   "en": null
+   "en": "Wake Up"
   },
   {
    "id": "b010_0037",
    "jp": "まふうじ",
-   "en": null
+   "en": "Silence"
   },
   {
    "id": "b010_0038",
    "jp": "つまびき",
-   "en": null
+   "en": "Strum"
   },
   {
    "id": "b010_0039",
    "jp": "かりそめ",
-   "en": null
+   "en": "Fleeting"
   },
   {
    "id": "b010_0040",
    "jp": "{kata}バラ{hira}がくれ",
-   "en": null
+   "en": "Rose Veil"
   },
   {
    "id": "b010_0041",
    "jp": "ほうひ",
-   "en": null
+   "en": "Pass Gas"
   },
   {
    "id": "b010_0042",
    "jp": "ふにゃら",
-   "en": null
+   "en": "Floppy"
   },
   {
    "id": "b010_0043",
    "jp": "とまどい",
-   "en": null
+   "en": "Confuse"
   },
   {
    "id": "b010_0044",
    "jp": "ふういん",
-   "en": null
+   "en": "Seal"
   },
   {
    "id": "b010_0045",
    "jp": "わざよせ",
-   "en": null
+   "en": "Skill Drain"
   },
   {
    "id": "b010_0046",
    "jp": "まどろみ",
-   "en": null
+   "en": "Slumber"
   },
   {
    "id": "b010_0047",
    "jp": "うつろひ",
-   "en": null
+   "en": "Fade"
   },
   {
    "id": "b010_0048",
    "jp": "みなふにゃら",
-   "en": null
+   "en": "All Floppy"
   },
   {
    "id": "b010_0049",
    "jp": "かげぬい",
-   "en": null
+   "en": "Shadow Pin"
   },
   {
    "id": "b010_0050",
    "jp": "はらほろ",
-   "en": null
+   "en": "Dizzy"
   },
   {
    "id": "b010_0051",
    "jp": "ひえん",
-   "en": null
+   "en": "Swallow Wing"
   },
   {
    "id": "b010_0052",
    "jp": "ぬけだし",
-   "en": null
+   "en": "Escape"
   },
   {
    "id": "b010_0053",
    "jp": "{sub:AC}よけ",
-   "en": null
+   "en": "Oni Ward"
   },
   {
    "id": "b010_0054",
    "jp": "りょうり",
-   "en": null
+   "en": "Cooking"
   },
   {
    "id": "b010_0055",
    "jp": "まよけ",
-   "en": null
+   "en": "Ward Evil"
   },
   {
    "id": "b010_0056",
    "jp": "ふゆう",
-   "en": null
+   "en": "Float"
   },
   {
    "id": "b010_0057",
    "jp": "うたかた",
-   "en": null
+   "en": "Foam"
   },
   {
    "id": "b010_0058",
    "jp": "あやかし",
-   "en": null
+   "en": "Phantom"
   },
   {
    "id": "b010_0059",
    "jp": "まるだし",
-   "en": null
+   "en": "Bare All"
   },
   {
    "id": "b010_0060",
    "jp": "鬼術",
-   "en": null
+   "en": "Oni Art"
   },
   {
    "id": "b010_0061",
    "jp": "小波",
-   "en": null
+   "en": "Ripple"
   },
   {
    "id": "b010_0062",
    "jp": "大波",
-   "en": null
+   "en": "Big Wave"
   },
   {
    "id": "b010_0063",
    "jp": "津波",
-   "en": null
+   "en": "Tsunami"
   },
   {
    "id": "b010_0064",
    "jp": "雷鳴",
-   "en": null
+   "en": "Thunderclap"
   },
   {
    "id": "b010_0065",
    "jp": "雷撃",
-   "en": null
+   "en": "Thunderbolt"
   },
   {
    "id": "b010_0066",
    "jp": "雷電",
-   "en": null
+   "en": "Thunderstorm"
   },
   {
    "id": "b010_0067",
    "jp": "旋風",
-   "en": null
+   "en": "Whirlwind"
   },
   {
    "id": "b010_0068",
    "jp": "突風",
-   "en": null
+   "en": "Gust"
   },
   {
    "id": "b010_0069",
    "jp": "烈風",
-   "en": null
+   "en": "Gale"
   },
   {
    "id": "b010_0070",
    "jp": "炎",
-   "en": null
+   "en": "Flame"
   },
   {
    "id": "b010_0071",
    "jp": "火炎",
-   "en": null
+   "en": "Blaze"
   },
   {
    "id": "b010_0072",
    "jp": "火走",
-   "en": null
+   "en": "Wildfire"
   },
   {
    "id": "b010_0073",
    "jp": "細雪",
-   "en": null
+   "en": "Light Snow"
   },
   {
    "id": "b010_0074",
    "jp": "吹雪",
-   "en": null
+   "en": "Blizzard"
   },
   {
    "id": "b010_0075",
    "jp": "雪崩",
-   "en": null
+   "en": "Avalanche"
   },
   {
    "id": "b010_0076",
    "jp": "一切",
-   "en": null
+   "en": "Annihilate"
   },
   {
    "id": "b010_0077",
    "jp": "四半分",
-   "en": null
+   "en": "Quarter"
   },
   {
    "id": "b010_0078",
    "jp": "ばいだげき",
-   "en": null
+   "en": "Double Hit"
   },
   {
    "id": "b010_0079",
    "jp": "ばいりき",
-   "en": null
+   "en": "Power Up"
   },
   {
    "id": "b010_0080",
    "jp": "ばいりき",
-   "en": null
+   "en": "Power Up"
   },
   {
    "id": "b010_0081",
    "jp": "まもり",
-   "en": null
+   "en": "Guard"
   },
   {
    "id": "b010_0082",
    "jp": "まもり",
-   "en": null
+   "en": "Guard"
   },
   {
    "id": "b010_0083",
    "jp": "ぜんまもり",
-   "en": null
+   "en": "Guard All"
   },
   {
    "id": "b010_0084",
    "jp": "はやて",
-   "en": null
+   "en": "Haste"
   },
   {
    "id": "b010_0085",
    "jp": "はやて",
-   "en": null
+   "en": "Haste"
   },
   {
    "id": "b010_0086",
    "jp": "やまびこ",
-   "en": null
+   "en": "Echo"
   },
   {
    "id": "b010_0087",
    "jp": "ふにゃら",
-   "en": null
+   "en": "Floppy"
   },
   {
    "id": "b010_0088",
    "jp": "ふにゃら",
-   "en": null
+   "en": "Floppy"
   },
   {
    "id": "b010_0089",
    "jp": "ゆめみ",
-   "en": null
+   "en": "Dream"
   },
   {
    "id": "b010_0090",
    "jp": "かくらん",
-   "en": null
+   "en": "Disrupt"
   },
   {
    "id": "b010_0091",
    "jp": "かげろう",
-   "en": null
+   "en": "Heat Haze"
   },
   {
    "id": "b010_0092",
    "jp": "日照り",
-   "en": null
+   "en": "Drought"
   },
   {
    "id": "b010_0093",
    "jp": "{kata}キツネ{hira}ばかし",
-   "en": null
+   "en": "Fox Trick"
   }
  ]
 }

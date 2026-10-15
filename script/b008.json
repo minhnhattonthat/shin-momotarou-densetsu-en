@@ -12,12 +12,12 @@
   {
    "id": "b008_0001",
    "jp": "おまんじゅう",
-   "en": null
+   "en": "Steamed Bun"
   },
   {
    "id": "b008_0002",
    "jp": "{kata}サツマイモ{hira}",
-   "en": null
+   "en": "Sweet Potato"
   },
   {
    "id": "b008_0003",
@@ -27,407 +27,407 @@
   {
    "id": "b008_0004",
    "jp": "きびだんご",
-   "en": null
+   "en": "Millet Dumpling"
   },
   {
    "id": "b008_0005",
    "jp": "{kata}ユキ{hira}の{sub:C0}",
-   "en": null
+   "en": "Yuki's Rice Ball"
   },
   {
    "id": "b008_0006",
    "jp": "竹の水筒",
-   "en": null
+   "en": "Bamboo Canteen"
   },
   {
    "id": "b008_0007",
    "jp": "すゞめの涙",
-   "en": null
+   "en": "Sparrow's Tears"
   },
   {
    "id": "b008_0008",
    "jp": "仙人のかすみ",
-   "en": null
+   "en": "Sage's Mist"
   },
   {
    "id": "b008_0009",
    "jp": "仙人の桃",
-   "en": null
+   "en": "Sage's Peach"
   },
   {
    "id": "b008_0010",
    "jp": "打ち出のこづち",
-   "en": null
+   "en": "Magic Mallet"
   },
   {
    "id": "b008_0011",
    "jp": "焼き{kata}イモ{hira}",
-   "en": null
+   "en": "Baked Yam"
   },
   {
    "id": "b008_0012",
    "jp": "銘菓",
-   "en": null
+   "en": "Fine Sweets"
   },
   {
    "id": "b008_0013",
    "jp": "{kata}ダイコン{hira}",
-   "en": null
+   "en": "Daikon Radish"
   },
   {
    "id": "b008_0014",
    "jp": "たくわん",
-   "en": null
+   "en": "Pickled Radish"
   },
   {
    "id": "b008_0015",
    "jp": "千枚づけ",
-   "en": null
+   "en": "Turnip Pickles"
   },
   {
    "id": "b008_0016",
    "jp": "半河沙の玉",
-   "en": null
+   "en": "Half Ganges Orb"
   },
   {
    "id": "b008_0017",
    "jp": "元気の玉",
-   "en": null
+   "en": "Vigor Orb"
   },
   {
    "id": "b008_0018",
    "jp": "恒河沙の玉",
-   "en": null
+   "en": "Ganges Orb"
   },
   {
    "id": "b008_0019",
    "jp": "強力丹",
-   "en": null
+   "en": "Strength Pill"
   },
   {
    "id": "b008_0020",
    "jp": "崑崙の玉",
-   "en": null
+   "en": "Kunlun Orb"
   },
   {
    "id": "b008_0021",
    "jp": "毒消し",
-   "en": null
+   "en": "Antidote"
   },
   {
    "id": "b008_0022",
    "jp": "{kata}マヒ{hira}消し",
-   "en": null
+   "en": "Paralysis Cure"
   },
   {
    "id": "b008_0023",
    "jp": "呪い消し",
-   "en": null
+   "en": "Curse Cure"
   },
   {
    "id": "b008_0024",
    "jp": "奇効丸",
-   "en": null
+   "en": "Wonder Pill"
   },
   {
    "id": "b008_0025",
    "jp": "金創丹",
-   "en": null
+   "en": "Wound Salve"
   },
   {
    "id": "b008_0026",
    "jp": "万能丹",
-   "en": null
+   "en": "Cure-All Pill"
   },
   {
    "id": "b008_0027",
    "jp": "{kata}キュウリ{hira}",
-   "en": null
+   "en": "Cucumber"
   },
   {
    "id": "b008_0028",
    "jp": "{kata}イワシ{hira}",
-   "en": null
+   "en": "Sardine"
   },
   {
    "id": "b008_0029",
    "jp": "{kata}サバ{hira}",
-   "en": null
+   "en": "Mackerel"
   },
   {
    "id": "b008_0030",
    "jp": "{kata}ハマチ{hira}",
-   "en": null
+   "en": "Amberjack"
   },
   {
    "id": "b008_0031",
    "jp": "{kata}マグロ{hira}",
-   "en": null
+   "en": "Tuna"
   },
   {
    "id": "b008_0032",
    "jp": "{kata}タイ{hira}",
-   "en": null
+   "en": "Sea Bream"
   },
   {
    "id": "b008_0033",
    "jp": "くさった{kata}イワシ{hira}",
-   "en": null
+   "en": "Rotten Sardine"
   },
   {
    "id": "b008_0034",
    "jp": "くさった{kata}サバ{hira}",
-   "en": null
+   "en": "Rotten Mackerel"
   },
   {
    "id": "b008_0035",
    "jp": "くさった{kata}ハマチ{hira}",
-   "en": null
+   "en": "Rotten Amberjack"
   },
   {
    "id": "b008_0036",
    "jp": "くさった{kata}マグロ{hira}",
-   "en": null
+   "en": "Rotten Tuna"
   },
   {
    "id": "b008_0037",
    "jp": "くさった{kata}タイ{hira}",
-   "en": null
+   "en": "Rotten Sea Bream"
   },
   {
    "id": "b008_0038",
    "jp": "はらだしのお茶",
-   "en": null
+   "en": "Bare Belly Tea"
   },
   {
    "id": "b008_0039",
    "jp": "水{kata}アメ{hira}",
-   "en": null
+   "en": "Starch Syrup"
   },
   {
    "id": "b008_0040",
    "jp": "城修理道具",
-   "en": null
+   "en": "Castle Toolkit"
   },
   {
    "id": "b008_0041",
    "jp": "あめざいく",
-   "en": null
+   "en": "Candy Sculpture"
   },
   {
    "id": "b008_0042",
    "jp": "ふういんの玉",
-   "en": null
+   "en": "Seal Orb"
   },
   {
    "id": "b008_0043",
    "jp": "身がわり地蔵",
-   "en": null
+   "en": "Stand-In Jizo"
   },
   {
    "id": "b008_0044",
    "jp": "{kata}サンゴ{hira}のお札",
-   "en": null
+   "en": "Coral Charm"
   },
   {
    "id": "b008_0045",
    "jp": "金のなる木",
-   "en": null
+   "en": "Money Tree"
   },
   {
    "id": "b008_0046",
    "jp": "鬼の涙",
-   "en": null
+   "en": "Oni's Tears"
   },
   {
    "id": "b008_0047",
    "jp": "鬼のかくらん",
-   "en": null
+   "en": "Oni's Sunstroke"
   },
   {
    "id": "b008_0048",
    "jp": "{kata}ハリネズミ{hira}の玉",
-   "en": null
+   "en": "Hedgehog Orb"
   },
   {
    "id": "b008_0049",
    "jp": "山嵐の玉",
-   "en": null
+   "en": "Porcupine Orb"
   },
   {
    "id": "b008_0050",
    "jp": "とあみ",
-   "en": null
+   "en": "Casting Net"
   },
   {
    "id": "b008_0051",
    "jp": "半分の玉",
-   "en": null
+   "en": "Halving Orb"
   },
   {
    "id": "b008_0052",
    "jp": "びっくり玉",
-   "en": null
+   "en": "Surprise Orb"
   },
   {
    "id": "b008_0053",
    "jp": "かくれみの",
-   "en": null
+   "en": "Hiding Cloak"
   },
   {
    "id": "b008_0054",
    "jp": "鬼の笛",
-   "en": null
+   "en": "Oni Flute"
   },
   {
    "id": "b008_0055",
    "jp": "鬼ののろし",
-   "en": null
+   "en": "Oni Smoke Signal"
   },
   {
    "id": "b008_0056",
    "jp": "鬼のはた",
-   "en": null
+   "en": "Oni Banner"
   },
   {
    "id": "b008_0057",
    "jp": "鬼の呪い",
-   "en": null
+   "en": "Oni Curse"
   },
   {
    "id": "b008_0058",
    "jp": "どうぶつの友",
-   "en": null
+   "en": "Animal Friend"
   },
   {
    "id": "b008_0059",
    "jp": "{kata}イヌ{hira}まっしぐら",
-   "en": null
+   "en": "Doggy Dash"
   },
   {
    "id": "b008_0060",
    "jp": "{kata}キジ{hira}豆",
-   "en": null
+   "en": "Pheasant Beans"
   },
   {
    "id": "b008_0061",
    "jp": "{kata}サル{hira}らっきょ",
-   "en": null
+   "en": "Monkey Shallots"
   },
   {
    "id": "b008_0062",
    "jp": "はごろも",
-   "en": null
+   "en": "Feather Robe"
   },
   {
    "id": "b008_0063",
    "jp": "天女のはごろも",
-   "en": null
+   "en": "Celestial Robe"
   },
   {
    "id": "b008_0064",
    "jp": "{kata}クモ{hira}の糸",
-   "en": null
+   "en": "Spider Thread"
   },
   {
    "id": "b008_0065",
    "jp": "ふゆうの玉",
-   "en": null
+   "en": "Float Orb"
   },
   {
    "id": "b008_0066",
    "jp": "ものふやしの玉",
-   "en": null
+   "en": "Doubling Orb"
   },
   {
    "id": "b008_0067",
    "jp": "根性の玉",
-   "en": null
+   "en": "Grit Orb"
   },
   {
    "id": "b008_0068",
    "jp": "鳳凰の笛",
-   "en": null
+   "en": "Phoenix Flute"
   },
   {
    "id": "b008_0069",
    "jp": "ほじ道具予備2",
-   "en": null
+   "en": "Support Spare 2"
   },
   {
    "id": "b008_0070",
    "jp": "ほじ道具予備3",
-   "en": null
+   "en": "Support Spare 3"
   },
   {
    "id": "b008_0071",
    "jp": "日照りの石",
-   "en": null
+   "en": "Drought Stone"
   },
   {
    "id": "b008_0072",
    "jp": "日本晴れの石",
-   "en": null
+   "en": "Clear Sky Stone"
   },
   {
    "id": "b008_0073",
    "jp": "晴れの石",
-   "en": null
+   "en": "Sunny Stone"
   },
   {
    "id": "b008_0074",
    "jp": "雨呼びの石",
-   "en": null
+   "en": "Rainmaker Stone"
   },
   {
    "id": "b008_0075",
    "jp": "雷雨の石",
-   "en": null
+   "en": "Storm Stone"
   },
   {
    "id": "b008_0076",
    "jp": "冬銀河の石",
-   "en": null
+   "en": "Winter Sky Stone"
   },
   {
    "id": "b008_0077",
    "jp": "海鳴りの石",
-   "en": null
+   "en": "Sea Roar Stone"
   },
   {
    "id": "b008_0078",
    "jp": "自在天の石",
-   "en": null
+   "en": "Jizaiten Stone"
   },
   {
    "id": "b008_0079",
    "jp": "げた",
-   "en": null
+   "en": "Geta Clogs"
   },
   {
    "id": "b008_0080",
    "jp": "天気道具予備2",
-   "en": null
+   "en": "Weather Spare 2"
   },
   {
    "id": "b008_0081",
    "jp": "天気道具予備3",
-   "en": null
+   "en": "Weather Spare 3"
   },
   {
    "id": "b008_0082",
    "jp": "会心の玉",
-   "en": null
+   "en": "Critical Orb"
   },
   {
    "id": "b008_0083",
    "jp": "隼の玉",
-   "en": null
+   "en": "Falcon Orb"
   },
   {
    "id": "b008_0084",
    "jp": "きよめの塩",
-   "en": null
+   "en": "Purifying Salt"
   },
   {
    "id": "b008_0085",
@@ -437,147 +437,147 @@
   {
    "id": "b008_0086",
    "jp": "攻撃道具予備1",
-   "en": null
+   "en": "Attack Spare 1"
   },
   {
    "id": "b008_0087",
    "jp": "攻撃道具予備2",
-   "en": null
+   "en": "Attack Spare 2"
   },
   {
    "id": "b008_0088",
    "jp": "攻撃道具予備3",
-   "en": null
+   "en": "Attack Spare 3"
   },
   {
    "id": "b008_0089",
    "jp": "本",
-   "en": null
+   "en": "Book"
   },
   {
    "id": "b008_0090",
    "jp": "書物",
-   "en": null
+   "en": "Tome"
   },
   {
    "id": "b008_0091",
    "jp": "秘伝書",
-   "en": null
+   "en": "Secret Scroll"
   },
   {
    "id": "b008_0092",
    "jp": "人気の仙豆",
-   "en": null
+   "en": "Popularity Bean"
   },
   {
    "id": "b008_0093",
    "jp": "命の仙豆",
-   "en": null
+   "en": "Life Bean"
   },
   {
    "id": "b008_0094",
    "jp": "技の仙豆",
-   "en": null
+   "en": "Skill Bean"
   },
   {
    "id": "b008_0095",
    "jp": "はやさの仙豆",
-   "en": null
+   "en": "Speed Bean"
   },
   {
    "id": "b008_0096",
    "jp": "戦いの仙豆",
-   "en": null
+   "en": "Battle Bean"
   },
   {
    "id": "b008_0097",
    "jp": "守りの仙豆",
-   "en": null
+   "en": "Defense Bean"
   },
   {
    "id": "b008_0098",
    "jp": "禁断の仙豆",
-   "en": null
+   "en": "Forbidden Bean"
   },
   {
    "id": "b008_0099",
    "jp": "愛のようかん",
-   "en": null
+   "en": "Love Bean Jelly"
   },
   {
    "id": "b008_0100",
    "jp": "虎信",
-   "en": null
+   "en": "Toranobu Sweets"
   },
   {
    "id": "b008_0101",
    "jp": "{kata}アップ{hira}道具予備1",
-   "en": null
+   "en": "Boost Spare 1"
   },
   {
    "id": "b008_0102",
    "jp": "{kata}アップ{hira}道具予備2",
-   "en": null
+   "en": "Boost Spare 2"
   },
   {
    "id": "b008_0103",
    "jp": "{kata}アップ{hira}道具予備3",
-   "en": null
+   "en": "Boost Spare 3"
   },
   {
    "id": "b008_0104",
    "jp": "がらくた",
-   "en": null
+   "en": "Junk"
   },
   {
    "id": "b008_0105",
    "jp": "金{kata}トカゲ{hira}のしっぽ",
-   "en": null
+   "en": "Gold Lizard Tail"
   },
   {
    "id": "b008_0106",
    "jp": "ぶんぶく茶釜'",
-   "en": null
+   "en": "Bunbuku Kettle"
   },
   {
    "id": "b008_0107",
    "jp": "千両箱",
-   "en": null
+   "en": "1000-Ryo Chest"
   },
   {
    "id": "b008_0108",
    "jp": "古びた壷",
-   "en": null
+   "en": "Old Pot"
   },
   {
    "id": "b008_0109",
    "jp": "金歩の玉",
-   "en": null
+   "en": "Gold Step Orb"
   },
   {
    "id": "b008_0110",
    "jp": "からくり玉",
-   "en": null
+   "en": "Gadget Orb"
   },
   {
    "id": "b008_0111",
    "jp": "{kata}ギヤマン{hira}の玉",
-   "en": null
+   "en": "Cut-Glass Orb"
   },
   {
    "id": "b008_0112",
    "jp": "茶店券",
-   "en": null
+   "en": "Teahouse Ticket"
   },
   {
    "id": "b008_0113",
    "jp": "おとまりの手形",
-   "en": null
+   "en": "Lodging Pass"
   },
   {
    "id": "b008_0114",
    "jp": "夜店券",
-   "en": null
+   "en": "Night Stall Pass"
   },
   {
    "id": "b008_0115",
@@ -592,142 +592,142 @@
   {
    "id": "b008_0117",
    "jp": "金ののべぼう",
-   "en": null
+   "en": "Gold Bar"
   },
   {
    "id": "b008_0118",
    "jp": "はらだしの玉",
-   "en": null
+   "en": "Bare Belly Orb"
   },
   {
    "id": "b008_0119",
    "jp": "月の歩み",
-   "en": null
+   "en": "Moon Steps"
   },
   {
    "id": "b008_0120",
    "jp": "{kata}カニ{hira}の歩み",
-   "en": null
+   "en": "Crab Steps"
   },
   {
    "id": "b008_0121",
    "jp": "風鈴",
-   "en": null
+   "en": "Wind Chime"
   },
   {
    "id": "b008_0122",
    "jp": "炭",
-   "en": null
+   "en": "Charcoal"
   },
   {
    "id": "b008_0123",
    "jp": "ほおずき",
-   "en": null
+   "en": "Ground Cherry"
   },
   {
    "id": "b008_0124",
    "jp": "いにしえの石板",
-   "en": null
+   "en": "Ancient Tablet"
   },
   {
    "id": "b008_0125",
    "jp": "あそび道具予備3",
-   "en": null
+   "en": "Play Spare 3"
   },
   {
    "id": "b008_0126",
    "jp": "あそび道具予備4",
-   "en": null
+   "en": "Play Spare 4"
   },
   {
    "id": "b008_0127",
    "jp": "あそび道具予備5",
-   "en": null
+   "en": "Play Spare 5"
   },
   {
    "id": "b008_0128",
    "jp": "あそび道具予備6",
-   "en": null
+   "en": "Play Spare 6"
   },
   {
    "id": "b008_0129",
    "jp": "あそび道具予備7",
-   "en": null
+   "en": "Play Spare 7"
   },
   {
    "id": "b008_0130",
    "jp": "あそび道具予備8",
-   "en": null
+   "en": "Play Spare 8"
   },
   {
    "id": "b008_0131",
    "jp": "くまでぐわ",
-   "en": null
+   "en": "Rake Hoe"
   },
   {
    "id": "b008_0132",
    "jp": "月の鏡",
-   "en": null
+   "en": "Moon Mirror"
   },
   {
    "id": "b008_0133",
    "jp": "かぎなわ",
-   "en": null
+   "en": "Grappling Hook"
   },
   {
    "id": "b008_0134",
    "jp": "氷室のきんちゃく",
-   "en": null
+   "en": "Icehouse Pouch"
   },
   {
    "id": "b008_0135",
    "jp": "なわばりの糸",
-   "en": null
+   "en": "Territory Thread"
   },
   {
    "id": "b008_0136",
    "jp": "龍のうろこ",
-   "en": null
+   "en": "Dragon Scale"
   },
   {
    "id": "b008_0137",
    "jp": "つりざお",
-   "en": null
+   "en": "Fishing Rod"
   },
   {
    "id": "b008_0138",
    "jp": "{kata}トカゲ{hira}のしっぽ",
-   "en": null
+   "en": "Lizard Tail"
   },
   {
    "id": "b008_0139",
    "jp": "天樹の{kata}タネ{hira}",
-   "en": null
+   "en": "Sky Tree Seed"
   },
   {
    "id": "b008_0140",
    "jp": "人魚の涙",
-   "en": null
+   "en": "Mermaid's Tears"
   },
   {
    "id": "b008_0141",
    "jp": "{kata}リハウス{hira}の糸",
-   "en": null
+   "en": "Rehouse Thread"
   },
   {
    "id": "b008_0142",
    "jp": "玉手箱",
-   "en": null
+   "en": "Jeweled Box"
   },
   {
    "id": "b008_0143",
    "jp": "毒消しの巻き物",
-   "en": null
+   "en": "Antidote Scroll"
   },
   {
    "id": "b008_0144",
    "jp": "ひえんの巻き物",
-   "en": null
+   "en": "Swallow Scroll"
   },
   {
    "id": "b008_0145",
@@ -742,27 +742,27 @@
   {
    "id": "b008_0147",
    "jp": "ひみつの地図",
-   "en": null
+   "en": "Secret Map"
   },
   {
    "id": "b008_0148",
    "jp": "月の水晶",
-   "en": null
+   "en": "Moon Quartz"
   },
   {
    "id": "b008_0149",
    "jp": "神のみぞ汁",
-   "en": null
+   "en": "God-Knows Soup"
   },
   {
    "id": "b008_0150",
    "jp": "鬼の命令系統図",
-   "en": null
+   "en": "Oni Command Map"
   },
   {
    "id": "b008_0151",
    "jp": "月の鈴",
-   "en": null
+   "en": "Moon Bell"
   },
   {
    "id": "b008_0152",
@@ -772,62 +772,62 @@
   {
    "id": "b008_0153",
    "jp": "{kata}シャボン{hira}玉",
-   "en": null
+   "en": "Soap Bubble"
   },
   {
    "id": "b008_0154",
    "jp": "源内の杖",
-   "en": null
+   "en": "Sagennai's Staff"
   },
   {
    "id": "b008_0155",
    "jp": "勇気の鏡",
-   "en": null
+   "en": "Courage Mirror"
   },
   {
    "id": "b008_0156",
    "jp": "鬼の系図",
-   "en": null
+   "en": "Oni Family Tree"
   },
   {
    "id": "b008_0157",
    "jp": "新月の水晶",
-   "en": null
+   "en": "New Moon Quartz"
   },
   {
    "id": "b008_0158",
    "jp": "三日月の水晶",
-   "en": null
+   "en": "Crescent Quartz"
   },
   {
    "id": "b008_0159",
    "jp": "上弦の水晶",
-   "en": null
+   "en": "Waxing Quartz"
   },
   {
    "id": "b008_0160",
    "jp": "下弦の水晶",
-   "en": null
+   "en": "Waning Quartz"
   },
   {
    "id": "b008_0161",
    "jp": "臥待の水晶",
-   "en": null
+   "en": "19th Moon Quartz"
   },
   {
    "id": "b008_0162",
    "jp": "居待の水晶",
-   "en": null
+   "en": "18th Moon Quartz"
   },
   {
    "id": "b008_0163",
    "jp": "十六夜の水晶",
-   "en": null
+   "en": "16th Moon Quartz"
   },
   {
    "id": "b008_0164",
    "jp": "満月の水晶",
-   "en": null
+   "en": "Full Moon Quartz"
   }
  ]
 }

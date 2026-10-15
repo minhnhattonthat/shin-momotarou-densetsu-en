@@ -192,6 +192,24 @@ def merge(names):
             f.write('\n')
 
 
+def merge_win(path):
+    """work/tl/win.out.tsv (id<TAB>en) -> script/win.json; the build enforces the cell limits."""
+    p = ROOT / 'script' / 'win.json'
+    doc = json.loads(p.read_text(encoding='utf-8'))
+    en = dict(read_tsv(Path(path)))
+    n = 0
+    for r in doc['runs']:
+        if r['id'] in en:
+            r['en'] = en.pop(r['id'])
+            n += 1
+    if en:
+        print('unknown ids:', sorted(en)[:10])
+    with open(p, 'w', encoding='utf-8', newline='\n') as f:
+        json.dump(doc, f, ensure_ascii=False, indent=1)
+        f.write('\n')
+    print(f'win.json: {n} runs merged')
+
+
 def pairs(name):
     docs = load_docs()
     order, by_id = [], {}
@@ -230,6 +248,8 @@ if __name__ == '__main__':
         split()
     elif cmd == 'split-names':
         split_names()
+    elif cmd == 'merge-win':
+        merge_win(sys.argv[2] if len(sys.argv) > 2 else TL / 'win.out.tsv')
     elif cmd == 'check':
         sys.exit(max(check(n) for n in sys.argv[2:]))
     elif cmd == 'merge':

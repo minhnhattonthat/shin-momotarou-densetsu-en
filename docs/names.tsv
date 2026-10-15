@@ -1,0 +1,759 @@
+kind	japanese	english
+place	桃太郎の生家	Momotaro's Home
+place	旅立ちの村	Journey's Start
+place	おむすびころりん	Omusubi Kororin
+place	おむすび村	Omusubi Village
+place	すゞめのお宿1	Sparrow Inn 1
+place	すゞめのお宿2	Sparrow Inn 2
+place	すゞめのお宿3	Sparrow Inn 3
+place	すゞめのお宿4	Sparrow Inn 4
+place	すゞめのお宿5	Sparrow Inn 5
+place	すゞめのお宿6	Sparrow Inn 6
+place	すゞめのお宿7	Sparrow Inn 7
+place	松葉山	Mt. Matsuba
+place	花咲かの村の洞窟	Hanasaka Cave
+place	鹿角の里	Rokkaku Hamlet
+place	花咲かの村	Hanasaka Village
+place	音無しの洞窟	Silent Cave
+place	足柄山	Mt. Ashigara
+place	金太郎の村	Kintaro Village
+place	浦島の村	Urashima Village
+place	養老の滝	Yoro Falls
+place	竜宮城	Dragon Palace
+place	大江山	Mt. Oe
+place	寝太郎の村	Netaro Village
+place	寝太郎の穴	Netaro's Den
+place	でか太郎の庵	Dekataro's Hut
+place	氷の塔	Ice Tower
+place	ほほえみの村	Smile Village
+place	希望の都	Capital of Hope
+place	びろーんの森	Biroon Forest
+place	神々の里	Gods' Hamlet
+place	風神の谷	Fujin's Valley
+place	伏龍の洞窟	Fukuryu Cave
+place	雷神の洞窟	Raijin's Cave
+place	左源内の庵	Sagennai's Hut
+place	鬼の牢獄	Oni Prison
+place	はらだしの里	Bellyman Hamlet
+place	サルカニの村	Sarukani Village
+place	やまんばの洞窟	Hag's Cave
+place	竹取りの村	Bamboo Village
+place	黄泉の塔	Tower of Yomi
+place	虹の洞窟	Rainbow Cave
+place	静かの村	Quiet Village
+place	豊かの村	Plenty Village
+place	月の宮殿	Moon Palace
+place	嵐の村	Storm Village
+place	鬼が島	Onigashima
+place	地獄・三途の川	Sanzu River
+place	地獄・黒縄地獄	Black Rope Hell
+place	地獄・血の池地獄	Blood Pool Hell
+place	地獄・衆合地獄	Crushing Hell
+place	地獄・焦熱地獄	Heat Hell
+place	地獄・極寒地獄	Freezing Hell
+place	地獄・大焦熱地獄	Great Heat Hell
+place	地獄・阿鼻地獄	Avici Hell
+place	伐折羅王の間	Basara's Chamber
+place	月の祠	Moon Shrine
+place	神仙卿	Shinsenkyo
+place	七夕の村	Tanabata Village
+place	夢の村	Dream Village
+place	海の庵	Sea Hut
+place	仙人の庵	Sage's Hut
+place	新しい村	New Village
+place	奈落の洞窟	Abyss Cave
+place	人魚の村	Mermaid Village
+place	きんたん仙人の庵	Kintan Sage Hut
+place	稲妻仙人の庵	Bolt Sage Hut
+place	鹿角仙人の庵	Rokkaku Sage Hut
+place	どくけし仙人の庵	Detox Sage Hut
+place	おによけ仙人の庵	Repel Sage Hut
+place	ぬけだし仙人の庵	Escape Sage Hut
+place	天の仙人の塔	Heavenly Tower
+place	まよけ仙人の庵	Charm Sage Hut
+place	ふゆう仙人の庵	Float Sage Hut
+place	ほうひ仙人の庵	Fart Sage Hut
+place	まんきん仙人の庵	Mankin Sage Hut
+place	きんそう仙人の庵	Kinso Sage Hut
+place	海の仙人の庵	Sea Sage Hut
+place	{arg}城	{arg} Castle
+place	五重の塔	Five-Tier Pagoda
+place	月の洞窟	Moon Cave
+place	怨みの洞窟	Grudge Cave
+place	さまよう島	Drifting Isle
+place	雪原	Snowfield
+place	からくりの村	Gadget Village
+place	野原	Fields
+place	月	The Moon
+place	臥龍の洞窟	Garyu Cave
+character	金太郎	Kintaro
+character	浦島	Urashima
+character	夜叉姫	Yasha
+character	風神	Fujin
+character	雷神	Raijin
+character	キンボビ	Kinbobi
+character	えんま様	Enma
+character	ましら	Mashira
+character	寝太郎	Netaro
+character	でか太郎	Dekataro
+character	銀次	Ginji
+character	はらだし	Bellyman
+character	福の神	Fortune
+character	貧乏神	Binbo
+character	天の邪鬼	Imp
+character	黒河童	Kappa
+character	雪だるま	Snowman
+character	といちや	Toichiya
+character	分身	Double
+character	ポチ	Pochi
+character	モンタ	Monta
+character	キーコ	Kiko
+character	あいつ	That one
+character	そいつ	That guy
+character	こいつ	This guy
+character	ミカミン	Mikamin
+character	アオマヤ	Aomaya
+character	ムカムカ	Mukamuka
+character	ブラグス	Buragusu
+character	パッキー	Pakki
+character	ローズ	Rose
+character	フジー	Fuji
+character	チババ	Chibaba
+character	イワタン	Iwatan
+character	ワカ	Waka
+character	アズマン	Azuman
+character	トモリー	Tomori
+character	サワミン	Sawamin
+character	ムカピン	Mukapin
+character	ナンスカ	Nansuka
+character	スズリン	Suzurin
+character	オカドン	Okadon
+character	ギンユウ	Ginyu
+character	ササニシ	Sasanisi
+character	イーヤダ	Iyada
+character	ネコポン	Nekopon
+character	ナンデモ	Nandemo
+character	ポンポコ	Ponpoko
+character	ハクシュ	Hakushu
+character	テンキパ	Tenkipa
+character	サクラン	Sakuran
+character	オカダデ	Okadade
+character	玉一	Tamaichi
+character	花子	Hanako
+character	兵太郎	Heitaro
+character	竹丸	Takemaru
+character	小太郎	Kotaro
+character	源太	Genta
+character	静	Shizuka
+character	牛太	Ushita
+character	お文	Ofumi
+character	福太	Fukuta
+character	奈々	Nana
+character	沙夜	Saya
+character	織	Ori
+character	龍兵	Ryuhei
+character	菊五郎	Kikugoro
+character	岩鉄	Gantetsu
+character	嵐	Arashi
+character	前次郎	Zenjiro
+monster	赤鬼	Red Oni
+monster	青鬼	Blue Oni
+monster	雷鬼	Thunder Oni
+monster	かね童子	Kane Doji
+monster	氷の鬼	Ice Oni
+monster	黒鬼	Black Oni
+monster	わらべ鬼	Child Oni
+monster	さとりわっぱ	Satori Brat
+monster	多苦	Taku
+monster	沙門	Shamon
+monster	ひとだま	Hitodama
+monster	不知火	Shiranui
+monster	ふらり火	Furaribi
+monster	漁火	Isaribi
+monster	ウズグモ	Swirl Spider
+monster	ジグモ	Purseweb Spider
+monster	ホラヒメグモ	Cave Spider
+monster	ツチグモ	Earth Spider
+monster	ワスレナグモ	Forgetful Spider
+monster	オオヒメグモ	House Spider
+monster	地虫	Grub
+monster	ノヅチ	Nozuchi
+monster	をうに	Ouni
+monster	しょうけら	Shokera
+monster	トカゲ	Lizard
+monster	金トカゲ	Gold Lizard
+monster	カエル	Frog
+monster	オコビキ	Okobiki
+monster	ガマ	Gama Toad
+monster	ヒキ	Hiki Toad
+monster	ハリネズミ	Hedgehog
+monster	山嵐	Porcupine
+monster	大耳ハリネズミ	Big-Ear Hedgehog
+monster	首無し鬼	Headless Oni
+monster	馬鬼	Horse Oni
+monster	牛鬼	Ushi-oni
+monster	狐鬼	Fox Oni
+monster	燈台鬼	Lampstand Oni
+monster	餓鬼	Gaki
+monster	食水餓鬼	Water-Eater Gaki
+monster	食吐餓鬼	Vomit-Eater Gaki
+monster	殺殺餓鬼	Kill-Kill Gaki
+monster	食火炭餓鬼	Coal-Eater Gaki
+monster	食血餓鬼	Blood-Eater Gaki
+monster	いやだにさん	Iyadanisan
+monster	たたりもっけ	Tatarimokke
+monster	ぬっぺふほふ	Nuppefuhofu
+monster	どふもこふも	Domokomo
+monster	黄粉坊	Kinakobo
+monster	ばっかんき	Bakkanki
+monster	伊吹童子	Ibuki Doji
+monster	無無	Mumu
+monster	イノシシ	Boar
+monster	山くじら	Mountain Whale
+monster	カワイノシシ	River Boar
+monster	かがち	Kagachi
+monster	じむぐり	Jimuguri
+monster	ヤトノカミ	Yato-no-kami
+monster	怪鬼	Mystery Oni
+monster	魅鬼	Bewitching Oni
+monster	魃鬼	Drought Oni
+monster	カラス	Crow
+monster	ミサキ	Misaki
+monster	ウミドリ	Seabird
+monster	ヤタガラス	Yatagarasu
+monster	カラス天狗	Karasu Tengu
+monster	木の葉天狗	Konoha Tengu
+monster	阿鬼	Ah Oni
+monster	吽鬼	Un Oni
+monster	両鉄	Ryotetsu
+monster	見えない敵	Invisible Enemy
+monster	竜燈鬼	Dragon Lamp Oni
+monster	天燈鬼	Heaven Lamp Oni
+monster	虎	Tiger
+monster	白虎	White Tiger
+monster	タイラ	Tayra
+monster	もま	Moma
+monster	のぶすま	Nobusuma
+monster	ばんどり	Bandori
+monster	キツネ	Fox
+monster	ギンギツネ	Silver Fox
+monster	九尾	Nine-Tailed Fox
+monster	オオカミ	Wolf
+monster	アカオオカミ	Red Wolf
+monster	火狼	Fire Wolf
+monster	シオマネキ	Fiddler Crab
+monster	ガザミ	Swimming Crab
+monster	ノコギリガザミ	Sawtooth Crab
+monster	緑の岩	Green Rock
+monster	赤の岩	Red Rock
+monster	黒の岩	Black Rock
+monster	うるまんと	Urumanto
+monster	そうひつのう	Sohitsuno
+monster	じゅむへんく	Jumuhenku
+monster	ムカデ	Centipede
+monster	アオズムカデ	Blue Centipede
+monster	アカムカデ	Red Centipede
+monster	水虎	Suiko
+monster	がわんばっちょ	Gawanbaccho
+monster	海坊主	Umibozu
+monster	白蓮	White Lotus
+monster	死霊	Wraith
+monster	異異	Ii
+monster	一切	Issai
+monster	臥龍	Sleeping Dragon
+monster	伏龍	Hidden Dragon
+monster	黒龍	Black Dragon
+monster	ガシャ	Gasha
+monster	極苦	Gokku
+monster	あんみょう	Anmyo
+monster	けつがひょう	Ketsugahyo
+monster	雨沙火	Usaka
+monster	福の神	God of Fortune
+monster	大黒様	Daikoku
+monster	赤貧	Dirt Poor
+monster	一文無し	Penniless
+monster	キライ2	Kirai 2
+monster	天の邪鬼	Amanojaku
+monster	天逆毎	Amanozako
+monster	キライ1	Kirai 1
+monster	月猿	Moon Monkey
+monster	ブルーモンキーズ	Blue Monkeys
+monster	血吸いコウモリ	Vampire Bat
+monster	カグラコウモリ	Kagura Bat
+monster	天狗コウモリ	Tengu Bat
+monster	獏	Baku
+monster	わいら	Waira
+monster	獄卒	Hell Guard
+monster	かちこしょ	Kachikosho
+monster	くま童子	Kuma Doji
+monster	たくのうしょ	Takunosho
+monster	ほしくま童子	Hoshikuma Doji
+monster	波旬	Hajun
+monster	不喜	Fuki
+monster	とらくま童子	Torakuma Doji
+monster	茨木童子	Ibaraki Doji
+monster	悪邪童子	Akuja Doji
+monster	酒香童子	Shuko Doji
+monster	羅生門	Rashomon
+monster	三千世界	Sanzen Sekai
+monster	はちずまびん	Hachizumabin
+monster	大はちずま	Big Hachizuma
+monster	大はちとくま	Big Hachitokuma
+monster	しこめ	Shikome
+monster	じゃこつばばあ	Jakotsu Baba
+monster	やまんば	Mountain Hag
+monster	奪衣婆	Datsue-ba
+monster	なまはげ	Namahage
+monster	なもみたくり	Namomitakuri
+monster	しかたはぎ	Shikatahagi
+monster	雪女	Yuki-onna
+monster	磯女	Iso-onna
+monster	お天鬼姉さん	Oni Weather Girl
+monster	もうりょう	Moryo
+monster	ちみもうりょう	Chimimoryo
+monster	如飛	Johi
+monster	ぬえ	Nue
+monster	いつまで	Itsumade
+monster	きまいら	Chimera
+monster	大天狗	Great Tengu
+monster	是害坊	Zegaibo
+monster	聞是坊	Monzebo
+monster	はらだし	Haradashi
+monster	びろ～ん	Birooon
+monster	キライ3	Kirai 3
+monster	あいらばた	Airavata
+monster	火象	Fire Elephant
+monster	黒河童	Black Kappa
+monster	九千坊	Kusenbo
+monster	ひょうすべ	Hyosube
+monster	があたろ	Gaataro
+monster	しばてん	Shibaten
+monster	コマヒキ	Komahiki
+monster	クジラ	Whale
+monster	勇魚	Isana
+monster	沙魚	Shark
+monster	アオザメ	Mako Shark
+monster	シャコ貝	Giant Clam
+monster	大シャコ貝	Great Giant Clam
+monster	サバフグ	Mackerel Puffer
+monster	トラフグ	Tiger Puffer
+monster	竜鬼船	Dragon Oni Ship
+monster	月鬼船	Moon Oni Ship
+monster	金剛	Kongo
+monster	金剛力	Kongoriki
+monster	羅刹	Rakshasa
+monster	黒沙羅刹	Kokusha Rakshasa
+monster	悪杖	Evil Staff
+monster	大身獄卒	Giant Hell Guard
+monster	大悲獄卒	Mercy Hell Guard
+monster	えんば	Enba
+monster	えんばは	Enbaha
+monster	けんね翁	Keneo
+monster	ももんじい	Momonjii
+monster	歴史の鬼	History Oni
+monster	ゲームの鬼	Game Oni
+monster	数学の鬼	Math Oni
+monster	おにぎりの鬼	Rice Ball Oni
+monster	指令の鬼	Command Oni
+monster	のみ鬼	Flea Oni
+monster	豆鬼	Bean Oni
+monster	火鬼	Fire Oni
+monster	土鬼	Earth Oni
+monster	水鬼	Water Oni
+monster	風鬼	Wind Oni
+monster	五百丁	Gohyakucho
+monster	鉄丸	Tetsumaru
+monster	うわん	Uwan
+monster	天剛鬼	Tengoki
+monster	天賊鬼	Tenzokuki
+monster	天赤鬼	Tensekki
+monster	右魂鬼	Ukonki
+monster	左魂鬼	Sakonki
+monster	カルラ	Karura
+monster	伐折羅王	King Basara
+monster	ダイダ王子	Prince Daida
+monster	アジャセ王子	Prince Ajase
+monster	分身	Clone
+monster	きんたん仙人	Sage Kintan
+monster	鹿角仙人	Sage Rokkaku
+monster	ふゆう仙人	Sage Fuyu
+monster	まんきん仙人	Sage Mankin
+monster	きんそう仙人	Sage Kinso
+monster	三上哲	Tetsu Mikami
+item	おまんじゅう	Steamed Bun
+item	サツマイモ	Sweet Potato
+item	きびだんご	Millet Dumpling
+item	ユキのおにぎり	Yuki's Rice Ball
+item	竹の水筒	Bamboo Canteen
+item	すゞめの涙	Sparrow's Tears
+item	仙人のかすみ	Sage's Mist
+item	仙人の桃	Sage's Peach
+item	打ち出のこづち	Magic Mallet
+item	焼きイモ	Baked Yam
+item	銘菓	Fine Sweets
+item	ダイコン	Daikon Radish
+item	たくわん	Pickled Radish
+item	千枚づけ	Turnip Pickles
+item	半河沙の玉	Half Ganges Orb
+item	元気の玉	Vigor Orb
+item	恒河沙の玉	Ganges Orb
+item	強力丹	Strength Pill
+item	崑崙の玉	Kunlun Orb
+item	毒消し	Antidote
+item	マヒ消し	Paralysis Cure
+item	呪い消し	Curse Cure
+item	奇効丸	Wonder Pill
+item	金創丹	Wound Salve
+item	万能丹	Cure-All Pill
+item	キュウリ	Cucumber
+item	イワシ	Sardine
+item	サバ	Mackerel
+item	ハマチ	Amberjack
+item	マグロ	Tuna
+item	タイ	Sea Bream
+item	くさったイワシ	Rotten Sardine
+item	くさったサバ	Rotten Mackerel
+item	くさったハマチ	Rotten Amberjack
+item	くさったマグロ	Rotten Tuna
+item	くさったタイ	Rotten Sea Bream
+item	はらだしのお茶	Bare Belly Tea
+item	水アメ	Starch Syrup
+item	城修理道具	Castle Toolkit
+item	あめざいく	Candy Sculpture
+item	ふういんの玉	Seal Orb
+item	身がわり地蔵	Stand-In Jizo
+item	サンゴのお札	Coral Charm
+item	金のなる木	Money Tree
+item	鬼の涙	Oni's Tears
+item	鬼のかくらん	Oni's Sunstroke
+item	ハリネズミの玉	Hedgehog Orb
+item	山嵐の玉	Porcupine Orb
+item	とあみ	Casting Net
+item	半分の玉	Halving Orb
+item	びっくり玉	Surprise Orb
+item	かくれみの	Hiding Cloak
+item	鬼の笛	Oni Flute
+item	鬼ののろし	Oni Smoke Signal
+item	鬼のはた	Oni Banner
+item	鬼の呪い	Oni Curse
+item	どうぶつの友	Animal Friend
+item	イヌまっしぐら	Doggy Dash
+item	キジ豆	Pheasant Beans
+item	サルらっきょ	Monkey Shallots
+item	はごろも	Feather Robe
+item	天女のはごろも	Celestial Robe
+item	クモの糸	Spider Thread
+item	ふゆうの玉	Float Orb
+item	ものふやしの玉	Doubling Orb
+item	根性の玉	Grit Orb
+item	鳳凰の笛	Phoenix Flute
+item	日照りの石	Drought Stone
+item	日本晴れの石	Clear Sky Stone
+item	晴れの石	Sunny Stone
+item	雨呼びの石	Rainmaker Stone
+item	雷雨の石	Storm Stone
+item	冬銀河の石	Winter Sky Stone
+item	海鳴りの石	Sea Roar Stone
+item	自在天の石	Jizaiten Stone
+item	げた	Geta Clogs
+item	会心の玉	Critical Orb
+item	隼の玉	Falcon Orb
+item	きよめの塩	Purifying Salt
+item	本	Book
+item	書物	Tome
+item	秘伝書	Secret Scroll
+item	人気の仙豆	Popularity Bean
+item	命の仙豆	Life Bean
+item	技の仙豆	Skill Bean
+item	はやさの仙豆	Speed Bean
+item	戦いの仙豆	Battle Bean
+item	守りの仙豆	Defense Bean
+item	禁断の仙豆	Forbidden Bean
+item	愛のようかん	Love Bean Jelly
+item	虎信	Toranobu Sweets
+item	がらくた	Junk
+item	金トカゲのしっぽ	Gold Lizard Tail
+item	ぶんぶく茶釜'	Bunbuku Kettle
+item	千両箱	1000-Ryo Chest
+item	古びた壷	Old Pot
+item	金歩の玉	Gold Step Orb
+item	からくり玉	Gadget Orb
+item	ギヤマンの玉	Cut-Glass Orb
+item	茶店券	Teahouse Ticket
+item	おとまりの手形	Lodging Pass
+item	夜店券	Night Stall Pass
+item	金ののべぼう	Gold Bar
+item	はらだしの玉	Bare Belly Orb
+item	月の歩み	Moon Steps
+item	カニの歩み	Crab Steps
+item	風鈴	Wind Chime
+item	炭	Charcoal
+item	ほおずき	Ground Cherry
+item	いにしえの石板	Ancient Tablet
+item	くまでぐわ	Rake Hoe
+item	月の鏡	Moon Mirror
+item	かぎなわ	Grappling Hook
+item	氷室のきんちゃく	Icehouse Pouch
+item	なわばりの糸	Territory Thread
+item	龍のうろこ	Dragon Scale
+item	つりざお	Fishing Rod
+item	トカゲのしっぽ	Lizard Tail
+item	天樹のタネ	Sky Tree Seed
+item	人魚の涙	Mermaid's Tears
+item	リハウスの糸	Rehouse Thread
+item	玉手箱	Jeweled Box
+item	毒消しの巻き物	Antidote Scroll
+item	ひえんの巻き物	Swallow Scroll
+item	ひみつの地図	Secret Map
+item	月の水晶	Moon Quartz
+item	神のみぞ汁	God-Knows Soup
+item	鬼の命令系統図	Oni Command Map
+item	月の鈴	Moon Bell
+item	シャボン玉	Soap Bubble
+item	源内の杖	Sagennai's Staff
+item	勇気の鏡	Courage Mirror
+item	鬼の系図	Oni Family Tree
+item	新月の水晶	New Moon Quartz
+item	三日月の水晶	Crescent Quartz
+item	上弦の水晶	Waxing Quartz
+item	下弦の水晶	Waning Quartz
+item	臥待の水晶	19th Moon Quartz
+item	居待の水晶	18th Moon Quartz
+item	十六夜の水晶	16th Moon Quartz
+item	満月の水晶	Full Moon Quartz
+equipment	木刀	Wooden Sword
+equipment	刀	Sword
+equipment	木の葉切りの刀	Leaf Cutter
+equipment	竹割りの刀	Bamboo Breaker
+equipment	瓦'割りの刀	Tile Breaker
+equipment	岩切りの刀	Rock Cutter
+equipment	鎖'切りの刀	Chain Cutter
+equipment	釜'割りの刀	Pot Breaker
+equipment	兜'割りの刀	Helm Breaker
+equipment	鬼切り丸	Onikirimaru
+equipment	百鬼切り丸	Hyakkikirimaru
+equipment	毘'沙門の剣'	Bishamon Sword
+equipment	勇気の剣'	Valor Sword
+equipment	玄'武'の刀	Genbu Sword
+equipment	白虎の刀	Byakko Sword
+equipment	朱雀の刀	Suzaku Sword
+equipment	青竜の刀	Seiryu Sword
+equipment	酒香の剣'	Shuko Sword
+equipment	木の皮の胴	Bark Vest
+equipment	麻糸の胴	Hemp Vest
+equipment	竹の胴	Bamboo Vest
+equipment	一枚胴	Single Plate
+equipment	二枚胴	Double Plate
+equipment	三枚胴	Triple Plate
+equipment	鎧	Armor
+equipment	大鎧	Great Armor
+equipment	武'者鎧	Warrior Armor
+equipment	勇気の鎧	Valor Armor
+equipment	まさかり	Axe
+equipment	大まさかり	Great Axe
+equipment	銅のまさかり	Copper Axe
+equipment	銀のまさかり	Silver Axe
+equipment	金のまさかり	Gold Axe
+equipment	希望のまさかり	Axe of Hope
+equipment	腹がけ	Bib
+equipment	木綿の腹がけ	Cotton Bib
+equipment	銀の腹がけ	Silver Bib
+equipment	金の腹がけ	Gold Bib
+equipment	希望の腹がけ	Bib of Hope
+equipment	モリ	Fishing Spear
+equipment	小波のモリ	Ripple Spear
+equipment	白波のモリ	Whitecap Spear
+equipment	大波のモリ	Billow Spear
+equipment	高波のモリ	Surge Spear
+equipment	津波のモリ	Tsunami Spear
+equipment	大津波のモリ	Great Tsunami
+equipment	正義のモリ	Justice Spear
+equipment	夕凪のモリ	Evening Calm
+equipment	朝凪のモリ	Morning Calm
+equipment	漁師の着物	Fisher Kimono
+equipment	豊漁の着物	Bounty Kimono
+equipment	大漁の着物	Big Haul
+equipment	黒潮着物	Black Tide
+equipment	正義の着物	Justice Kimono
+equipment	サンゴの杖	Coral Staff
+equipment	ひすいの杖	Jade Staff
+equipment	めのうの杖	Agate Staff
+equipment	琥珀の杖	Amber Staff
+equipment	真珠の杖	Pearl Staff
+equipment	銀の杖	Silver Staff
+equipment	金の杖	Gold Staff
+equipment	流星の杖	Meteor Staff
+equipment	愛の杖	Love Staff
+equipment	こそで	Kosode
+equipment	ふりそで	Furisode
+equipment	梅のふりそで	Plum Furisode
+equipment	桜のふりそで	Cherry Kimono
+equipment	金のふりそで	Gold Furisode
+equipment	愛の十二単衣	Love Junihitoe
+equipment	赤いバラ	Red Rose
+equipment	青いバラ	Blue Rose
+equipment	琥珀のバラ	Amber Rose
+equipment	べっこうのバラ	Tortoiseshell
+equipment	象牙のバラ	Ivory Rose
+equipment	ギヤマンのバラ	Glass Rose
+equipment	銅のバラ	Copper Rose
+equipment	銀のバラ	Silver Rose
+equipment	金のバラ	Gold Rose
+equipment	黄泉のバラ	Yomi Rose
+equipment	深紅の絹	Crimson Silk
+equipment	織折り絹	Woven Silk
+equipment	羽二重の絹	Habutae Silk
+equipment	黄泉の絹	Yomi Silk
+equipment	出刃包丁	Deba Knife
+equipment	小出刃包丁	Small Deba
+equipment	薄刃包丁	Thin Knife
+equipment	牛切り包丁	Beef Knife
+equipment	菜切り包丁	Veggie Knife
+equipment	合出刃包丁	Mid Deba Knife
+equipment	柳刃包丁	Sashimi Knife
+equipment	骨切り包丁	Bone Knife
+equipment	切り出し包丁	Craft Knife
+equipment	ドス	Dagger
+equipment	長ドス	Long Dagger
+equipment	隼のドス	Falcon Dagger
+equipment	団十郎	Danjuro
+equipment	村雨	Murasame
+equipment	村正	Muramasa
+equipment	孫六	Magoroku
+equipment	菊一文字	Kikuichimonji
+equipment	着流し	Kimono
+equipment	小そで着流し	Kosode Kimono
+equipment	大そで着流し	Osode Kimono
+equipment	染めつけ着流し	Dyed Kimono
+equipment	しぼり着流し	Tie-Dye Kimono
+equipment	つむぎの着流し	Pongee Kimono
+equipment	金棒	Club
+equipment	銅の金棒	Copper Club
+equipment	鉄の金棒	Iron Club
+equipment	火の金棒	Fire Club
+equipment	炎の金棒	Flame Club
+equipment	力の金棒	Power Club
+equipment	怒りの金棒	Rage Club
+equipment	虎のこしまき	Tiger Wrap
+equipment	銀のこしまき	Silver Wrap
+equipment	金のこしまき	Gold Wrap
+equipment	黄泉のこしまき	Yomi Wrap
+equipment	独鈷	Vajra
+equipment	火の独鈷	Fire Vajra
+equipment	炎の独鈷	Flame Vajra
+equipment	紅蓮の独鈷	Crimson Vajra
+equipment	火の衣	Fire Robe
+equipment	炎の衣	Flame Robe
+equipment	火炎の衣	Blaze Robe
+equipment	黄泉の衣	Yomi Robe
+equipment	ハの胴丸	Body Armor C
+equipment	ニの胴丸	Body Armor D
+equipment	ホの胴丸	Body Armor E
+equipment	ヘの胴丸	Body Armor F
+equipment	トの胴丸	Body Armor G
+equipment	イの胴丸	Body Armor A
+equipment	ロの胴丸	Body Armor B
+equipment	きんたんの錫杖	Elixir Rod
+equipment	稲妻の錫杖	Lightning Rod
+equipment	まよけの錫杖	Warding Rod
+equipment	鹿角の錫杖	Antler Rod
+equipment	麻のけさ	Hemp Stole
+equipment	木綿のけさ	Cotton Stole
+equipment	絹のけさ	Silk Stole
+equipment	是空のけさ	Void Stole
+equipment	荒縄のふんどし	Rope Loincloth
+equipment	麻のふんどし	Hemp Loincloth
+equipment	木綿のふんどし	Cotton Undies
+equipment	絹のふんどし	Silk Loincloth
+equipment	越中ふんどし	T-Loincloth
+equipment	金のふんどし	Gold Loincloth
+equipment	へそだしの刀	Navel Sword
+equipment	鬼のかぎつめ	Oni Claws
+equipment	はちまき	Headband
+equipment	はちがね	Iron Headband
+equipment	かぶと	Helmet
+equipment	勇気のかぶと	Valor Helmet
+equipment	赤はちまき	Red Headband
+equipment	わらじ	Straw Sandals
+equipment	ウサギの足袋	Rabbit Tabi
+equipment	キツネの足袋	Fox Tabi
+equipment	シカの足袋	Deer Tabi
+equipment	かんじき	Snowshoes
+equipment	シシの足袋	Lion Tabi
+equipment	ヒョウの足袋	Leopard Tabi
+equipment	白象の足袋	Elephant Tabi
+equipment	黄泉の足袋	Yomi Tabi
+equipment	愛の足袋	Love Tabi
+equipment	勇気の皆	Valor Tabi
+art	せんきんたん	Senkintan
+art	まんきんたん	Mankintan
+art	みなきんたん	Minakintan
+art	みなせんたん	Minasentan
+art	みなまんたん	Minamantan
+art	まほろば	Mahoroba
+art	きんそう	Heal Wounds
+art	どくけし	Antidote
+art	まひけし	Unparalyze
+art	小波	Ripple
+art	大波	Big Wave
+art	津波	Tsunami
+art	稲妻	Lightning
+art	雷鳴	Thunderclap
+art	雷撃	Thunderbolt
+art	雷電	Thunderstorm
+art	旋風	Whirlwind
+art	突風	Gust
+art	烈風	Gale
+art	炎	Flame
+art	火炎	Blaze
+art	火走	Wildfire
+art	バラ吹雪	Rose Flurry
+art	忍冬	Honeysuckle
+art	流れ星	Falling Star
+art	鹿角	Antlers
+art	ぶんどり	Snatch
+art	ねこそぎ	Clean Out
+art	尻出し	Mooning
+art	もろだし	Full Monty
+art	だだぢぢ	Dadajiji
+art	ばいりき	Power Up
+art	まもり	Guard
+art	はやて	Haste
+art	めざまし	Wake Up
+art	まふうじ	Silence
+art	つまびき	Strum
+art	かりそめ	Fleeting
+art	バラがくれ	Rose Veil
+art	ほうひ	Pass Gas
+art	ふにゃら	Floppy
+art	とまどい	Confuse
+art	ふういん	Seal
+art	わざよせ	Skill Drain
+art	まどろみ	Slumber
+art	うつろひ	Fade
+art	みなふにゃら	All Floppy
+art	かげぬい	Shadow Pin
+art	はらほろ	Dizzy
+art	ひえん	Swallow Wing
+art	ぬけだし	Escape
+art	オニよけ	Oni Ward
+art	りょうり	Cooking
+art	まよけ	Ward Evil
+art	ふゆう	Float
+art	うたかた	Foam
+art	あやかし	Phantom
+art	まるだし	Bare All
+art	鬼術	Oni Art
+art	細雪	Light Snow
+art	吹雪	Blizzard
+art	雪崩	Avalanche
+art	一切	Annihilate
+art	四半分	Quarter
+art	ばいだげき	Double Hit
+art	ぜんまもり	Guard All
+art	やまびこ	Echo
+art	ゆめみ	Dream
+art	かくらん	Disrupt
+art	かげろう	Heat Haze
+art	日照り	Drought
+art	キツネばかし	Fox Trick

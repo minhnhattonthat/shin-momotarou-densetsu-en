@@ -17,17 +17,17 @@
   {
    "id": "b004_0002",
    "jp": "金太郎",
-   "en": null
+   "en": "Kintaro"
   },
   {
    "id": "b004_0003",
    "jp": "浦島",
-   "en": null
+   "en": "Urashima"
   },
   {
    "id": "b004_0004",
    "jp": "夜叉姫",
-   "en": null
+   "en": "Yasha"
   },
   {
    "id": "b004_0005",
@@ -37,97 +37,97 @@
   {
    "id": "b004_0006",
    "jp": "風神",
-   "en": null
+   "en": "Fujin"
   },
   {
    "id": "b004_0007",
    "jp": "雷神",
-   "en": null
+   "en": "Raijin"
   },
   {
    "id": "b004_0008",
    "jp": "{kata}キンボビ{hira}",
-   "en": null
+   "en": "Kinbobi"
   },
   {
    "id": "b004_0009",
    "jp": "えんま様",
-   "en": null
+   "en": "Enma"
   },
   {
    "id": "b004_0010",
    "jp": "ましら",
-   "en": null
+   "en": "Mashira"
   },
   {
    "id": "b004_0011",
    "jp": "寝太郎",
-   "en": null
+   "en": "Netaro"
   },
   {
    "id": "b004_0012",
    "jp": "でか太郎",
-   "en": null
+   "en": "Dekataro"
   },
   {
    "id": "b004_0013",
    "jp": "銀次",
-   "en": null
+   "en": "Ginji"
   },
   {
    "id": "b004_0014",
    "jp": "はらだし",
-   "en": null
+   "en": "Bellyman"
   },
   {
    "id": "b004_0015",
    "jp": "福の神",
-   "en": null
+   "en": "Fortune"
   },
   {
    "id": "b004_0016",
    "jp": "貧乏神",
-   "en": null
+   "en": "Binbo"
   },
   {
    "id": "b004_0017",
    "jp": "天の邪鬼",
-   "en": null
+   "en": "Imp"
   },
   {
    "id": "b004_0018",
    "jp": "黒河童",
-   "en": null
+   "en": "Kappa"
   },
   {
    "id": "b004_0019",
    "jp": "雪だるま",
-   "en": null
+   "en": "Snowman"
   },
   {
    "id": "b004_0020",
    "jp": "といちや",
-   "en": null
+   "en": "Toichiya"
   },
   {
    "id": "b004_0021",
    "jp": "分身",
-   "en": null
+   "en": "Double"
   },
   {
    "id": "b004_0022",
    "jp": "{kata}ポチ{hira}",
-   "en": null
+   "en": "Pochi"
   },
   {
    "id": "b004_0023",
    "jp": "{kata}モンタ{hira}",
-   "en": null
+   "en": "Monta"
   },
   {
    "id": "b004_0024",
    "jp": "{kata}キ{hira}ー{kata}コ{hira}",
-   "en": null
+   "en": "Kiko"
   },
   {
    "id": "b004_0025",
@@ -137,152 +137,152 @@
   {
    "id": "b004_0026",
    "jp": "あいつ",
-   "en": null
+   "en": "That one"
   },
   {
    "id": "b004_0027",
    "jp": "そいつ",
-   "en": null
+   "en": "That guy"
   },
   {
    "id": "b004_0028",
    "jp": "こいつ",
-   "en": null
+   "en": "This guy"
   },
   {
    "id": "b004_0029",
    "jp": "{kata}ミカミン{hira}",
-   "en": null
+   "en": "Mikamin"
   },
   {
    "id": "b004_0030",
    "jp": "{kata}アオマヤ{hira}",
-   "en": null
+   "en": "Aomaya"
   },
   {
    "id": "b004_0031",
    "jp": "{kata}ムカムカ{hira}",
-   "en": null
+   "en": "Mukamuka"
   },
   {
    "id": "b004_0032",
    "jp": "{kata}ブラグス{hira}",
-   "en": null
+   "en": "Buragusu"
   },
   {
    "id": "b004_0033",
    "jp": "{kata}パッキ{hira}ー",
-   "en": null
+   "en": "Pakki"
   },
   {
    "id": "b004_0034",
    "jp": "{kata}ロ{hira}ー{kata}ズ{hira}",
-   "en": null
+   "en": "Rose"
   },
   {
    "id": "b004_0035",
    "jp": "{kata}フジ{hira}ー",
-   "en": null
+   "en": "Fuji"
   },
   {
    "id": "b004_0036",
    "jp": "{kata}チババ{hira}",
-   "en": null
+   "en": "Chibaba"
   },
   {
    "id": "b004_0037",
    "jp": "{kata}イワタン{hira}",
-   "en": null
+   "en": "Iwatan"
   },
   {
    "id": "b004_0038",
    "jp": "{kata}ワカ{hira}",
-   "en": null
+   "en": "Waka"
   },
   {
    "id": "b004_0039",
    "jp": "{kata}アズマン{hira}",
-   "en": null
+   "en": "Azuman"
   },
   {
    "id": "b004_0040",
    "jp": "{kata}トモリ{hira}ー",
-   "en": null
+   "en": "Tomori"
   },
   {
    "id": "b004_0041",
    "jp": "{kata}サワミン{hira}",
-   "en": null
+   "en": "Sawamin"
   },
   {
    "id": "b004_0042",
    "jp": "{kata}ムカピン{hira}",
-   "en": null
+   "en": "Mukapin"
   },
   {
    "id": "b004_0043",
    "jp": "{kata}ナンスカ{hira}",
-   "en": null
+   "en": "Nansuka"
   },
   {
    "id": "b004_0044",
    "jp": "{kata}スズリン{hira}",
-   "en": null
+   "en": "Suzurin"
   },
   {
    "id": "b004_0045",
    "jp": "{kata}オカドン{hira}",
-   "en": null
+   "en": "Okadon"
   },
   {
    "id": "b004_0046",
    "jp": "{kata}ギンユウ{hira}",
-   "en": null
+   "en": "Ginyu"
   },
   {
    "id": "b004_0047",
    "jp": "{kata}ササニシ{hira}",
-   "en": null
+   "en": "Sasanisi"
   },
   {
    "id": "b004_0048",
    "jp": "{kata}イ{hira}ー{kata}ヤダ{hira}",
-   "en": null
+   "en": "Iyada"
   },
   {
    "id": "b004_0049",
    "jp": "{kata}ネコポン{hira}",
-   "en": null
+   "en": "Nekopon"
   },
   {
    "id": "b004_0050",
    "jp": "{kata}ナンデモ{hira}",
-   "en": null
+   "en": "Nandemo"
   },
   {
    "id": "b004_0051",
    "jp": "{kata}ポンポコ{hira}",
-   "en": null
+   "en": "Ponpoko"
   },
   {
    "id": "b004_0052",
    "jp": "{kata}ハクシュ{hira}",
-   "en": null
+   "en": "Hakushu"
   },
   {
    "id": "b004_0053",
    "jp": "{kata}テンキパ{hira}",
-   "en": null
+   "en": "Tenkipa"
   },
   {
    "id": "b004_0054",
    "jp": "{kata}サクラン{hira}",
-   "en": null
+   "en": "Sakuran"
   },
   {
    "id": "b004_0055",
    "jp": "{kata}オカダデ{hira}",
-   "en": null
+   "en": "Okadade"
   },
   {
    "id": "b004_0056",
@@ -292,92 +292,92 @@
   {
    "id": "b004_0057",
    "jp": "玉一",
-   "en": null
+   "en": "Tamaichi"
   },
   {
    "id": "b004_0058",
    "jp": "花子",
-   "en": null
+   "en": "Hanako"
   },
   {
    "id": "b004_0059",
    "jp": "兵太郎",
-   "en": null
+   "en": "Heitaro"
   },
   {
    "id": "b004_0060",
    "jp": "竹丸",
-   "en": null
+   "en": "Takemaru"
   },
   {
    "id": "b004_0061",
    "jp": "小太郎",
-   "en": null
+   "en": "Kotaro"
   },
   {
    "id": "b004_0062",
    "jp": "源太",
-   "en": null
+   "en": "Genta"
   },
   {
    "id": "b004_0063",
    "jp": "静",
-   "en": null
+   "en": "Shizuka"
   },
   {
    "id": "b004_0064",
    "jp": "牛太",
-   "en": null
+   "en": "Ushita"
   },
   {
    "id": "b004_0065",
    "jp": "お文",
-   "en": null
+   "en": "Ofumi"
   },
   {
    "id": "b004_0066",
    "jp": "福太",
-   "en": null
+   "en": "Fukuta"
   },
   {
    "id": "b004_0067",
    "jp": "奈々",
-   "en": null
+   "en": "Nana"
   },
   {
    "id": "b004_0068",
    "jp": "沙夜",
-   "en": null
+   "en": "Saya"
   },
   {
    "id": "b004_0069",
    "jp": "織",
-   "en": null
+   "en": "Ori"
   },
   {
    "id": "b004_0070",
    "jp": "龍兵",
-   "en": null
+   "en": "Ryuhei"
   },
   {
    "id": "b004_0071",
    "jp": "菊五郎",
-   "en": null
+   "en": "Kikugoro"
   },
   {
    "id": "b004_0072",
    "jp": "岩鉄",
-   "en": null
+   "en": "Gantetsu"
   },
   {
    "id": "b004_0073",
    "jp": "嵐",
-   "en": null
+   "en": "Arashi"
   },
   {
    "id": "b004_0074",
    "jp": "前次郎",
-   "en": null
+   "en": "Zenjiro"
   }
  ]
 }

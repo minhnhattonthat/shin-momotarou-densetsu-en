@@ -1,0 +1,2387 @@
+{
+ "note": "window-script text runs: en <= 2*cells chars, padded by the build",
+ "runs": [
+  {
+   "id": "w1CE27_02",
+   "jp": "      ※  ",
+   "cells": 9,
+   "en": "*"
+  },
+  {
+   "id": "w1CE27_06",
+   "jp": "    ※   ※ ",
+   "cells": 10,
+   "en": "*   *"
+  },
+  {
+   "id": "w1CE27_10",
+   "jp": "   ※  ※  ※ ",
+   "cells": 11,
+   "en": "*  *  *"
+  },
+  {
+   "id": "w1CE27_14",
+   "jp": "   ※ ※ ※ ※ ",
+   "cells": 11,
+   "en": "* * * *"
+  },
+  {
+   "id": "w1CF7A_07",
+   "jp": "武'器……",
+   "cells": 4,
+   "en": "Weapon.."
+  },
+  {
+   "id": "w1CF7A_10",
+   "jp": "頭………",
+   "cells": 4,
+   "en": "Head...."
+  },
+  {
+   "id": "w1CF7A_13",
+   "jp": "胴………",
+   "cells": 4,
+   "en": "Body...."
+  },
+  {
+   "id": "w1CF7A_16",
+   "jp": "足………",
+   "cells": 4,
+   "en": "Feet...."
+  },
+  {
+   "id": "w1CF7A_29",
+   "jp": "装備なし     ",
+   "cells": 9,
+   "en": "Nothing"
+  },
+  {
+   "id": "w1CF7A_35",
+   "jp": "－－－－－－－－－－－－－－－－－－－－",
+   "cells": 20,
+   "en": "----------------------------------------"
+  },
+  {
+   "id": "w1CF7A_127",
+   "jp": "装備はずす      ",
+   "cells": 11,
+   "en": "Unequip"
+  },
+  {
+   "id": "w1D15E_06",
+   "jp": "武'器  ",
+   "cells": 4,
+   "en": "Weapon"
+  },
+  {
+   "id": "w1D15E_10",
+   "jp": "次へ",
+   "cells": 2,
+   "en": "Next"
+  },
+  {
+   "id": "w1D15E_23",
+   "jp": "装備なし     ",
+   "cells": 9,
+   "en": "Nothing"
+  },
+  {
+   "id": "w1D15E_38",
+   "jp": "装備なし     ",
+   "cells": 9,
+   "en": "Nothing"
+  },
+  {
+   "id": "w1D15E_54",
+   "jp": "装備なし     ",
+   "cells": 9,
+   "en": "Nothing"
+  },
+  {
+   "id": "w1D15E_69",
+   "jp": "装備なし     ",
+   "cells": 9,
+   "en": "Nothing"
+  },
+  {
+   "id": "w1D15E_75",
+   "jp": "－－－－－－－－－－－－－－－－－－－－",
+   "cells": 20,
+   "en": "----------------------------------------"
+  },
+  {
+   "id": "w1DBB9_01",
+   "jp": "つかう",
+   "cells": 3,
+   "en": "Use"
+  },
+  {
+   "id": "w1DBB9_04",
+   "jp": "説明",
+   "cells": 2,
+   "en": "Info"
+  },
+  {
+   "id": "w1DBB9_08",
+   "jp": "場所",
+   "cells": 2,
+   "en": "Place"
+  },
+  {
+   "id": "w1DD43_03",
+   "jp": "旅立ちの村     ",
+   "cells": 10,
+   "en": "Journey's Start"
+  },
+  {
+   "id": "w1DD43_12",
+   "jp": "おむすび村     ",
+   "cells": 10,
+   "en": "Omusubi Village"
+  },
+  {
+   "id": "w1DD43_22",
+   "jp": "すゞめのお宿1  ",
+   "cells": 9,
+   "en": "Sparrow Inn 1"
+  },
+  {
+   "id": "w1DD43_31",
+   "jp": "花咲かの村     ",
+   "cells": 10,
+   "en": "Hanasaka Village"
+  },
+  {
+   "id": "w1DD43_41",
+   "jp": "金太郎の村     ",
+   "cells": 10,
+   "en": "Kintaro Village"
+  },
+  {
+   "id": "w1DD43_50",
+   "jp": "すゞめのお宿2  ",
+   "cells": 9,
+   "en": "Sparrow Inn 2"
+  },
+  {
+   "id": "w1DD43_60",
+   "jp": "浦島の村       ",
+   "cells": 11,
+   "en": "Urashima Village"
+  },
+  {
+   "id": "w1DD43_69",
+   "jp": "静かの村       ",
+   "cells": 11,
+   "en": "Quiet Village"
+  },
+  {
+   "id": "w1DD43_79",
+   "jp": "寝太郎の村左    ",
+   "cells": 10,
+   "en": "Netaro Village"
+  },
+  {
+   "id": "w1DD43_88",
+   "jp": "すゞめのお宿3  ",
+   "cells": 9,
+   "en": "Sparrow Inn 3"
+  },
+  {
+   "id": "w1DD43_98",
+   "jp": "微笑みの村     ",
+   "cells": 10,
+   "en": "Smile Village"
+  },
+  {
+   "id": "w1DD43_107",
+   "jp": "希望の都       ",
+   "cells": 11,
+   "en": "Capital of Hope"
+  },
+  {
+   "id": "w1DD43_117",
+   "jp": "すゞめのお宿4  ",
+   "cells": 9,
+   "en": "Sparrow Inn 4"
+  },
+  {
+   "id": "w1DD43_126",
+   "jp": "すゞめのお宿5  ",
+   "cells": 9,
+   "en": "Sparrow Inn 5"
+  },
+  {
+   "id": "w1DD43_136",
+   "jp": "新しい村       ",
+   "cells": 11,
+   "en": "New Village"
+  },
+  {
+   "id": "w1DD43_145",
+   "jp": "夢の村        ",
+   "cells": 11,
+   "en": "Dream Village"
+  },
+  {
+   "id": "w1DD43_155",
+   "jp": "{kata}サルカニ{hira}の村    ",
+   "cells": 10,
+   "en": "Sarukani Village"
+  },
+  {
+   "id": "w1DD43_164",
+   "jp": "すゞめのお宿6  ",
+   "cells": 9,
+   "en": "Sparrow Inn 6"
+  },
+  {
+   "id": "w1DD43_174",
+   "jp": "からくりの村    ",
+   "cells": 10,
+   "en": "Gadget Village"
+  },
+  {
+   "id": "w1DD43_183",
+   "jp": "七夕の村       ",
+   "cells": 11,
+   "en": "Tanabata Village"
+  },
+  {
+   "id": "w1DD43_193",
+   "jp": "すゞめのお宿7  ",
+   "cells": 9,
+   "en": "Sparrow Inn 7"
+  },
+  {
+   "id": "w1DD43_202",
+   "jp": "竹取りの村     ",
+   "cells": 10,
+   "en": "Bamboo Village"
+  },
+  {
+   "id": "w1DD43_212",
+   "jp": "嵐の村        ",
+   "cells": 11,
+   "en": "Storm Village"
+  },
+  {
+   "id": "w1DD43_221",
+   "jp": "月の宮殿       ",
+   "cells": 11,
+   "en": "Moon Palace"
+  },
+  {
+   "id": "w1DD43_231",
+   "jp": "豊かの村       ",
+   "cells": 11,
+   "en": "Plenty Village"
+  },
+  {
+   "id": "w1DD43_240",
+   "jp": "鬼が島        ",
+   "cells": 11,
+   "en": "Onigashima"
+  },
+  {
+   "id": "w1E150_02",
+   "jp": "日照り     ",
+   "cells": 8,
+   "en": "Drought"
+  },
+  {
+   "id": "w1E150_04",
+   "jp": "晴れ     ",
+   "cells": 7,
+   "en": "Clear"
+  },
+  {
+   "id": "w1E150_06",
+   "jp": "雨    ",
+   "cells": 5,
+   "en": "Rain"
+  },
+  {
+   "id": "w1E150_10",
+   "jp": "日本晴れ    ",
+   "cells": 8,
+   "en": "Fine Day"
+  },
+  {
+   "id": "w1E150_12",
+   "jp": "雷雨     ",
+   "cells": 7,
+   "en": "Storm"
+  },
+  {
+   "id": "w1E150_14",
+   "jp": "雪    ",
+   "cells": 5,
+   "en": "Snow"
+  },
+  {
+   "id": "w1EF1E_01",
+   "jp": "話す  ",
+   "cells": 4,
+   "en": "Talk"
+  },
+  {
+   "id": "w1EF1E_03",
+   "jp": "道具",
+   "cells": 2,
+   "en": "Items"
+  },
+  {
+   "id": "w1EF1E_06",
+   "jp": "術   ",
+   "cells": 4,
+   "en": "Arts"
+  },
+  {
+   "id": "w1EF1E_08",
+   "jp": "装備",
+   "cells": 2,
+   "en": "Equip"
+  },
+  {
+   "id": "w1EF1E_11",
+   "jp": "強さ  ",
+   "cells": 4,
+   "en": "Status"
+  },
+  {
+   "id": "w1EF1E_14",
+   "jp": "命令",
+   "cells": 2,
+   "en": "Lead"
+  },
+  {
+   "id": "w1EF1E_18",
+   "jp": "調べる",
+   "cells": 3,
+   "en": "Search"
+  },
+  {
+   "id": "w1EF1E_20",
+   "jp": "特別 ",
+   "cells": 3,
+   "en": "Special"
+  },
+  {
+   "id": "w1EF76_03",
+   "jp": "話す ",
+   "cells": 3,
+   "en": "Talk"
+  },
+  {
+   "id": "w1EF76_06",
+   "jp": "城  ",
+   "cells": 3,
+   "en": "Castle"
+  },
+  {
+   "id": "w1EF76_09",
+   "jp": "道具 ",
+   "cells": 3,
+   "en": "Items"
+  },
+  {
+   "id": "w1EF76_11",
+   "jp": "強さ ",
+   "cells": 3,
+   "en": "Status"
+  },
+  {
+   "id": "w1EF76_13",
+   "jp": "調べる",
+   "cells": 3,
+   "en": "Search"
+  },
+  {
+   "id": "w1EF76_15",
+   "jp": "  持ち金 ",
+   "cells": 6,
+   "en": "Money"
+  },
+  {
+   "id": "w1EF76_20",
+   "jp": "術  ",
+   "cells": 3,
+   "en": "Arts"
+  },
+  {
+   "id": "w1EF76_22",
+   "jp": "装備 ",
+   "cells": 3,
+   "en": "Equip"
+  },
+  {
+   "id": "w1EF76_25",
+   "jp": "命令",
+   "cells": 2,
+   "en": "Lead"
+  },
+  {
+   "id": "w1EF76_32",
+   "jp": "特別  ",
+   "cells": 4,
+   "en": "Special"
+  },
+  {
+   "id": "w1F096_01",
+   "jp": "{kata}セリフ{hira}",
+   "cells": 3,
+   "en": "Speech"
+  },
+  {
+   "id": "w1F096_04",
+   "jp": "順番",
+   "cells": 2,
+   "en": "Order"
+  },
+  {
+   "id": "w1F096_08",
+   "jp": "歩み",
+   "cells": 2,
+   "en": "Walk"
+  },
+  {
+   "id": "w1F096_11",
+   "jp": "ひえん",
+   "cells": 3,
+   "en": "Swallow"
+  },
+  {
+   "id": "w1F096_14",
+   "jp": "音楽",
+   "cells": 2,
+   "en": "Music"
+  },
+  {
+   "id": "w1F0EB_01",
+   "jp": "    〈歩くはやさ〉",
+   "cells": 11,
+   "en": "<Walking Speed>"
+  },
+  {
+   "id": "w1F0EB_05",
+   "jp": "はやい",
+   "cells": 3,
+   "en": "Fast"
+  },
+  {
+   "id": "w1F0EB_07",
+   "jp": "ふつう",
+   "cells": 3,
+   "en": "Normal"
+  },
+  {
+   "id": "w1F0EB_09",
+   "jp": "おそい",
+   "cells": 3,
+   "en": "Slow"
+  },
+  {
+   "id": "w1F157_01",
+   "jp": "     〈ひえんのはやさ〉",
+   "cells": 14,
+   "en": "<Swallow Wing Speed>"
+  },
+  {
+   "id": "w1F157_05",
+   "jp": "ほんき",
+   "cells": 3,
+   "en": "Max"
+  },
+  {
+   "id": "w1F157_07",
+   "jp": "はやい",
+   "cells": 3,
+   "en": "Fast"
+  },
+  {
+   "id": "w1F157_09",
+   "jp": "ふつう",
+   "cells": 3,
+   "en": "Normal"
+  },
+  {
+   "id": "w1F157_11",
+   "jp": "おそい",
+   "cells": 3,
+   "en": "Slow"
+  },
+  {
+   "id": "w1F1AA_01",
+   "jp": "      〈{kata}セリフ{hira}のはやさ〉",
+   "cells": 15,
+   "en": "<Speech Speed>"
+  },
+  {
+   "id": "w1F1AA_05",
+   "jp": "ほんき",
+   "cells": 3,
+   "en": "Max"
+  },
+  {
+   "id": "w1F1AA_07",
+   "jp": "はやい",
+   "cells": 3,
+   "en": "Fast"
+  },
+  {
+   "id": "w1F1AA_09",
+   "jp": "ふつう",
+   "cells": 3,
+   "en": "Normal"
+  },
+  {
+   "id": "w1F1AA_11",
+   "jp": "おそい",
+   "cells": 3,
+   "en": "Slow"
+  },
+  {
+   "id": "w1F201_01",
+   "jp": "{kata}ステレオ{hira}",
+   "cells": 4,
+   "en": "Stereo"
+  },
+  {
+   "id": "w1F201_04",
+   "jp": "{kata}モノラル{hira}",
+   "cells": 4,
+   "en": "Mono"
+  },
+  {
+   "id": "w1F26A_01",
+   "jp": " ← 前     〈順番〉     後 →",
+   "cells": 21,
+   "en": "<- Front   <Order>   Back ->"
+  },
+  {
+   "id": "w1F32A_01",
+   "jp": "浮上",
+   "cells": 2,
+   "en": "Rise"
+  },
+  {
+   "id": "w1F32A_04",
+   "jp": "降下",
+   "cells": 2,
+   "en": "Dive"
+  },
+  {
+   "id": "w2E3ED_05",
+   "jp": " 匹",
+   "cells": 2,
+   "en": " x"
+  },
+  {
+   "id": "w2E3ED_10",
+   "jp": "         ひとり",
+   "cells": 12,
+   "en": "alone"
+  },
+  {
+   "id": "w2E3ED_18",
+   "jp": " 匹",
+   "cells": 2,
+   "en": " x"
+  },
+  {
+   "id": "w2E3ED_23",
+   "jp": "         ひとり",
+   "cells": 12,
+   "en": "alone"
+  },
+  {
+   "id": "w2E3ED_31",
+   "jp": " 匹",
+   "cells": 2,
+   "en": " x"
+  },
+  {
+   "id": "w2E3ED_36",
+   "jp": "         ひとり",
+   "cells": 12,
+   "en": "alone"
+  },
+  {
+   "id": "w2E3ED_44",
+   "jp": " 匹",
+   "cells": 2,
+   "en": " x"
+  },
+  {
+   "id": "w2E3ED_50",
+   "jp": "         ひとり",
+   "cells": 12,
+   "en": "alone"
+  },
+  {
+   "id": "w2E7BC_01",
+   "jp": "小波",
+   "cells": 2,
+   "en": "Ripple"
+  },
+  {
+   "id": "w2E7BC_04",
+   "jp": "ばいりき",
+   "cells": 4,
+   "en": "Power Up"
+  },
+  {
+   "id": "w2E7BC_07",
+   "jp": "ふにゃら",
+   "cells": 4,
+   "en": "Floppy"
+  },
+  {
+   "id": "w2E8FA_01",
+   "jp": "はり手",
+   "cells": 3,
+   "en": "Slap"
+  },
+  {
+   "id": "w2E8FA_05",
+   "jp": "つっぱり",
+   "cells": 4,
+   "en": "Thrust"
+  },
+  {
+   "id": "w2E8FA_10",
+   "jp": "頭突き",
+   "cells": 3,
+   "en": "Headbutt"
+  },
+  {
+   "id": "w2E95B_01",
+   "jp": "梅",
+   "cells": 1,
+   "en": "Ume"
+  },
+  {
+   "id": "w2E95B_05",
+   "jp": "竹",
+   "cells": 1,
+   "en": "Take"
+  },
+  {
+   "id": "w2E95B_10",
+   "jp": "松",
+   "cells": 1,
+   "en": "Matsu"
+  },
+  {
+   "id": "w2E95B_15",
+   "jp": "特",
+   "cells": 1,
+   "en": "Toku"
+  },
+  {
+   "id": "w2E9B9_01",
+   "jp": "おかか",
+   "cells": 3,
+   "en": "Bonito"
+  },
+  {
+   "id": "w2E9B9_04",
+   "jp": "べに{kata}シャケ{hira}",
+   "cells": 5,
+   "en": "Red Salmon"
+  },
+  {
+   "id": "w2E9B9_07",
+   "jp": "うめ",
+   "cells": 2,
+   "en": "Plum"
+  },
+  {
+   "id": "w2E9B9_10",
+   "jp": "たらこ",
+   "cells": 3,
+   "en": "Cod Roe"
+  },
+  {
+   "id": "w2E9B9_13",
+   "jp": "こんぶ",
+   "cells": 3,
+   "en": "Kelp"
+  },
+  {
+   "id": "w2E9B9_16",
+   "jp": "{kata}チキン{hira}からし",
+   "cells": 6,
+   "en": "Chicken Mustard"
+  },
+  {
+   "id": "w2E9B9_19",
+   "jp": "めんたいこ",
+   "cells": 5,
+   "en": "Spicy Roe"
+  },
+  {
+   "id": "w2E9B9_22",
+   "jp": "{kata}シ{hira}ー{kata}チキン{hira}",
+   "cells": 5,
+   "en": "Sea Chicken"
+  },
+  {
+   "id": "w2EA6B_01",
+   "jp": "   年",
+   "cells": 4,
+   "en": "yrs"
+  },
+  {
+   "id": "w2EA9B_01",
+   "jp": "こどもだな!{kata}コ{hira}ー{kata}ス{hira}",
+   "cells": 9,
+   "en": "Kiddie Course"
+  },
+  {
+   "id": "w2EA9B_04",
+   "jp": "大人じゃん!{kata}コ{hira}ー{kata}ス{hira}",
+   "cells": 9,
+   "en": "Grown-up Course"
+  },
+  {
+   "id": "w2EB90_01",
+   "jp": "つかう",
+   "cells": 3,
+   "en": "Use"
+  },
+  {
+   "id": "w2EB90_04",
+   "jp": "説明",
+   "cells": 2,
+   "en": "Info"
+  },
+  {
+   "id": "w2EFB4_01",
+   "jp": "    両",
+   "cells": 5,
+   "en": " ryo"
+  },
+  {
+   "id": "w2EFE9_01",
+   "jp": "日照り  ",
+   "cells": 5,
+   "en": "Drought"
+  },
+  {
+   "id": "w2EFE9_03",
+   "jp": "日本晴れ ",
+   "cells": 5,
+   "en": "Fine Day"
+  },
+  {
+   "id": "w2EFE9_05",
+   "jp": "晴れ",
+   "cells": 2,
+   "en": "Clear"
+  },
+  {
+   "id": "w2EFE9_08",
+   "jp": "雨     ",
+   "cells": 6,
+   "en": "Rain"
+  },
+  {
+   "id": "w2EFE9_10",
+   "jp": "雷雨    ",
+   "cells": 6,
+   "en": "Storm"
+  },
+  {
+   "id": "w2EFE9_12",
+   "jp": "雪",
+   "cells": 1,
+   "en": "Snow"
+  },
+  {
+   "id": "w2EFE9_15",
+   "jp": "時化",
+   "cells": 2,
+   "en": "Gale"
+  },
+  {
+   "id": "w2F079_00",
+   "jp": "分身",
+   "cells": 2,
+   "en": "Double"
+  },
+  {
+   "id": "w2F079_02",
+   "jp": "体力 ",
+   "cells": 3,
+   "en": "Health"
+  },
+  {
+   "id": "w2F079_06",
+   "jp": "技  ",
+   "cells": 3,
+   "en": "Skill"
+  },
+  {
+   "id": "w2F0CE_01",
+   "jp": "   城",
+   "cells": 4,
+   "en": "Castle"
+  },
+  {
+   "id": "w2F0CE_03",
+   "jp": "耐久度",
+   "cells": 3,
+   "en": "Armor"
+  },
+  {
+   "id": "w2F0CE_07",
+   "jp": "玉     ",
+   "cells": 6,
+   "en": "Shots"
+  },
+  {
+   "id": "w2F121_01",
+   "jp": "突撃",
+   "cells": 2,
+   "en": "Charge"
+  },
+  {
+   "id": "w2F121_05",
+   "jp": "大砲",
+   "cells": 2,
+   "en": "Cannon"
+  },
+  {
+   "id": "w2F121_09",
+   "jp": "修理  ",
+   "cells": 4,
+   "en": "Repair"
+  },
+  {
+   "id": "w2F121_11",
+   "jp": "逃げる",
+   "cells": 3,
+   "en": "Flee"
+  },
+  {
+   "id": "w3A4B5_01",
+   "jp": "つかう",
+   "cells": 3,
+   "en": "Use"
+  },
+  {
+   "id": "w3A4B5_04",
+   "jp": "説明",
+   "cells": 2,
+   "en": "Info"
+  },
+  {
+   "id": "w3A4B5_08",
+   "jp": "わたす",
+   "cells": 3,
+   "en": "Give"
+  },
+  {
+   "id": "w3A4B5_11",
+   "jp": "すてる",
+   "cells": 3,
+   "en": "Drop"
+  },
+  {
+   "id": "w3BE78_01",
+   "jp": "買う",
+   "cells": 2,
+   "en": "Buy"
+  },
+  {
+   "id": "w3BE78_05",
+   "jp": "売る",
+   "cells": 2,
+   "en": "Sell"
+  },
+  {
+   "id": "w3BE78_12",
+   "jp": "下取り",
+   "cells": 3,
+   "en": "Trade-in"
+  },
+  {
+   "id": "w3BE78_16",
+   "jp": "堀り出し物",
+   "cells": 5,
+   "en": "Bargains"
+  },
+  {
+   "id": "w3BE78_20",
+   "jp": "薬を作る",
+   "cells": 4,
+   "en": "Brew"
+  },
+  {
+   "id": "w3BE78_24",
+   "jp": "説明",
+   "cells": 2,
+   "en": "Info"
+  },
+  {
+   "id": "w3BE78_27",
+   "jp": "やめる",
+   "cells": 3,
+   "en": "Leave"
+  },
+  {
+   "id": "w3C39C_01",
+   "jp": "毒を消す",
+   "cells": 4,
+   "en": "Cure Poison"
+  },
+  {
+   "id": "w3C39C_04",
+   "jp": "{kata}マヒ{hira}をなおす",
+   "cells": 6,
+   "en": "Cure Paralysis"
+  },
+  {
+   "id": "w3C39C_07",
+   "jp": "大けが",
+   "cells": 3,
+   "en": "Heal Wounds"
+  },
+  {
+   "id": "w3C39C_10",
+   "jp": "ぜんぶ",
+   "cells": 3,
+   "en": "Everything"
+  },
+  {
+   "id": "w3C39C_13",
+   "jp": "やめる",
+   "cells": 3,
+   "en": "Leave"
+  },
+  {
+   "id": "w3C3E7_01",
+   "jp": "あそぶ",
+   "cells": 3,
+   "en": "Play"
+  },
+  {
+   "id": "w3C3E7_04",
+   "jp": "説明",
+   "cells": 2,
+   "en": "Info"
+  },
+  {
+   "id": "w3C3E7_07",
+   "jp": "やめる",
+   "cells": 3,
+   "en": "Leave"
+  },
+  {
+   "id": "w3C51B_01",
+   "jp": "大きいつづら",
+   "cells": 6,
+   "en": "Big Basket"
+  },
+  {
+   "id": "w3C51B_04",
+   "jp": "小さいつづら",
+   "cells": 6,
+   "en": "Small Basket"
+  },
+  {
+   "id": "w3C57F_01",
+   "jp": "お金",
+   "cells": 2,
+   "en": "Money"
+  },
+  {
+   "id": "w3C57F_04",
+   "jp": "道具",
+   "cells": 2,
+   "en": "Items"
+  },
+  {
+   "id": "w3C57F_07",
+   "jp": "説明",
+   "cells": 2,
+   "en": "Info"
+  },
+  {
+   "id": "w3C57F_10",
+   "jp": "やめる",
+   "cells": 3,
+   "en": "Leave"
+  },
+  {
+   "id": "w3C5C0_01",
+   "jp": "あずける",
+   "cells": 4,
+   "en": "Deposit"
+  },
+  {
+   "id": "w3C5C0_04",
+   "jp": "お引き出し",
+   "cells": 5,
+   "en": "Withdraw"
+  },
+  {
+   "id": "w3C5C0_07",
+   "jp": "やめる",
+   "cells": 3,
+   "en": "Leave"
+  },
+  {
+   "id": "w3C92A_01",
+   "jp": "あずける",
+   "cells": 4,
+   "en": "Leave Some"
+  },
+  {
+   "id": "w3C92A_04",
+   "jp": "あずけない",
+   "cells": 5,
+   "en": "Don't"
+  },
+  {
+   "id": "w3C92A_07",
+   "jp": "たくわん",
+   "cells": 4,
+   "en": "Takuan"
+  },
+  {
+   "id": "w3C92A_10",
+   "jp": "千枚づけ",
+   "cells": 4,
+   "en": "Senmai-zuke"
+  },
+  {
+   "id": "w3C92A_13",
+   "jp": "説明",
+   "cells": 2,
+   "en": "Info"
+  },
+  {
+   "id": "w3C974_01",
+   "jp": " 本",
+   "cells": 2,
+   "en": " pcs"
+  },
+  {
+   "id": "w3C994_01",
+   "jp": "買う",
+   "cells": 2,
+   "en": "Buy"
+  },
+  {
+   "id": "w3C994_04",
+   "jp": "説明",
+   "cells": 2,
+   "en": "Info"
+  },
+  {
+   "id": "w3C994_07",
+   "jp": "やめる",
+   "cells": 3,
+   "en": "Leave"
+  },
+  {
+   "id": "w3C9D5_08",
+   "jp": "売り切れ",
+   "cells": 4,
+   "en": "Sold Out"
+  },
+  {
+   "id": "w3C9D5_19",
+   "jp": "売り切れ",
+   "cells": 4,
+   "en": "Sold Out"
+  },
+  {
+   "id": "w3C9D5_30",
+   "jp": "売り切れ",
+   "cells": 4,
+   "en": "Sold Out"
+  },
+  {
+   "id": "w3C9D5_41",
+   "jp": "売り切れ",
+   "cells": 4,
+   "en": "Sold Out"
+  },
+  {
+   "id": "w3C9D5_52",
+   "jp": "売り切れ",
+   "cells": 4,
+   "en": "Sold Out"
+  },
+  {
+   "id": "w3C9D5_63",
+   "jp": "売り切れ",
+   "cells": 4,
+   "en": "Sold Out"
+  },
+  {
+   "id": "w3CB16_22",
+   "jp": "やめる",
+   "cells": 3,
+   "en": "Leave"
+  },
+  {
+   "id": "w3CB94_01",
+   "jp": "このあたりの鬼",
+   "cells": 7,
+   "en": "Oni Around Here"
+  },
+  {
+   "id": "w3CB94_04",
+   "jp": "人気度",
+   "cells": 3,
+   "en": "Popularity"
+  },
+  {
+   "id": "w3CBCC_01",
+   "jp": "旅の話",
+   "cells": 3,
+   "en": "Travel Tales"
+  },
+  {
+   "id": "w3CBCC_04",
+   "jp": "おはらいする",
+   "cells": 6,
+   "en": "Purification"
+  },
+  {
+   "id": "w3CBCC_07",
+   "jp": "やめる",
+   "cells": 3,
+   "en": "Leave"
+  },
+  {
+   "id": "w3CD6A_01",
+   "jp": "赤",
+   "cells": 1,
+   "en": "Red"
+  },
+  {
+   "id": "w3CD6A_04",
+   "jp": "青",
+   "cells": 1,
+   "en": "Blue"
+  },
+  {
+   "id": "w3CD6A_07",
+   "jp": "黄",
+   "cells": 1,
+   "en": "Yellow"
+  },
+  {
+   "id": "w3CD6A_10",
+   "jp": "緑",
+   "cells": 1,
+   "en": "Green"
+  },
+  {
+   "id": "w3CD6A_13",
+   "jp": "桃",
+   "cells": 1,
+   "en": "Pink"
+  },
+  {
+   "id": "w3CDCE_08",
+   "jp": "うりきれ",
+   "cells": 4,
+   "en": "Sold Out"
+  },
+  {
+   "id": "w3CDCE_19",
+   "jp": "うりきれ",
+   "cells": 4,
+   "en": "Sold Out"
+  },
+  {
+   "id": "w3CE1E_08",
+   "jp": "うりきれ",
+   "cells": 4,
+   "en": "Sold Out"
+  },
+  {
+   "id": "w3CE1E_19",
+   "jp": "うりきれ",
+   "cells": 4,
+   "en": "Sold Out"
+  },
+  {
+   "id": "w3CE1E_30",
+   "jp": "うりきれ",
+   "cells": 4,
+   "en": "Sold Out"
+  },
+  {
+   "id": "w3CECD_01",
+   "jp": "かう",
+   "cells": 2,
+   "en": "Buy"
+  },
+  {
+   "id": "w3CECD_04",
+   "jp": "かわない",
+   "cells": 4,
+   "en": "Don't Buy"
+  },
+  {
+   "id": "w3CF00_47",
+   "jp": "説明",
+   "cells": 2,
+   "en": "Info"
+  },
+  {
+   "id": "w3CF00_50",
+   "jp": "べつに いいです!",
+   "cells": 9,
+   "en": "No, thanks!"
+  },
+  {
+   "id": "w3CFF0_02",
+   "jp": "空を飛ばせる  ",
+   "cells": 8,
+   "en": "Make It Fly"
+  },
+  {
+   "id": "w3CFF0_13",
+   "jp": "海を潜らせる  ",
+   "cells": 8,
+   "en": "Make It Dive"
+  },
+  {
+   "id": "w3CFF0_24",
+   "jp": "大砲をつける  ",
+   "cells": 8,
+   "en": "Add a Cannon"
+  },
+  {
+   "id": "w3D09E_01",
+   "jp": "大砲の玉        ",
+   "cells": 12,
+   "en": "Cannonball"
+  },
+  {
+   "id": "w3D09E_08",
+   "jp": "大砲の玉10発  ",
+   "cells": 9,
+   "en": "10 Cannonballs"
+  },
+  {
+   "id": "w3D09E_16",
+   "jp": "城修理道具      ",
+   "cells": 11,
+   "en": "Castle Repair Kit"
+  },
+  {
+   "id": "w3D09E_23",
+   "jp": "   大砲の玉残り ",
+   "cells": 10,
+   "en": "Shots Left"
+  },
+  {
+   "id": "w3D09E_25",
+   "jp": " 発",
+   "cells": 2,
+   "en": "x"
+  },
+  {
+   "id": "w3D14C_02",
+   "jp": "兵具屋",
+   "cells": 3,
+   "en": "Armory"
+  },
+  {
+   "id": "w3D14C_10",
+   "jp": "兵具屋2",
+   "cells": 4,
+   "en": "Armory 2"
+  },
+  {
+   "id": "w3D14C_17",
+   "jp": "茶屋",
+   "cells": 2,
+   "en": "Tea"
+  },
+  {
+   "id": "w3D14C_25",
+   "jp": "茶屋2",
+   "cells": 3,
+   "en": "Tea 2"
+  },
+  {
+   "id": "w3D14C_34",
+   "jp": "薬屋",
+   "cells": 2,
+   "en": "Herb"
+  },
+  {
+   "id": "w3D14C_42",
+   "jp": "餌屋",
+   "cells": 2,
+   "en": "Feed"
+  },
+  {
+   "id": "w3D14C_49",
+   "jp": "やめる",
+   "cells": 3,
+   "en": "Leave"
+  },
+  {
+   "id": "w4E277_01",
+   "jp": " 回",
+   "cells": 2,
+   "en": " x"
+  },
+  {
+   "id": "w4E2A1_01",
+   "jp": "はい",
+   "cells": 2,
+   "en": "Yes"
+  },
+  {
+   "id": "w4E2A1_04",
+   "jp": "いいえ",
+   "cells": 3,
+   "en": "No"
+  },
+  {
+   "id": "w4E2A1_07",
+   "jp": "説明",
+   "cells": 2,
+   "en": "Info"
+  },
+  {
+   "id": "w4E54D_09",
+   "jp": "体力   ",
+   "cells": 5,
+   "en": "Health"
+  },
+  {
+   "id": "w4E54D_17",
+   "jp": "攻撃力 ",
+   "cells": 4,
+   "en": "Attack"
+  },
+  {
+   "id": "w4E54D_25",
+   "jp": "守備力 ",
+   "cells": 4,
+   "en": "Defense"
+  },
+  {
+   "id": "w4E54D_33",
+   "jp": "早さ   ",
+   "cells": 5,
+   "en": "Speed"
+  },
+  {
+   "id": "w4E54D_41",
+   "jp": "合計   ",
+   "cells": 5,
+   "en": "Total"
+  },
+  {
+   "id": "w4E5E2_06",
+   "jp": "体力   ",
+   "cells": 5,
+   "en": "Health"
+  },
+  {
+   "id": "w4E5E2_10",
+   "jp": "攻撃力 ",
+   "cells": 4,
+   "en": "Attack"
+  },
+  {
+   "id": "w4E5E2_14",
+   "jp": "守備力 ",
+   "cells": 4,
+   "en": "Defense"
+  },
+  {
+   "id": "w4E5E2_18",
+   "jp": "早さ   ",
+   "cells": 5,
+   "en": "Speed"
+  },
+  {
+   "id": "w4E5E2_22",
+   "jp": "合計   ",
+   "cells": 5,
+   "en": "Total"
+  },
+  {
+   "id": "w4E77A_01",
+   "jp": "1の話",
+   "cells": 3,
+   "en": "Tale 1"
+  },
+  {
+   "id": "w4E77A_04",
+   "jp": "2の話",
+   "cells": 3,
+   "en": "Tale 2"
+  },
+  {
+   "id": "w4E77A_07",
+   "jp": "3の話",
+   "cells": 3,
+   "en": "Tale 3"
+  },
+  {
+   "id": "w4E7B4_02",
+   "jp": "かね童子",
+   "cells": 4,
+   "en": "Kane Doji"
+  },
+  {
+   "id": "w4E7B4_07",
+   "jp": "くま童子",
+   "cells": 4,
+   "en": "Kuma Doji"
+  },
+  {
+   "id": "w4E7B4_12",
+   "jp": "とらくま童子",
+   "cells": 6,
+   "en": "Torakuma Doji"
+  },
+  {
+   "id": "w4E7B4_17",
+   "jp": "ほしくま童子",
+   "cells": 6,
+   "en": "Hoshikuma Doji"
+  },
+  {
+   "id": "w4E862_03",
+   "jp": "体力 ",
+   "cells": 3,
+   "en": "Health"
+  },
+  {
+   "id": "w4E862_08",
+   "jp": "合計 ",
+   "cells": 3,
+   "en": "Total"
+  },
+  {
+   "id": "w4E89F_01",
+   "jp": "攻撃力を",
+   "cells": 4,
+   "en": "Attack"
+  },
+  {
+   "id": "w4E89F_03",
+   "jp": " 上げる!",
+   "cells": 5,
+   "en": " up!"
+  },
+  {
+   "id": "w4E89F_06",
+   "jp": "守備力を",
+   "cells": 4,
+   "en": "Defense"
+  },
+  {
+   "id": "w4E89F_08",
+   "jp": " 上げる!",
+   "cells": 5,
+   "en": " up!"
+  },
+  {
+   "id": "w4E89F_11",
+   "jp": "はやさを",
+   "cells": 4,
+   "en": "Speed"
+  },
+  {
+   "id": "w4E89F_13",
+   "jp": " 上げる!",
+   "cells": 5,
+   "en": " up!"
+  },
+  {
+   "id": "w4E90D_01",
+   "jp": "最大体力を",
+   "cells": 5,
+   "en": "Max Health"
+  },
+  {
+   "id": "w4E90D_03",
+   "jp": " 上げる!",
+   "cells": 5,
+   "en": " up!"
+  },
+  {
+   "id": "w4E90D_06",
+   "jp": "最大技数を",
+   "cells": 5,
+   "en": "Max Skill"
+  },
+  {
+   "id": "w4E90D_08",
+   "jp": " 上げる!",
+   "cells": 5,
+   "en": " up!"
+  },
+  {
+   "id": "w4E90D_11",
+   "jp": "人気度を  ",
+   "cells": 6,
+   "en": "Popularity"
+  },
+  {
+   "id": "w4E90D_13",
+   "jp": " 上げる!",
+   "cells": 5,
+   "en": " up!"
+  },
+  {
+   "id": "w4E986_01",
+   "jp": "登別のお湯……白色",
+   "cells": 9,
+   "en": "Noboribetsu: white"
+  },
+  {
+   "id": "w4E986_04",
+   "jp": "草津のお湯……黄色",
+   "cells": 9,
+   "en": "Kusatsu: yellow"
+  },
+  {
+   "id": "w4E986_07",
+   "jp": "別府のお湯……若草色",
+   "cells": 10,
+   "en": "Beppu: light green"
+  },
+  {
+   "id": "w4E986_10",
+   "jp": "作並のお湯……{kata}オレンジ{hira}色",
+   "cells": 12,
+   "en": "Sakunami: orange"
+  },
+  {
+   "id": "w4E986_13",
+   "jp": "いいえ",
+   "cells": 3,
+   "en": "No"
+  },
+  {
+   "id": "w4E9FA_01",
+   "jp": "屋上 ",
+   "cells": 3,
+   "en": "Roof"
+  },
+  {
+   "id": "w4E9FA_04",
+   "jp": "4階 ",
+   "cells": 3,
+   "en": "4th Floor"
+  },
+  {
+   "id": "w4E9FA_07",
+   "jp": "3階 ",
+   "cells": 3,
+   "en": "3rd Floor"
+  },
+  {
+   "id": "w4E9FA_10",
+   "jp": "2階 ",
+   "cells": 3,
+   "en": "2nd Floor"
+  },
+  {
+   "id": "w4E9FA_13",
+   "jp": "1階 ",
+   "cells": 3,
+   "en": "1st Floor"
+  },
+  {
+   "id": "w59D95_01",
+   "jp": "身のこなし",
+   "cells": 5,
+   "en": "Agility"
+  },
+  {
+   "id": "w59D95_04",
+   "jp": "好奇心",
+   "cells": 3,
+   "en": "Curiosity"
+  },
+  {
+   "id": "w59D95_07",
+   "jp": "頭のよさ",
+   "cells": 4,
+   "en": "Brains"
+  },
+  {
+   "id": "w59DB7_01",
+   "jp": "身のこなし ",
+   "cells": 6,
+   "en": "Agility"
+  },
+  {
+   "id": "w59DB7_03",
+   "jp": "好奇心 ",
+   "cells": 4,
+   "en": "Curious"
+  },
+  {
+   "id": "w59DB7_05",
+   "jp": "頭のよさ ",
+   "cells": 5,
+   "en": "Brains"
+  },
+  {
+   "id": "w5A14E_02",
+   "jp": "〈",
+   "cells": 1,
+   "en": "<"
+  },
+  {
+   "id": "w5A14E_04",
+   "jp": "   〉",
+   "cells": 4,
+   "en": ">"
+  },
+  {
+   "id": "w5A14E_07",
+   "jp": "身のこなし ",
+   "cells": 6,
+   "en": "Agility"
+  },
+  {
+   "id": "w5A14E_11",
+   "jp": "好奇心    ",
+   "cells": 7,
+   "en": "Curiosity"
+  },
+  {
+   "id": "w5A14E_15",
+   "jp": "頭のよさ   ",
+   "cells": 7,
+   "en": "Brains"
+  },
+  {
+   "id": "w5A14E_27",
+   "jp": "〈",
+   "cells": 1,
+   "en": "<"
+  },
+  {
+   "id": "w5A14E_29",
+   "jp": "   〉",
+   "cells": 4,
+   "en": ">"
+  },
+  {
+   "id": "w5A14E_32",
+   "jp": "身のこなし ",
+   "cells": 6,
+   "en": "Agility"
+  },
+  {
+   "id": "w5A14E_36",
+   "jp": "好奇心    ",
+   "cells": 7,
+   "en": "Curiosity"
+  },
+  {
+   "id": "w5A14E_40",
+   "jp": "頭のよさ   ",
+   "cells": 7,
+   "en": "Brains"
+  },
+  {
+   "id": "w5A14E_52",
+   "jp": "〈",
+   "cells": 1,
+   "en": "<"
+  },
+  {
+   "id": "w5A14E_54",
+   "jp": "   〉",
+   "cells": 4,
+   "en": ">"
+  },
+  {
+   "id": "w5A14E_57",
+   "jp": "身のこなし ",
+   "cells": 6,
+   "en": "Agility"
+  },
+  {
+   "id": "w5A14E_61",
+   "jp": "好奇心    ",
+   "cells": 7,
+   "en": "Curiosity"
+  },
+  {
+   "id": "w5A14E_65",
+   "jp": "頭のよさ   ",
+   "cells": 7,
+   "en": "Brains"
+  },
+  {
+   "id": "w5A8A6_03",
+   "jp": "  総合",
+   "cells": 4,
+   "en": "^Overall"
+  },
+  {
+   "id": "w5A8A6_06",
+   "jp": " 身のこなし",
+   "cells": 6,
+   "en": "Agility"
+  },
+  {
+   "id": "w5A8A6_09",
+   "jp": " 好奇心",
+   "cells": 4,
+   "en": "^Curious"
+  },
+  {
+   "id": "w5A8A6_12",
+   "jp": " 頭のよさ",
+   "cells": 5,
+   "en": "Brains"
+  },
+  {
+   "id": "w5B0C2_01",
+   "jp": "見ない",
+   "cells": 3,
+   "en": "Don't Look"
+  },
+  {
+   "id": "w5B0C2_04",
+   "jp": "段数による順位",
+   "cells": 7,
+   "en": "Ranked by Rank"
+  },
+  {
+   "id": "w5B0C2_07",
+   "jp": "最大体力による順位",
+   "cells": 9,
+   "en": "Ranked by Max Health"
+  },
+  {
+   "id": "w5B0C2_10",
+   "jp": "最大技数による順位",
+   "cells": 9,
+   "en": "Ranked by Max Skill"
+  },
+  {
+   "id": "w5B0C2_13",
+   "jp": "攻撃力による順位",
+   "cells": 8,
+   "en": "Ranked by Attack"
+  },
+  {
+   "id": "w5B0C2_16",
+   "jp": "守備力による順位",
+   "cells": 8,
+   "en": "Ranked by Defense"
+  },
+  {
+   "id": "w5B0C2_19",
+   "jp": "はやさによる順位",
+   "cells": 8,
+   "en": "Ranked by Speed"
+  },
+  {
+   "id": "w5B155_01",
+   "jp": "見ない",
+   "cells": 3,
+   "en": "Don't Look"
+  },
+  {
+   "id": "w5B155_04",
+   "jp": "毒をくらった回数",
+   "cells": 8,
+   "en": "Times Poisoned"
+  },
+  {
+   "id": "w5B155_07",
+   "jp": "{kata}マヒ{hira}した回数",
+   "cells": 6,
+   "en": "Times Paralyzed"
+  },
+  {
+   "id": "w5B155_10",
+   "jp": "呪われた回数",
+   "cells": 6,
+   "en": "Times Cursed"
+  },
+  {
+   "id": "w5B96C_04",
+   "jp": "耐",
+   "cells": 1,
+   "en": "A"
+  },
+  {
+   "id": "w5B96C_06",
+   "jp": "      玉",
+   "cells": 7,
+   "en": "^      Shots"
+  },
+  {
+   "id": "w5B96C_10",
+   "jp": "  耐久度",
+   "cells": 5,
+   "en": "Armor"
+  },
+  {
+   "id": "w5B9CE_00",
+   "jp": "どくけし仙人 ",
+   "cells": 7,
+   "en": "Detox Sage"
+  },
+  {
+   "id": "w5BB17_01",
+   "jp": "はい",
+   "cells": 2,
+   "en": "Yes"
+  },
+  {
+   "id": "w5BB17_04",
+   "jp": "いいえ",
+   "cells": 3,
+   "en": "No"
+  },
+  {
+   "id": "w5BC16_02",
+   "jp": "おまかせ",
+   "cells": 4,
+   "en": "Auto"
+  },
+  {
+   "id": "w5BE13_33",
+   "jp": "  ／",
+   "cells": 3,
+   "en": "/"
+  },
+  {
+   "id": "w5BE13_38",
+   "jp": "  ／",
+   "cells": 3,
+   "en": "/"
+  },
+  {
+   "id": "w5BE13_76",
+   "jp": "  ／",
+   "cells": 3,
+   "en": "/"
+  },
+  {
+   "id": "w5BE13_81",
+   "jp": "  ／",
+   "cells": 3,
+   "en": "/"
+  },
+  {
+   "id": "w5BE13_119",
+   "jp": "  ／",
+   "cells": 3,
+   "en": "/"
+  },
+  {
+   "id": "w5BE13_124",
+   "jp": "  ／",
+   "cells": 3,
+   "en": "/"
+  },
+  {
+   "id": "w5BE13_162",
+   "jp": "  ／",
+   "cells": 3,
+   "en": "/"
+  },
+  {
+   "id": "w5BE13_167",
+   "jp": "  ／",
+   "cells": 3,
+   "en": "/"
+  },
+  {
+   "id": "w5BFC2_10",
+   "jp": " 大けが",
+   "cells": 4,
+   "en": "^Wounded"
+  },
+  {
+   "id": "w5BFC2_12",
+   "jp": " －－－－－－－－ ",
+   "cells": 10,
+   "en": "----------------"
+  },
+  {
+   "id": "w5BFC2_16",
+   "jp": "心の数 ",
+   "cells": 4,
+   "en": "Hearts"
+  },
+  {
+   "id": "w5BFC2_20",
+   "jp": "体   ",
+   "cells": 4,
+   "en": "HP"
+  },
+  {
+   "id": "w5BFC2_22",
+   "jp": "   ／",
+   "cells": 4,
+   "en": "/"
+  },
+  {
+   "id": "w5BFC2_26",
+   "jp": "技   ",
+   "cells": 4,
+   "en": "SP"
+  },
+  {
+   "id": "w5BFC2_28",
+   "jp": "   ／",
+   "cells": 4,
+   "en": "/"
+  },
+  {
+   "id": "w5BFC2_32",
+   "jp": "攻撃力      ",
+   "cells": 9,
+   "en": "Attack"
+  },
+  {
+   "id": "w5BFC2_36",
+   "jp": "守備力      ",
+   "cells": 9,
+   "en": "Defense"
+  },
+  {
+   "id": "w5BFC2_40",
+   "jp": "はやさ      ",
+   "cells": 9,
+   "en": "Speed"
+  },
+  {
+   "id": "w5C28C_13",
+   "jp": "   きろくしていない ",
+   "cells": 12,
+   "en": "No Record"
+  },
+  {
+   "id": "w5C28C_29",
+   "jp": "   きろくしていない ",
+   "cells": 12,
+   "en": "No Record"
+  },
+  {
+   "id": "w5C28C_45",
+   "jp": "   きろくしていない ",
+   "cells": 12,
+   "en": "No Record"
+  },
+  {
+   "id": "w5CA19_10",
+   "jp": "体",
+   "cells": 1,
+   "en": "H"
+  },
+  {
+   "id": "w5CA19_12",
+   "jp": "  ／",
+   "cells": 3,
+   "en": "/"
+  },
+  {
+   "id": "w5CA19_16",
+   "jp": "技",
+   "cells": 1,
+   "en": "S"
+  },
+  {
+   "id": "w5CA19_18",
+   "jp": "  ／",
+   "cells": 3,
+   "en": "/"
+  },
+  {
+   "id": "w5D8D9_02",
+   "jp": "位 ",
+   "cells": 2,
+   "en": "."
+  },
+  {
+   "id": "w5D8D9_06",
+   "jp": "  点",
+   "cells": 3,
+   "en": "pts"
+  },
+  {
+   "id": "w5D8D9_10",
+   "jp": "位 ",
+   "cells": 2,
+   "en": "."
+  },
+  {
+   "id": "w5D8D9_14",
+   "jp": "  点",
+   "cells": 3,
+   "en": "pts"
+  },
+  {
+   "id": "w5D8D9_18",
+   "jp": "位 ",
+   "cells": 2,
+   "en": "."
+  },
+  {
+   "id": "w5D8D9_22",
+   "jp": "  点",
+   "cells": 3,
+   "en": "pts"
+  },
+  {
+   "id": "w5D8D9_26",
+   "jp": "位 ",
+   "cells": 2,
+   "en": "."
+  },
+  {
+   "id": "w5D8D9_30",
+   "jp": "  点",
+   "cells": 3,
+   "en": "pts"
+  },
+  {
+   "id": "w5D8D9_34",
+   "jp": "位 ",
+   "cells": 2,
+   "en": "."
+  },
+  {
+   "id": "w5D8D9_38",
+   "jp": "  点",
+   "cells": 3,
+   "en": "pts"
+  },
+  {
+   "id": "w5D8D9_42",
+   "jp": "位 ",
+   "cells": 2,
+   "en": "."
+  },
+  {
+   "id": "w5D8D9_46",
+   "jp": "  点",
+   "cells": 3,
+   "en": "pts"
+  },
+  {
+   "id": "w5D8D9_50",
+   "jp": "位 ",
+   "cells": 2,
+   "en": "."
+  },
+  {
+   "id": "w5D8D9_54",
+   "jp": "  点",
+   "cells": 3,
+   "en": "pts"
+  },
+  {
+   "id": "w5D8D9_58",
+   "jp": "位 ",
+   "cells": 2,
+   "en": "."
+  },
+  {
+   "id": "w5D8D9_62",
+   "jp": "  点",
+   "cells": 3,
+   "en": "pts"
+  },
+  {
+   "id": "w5D8D9_66",
+   "jp": "位 ",
+   "cells": 2,
+   "en": "."
+  },
+  {
+   "id": "w5D8D9_70",
+   "jp": "  点",
+   "cells": 3,
+   "en": "pts"
+  },
+  {
+   "id": "w5D8D9_74",
+   "jp": "位 ",
+   "cells": 2,
+   "en": "."
+  },
+  {
+   "id": "w5D8D9_78",
+   "jp": "  点",
+   "cells": 3,
+   "en": "pts"
+  },
+  {
+   "id": "w5DC85_00",
+   "jp": "     こたえ",
+   "cells": 8,
+   "en": "Answer"
+  },
+  {
+   "id": "w5DC85_03",
+   "jp": "1、",
+   "cells": 2,
+   "en": "1."
+  },
+  {
+   "id": "w5DC85_08",
+   "jp": "2、",
+   "cells": 2,
+   "en": "2."
+  },
+  {
+   "id": "w5DC85_13",
+   "jp": "3、",
+   "cells": 2,
+   "en": "3."
+  },
+  {
+   "id": "w5DCD3_00",
+   "jp": "     答え",
+   "cells": 7,
+   "en": "Answer"
+  },
+  {
+   "id": "w5DCD3_03",
+   "jp": "1、",
+   "cells": 2,
+   "en": "1."
+  },
+  {
+   "id": "w5DCD3_08",
+   "jp": "2、",
+   "cells": 2,
+   "en": "2."
+  },
+  {
+   "id": "w5DCD3_13",
+   "jp": "3、",
+   "cells": 2,
+   "en": "3."
+  },
+  {
+   "id": "w5DD3D_00",
+   "jp": "点数",
+   "cells": 2,
+   "en": "^Score"
+  },
+  {
+   "id": "w5DD60_00",
+   "jp": "  BRACKET",
+   "cells": 9,
+   "en": "BRACKET"
+  },
+  {
+   "id": "w5DD60_02",
+   "jp": "    QUINELLA",
+   "cells": 12,
+   "en": "QUINELLA"
+  },
+  {
+   "id": "w5DD60_05",
+   "jp": "1ー2",
+   "cells": 3,
+   "en": "1-2"
+  },
+  {
+   "id": "w5DD60_11",
+   "jp": "1ー3",
+   "cells": 3,
+   "en": "1-3"
+  },
+  {
+   "id": "w5DD60_18",
+   "jp": "1ー4",
+   "cells": 3,
+   "en": "1-4"
+  },
+  {
+   "id": "w5DD60_24",
+   "jp": "1ー5",
+   "cells": 3,
+   "en": "1-5"
+  },
+  {
+   "id": "w5DD60_31",
+   "jp": "2ー3",
+   "cells": 3,
+   "en": "2-3"
+  },
+  {
+   "id": "w5DD60_37",
+   "jp": "2ー4",
+   "cells": 3,
+   "en": "2-4"
+  },
+  {
+   "id": "w5DD60_44",
+   "jp": "2ー5",
+   "cells": 3,
+   "en": "2-5"
+  },
+  {
+   "id": "w5DD60_50",
+   "jp": "3ー4",
+   "cells": 3,
+   "en": "3-4"
+  },
+  {
+   "id": "w5DD60_57",
+   "jp": "3ー5",
+   "cells": 3,
+   "en": "3-5"
+  },
+  {
+   "id": "w5DD60_63",
+   "jp": "4ー5",
+   "cells": 3,
+   "en": "4-5"
+  },
+  {
+   "id": "w5DE5B_00",
+   "jp": "けっか ",
+   "cells": 4,
+   "en": "Result"
+  },
+  {
+   "id": "w5DE5B_02",
+   "jp": "ー",
+   "cells": 1,
+   "en": "-"
+  },
+  {
+   "id": "w5DE5B_06",
+   "jp": "はずれでした",
+   "cells": 6,
+   "en": "No win."
+  },
+  {
+   "id": "w5DE5B_08",
+   "jp": "あたりました",
+   "cells": 6,
+   "en": "A win!"
+  },
+  {
+   "id": "w5DE9E_00",
+   "jp": "とくてん",
+   "cells": 4,
+   "en": "Score"
+  },
+  {
+   "id": "w5DE9E_02",
+   "jp": "ーーーー",
+   "cells": 4,
+   "en": "--------"
+  },
+  {
+   "id": "w5DE9E_66",
+   "jp": "ーーーー",
+   "cells": 4,
+   "en": "--------"
+  },
+  {
+   "id": "w5DF59_00",
+   "jp": "桃太郎",
+   "cells": 3,
+   "en": "^Momotaro"
+  },
+  {
+   "id": "w5DF59_07",
+   "jp": "{kata}ジャンケン{hira} ",
+   "cells": 6,
+   "en": "Janken"
+  },
+  {
+   "id": "w5DF59_10",
+   "jp": "  {kata}ポン{hira}    ",
+   "cells": 8,
+   "en": "Pon!"
+  },
+  {
+   "id": "w5DF59_13",
+   "jp": " おてつき  ",
+   "cells": 7,
+   "en": "Foul!"
+  },
+  {
+   "id": "w5DF59_15",
+   "jp": "おいら",
+   "cells": 3,
+   "en": "Me"
+  },
+  {
+   "id": "w69684_01",
+   "jp": "がめん",
+   "cells": 3,
+   "en": "Screen"
+  },
+  {
+   "id": "w69684_04",
+   "jp": "戦闘{kata}メッセ{hira}ー{kata}ジ{hira}",
+   "cells": 7,
+   "en": "Battle Messages"
+  },
+  {
+   "id": "w696CD_01",
+   "jp": "とうめい",
+   "cells": 4,
+   "en": "Clear"
+  },
+  {
+   "id": "w696CD_04",
+   "jp": "まんなか",
+   "cells": 4,
+   "en": "Middle"
+  },
+  {
+   "id": "w696CD_07",
+   "jp": "くっきり",
+   "cells": 4,
+   "en": "Solid"
+  },
+  {
+   "id": "w6975B_01",
+   "jp": "なし",
+   "cells": 2,
+   "en": "Off"
+  },
+  {
+   "id": "w6975B_04",
+   "jp": "あり",
+   "cells": 2,
+   "en": "On"
+  },
+  {
+   "id": "w697A6_01",
+   "jp": "少ない",
+   "cells": 3,
+   "en": "Few"
+  },
+  {
+   "id": "w697A6_04",
+   "jp": "多い",
+   "cells": 2,
+   "en": "Many"
+  }
+ ]
+}

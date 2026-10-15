@@ -12,1167 +12,1167 @@
   {
    "id": "b012_0001",
    "jp": "ぼくとう",
-   "en": null
+   "en": "Wooden Sword"
   },
   {
    "id": "b012_0002",
    "jp": "かたな",
-   "en": null
+   "en": "Sword"
   },
   {
    "id": "b012_0003",
    "jp": "このはぎりのかたな",
-   "en": null
+   "en": "Leaf Cutter"
   },
   {
    "id": "b012_0004",
    "jp": "たけわりのかたな",
-   "en": null
+   "en": "Bamboo Breaker"
   },
   {
    "id": "b012_0005",
    "jp": "かわらわりのかたな",
-   "en": null
+   "en": "Tile Breaker"
   },
   {
    "id": "b012_0006",
    "jp": "いわきりのかたな",
-   "en": null
+   "en": "Rock Cutter"
   },
   {
    "id": "b012_0007",
    "jp": "くさりきりのかたな",
-   "en": null
+   "en": "Chain Cutter"
   },
   {
    "id": "b012_0008",
    "jp": "かまわりのかたな",
-   "en": null
+   "en": "Pot Breaker"
   },
   {
    "id": "b012_0009",
    "jp": "かぶとわりのかたな",
-   "en": null
+   "en": "Helm Breaker"
   },
   {
    "id": "b012_0010",
    "jp": "おにきりまる",
-   "en": null
+   "en": "Onikirimaru"
   },
   {
    "id": "b012_0011",
    "jp": "ひゃっきぎりまる",
-   "en": null
+   "en": "Hyakkikirimaru"
   },
   {
    "id": "b012_0012",
    "jp": "びしゃもんのけん",
-   "en": null
+   "en": "Bishamon Sword"
   },
   {
    "id": "b012_0013",
    "jp": "{sub:B9}のけん",
-   "en": null
+   "en": "Valor Sword"
   },
   {
    "id": "b012_0014",
    "jp": "{sub:B9}のけん",
-   "en": null
+   "en": "Valor Sword"
   },
   {
    "id": "b012_0015",
    "jp": "{sub:B9}のけん",
-   "en": null
+   "en": "Valor Sword"
   },
   {
    "id": "b012_0016",
    "jp": "げんぶのかたな",
-   "en": null
+   "en": "Genbu Sword"
   },
   {
    "id": "b012_0017",
    "jp": "びゃっこのかたな",
-   "en": null
+   "en": "Byakko Sword"
   },
   {
    "id": "b012_0018",
    "jp": "すじゃくのかたな",
-   "en": null
+   "en": "Suzaku Sword"
   },
   {
    "id": "b012_0019",
    "jp": "せいりゅうのかたな",
-   "en": null
+   "en": "Seiryu Sword"
   },
   {
    "id": "b012_0020",
    "jp": "しゅてんのけん",
-   "en": null
+   "en": "Shuko Sword"
   },
   {
    "id": "b012_0021",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 3"
   },
   {
    "id": "b012_0022",
    "jp": "きのかわのどう",
-   "en": null
+   "en": "Bark Vest"
   },
   {
    "id": "b012_0023",
    "jp": "あさいとのどう",
-   "en": null
+   "en": "Hemp Vest"
   },
   {
    "id": "b012_0024",
    "jp": "たけのどう",
-   "en": null
+   "en": "Bamboo Vest"
   },
   {
    "id": "b012_0025",
    "jp": "いちまいどう",
-   "en": null
+   "en": "Single Plate"
   },
   {
    "id": "b012_0026",
    "jp": "にまいどう",
-   "en": null
+   "en": "Double Plate"
   },
   {
    "id": "b012_0027",
    "jp": "さんまいどう",
-   "en": null
+   "en": "Triple Plate"
   },
   {
    "id": "b012_0028",
    "jp": "よろい",
-   "en": null
+   "en": "Armor"
   },
   {
    "id": "b012_0029",
    "jp": "おおよろい",
-   "en": null
+   "en": "Great Armor"
   },
   {
    "id": "b012_0030",
    "jp": "むしゃよろい",
-   "en": null
+   "en": "Warrior Armor"
   },
   {
    "id": "b012_0031",
    "jp": "{sub:B9}のよろい",
-   "en": null
+   "en": "Valor Armor"
   },
   {
    "id": "b012_0032",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 1"
   },
   {
    "id": "b012_0033",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 2"
   },
   {
    "id": "b012_0034",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 3"
   },
   {
    "id": "b012_0035",
    "jp": "まさかり",
-   "en": null
+   "en": "Axe"
   },
   {
    "id": "b012_0036",
    "jp": "おおまさかり",
-   "en": null
+   "en": "Great Axe"
   },
   {
    "id": "b012_0037",
    "jp": "どうのまさかり",
-   "en": null
+   "en": "Copper Axe"
   },
   {
    "id": "b012_0038",
    "jp": "ぎんのまさかり",
-   "en": null
+   "en": "Silver Axe"
   },
   {
    "id": "b012_0039",
    "jp": "きんのまさかり",
-   "en": null
+   "en": "Gold Axe"
   },
   {
    "id": "b012_0040",
    "jp": "きぼうのまさかり",
-   "en": null
+   "en": "Axe of Hope"
   },
   {
    "id": "b012_0041",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 1"
   },
   {
    "id": "b012_0042",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 2"
   },
   {
    "id": "b012_0043",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 3"
   },
   {
    "id": "b012_0044",
    "jp": "はらがけ",
-   "en": null
+   "en": "Bib"
   },
   {
    "id": "b012_0045",
    "jp": "もめんのはらがけ",
-   "en": null
+   "en": "Cotton Bib"
   },
   {
    "id": "b012_0046",
    "jp": "ぎんのはらがけ",
-   "en": null
+   "en": "Silver Bib"
   },
   {
    "id": "b012_0047",
    "jp": "きんのはらがけ",
-   "en": null
+   "en": "Gold Bib"
   },
   {
    "id": "b012_0048",
    "jp": "きぼうのはらがけ",
-   "en": null
+   "en": "Bib of Hope"
   },
   {
    "id": "b012_0049",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 1"
   },
   {
    "id": "b012_0050",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 2"
   },
   {
    "id": "b012_0051",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 3"
   },
   {
    "id": "b012_0052",
    "jp": "もり",
-   "en": null
+   "en": "Fishing Spear"
   },
   {
    "id": "b012_0053",
    "jp": "さざなみのもり",
-   "en": null
+   "en": "Ripple Spear"
   },
   {
    "id": "b012_0054",
    "jp": "しらなみのもり",
-   "en": null
+   "en": "Whitecap Spear"
   },
   {
    "id": "b012_0055",
    "jp": "おおなみのもり",
-   "en": null
+   "en": "Billow Spear"
   },
   {
    "id": "b012_0056",
    "jp": "たかなみのもり",
-   "en": null
+   "en": "Surge Spear"
   },
   {
    "id": "b012_0057",
    "jp": "つなみのもり",
-   "en": null
+   "en": "Tsunami Spear"
   },
   {
    "id": "b012_0058",
    "jp": "おおつなみのもり",
-   "en": null
+   "en": "Great Tsunami"
   },
   {
    "id": "b012_0059",
    "jp": "{sub:B8}のもり",
-   "en": null
+   "en": "Justice Spear"
   },
   {
    "id": "b012_0060",
    "jp": "ゆうなぎのもり",
-   "en": null
+   "en": "Evening Calm"
   },
   {
    "id": "b012_0061",
    "jp": "あさなぎのもり",
-   "en": null
+   "en": "Morning Calm"
   },
   {
    "id": "b012_0062",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 1"
   },
   {
    "id": "b012_0063",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 2"
   },
   {
    "id": "b012_0064",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 3"
   },
   {
    "id": "b012_0065",
    "jp": "りょうしのきもの",
-   "en": null
+   "en": "Fisher Kimono"
   },
   {
    "id": "b012_0066",
    "jp": "ほうりょうのきもの",
-   "en": null
+   "en": "Bounty Kimono"
   },
   {
    "id": "b012_0067",
    "jp": "たいりょうのきもの",
-   "en": null
+   "en": "Big Haul"
   },
   {
    "id": "b012_0068",
    "jp": "くろしおきもの",
-   "en": null
+   "en": "Black Tide"
   },
   {
    "id": "b012_0069",
    "jp": "{sub:B8}のきもの",
-   "en": null
+   "en": "Justice Kimono"
   },
   {
    "id": "b012_0070",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 1"
   },
   {
    "id": "b012_0071",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 2"
   },
   {
    "id": "b012_0072",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 3"
   },
   {
    "id": "b012_0073",
    "jp": "さんごのつえ",
-   "en": null
+   "en": "Coral Staff"
   },
   {
    "id": "b012_0074",
    "jp": "ひすいのつえ",
-   "en": null
+   "en": "Jade Staff"
   },
   {
    "id": "b012_0075",
    "jp": "めのうのつえ",
-   "en": null
+   "en": "Agate Staff"
   },
   {
    "id": "b012_0076",
    "jp": "こはくのつえ",
-   "en": null
+   "en": "Amber Staff"
   },
   {
    "id": "b012_0077",
    "jp": "しんじゅのつえ",
-   "en": null
+   "en": "Pearl Staff"
   },
   {
    "id": "b012_0078",
    "jp": "ぎんのつえ",
-   "en": null
+   "en": "Silver Staff"
   },
   {
    "id": "b012_0079",
    "jp": "きんのつえ",
-   "en": null
+   "en": "Gold Staff"
   },
   {
    "id": "b012_0080",
    "jp": "りゅうせいのつえ",
-   "en": null
+   "en": "Meteor Staff"
   },
   {
    "id": "b012_0081",
    "jp": "あいのつえ",
-   "en": null
+   "en": "Love Staff"
   },
   {
    "id": "b012_0082",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 1"
   },
   {
    "id": "b012_0083",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 2"
   },
   {
    "id": "b012_0084",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 3"
   },
   {
    "id": "b012_0085",
    "jp": "こそで",
-   "en": null
+   "en": "Kosode"
   },
   {
    "id": "b012_0086",
    "jp": "ふりそで",
-   "en": null
+   "en": "Furisode"
   },
   {
    "id": "b012_0087",
    "jp": "うめのふりそで",
-   "en": null
+   "en": "Plum Furisode"
   },
   {
    "id": "b012_0088",
    "jp": "さくらのふりそで",
-   "en": null
+   "en": "Cherry Kimono"
   },
   {
    "id": "b012_0089",
    "jp": "きんのふりそで",
-   "en": null
+   "en": "Gold Furisode"
   },
   {
    "id": "b012_0090",
    "jp": "あいのじゅにひとえ",
-   "en": null
+   "en": "Love Junihitoe"
   },
   {
    "id": "b012_0091",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 1"
   },
   {
    "id": "b012_0092",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 2"
   },
   {
    "id": "b012_0093",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 3"
   },
   {
    "id": "b012_0094",
    "jp": "あかいばら",
-   "en": null
+   "en": "Red Rose"
   },
   {
    "id": "b012_0095",
    "jp": "あおいばら",
-   "en": null
+   "en": "Blue Rose"
   },
   {
    "id": "b012_0096",
    "jp": "こはくのばら",
-   "en": null
+   "en": "Amber Rose"
   },
   {
    "id": "b012_0097",
    "jp": "べっこうのばら",
-   "en": null
+   "en": "Tortoiseshell"
   },
   {
    "id": "b012_0098",
    "jp": "ぞうげのばら",
-   "en": null
+   "en": "Ivory Rose"
   },
   {
    "id": "b012_0099",
    "jp": "ぎやまんのばら",
-   "en": null
+   "en": "Glass Rose"
   },
   {
    "id": "b012_0100",
    "jp": "どうのばら",
-   "en": null
+   "en": "Copper Rose"
   },
   {
    "id": "b012_0101",
    "jp": "ぎんのばら",
-   "en": null
+   "en": "Silver Rose"
   },
   {
    "id": "b012_0102",
    "jp": "きんのばら",
-   "en": null
+   "en": "Gold Rose"
   },
   {
    "id": "b012_0103",
    "jp": "よみのばら",
-   "en": null
+   "en": "Yomi Rose"
   },
   {
    "id": "b012_0104",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 1"
   },
   {
    "id": "b012_0105",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 2"
   },
   {
    "id": "b012_0106",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 3"
   },
   {
    "id": "b012_0107",
    "jp": "しんくのきぬ",
-   "en": null
+   "en": "Crimson Silk"
   },
   {
    "id": "b012_0108",
    "jp": "あやおりきぬ",
-   "en": null
+   "en": "Woven Silk"
   },
   {
    "id": "b012_0109",
    "jp": "はぶたえのきぬ",
-   "en": null
+   "en": "Habutae Silk"
   },
   {
    "id": "b012_0110",
    "jp": "よみのきぬ",
-   "en": null
+   "en": "Yomi Silk"
   },
   {
    "id": "b012_0111",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 1"
   },
   {
    "id": "b012_0112",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 2"
   },
   {
    "id": "b012_0113",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 3"
   },
   {
    "id": "b012_0114",
    "jp": "でばぼうちょう",
-   "en": null
+   "en": "Deba Knife"
   },
   {
    "id": "b012_0115",
    "jp": "こでばぼうちょう",
-   "en": null
+   "en": "Small Deba"
   },
   {
    "id": "b012_0116",
    "jp": "うすばぼうちょう",
-   "en": null
+   "en": "Thin Knife"
   },
   {
    "id": "b012_0117",
    "jp": "うしきりほうちょう",
-   "en": null
+   "en": "Beef Knife"
   },
   {
    "id": "b012_0118",
    "jp": "なきりほうちょう",
-   "en": null
+   "en": "Veggie Knife"
   },
   {
    "id": "b012_0119",
    "jp": "あいでばほうちょう",
-   "en": null
+   "en": "Mid Deba Knife"
   },
   {
    "id": "b012_0120",
    "jp": "やなぎばほうちょう",
-   "en": null
+   "en": "Sashimi Knife"
   },
   {
    "id": "b012_0121",
    "jp": "ほねきりほうちょう",
-   "en": null
+   "en": "Bone Knife"
   },
   {
    "id": "b012_0122",
    "jp": "きりだしほうちょう",
-   "en": null
+   "en": "Craft Knife"
   },
   {
    "id": "b012_0123",
    "jp": "どす",
-   "en": null
+   "en": "Dagger"
   },
   {
    "id": "b012_0124",
    "jp": "ながどす",
-   "en": null
+   "en": "Long Dagger"
   },
   {
    "id": "b012_0125",
    "jp": "はやぶさのどす",
-   "en": null
+   "en": "Falcon Dagger"
   },
   {
    "id": "b012_0126",
    "jp": "だんじゅうろう",
-   "en": null
+   "en": "Danjuro"
   },
   {
    "id": "b012_0127",
    "jp": "むらさめ",
-   "en": null
+   "en": "Murasame"
   },
   {
    "id": "b012_0128",
    "jp": "むらまさ",
-   "en": null
+   "en": "Muramasa"
   },
   {
    "id": "b012_0129",
    "jp": "まごろく",
-   "en": null
+   "en": "Magoroku"
   },
   {
    "id": "b012_0130",
    "jp": "きくいちもんじ",
-   "en": null
+   "en": "Kikuichimonji"
   },
   {
    "id": "b012_0131",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 1"
   },
   {
    "id": "b012_0132",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 2"
   },
   {
    "id": "b012_0133",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 3"
   },
   {
    "id": "b012_0134",
    "jp": "きながし",
-   "en": null
+   "en": "Kimono"
   },
   {
    "id": "b012_0135",
    "jp": "こそできながし",
-   "en": null
+   "en": "Kosode Kimono"
   },
   {
    "id": "b012_0136",
    "jp": "おおそできながし",
-   "en": null
+   "en": "Osode Kimono"
   },
   {
    "id": "b012_0137",
    "jp": "そめつけきながし",
-   "en": null
+   "en": "Dyed Kimono"
   },
   {
    "id": "b012_0138",
    "jp": "しぼりきながし",
-   "en": null
+   "en": "Tie-Dye Kimono"
   },
   {
    "id": "b012_0139",
    "jp": "つむぎのきながし",
-   "en": null
+   "en": "Pongee Kimono"
   },
   {
    "id": "b012_0140",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 1"
   },
   {
    "id": "b012_0141",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 2"
   },
   {
    "id": "b012_0142",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 3"
   },
   {
    "id": "b012_0143",
    "jp": "こんぼう",
-   "en": null
+   "en": "Club"
   },
   {
    "id": "b012_0144",
    "jp": "どうのこんぼう",
-   "en": null
+   "en": "Copper Club"
   },
   {
    "id": "b012_0145",
    "jp": "てつのこんぼう",
-   "en": null
+   "en": "Iron Club"
   },
   {
    "id": "b012_0146",
    "jp": "ひのこんぼう",
-   "en": null
+   "en": "Fire Club"
   },
   {
    "id": "b012_0147",
    "jp": "ほのおのこんぼう",
-   "en": null
+   "en": "Flame Club"
   },
   {
    "id": "b012_0148",
    "jp": "{sub:CD}のこんぼう",
-   "en": null
+   "en": "Power Club"
   },
   {
    "id": "b012_0149",
    "jp": "いかりのこんぼう",
-   "en": null
+   "en": "Rage Club"
   },
   {
    "id": "b012_0150",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 1"
   },
   {
    "id": "b012_0151",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 2"
   },
   {
    "id": "b012_0152",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 3"
   },
   {
    "id": "b012_0153",
    "jp": "とらのこしまき",
-   "en": null
+   "en": "Tiger Wrap"
   },
   {
    "id": "b012_0154",
    "jp": "ぎんのこしまき",
-   "en": null
+   "en": "Silver Wrap"
   },
   {
    "id": "b012_0155",
    "jp": "きんのこしまき",
-   "en": null
+   "en": "Gold Wrap"
   },
   {
    "id": "b012_0156",
    "jp": "よみのこしまき",
-   "en": null
+   "en": "Yomi Wrap"
   },
   {
    "id": "b012_0157",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 1"
   },
   {
    "id": "b012_0158",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 2"
   },
   {
    "id": "b012_0159",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 3"
   },
   {
    "id": "b012_0160",
    "jp": "とっこ",
-   "en": null
+   "en": "Vajra"
   },
   {
    "id": "b012_0161",
    "jp": "ひのとっこ",
-   "en": null
+   "en": "Fire Vajra"
   },
   {
    "id": "b012_0162",
    "jp": "ほのおのとっこ",
-   "en": null
+   "en": "Flame Vajra"
   },
   {
    "id": "b012_0163",
    "jp": "ぐれんのとっこ",
-   "en": null
+   "en": "Crimson Vajra"
   },
   {
    "id": "b012_0164",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 1"
   },
   {
    "id": "b012_0165",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 2"
   },
   {
    "id": "b012_0166",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 3"
   },
   {
    "id": "b012_0167",
    "jp": "ひのころも",
-   "en": null
+   "en": "Fire Robe"
   },
   {
    "id": "b012_0168",
    "jp": "ほのおのころも",
-   "en": null
+   "en": "Flame Robe"
   },
   {
    "id": "b012_0169",
    "jp": "かえんのころも",
-   "en": null
+   "en": "Blaze Robe"
   },
   {
    "id": "b012_0170",
    "jp": "よみのころも",
-   "en": null
+   "en": "Yomi Robe"
   },
   {
    "id": "b012_0171",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 1"
   },
   {
    "id": "b012_0172",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 2"
   },
   {
    "id": "b012_0173",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 3"
   },
   {
    "id": "b012_0174",
    "jp": "はのどうまる",
-   "en": null
+   "en": "Body Armor C"
   },
   {
    "id": "b012_0175",
    "jp": "にのどうまる",
-   "en": null
+   "en": "Body Armor D"
   },
   {
    "id": "b012_0176",
    "jp": "ほのどうまる",
-   "en": null
+   "en": "Body Armor E"
   },
   {
    "id": "b012_0177",
    "jp": "へのどうまる",
-   "en": null
+   "en": "Body Armor F"
   },
   {
    "id": "b012_0178",
    "jp": "とのどうまる",
-   "en": null
+   "en": "Body Armor G"
   },
   {
    "id": "b012_0179",
    "jp": "いのどうまる",
-   "en": null
+   "en": "Body Armor A"
   },
   {
    "id": "b012_0180",
    "jp": "ろのどうまる",
-   "en": null
+   "en": "Body Armor B"
   },
   {
    "id": "b012_0181",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 1"
   },
   {
    "id": "b012_0182",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 2"
   },
   {
    "id": "b012_0183",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 3"
   },
   {
    "id": "b012_0184",
    "jp": "{sub:B0}のしゃくじょう",
-   "en": null
+   "en": "Elixir Rod"
   },
   {
    "id": "b012_0185",
    "jp": "いなずまのしゃくじょう",
-   "en": null
+   "en": "Lightning Rod"
   },
   {
    "id": "b012_0186",
    "jp": "まよけのしゃくじょう",
-   "en": null
+   "en": "Warding Rod"
   },
   {
    "id": "b012_0187",
    "jp": "ろっかくのしゃくじょう",
-   "en": null
+   "en": "Antler Rod"
   },
   {
    "id": "b012_0188",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 1"
   },
   {
    "id": "b012_0189",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 2"
   },
   {
    "id": "b012_0190",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 3"
   },
   {
    "id": "b012_0191",
    "jp": "あさのけさ",
-   "en": null
+   "en": "Hemp Stole"
   },
   {
    "id": "b012_0192",
    "jp": "もめんのけさ",
-   "en": null
+   "en": "Cotton Stole"
   },
   {
    "id": "b012_0193",
    "jp": "きぬのけさ",
-   "en": null
+   "en": "Silk Stole"
   },
   {
    "id": "b012_0194",
    "jp": "ぜくうのけさ",
-   "en": null
+   "en": "Void Stole"
   },
   {
    "id": "b012_0195",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 1"
   },
   {
    "id": "b012_0196",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 2"
   },
   {
    "id": "b012_0197",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 3"
   },
   {
    "id": "b012_0198",
    "jp": "あらなわのふんどし",
-   "en": null
+   "en": "Rope Loincloth"
   },
   {
    "id": "b012_0199",
    "jp": "あさのふんどし",
-   "en": null
+   "en": "Hemp Loincloth"
   },
   {
    "id": "b012_0200",
    "jp": "もめんのふんどし",
-   "en": null
+   "en": "Cotton Undies"
   },
   {
    "id": "b012_0201",
    "jp": "きぬのふんどし",
-   "en": null
+   "en": "Silk Loincloth"
   },
   {
    "id": "b012_0202",
    "jp": "えっちゅうふんどし",
-   "en": null
+   "en": "T-Loincloth"
   },
   {
    "id": "b012_0203",
    "jp": "きんのふんどし",
-   "en": null
+   "en": "Gold Loincloth"
   },
   {
    "id": "b012_0204",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 1"
   },
   {
    "id": "b012_0205",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 2"
   },
   {
    "id": "b012_0206",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 3"
   },
   {
    "id": "b012_0207",
    "jp": "へそだしのかたな",
-   "en": null
+   "en": "Navel Sword"
   },
   {
    "id": "b012_0208",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 1"
   },
   {
    "id": "b012_0209",
    "jp": "おにのかぎつめ",
-   "en": null
+   "en": "Oni Claws"
   },
   {
    "id": "b012_0210",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 1"
   },
   {
    "id": "b012_0211",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 2"
   },
   {
    "id": "b012_0212",
    "jp": "よび",
-   "en": null
+   "en": "Spare Weapon 3"
   },
   {
    "id": "b012_0213",
    "jp": "はちまき",
-   "en": null
+   "en": "Headband"
   },
   {
    "id": "b012_0214",
    "jp": "はちがね",
-   "en": null
+   "en": "Iron Headband"
   },
   {
    "id": "b012_0215",
    "jp": "かぶと",
-   "en": null
+   "en": "Helmet"
   },
   {
    "id": "b012_0216",
    "jp": "{sub:B9}のかぶと",
-   "en": null
+   "en": "Valor Helmet"
   },
   {
    "id": "b012_0217",
    "jp": "あかはちまき",
-   "en": null
+   "en": "Red Headband"
   },
   {
    "id": "b012_0218",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 2"
   },
   {
    "id": "b012_0219",
    "jp": "よび",
-   "en": null
+   "en": "Spare Armor 3"
   },
   {
    "id": "b012_0220",
    "jp": "わらじ",
-   "en": null
+   "en": "Straw Sandals"
   },
   {
    "id": "b012_0221",
    "jp": "うさぎのたび",
-   "en": null
+   "en": "Rabbit Tabi"
   },
   {
    "id": "b012_0222",
    "jp": "きつねのたび",
-   "en": null
+   "en": "Fox Tabi"
   },
   {
    "id": "b012_0223",
    "jp": "しかのたび",
-   "en": null
+   "en": "Deer Tabi"
   },
   {
    "id": "b012_0224",
    "jp": "かんじき",
-   "en": null
+   "en": "Snowshoes"
   },
   {
    "id": "b012_0225",
    "jp": "ししのたび",
-   "en": null
+   "en": "Lion Tabi"
   },
   {
    "id": "b012_0226",
    "jp": "ひょうのたび",
-   "en": null
+   "en": "Leopard Tabi"
   },
   {
    "id": "b012_0227",
    "jp": "はくぞうのたび",
-   "en": null
+   "en": "Elephant Tabi"
   },
   {
    "id": "b012_0228",
    "jp": "よみのたび",
-   "en": null
+   "en": "Yomi Tabi"
   },
   {
    "id": "b012_0229",
    "jp": "あいのたび",
-   "en": null
+   "en": "Love Tabi"
   },
   {
    "id": "b012_0230",
    "jp": "{sub:B9}のくつ",
-   "en": null
+   "en": "Valor Tabi"
   },
   {
    "id": "b012_0231",
    "jp": "よび",
-   "en": null
+   "en": "Spare Tabi 1"
   },
   {
    "id": "b012_0232",
    "jp": "よび",
-   "en": null
+   "en": "Spare Tabi 2"
   },
   {
    "id": "b012_0233",
    "jp": "よび",
-   "en": null
+   "en": "Spare Tabi 3"
   }
  ]
 }
