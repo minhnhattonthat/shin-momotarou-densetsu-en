@@ -31,7 +31,9 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
   consistency pass, status icons redrawn (tools/gfx.py), name grid, family tree. Blocks stored raw (mode 0):
   sub-call opens (84:9F3F) never init LZSS -> hero name was blank when LZSS.
 - Review: sonnet reviewers (docs/reviewer-brief.md) -> work/tl/tNNN.fix.tsv -> `batches.py applyfix tNNN`.
-  Applied t000-t048. Running t049-t060; still to dispatch t061-t071. Ashura is male.
-- Next: finish review, QA tour (tools/debug/tour.py -> work/qa/tour/page_*.png), title logo (mode 7: chr
-  D8:60FA LZSS 0x3E00, map DF:AF95 LZSS 28-wide rows), release (tools/release.py to write).
+  All t000-t071 reviewed and applied. Ashura is male. Tour (24 pages) viewed: wrapping OK.
+- Title logo English (tools/gfx.py title_logo: chr entry 0x30320 relocated, map rewritten in place + 00 end).
+- Fixed 6 px mode centres narrow glyphs (patches.FIXED12 at 84:F240).
+- Savestates from older builds are stale (RAM caches script pointers): make new ones from cold boot (work/qa/cold6).
+- Next: battle/shop/status QA from a fresh state, then `tools/release.py`.
 - Open: names in old saves stay JP; icons Lv/HP/SP/ry/Cu/Po/Pa are abbreviations (tile-size, flagged).
