@@ -131,7 +131,7 @@
   },
   {
    "id": "b028_0025",
-   "jp": "合計 {num}両 手に入れた!{page}{n}「めでたいの{kata}ォ{hira} {party}!{n} めったに 出ない{n} 32回の ごほうびが 出たぞ!」{page}{n}「これも 何かの おぼしめしぢゃ!{n} 心して 鬼たいじに{n} はげめよ! {sub:A8}!」{page}",
+   "jp": "合計 {num}両 手に入れた!{page}{n}「めでたいの{kata}ォ{hira} {arg}!{n} めったに 出ない{n} 32回の ごほうびが 出たぞ!」{page}{n}「これも 何かの おぼしめしぢゃ!{n} 心して 鬼たいじに{n} はげめよ! {sub:A8}!」{page}",
    "en": null
   },
   {
@@ -141,82 +141,82 @@
   },
   {
    "id": "b028_0027",
-   "jp": "「{party}! {sub:B6}が{n} 苦しんでる 顔を 見るのが{n} なによりの たのしみなんだ!」{page}",
+   "jp": "「{arg}! {sub:B6}が{n} 苦しんでる 顔を 見るのが{n} なによりの たのしみなんだ!」{page}",
    "en": null
   },
   {
    "id": "b028_0028",
-   "jp": "「{party}! {kata}オレ{hira}には{n} 金で 動く 友だちが{n} たくさん いるんだ!」{page}",
+   "jp": "「{arg}! {kata}オレ{hira}には{n} 金で 動く 友だちが{n} たくさん いるんだ!」{page}",
    "en": null
   },
   {
    "id": "b028_0029",
-   "jp": "「{party}! {kata}オレ{hira}の くつを{n} なめろ! ひざまづけ!{n} それが いちばん おにあいだ!」{page}",
+   "jp": "「{arg}! {kata}オレ{hira}の くつを{n} なめろ! ひざまづけ!{n} それが いちばん おにあいだ!」{page}",
    "en": null
   },
   {
    "id": "b028_0030",
-   "jp": "「{party}! {sub:B6}は{n} {kata}オレ{hira}さまの しもべと なって{n} 一生 くらせば いいんだ!」{page}",
+   "jp": "「{arg}! {sub:B6}は{n} {kata}オレ{hira}さまの しもべと なって{n} 一生 くらせば いいんだ!」{page}",
    "en": null
   },
   {
    "id": "b028_0031",
-   "jp": "「{party}{kata}サン{hira}! ゆるしてくれ!{n} {kata}オレ{hira}は お金でしか{n} 人を はんだん できないんだ!」{page}",
+   "jp": "「{arg}{kata}サン{hira}! ゆるしてくれ!{n} {kata}オレ{hira}は お金でしか{n} 人を はんだん できないんだ!」{page}",
    "en": null
   },
   {
    "id": "b028_0032",
-   "jp": "「{party}{kata}サン{hira}! わるかった!{n} {kata}オレ{hira}には 本当の{n} 友だちが いないんだ!」{page}",
+   "jp": "「{arg}{kata}サン{hira}! わるかった!{n} {kata}オレ{hira}には 本当の{n} 友だちが いないんだ!」{page}",
    "en": null
   },
   {
    "id": "b028_0033",
-   "jp": "「{party}{kata}サン{hira}! これからは{n} 心を いれかえるから{n} かんべん してくれー!」{page}",
+   "jp": "「{arg}{kata}サン{hira}! これからは{n} 心を いれかえるから{n} かんべん してくれー!」{page}",
    "en": null
   },
   {
    "id": "b028_0034",
-   "jp": "「{party}{kata}サン{hira}! {kata}オレ{hira}はもう{n} あんたの 目に ふれないところへ{n} 行くから ゆるしてくれ!」{page}",
+   "jp": "「{arg}{kata}サン{hira}! {kata}オレ{hira}はもう{n} あんたの 目に ふれないところへ{n} 行くから ゆるしてくれ!」{page}",
    "en": null
   },
   {
    "id": "b028_0035",
-   "jp": "「{party}{kata}サン{hira}! {kata}オレ{hira}にも{n} せいかつが あるんだ!{n} うらぎるつもりは なかったんだ!」{page}",
+   "jp": "「{arg}{kata}サン{hira}! {kata}オレ{hira}にも{n} せいかつが あるんだ!{n} うらぎるつもりは なかったんだ!」{page}",
    "en": null
   },
   {
    "id": "b028_0036",
-   "jp": "「{party}{kata}サン{hira}! {kata}オレ{hira}は{n} なさけない {kata}ホモ{hira}やろうだ!{n} すべて {kata}オレ{hira}が わるかった!」{page}",
+   "jp": "「{arg}{kata}サン{hira}! {kata}オレ{hira}は{n} なさけない {kata}ホモ{hira}やろうだ!{n} すべて {kata}オレ{hira}が わるかった!」{page}",
    "en": null
   },
   {
    "id": "b028_0037",
-   "jp": "「{party}{kata}サン{hira}! {kata}オレ{hira}と あんたは{n} 大の 親友 だっただろ!?」{n}{page}",
+   "jp": "「{arg}{kata}サン{hira}! {kata}オレ{hira}と あんたは{n} 大の 親友 だっただろ!?」{n}{page}",
    "en": null
   },
   {
    "id": "b028_0038",
-   "jp": "「{party}{kata}サン{hira}! そんなに{n} いじめないで くれよ!{n} 悪気は なかったんだよ!」{page}",
+   "jp": "「{arg}{kata}サン{hira}! そんなに{n} いじめないで くれよ!{n} 悪気は なかったんだよ!」{page}",
    "en": null
   },
   {
    "id": "b028_0039",
-   "jp": "「{party}{kata}サン{hira}! あんたを{n} うらぎったせいで こんな{n} すがたに なっちゃったよ!」{page}",
+   "jp": "「{arg}{kata}サン{hira}! あんたを{n} うらぎったせいで こんな{n} すがたに なっちゃったよ!」{page}",
    "en": null
   },
   {
    "id": "b028_0040",
-   "jp": "「{party}{kata}サン{hira}! ごめんよ!{n} ごめんよ! ごめんよ! ごめんよ!{n} すべて {kata}オレ{hira}が わるかったよ!」{page}",
+   "jp": "「{arg}{kata}サン{hira}! ごめんよ!{n} ごめんよ! ごめんよ! ごめんよ!{n} すべて {kata}オレ{hira}が わるかったよ!」{page}",
    "en": null
   },
   {
    "id": "b028_0041",
-   "jp": "「{party}{kata}サン{hira}! こんな ところで{n} {kata}ボク{hira}は いっしょう くらせば{n} いいんだよね! ね! ね!」{page}",
+   "jp": "「{arg}{kata}サン{hira}! こんな ところで{n} {kata}ボク{hira}は いっしょう くらせば{n} いいんだよね! ね! ね!」{page}",
    "en": null
   },
   {
    "id": "b028_0042",
-   "jp": "「{party}{kata}サン{hira}! つらいよー!{n} ひとを うらぎると こんなめに{n} あっちまうんだな! つらいよー!」{page}",
+   "jp": "「{arg}{kata}サン{hira}! つらいよー!{n} ひとを うらぎると こんなめに{n} あっちまうんだな! つらいよー!」{page}",
    "en": null
   },
   {
@@ -301,7 +301,7 @@
   },
   {
    "id": "b028_0059",
-   "jp": "「{party}かい? おいしいよ!」{page}{n}{party}{party}は {party}が 入った{n}{sub:C0}を 食べた!{page}",
+   "jp": "「{arg}かい? おいしいよ!」{page}{n}{arg}{arg}は {arg}が 入った{n}{sub:C0}を 食べた!{page}",
    "en": null
   },
   {
@@ -336,17 +336,17 @@
   },
   {
    "id": "b028_0066",
-   "jp": "「正解だよ {party}さん!{n} なかなか やるじゃん!」{page}",
+   "jp": "「正解だよ {arg}さん!{n} なかなか やるじゃん!」{page}",
    "en": null
   },
   {
    "id": "b028_0067",
-   "jp": "「{kata}ダメ{hira}だなー {party}さん!{n} {kata}ママ{hira}が べんきょう できない子と{n} 遊ぶなって 言ってたよ!」{page}{n}{kata}ママゴン{hira} {kata}パ{hira}ーーーーー{kata}ンチ{hira}!{page}",
+   "jp": "「{kata}ダメ{hira}だなー {arg}さん!{n} {kata}ママ{hira}が べんきょう できない子と{n} 遊ぶなって 言ってたよ!」{page}{n}{kata}ママゴン{hira} {kata}パ{hira}ーーーーー{kata}ンチ{hira}!{page}",
    "en": null
   },
   {
    "id": "b028_0068",
-   "jp": "{party}{party} 全員の 体力が{n}半分に なってしまった!{page}",
+   "jp": "{arg}{arg} 全員の 体力が{n}半分に なってしまった!{page}",
    "en": null
   },
   {
@@ -516,22 +516,22 @@
   },
   {
    "id": "b028_0102",
-   "jp": "「{kata}キャハハハハハハ{hira}!{n} {sub:C9} {party}{party}{kata}サン{hira}のこと{n} だーーーーーーいすき!」{n}雪だるまは {party}{party}に{n}{kata}キス{hira}を した!{n}{n}{party}{party}は 絶好調に なった!{n}{n}{page}",
+   "jp": "「{kata}キャハハハハハハ{hira}!{n} {sub:C9} {arg}{arg}{kata}サン{hira}のこと{n} だーーーーーーいすき!」{n}雪だるまは {arg}{arg}に{n}{kata}キス{hira}を した!{n}{n}{arg}{arg}は 絶好調に なった!{n}{n}{page}",
    "en": null
   },
   {
    "id": "b028_0103",
-   "jp": "「{kata}キャハハハハハハ{hira}!{n} {sub:C9} {party}{party}{kata}サン{hira}のこと{n} 嫌いじゃないわよ!」{n}雪だるまは {party}{party}に{n}投げ{kata}キッス{hira}を した!{n}",
+   "jp": "「{kata}キャハハハハハハ{hira}!{n} {sub:C9} {arg}{arg}{kata}サン{hira}のこと{n} 嫌いじゃないわよ!」{n}雪だるまは {arg}{arg}に{n}投げ{kata}キッス{hira}を した!{n}",
    "en": null
   },
   {
    "id": "b028_0104",
-   "jp": "「{kata}キャハハハハハハ{hira}!{n} {party}{party}さん あんまり{n} {kata}ムリ{hira}しちゃ {kata}ダメ{hira}! {kata}ハイ{hira} これ!」",
+   "jp": "「{kata}キャハハハハハハ{hira}!{n} {arg}{arg}さん あんまり{n} {kata}ムリ{hira}しちゃ {kata}ダメ{hira}! {kata}ハイ{hira} これ!」",
    "en": null
   },
   {
    "id": "b028_0105",
-   "jp": "{party}{party}は {party}を{n}さしだした!{n}{page}",
+   "jp": "{arg}{arg}は {arg}を{n}さしだした!{n}{page}",
    "en": null
   },
   {
@@ -591,7 +591,7 @@
   },
   {
    "id": "b028_0117",
-   "jp": "{party}{n}「ちべたくって いい{kata}キモチ{hira}!」{n}{page}{n}雪や{kata}コンコン{hira}! あられや{kata}コンコン{hira}!{n}{party}は 元気百倍になった!!{n}{page}",
+   "jp": "{arg}{n}「ちべたくって いい{kata}キモチ{hira}!」{n}{page}{n}雪や{kata}コンコン{hira}! あられや{kata}コンコン{hira}!{n}{arg}は 元気百倍になった!!{n}{page}",
    "en": null
   },
   {
@@ -676,17 +676,17 @@
   },
   {
    "id": "b028_0134",
-   "jp": "「そして {party}!{n} {sub:B6}が{n} {hero}を ささえたわけだ!」",
+   "jp": "「そして {arg}!{n} {sub:B6}が{n} {hero}を ささえたわけだ!」",
    "en": null
   },
   {
    "id": "b028_0135",
-   "jp": "「そして {party}! {party}!{n} {sub:B6}たちが{n} {hero}を ささえたわけだ!」",
+   "jp": "「そして {arg}! {arg}!{n} {sub:B6}たちが{n} {hero}を ささえたわけだ!」",
    "en": null
   },
   {
    "id": "b028_0136",
-   "jp": "「そして {party}! {party}!{n} {party}! {sub:B6}たちが{n} {hero}を ささえたわけだ!」",
+   "jp": "「そして {arg}! {arg}!{n} {arg}! {sub:B6}たちが{n} {hero}を ささえたわけだ!」",
    "en": null
   },
   {
@@ -866,17 +866,17 @@
   },
   {
    "id": "b028_0172",
-   "jp": "{party}{n}「{kata}ワン{hira} {kata}ワン{hira}! {hero}さん!{n} おあいしとうございました!」{page}",
+   "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}! {hero}さん!{n} おあいしとうございました!」{page}",
    "en": null
   },
   {
    "id": "b028_0173",
-   "jp": "{party}{n}「{kata}キャッ{hira} {kata}キャッ{hira}! {hero}さん!{n} ただいま すけだちいたします!」{page}",
+   "jp": "{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}! {hero}さん!{n} ただいま すけだちいたします!」{page}",
    "en": null
   },
   {
    "id": "b028_0174",
-   "jp": "{party}{n}「{kata}ケン{hira} {kata}ケン{hira}! {hero}さん!{n} よく 来て{sub:C5}ました!」{page}",
+   "jp": "{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}! {hero}さん!{n} よく 来て{sub:C5}ました!」{page}",
    "en": null
   },
   {
@@ -931,7 +931,7 @@
   },
   {
    "id": "b028_0185",
-   "jp": "{party}{party}は わかがえった!{page}{n}攻撃力が {num}上がった!{page}{n}守備力が {num}上がった!{page}",
+   "jp": "{arg}{arg}は わかがえった!{page}{n}攻撃力が {num}上がった!{page}{n}守備力が {num}上がった!{page}",
    "en": null
   },
   {

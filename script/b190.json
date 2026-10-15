@@ -161,7 +161,7 @@
   },
   {
    "id": "b190_0031",
-   "jp": "{party}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} その きたない手を はなせ!」{n}{party}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} かぐや姫さまを どうする気だ!」{n}{party}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} かぐや姫さまを かえして!」",
+   "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} その きたない手を はなせ!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} かぐや姫さまを どうする気だ!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} かぐや姫さまを かえして!」",
    "en": null
   },
   {
@@ -206,7 +206,7 @@
   },
   {
    "id": "b190_0040",
-   "jp": "{party}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} ぜったい おしえるもんか!」{n}{party}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} ううう……{kata}キィ{hira}ーーー!」{n}{party}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} だめよ! いっては だめ!」",
+   "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} ぜったい おしえるもんか!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} ううう……{kata}キィ{hira}ーーー!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} だめよ! いっては だめ!」",
    "en": null
   },
   {
@@ -251,7 +251,7 @@
   },
   {
    "id": "b190_0049",
-   "jp": "{party}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} {kata}グ{hira}…{kata}グルルル{hira}……!」{n}{party}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} ううう……{kata}キィ{hira}ーーー!」{n}{party}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} いっては だめ! だめ!」",
+   "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} {kata}グ{hira}…{kata}グルルル{hira}……!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} ううう……{kata}キィ{hira}ーーー!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} いっては だめ! だめ!」",
    "en": null
   },
   {
@@ -296,7 +296,7 @@
   },
   {
    "id": "b190_0058",
-   "jp": "{party}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} 何てことを…!」{n}{party}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} きたない! きたない!」{n}{party}{n}「{kata}ケン{hira} {kata}ケン{hira}! {n} もう やめて!」",
+   "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} 何てことを…!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} きたない! きたない!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}! {n} もう やめて!」",
    "en": null
   },
   {
@@ -341,7 +341,7 @@
   },
   {
    "id": "b190_0067",
-   "jp": "{party}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} この ひきょう者め!」{n}{party}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} どうしよう どうしよう!」{n}{party}{n}「{kata}ケン{hira} {kata}ケン{hira}! まずいわ!」{n}",
+   "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} この ひきょう者め!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} どうしよう どうしよう!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}! まずいわ!」{n}",
    "en": null
   },
   {
@@ -386,7 +386,7 @@
   },
   {
    "id": "b190_0076",
-   "jp": "{party}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} どういう いみだ!」{n}{party}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} そんなの ずるい! ずるい!」{n}{party}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} やめなさい! ひきょうよ!」",
+   "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} どういう いみだ!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} そんなの ずるい! ずるい!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} やめなさい! ひきょうよ!」",
    "en": null
   },
   {
@@ -431,7 +431,7 @@
   },
   {
    "id": "b190_0085",
-   "jp": "{party}{n}「{kata}ワン{hira} {kata}ワン{hira}!」{n}{n}{party}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} かぐや姫さまーーーーー{kata}ッ{hira}!」{n}{party}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} うそでしょ! うそでしょ!」",
+   "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!」{n}{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} かぐや姫さまーーーーー{kata}ッ{hira}!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} うそでしょ! うそでしょ!」",
    "en": null
   },
   {
@@ -476,7 +476,7 @@
   },
   {
    "id": "b190_0094",
-   "jp": "{party}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} かぐや姫さまーーーーー{kata}ッ{hira}!」{n}{party}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} 死なないで 死なないで!」{n}{party}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} だめです! しっかりして!」",
+   "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} かぐや姫さまーーーーー{kata}ッ{hira}!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} 死なないで 死なないで!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} だめです! しっかりして!」",
    "en": null
   },
   {
@@ -586,17 +586,17 @@
   },
   {
    "id": "b190_0116",
-   "jp": "{party}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} かぐや姫さまが… そんな…」",
+   "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} かぐや姫さまが… そんな…」",
    "en": null
   },
   {
    "id": "b190_0117",
-   "jp": "{party}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} 本当に 死んじゃったの?」",
+   "jp": "{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} 本当に 死んじゃったの?」",
    "en": null
   },
   {
    "id": "b190_0118",
-   "jp": "{party}{n}「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} {sub:C9}たち どうしたら…!」",
+   "jp": "{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} {sub:C9}たち どうしたら…!」",
    "en": null
   },
   {
@@ -641,7 +641,7 @@
   },
   {
    "id": "b190_0127",
-   "jp": "{party}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} どうか おちついて!」{n}{party}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} もう 手おくれなんです!」{n}{party}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} どうしようと いうのですか?」",
+   "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}!{n} どうか おちついて!」{n}{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}!{n} もう 手おくれなんです!」{n}{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}!{n} どうしようと いうのですか?」",
    "en": null
   },
   {
@@ -656,7 +656,7 @@
   },
   {
    "id": "b190_0130",
-   "jp": "{party}{n}「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} 無理でも やってみましょうよ!」",
+   "jp": "{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} 無理でも やってみましょうよ!」",
    "en": null
   }
  ]

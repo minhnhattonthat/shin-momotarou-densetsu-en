@@ -51,7 +51,7 @@
   },
   {
    "id": "b072_0009",
-   "jp": "「{kata}ソレジャ{hira} {kata}ジャスト{hira} {kata}タイム{hira} {kata}ネ{hira}!{n} {kata}スグ{hira} {kata}コンテスト{hira} {kata}スタ{hira}ー{kata}ト{hira} {kata}ネ{hira}!」{n}{n}「{kata}ユ{hira}ー {kata}ドッグ{hira} {kata}ネ{hira}ー{kata}ム{hira} {kata}イズ{n}{hira} {party} {kata}アルネ{hira}!{n} {kata}ビュ{hira}ー{kata}リホ{hira}ー! {kata}ビュ{hira}ー{kata}リホ{hira}ー!」",
+   "jp": "「{kata}ソレジャ{hira} {kata}ジャスト{hira} {kata}タイム{hira} {kata}ネ{hira}!{n} {kata}スグ{hira} {kata}コンテスト{hira} {kata}スタ{hira}ー{kata}ト{hira} {kata}ネ{hira}!」{n}{n}「{kata}ユ{hira}ー {kata}ドッグ{hira} {kata}ネ{hira}ー{kata}ム{hira} {kata}イズ{n}{hira} {arg} {kata}アルネ{hira}!{n} {kata}ビュ{hira}ー{kata}リホ{hira}ー! {kata}ビュ{hira}ー{kata}リホ{hira}ー!」",
    "en": null
   },
   {
@@ -76,7 +76,7 @@
   },
   {
    "id": "b072_0014",
-   "jp": "「{kata}ソウゴウ{hira} {kata}ユウショウ{hira} {kata}ハ{n}{hira} {party} {kata}ニ{hira} {kata}ケッテ{hira}ーー{kata}イ{hira}!」{n}{n}「{kata}ユウショウ{hira} {kata}ショウキン{n}{hira} 10000両 {kata}プレゼント{hira}!」{n}",
+   "jp": "「{kata}ソウゴウ{hira} {kata}ユウショウ{hira} {kata}ハ{n}{hira} {arg} {kata}ニ{hira} {kata}ケッテ{hira}ーー{kata}イ{hira}!」{n}{n}「{kata}ユウショウ{hira} {kata}ショウキン{n}{hira} 10000両 {kata}プレゼント{hira}!」{n}",
    "en": null
   },
   {

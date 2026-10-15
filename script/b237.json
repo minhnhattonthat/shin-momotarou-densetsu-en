@@ -7,97 +7,97 @@
   {
    "id": "b237_0000",
    "jp": "    {sub:A0}が 鬼が島の{n}  えんま様を こらしめてから{n}6年の 歳月(さいげつ)が 流れた…",
-   "en": null
+   "en": "    Six years have passed since{n}  Momotaro taught King Enma{n}of Onigashima a lesson..."
   },
   {
    "id": "b237_0001",
    "jp": "{c1}{kata}カルラ{n}{c0}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} 伐折羅(ばさら)王様!」{n}{c1}{kata}カルラ{n}{c0}{hira}「この {kata}カルラ{hira}の 顔に めんじて{n} えんま王を おゆるし{sub:C5}!」{0B}",
-   "en": null
+   "en": "{c1}Karura{n}{c0}\"Keeh, keh-keh-keh!{n} King Basara, sire!\"{n}{c1}Karura{n}{c0}\"For my sake, I beg you,{n} forgive King Enma!\"{0B}"
   },
   {
    "id": "b237_0002",
    "jp": "{c1}{kata}カルラ{n}{c0}{hira}「えんま王が 愛だの! 友情だの!」{n}{n}{c1}{kata}カルラ{n}{c0}{hira}「わけのわからぬことを{n} ふれまわっておりますが…」{n}{c1}{kata}カルラ{n}{c0}{hira}「えんま王は 鬼族の 今日を{n} きずきあげた男で ございます!」{n}{c1}{kata}カルラ{n}{c0}{hira}「なにとぞ おゆるしを!」{n}",
-   "en": null
+   "en": "{c1}Karura{n}{c0}\"King Enma goes on about love! And friendship!\"{n}{n}{c1}Karura{n}{c0}\"He spreads such nonsense far and wide...\"{n}{c1}Karura{n}{c0}\"Yet he is the man who built the oni race into what it is today!\"{n}{c1}Karura{n}{c0}\"I beg you, show him mercy!\"{n}"
   },
   {
    "id": "b237_0003",
    "jp": "{c1}伐折羅(ばさら)王{n}{c0}「えんま よ!」{n}{n}{c1}伐折羅王{n}{c0}「6年前… わしは {sub:B6}の{n} つみを とわなかった!」{n}{c1}伐折羅王{n}{c0}「{sub:B6}が いさぎよく{n} {sub:A0}とやらと 戦っ{sub:BE}だ!」{n}{c1}伐折羅王{n}{c0}「しかし! その後の{n} {sub:B6}は どうした?」{0B}",
-   "en": null
+   "en": "{c1}King Basara{n}{c0}\"Enma!\"{n}{n}{c1}King Basara{n}{c0}\"Six years ago... I did not hold your failure against you!\"{n}{c1}King Basara{n}{c0}\"For you fought that Momotaro fellow bravely!\"{n}{c1}King Basara{n}{c0}\"But! What have you done since then?\"{0B}"
   },
   {
    "id": "b237_0004",
    "jp": "{c1}伐折羅王{n}{c0}「よいのだ! {kata}カルラ{hira}!」{n}",
-   "en": null
+   "en": "{c1}King Basara{n}{c0}\"Enough, Karura!\"{n}"
   },
   {
    "id": "b237_0005",
    "jp": "{c1}伐折羅王{n}{c0}「えんま よ!」{n}{n}{c1}伐折羅王{n}{c0}「わしに もうすことは ないか?」{n}{0B}",
-   "en": null
+   "en": "{c1}King Basara{n}{c0}\"Enma!\"{n}{n}{c1}King Basara{n}{c0}\"Have you nothing to say to me?\"{n}{0B}"
   },
   {
    "id": "b237_0006",
    "jp": "{c1}えんま様{n}{c0}「王の ご命令とあらば{n} いかなる ばつも!」",
-   "en": null
+   "en": "{c1}King Enma{n}{c0}\"If it is Your Majesty's command, I accept any punishment!\""
   },
   {
    "id": "b237_0007",
    "jp": "{c1}伐折羅王{n}{c0}「よかろう!」{n}{n}{c1}伐折羅王{n}{c0}「いつもながら いさぎよい!」{n}",
-   "en": null
+   "en": "{c1}King Basara{n}{c0}\"Very well!\"{n}{n}{c1}King Basara{n}{c0}\"Gallant as ever!\"{n}"
   },
   {
    "id": "b237_0008",
    "jp": "{c1}{kata}カルラ{n}{c0}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!{n} ところで 伐折羅王さま!」{n}{c1}{kata}カルラ{n}{c0}{hira}「月の かぐや姫を{n} そろそろ…」{n}{c1}{kata}カルラ{n}{c0}{hira}「月を このままに しておいては{n} 鬼族にとって やっかいでは?」{0B}",
-   "en": null
+   "en": "{c1}Karura{n}{c0}\"Keeh, keh-keh-keh!{n} By the way, King Basara!\"{n}{c1}Karura{n}{c0}\"About Princess Kaguya of the Moon... it is high time...\"{n}{c1}Karura{n}{c0}\"If we leave the Moon as it is, won't it cause the oni trouble?\"{0B}"
   },
   {
    "id": "b237_0009",
    "jp": "{c1}伐折羅王{n}{c0}「月の かぐや姫か…」{n}{n}{c1}伐折羅王{n}{c0}「手を打たねば なるまい!」{n}{n}{c1}伐折羅王{n}{c0}「{kata}カルラ{hira}よ! 月へ 行け!」{n}{n}{c1}伐折羅王{n}{c0}「わが むすこ{kata}ダイダ{hira}王子も{n} つれて行くが よい!」{0B}",
-   "en": null
+   "en": "{c1}King Basara{n}{c0}\"Princess Kaguya of the Moon...\"{n}{n}{c1}King Basara{n}{c0}\"Something must be done!\"{n}{n}{c1}King Basara{n}{c0}\"Karura! Go to the Moon!\"{n}{n}{c1}King Basara{n}{c0}\"Take my son, Prince Daida, with you!\"{0B}"
   },
   {
    "id": "b237_0010",
    "jp": "{c1}{kata}カルラ{n}{c0}{hira}「ははっ!」{n}",
-   "en": null
+   "en": "{c1}Karura{n}{c0}\"At once!\"{n}"
   },
   {
    "id": "b237_0011",
    "jp": "      かくして{n} かぐや姫のすむ 月の宮殿に{n}鬼族の 魔の手が せまった!!{n}知らせを 受けた {sub:A0}は{n}  月の牛車に とびのり{n} 月の宮殿へと むかった!{n}{n}{n}",
-   "en": null
+   "en": "      And so...{n} the evil hand of the oni reached for{n}the Moon Palace, home of Princess Kaguya!!{n}Hearing the news, Momotaro{n}  leapt into the Moon Ox-Cart{n} and set off for the Moon Palace!{n}{n}{n}"
   },
   {
    "id": "b237_0012",
    "jp": " 新しい {sub:A0}の 伝説は{n}  ここから はじまる!{n}",
-   "en": null
+   "en": " A new legend of Momotaro{n}  begins here!{n}"
   },
   {
    "id": "b237_0013",
    "jp": "{c1}村人{n}{c0}「おい! 誰か{n} たおれてるぞ!」",
-   "en": null
+   "en": "{c1}Villager{n}{c0}\"Hey! Somebody's{n} collapsed over here!\""
   },
   {
    "id": "b237_0014",
    "jp": "{c1}村人{n}{c0}「{sub:A0}さん でねっか!」{n}",
-   "en": null
+   "en": "{c1}Villager{n}{c0}\"Ain't that Momotaro?\"{n}"
   },
   {
    "id": "b237_0015",
    "jp": "{c1}村人{n}{c0}「{sub:A0}さん! どうなすったね!{n} {kata}キズ{hira}だらけでねっか!」",
-   "en": null
+   "en": "{c1}Villager{n}{c0}\"Momotaro! What happened to ya?{n} You're all cut up!\""
   },
   {
    "id": "b237_0016",
    "jp": "{c1}村人{n}{c0}「て… て… てえへんだ!{n} はやいとこ はこんでやらねっと!」",
-   "en": null
+   "en": "{c1}Villager{n}{c0}\"Th-th-this is bad!{n} We gotta carry him in, quick!\""
   },
   {
    "id": "b237_0017",
    "jp": "{c1}{kata}カルラ{n}{c0}{hira}「{kata}ケ{hira}ー{kata}ケッケッ{hira}!」{n}{n}{c1}{kata}カルラ{n}{c0}{hira}「{kata}ダイダ{hira}王子! また いちだんと{n} 腕を あげられましたな!」{n}{c1}{kata}カルラ{n}{c0}{hira}「それにしても…」{n}{n}{c1}{kata}カルラ{n}{c0}{hira}「まさか あんな 子どもに{n} えんま王が やぶれるとは…!」{n}{c1}{kata}カルラ{n}{c0}{hira}「どこに そんな力が{n} あったのでしょうな?」{n}{c1}{kata}カルラ{n}{c0}{hira}「まあ よい!」{n}",
-   "en": null
+   "en": "{c1}Karura{n}{c0}\"Keeh, keh-keh-keh!\"{n}{n}{c1}Karura{n}{c0}\"Prince Daida! Your skill grows sharper by the day!\"{n}{c1}Karura{n}{c0}\"Even so...\"{n}{n}{c1}Karura{n}{c0}\"Who would have thought King Enma would lose to a mere child like that...!\"{n}{c1}Karura{n}{c0}\"Where could he have found such strength?\"{n}{c1}Karura{n}{c0}\"Well, no matter!\"{n}"
   },
   {
    "id": "b237_0018",
    "jp": "{c1}{kata}カルラ{n}{c0}{hira}「月の姫 かぐや!」{n}{n}{c1}{kata}カルラ{n}{c0}{hira}「{sub:B6}のことを 人間たちは{n} 神のように 信じているそうだな!」{n}{c1}{kata}カルラ{n}{c0}{hira}「その力 鬼族のために{n} つかわせて もらうぞ!」{n}{c1}{kata}カルラ{n}{c0}{hira}「これから ゆっくりとな{n} {kata}ケ{hira}ー{kata}ケッケッ{hira}! {kata}ケ{hira}ー{kata}ケッケッ{hira}!」",
-   "en": null
+   "en": "{c1}Karura{n}{c0}\"Kaguya, Princess of the Moon!\"{n}{n}{c1}Karura{n}{c0}\"They say the humans believe in you as if you were a god!\"{n}{c1}Karura{n}{c0}\"Your power will serve the oni now!\"{n}{c1}Karura{n}{c0}\"We'll take our time... Keeh, keh-keh-keh! Keeh, keh-keh-keh!\""
   }
  ]
 }

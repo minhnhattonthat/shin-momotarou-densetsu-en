@@ -6,17 +6,17 @@
  "strings": [
   {
    "id": "b023_0000",
-   "jp": "{party}{party}は{n}{party}の術を となえた!",
+   "jp": "{arg}{arg}は{n}{arg}の術を となえた!",
    "en": null
   },
   {
    "id": "b023_0001",
-   "jp": "{party}{page}",
+   "jp": "{arg}{page}",
    "en": null
   },
   {
    "id": "b023_0002",
-   "jp": "{party}{party}は{n}{party}の術を となえた!",
+   "jp": "{arg}{arg}は{n}{arg}の術を となえた!",
    "en": null
   },
   {
@@ -31,12 +31,12 @@
   },
   {
    "id": "b023_0005",
-   "jp": "{party}の術は{n}いまは つかえません!{n}{page}",
+   "jp": "{arg}の術は{n}いまは つかえません!{n}{page}",
    "en": null
   },
   {
    "id": "b023_0006",
-   "jp": "{c1}{party}{party}は{n}つかえない術を{n}つかおうとしました!{page}",
+   "jp": "{c1}{arg}{arg}は{n}つかえない術を{n}つかおうとしました!{page}",
    "en": null
   },
   {
@@ -51,12 +51,12 @@
   },
   {
    "id": "b023_0009",
-   "jp": "しかし {party}は{n}声が 出なくなる 呪いのせいで{n}術が となえられない!{page}",
+   "jp": "しかし {arg}は{n}声が 出なくなる 呪いのせいで{n}術が となえられない!{page}",
    "en": null
   },
   {
    "id": "b023_0010",
-   "jp": "{party}は 大けがを しているので{n}術が となえられない!{n}{page}",
+   "jp": "{arg}は 大けがを しているので{n}術が となえられない!{n}{page}",
    "en": null
   },
   {
@@ -96,7 +96,7 @@
   },
   {
    "id": "b023_0018",
-   "jp": "{party}{party}は やわらかい{n}かおりに つつまれた!{n}{page}",
+   "jp": "{arg}{arg}は やわらかい{n}かおりに つつまれた!{n}{page}",
    "en": null
   },
   {
@@ -111,12 +111,12 @@
   },
   {
    "id": "b023_0021",
-   "jp": "{party}{party}が おきあがった!{n}{n}{page}",
+   "jp": "{arg}{arg}が おきあがった!{n}{n}{page}",
    "en": null
   },
   {
    "id": "b023_0022",
-   "jp": "{party}{party}は{n}いしきを とりもどした!{n}{page}",
+   "jp": "{arg}{arg}は{n}いしきを とりもどした!{n}{page}",
    "en": null
   },
   {
@@ -211,7 +211,7 @@
   },
   {
    "id": "b023_0041",
-   "jp": "{party}{party}の 体から{n}数万本の {kata}バラ{hira}が{n}鬼たちにむかって 飛んで行った!{page}",
+   "jp": "{arg}{arg}の 体から{n}数万本の {kata}バラ{hira}が{n}鬼たちにむかって 飛んで行った!{page}",
    "en": null
   },
   {
@@ -226,7 +226,7 @@
   },
   {
    "id": "b023_0044",
-   "jp": "忍冬(すいかずら)の{n}花ことばは 献身(けんしん)!{n}{n}{party}{party}は ねむれる 力の{n}すべてを 出しきって{n}{party}{party}に 身を ささげた!{page}",
+   "jp": "忍冬(すいかずら)の{n}花ことばは 献身(けんしん)!{n}{n}{arg}{arg}は ねむれる 力の{n}すべてを 出しきって{n}{arg}{arg}に 身を ささげた!{page}",
    "en": null
   },
   {
@@ -236,7 +236,7 @@
   },
   {
    "id": "b023_0046",
-   "jp": "「夜空に かがやく{n} いく千の 星よ!{n} われに 力を {sub:AB}まえ!」{n}{party}{party}の 体に{n}流れ星の 力が 加わった!{n}{page}",
+   "jp": "「夜空に かがやく{n} いく千の 星よ!{n} われに 力を {sub:AB}まえ!」{n}{arg}{arg}の 体に{n}流れ星の 力が 加わった!{n}{page}",
    "en": null
   },
   {
@@ -246,7 +246,7 @@
   },
   {
    "id": "b023_0048",
-   "jp": "{party}{party}の{n}刀は するどさを ました!{n}{page}",
+   "jp": "{arg}{arg}の{n}刀は するどさを ました!{n}{page}",
    "en": null
   },
   {
@@ -256,7 +256,7 @@
   },
   {
    "id": "b023_0050",
-   "jp": "{party}{party}は{n}{party}{party}から{n}{num}両 盗んだ!{page}",
+   "jp": "{arg}{arg}は{n}{arg}{arg}から{n}{num}両 盗んだ!{page}",
    "en": null
   },
   {
@@ -271,7 +271,7 @@
   },
   {
    "id": "b023_0053",
-   "jp": "鬼たちは びびって{n}全身の 力が ぬけてしまった!{n}{n}すかさず {party}{party}が{n}体中の 力を あつめて{n}鬼たちに ぶつけた!{page}",
+   "jp": "鬼たちは びびって{n}全身の 力が ぬけてしまった!{n}{n}すかさず {arg}{arg}が{n}体中の 力を あつめて{n}鬼たちに ぶつけた!{page}",
    "en": null
   },
   {
@@ -341,7 +341,7 @@
   },
   {
    "id": "b023_0067",
-   "jp": "{party}{party}の 体が{n}真っ白に かがやいた!{n}{n}{party}{party}の 分身が{n}あらわれた!{n}{page}",
+   "jp": "{arg}{arg}の 体が{n}真っ白に かがやいた!{n}{n}{arg}{arg}の 分身が{n}あらわれた!{n}{page}",
    "en": null
   },
   {
@@ -356,7 +356,7 @@
   },
   {
    "id": "b023_0070",
-   "jp": "きょだいな {kata}バラ{hira}が{n}{party}{party}を つつみこんだ!{n}{page}{n}鬼は {party}{party}に{n}攻撃が できなくなってしまった!{n}{page}",
+   "jp": "きょだいな {kata}バラ{hira}が{n}{arg}{arg}を つつみこんだ!{n}{page}{n}鬼は {arg}{arg}に{n}攻撃が できなくなってしまった!{n}{page}",
    "en": null
   },
   {
@@ -391,7 +391,7 @@
   },
   {
    "id": "b023_0077",
-   "jp": "{party}{party}は{n}{party}{party}から{n}技を {num}盗んだ!{page}",
+   "jp": "{arg}{arg}は{n}{arg}{arg}から{n}技を {num}盗んだ!{page}",
    "en": null
   },
   {
@@ -411,7 +411,7 @@
   },
   {
    "id": "b023_0081",
-   "jp": "{party}{party}は{n}{party}{party}を{n}うつろひの世界へと いざなった!{page}",
+   "jp": "{arg}{arg}は{n}{arg}{arg}を{n}うつろひの世界へと いざなった!{page}",
    "en": null
   },
   {
@@ -426,7 +426,7 @@
   },
   {
    "id": "b023_0084",
-   "jp": "{party}{party}を とりまく{n}鬼も 味方も すべての{n}うごきが とまってしまった!{page}",
+   "jp": "{arg}{arg}を とりまく{n}鬼も 味方も すべての{n}うごきが とまってしまった!{page}",
    "en": null
   },
   {
@@ -441,7 +441,7 @@
   },
   {
    "id": "b023_0087",
-   "jp": "{party}の術は{n}いまは つかえません!{n}",
+   "jp": "{arg}の術は{n}いまは つかえません!{n}",
    "en": null
   },
   {
@@ -471,17 +471,17 @@
   },
   {
    "id": "b023_0093",
-   "jp": "{party}は{n}{sub:C0}を つくった!{n}",
+   "jp": "{arg}は{n}{sub:C0}を つくった!{n}",
    "en": null
   },
   {
    "id": "b023_0094",
-   "jp": "しかし {party}{party}は{n}りょうりに しっぱいした!{n}{page}",
+   "jp": "しかし {arg}{arg}は{n}りょうりに しっぱいした!{n}{page}",
    "en": null
   },
   {
    "id": "b023_0095",
-   "jp": "{party}{party}は{n}{sub:C0}を つくった!{n}{page}",
+   "jp": "{arg}{arg}は{n}{sub:C0}を つくった!{n}{page}",
    "en": null
   },
   {
@@ -496,7 +496,7 @@
   },
   {
    "id": "b023_0098",
-   "jp": "{party}{party}は{n}邪悪な力を しりぞける{n}光に つつまれた!{page}",
+   "jp": "{arg}{arg}は{n}邪悪な力を しりぞける{n}光に つつまれた!{page}",
    "en": null
   },
   {
@@ -506,12 +506,12 @@
   },
   {
    "id": "b023_0100",
-   "jp": "{hero}{party}の{n}体が ちゅうに ういた!{n}",
+   "jp": "{hero}{arg}の{n}体が ちゅうに ういた!{n}",
    "en": null
   },
   {
    "id": "b023_0101",
-   "jp": "{party}{party}の{n}体が ちゅうに ういた!{n}{page}",
+   "jp": "{arg}{arg}の{n}体が ちゅうに ういた!{n}{page}",
    "en": null
   },
   {
@@ -556,17 +556,17 @@
   },
   {
    "id": "b023_0110",
-   "jp": "なんと! {party}{party}の{n}体力が 1に なってしまった!{n}{page}",
+   "jp": "なんと! {arg}{arg}の{n}体力が 1に なってしまった!{n}{page}",
    "en": null
   },
   {
    "id": "b023_0111",
-   "jp": "なんと! {party}{party}の{n}体力が {num}に なってしまった!{n}{page}",
+   "jp": "なんと! {arg}{arg}の{n}体力が {num}に なってしまった!{n}{page}",
    "en": null
   },
   {
    "id": "b023_0112",
-   "jp": "かげろうが たちこめて{n}{party}{party}の 攻撃が{n}あたりづらくなった!{page}",
+   "jp": "かげろうが たちこめて{n}{arg}{arg}の 攻撃が{n}あたりづらくなった!{page}",
    "en": null
   },
   {
@@ -581,12 +581,12 @@
   },
   {
    "id": "b023_0115",
-   "jp": "しかし {party}{party}の{n}技の数は たりなかった!{n}{page}",
+   "jp": "しかし {arg}{arg}の{n}技の数は たりなかった!{n}{page}",
    "en": null
   },
   {
    "id": "b023_0116",
-   "jp": "{c1}{party}{party} 技のこり {num}{page}",
+   "jp": "{c1}{arg}{arg} 技のこり {num}{page}",
    "en": null
   },
   {
@@ -596,17 +596,17 @@
   },
   {
    "id": "b023_0118",
-   "jp": "{party}の{n}技の数が たりない!{n}",
+   "jp": "{arg}の{n}技の数が たりない!{n}",
    "en": null
   },
   {
    "id": "b023_0119",
-   "jp": "{party}{party}の{n}技の数が たりない!{n}{page}",
+   "jp": "{arg}{arg}の{n}技の数が たりない!{n}{page}",
    "en": null
   },
   {
    "id": "b023_0120",
-   "jp": "{c1}{party}{party} 技 EMPTY{page}",
+   "jp": "{c1}{arg}{arg} 技 EMPTY{page}",
    "en": null
   },
   {
@@ -621,22 +621,22 @@
   },
   {
    "id": "b023_0123",
-   "jp": "{party}が {party}の術を{n}打ち消した!{page}",
+   "jp": "{arg}が {arg}の術を{n}打ち消した!{page}",
    "en": null
   },
   {
    "id": "b023_0124",
-   "jp": "{party}が {party}の術の{n}いきおいを 増した!{page}",
+   "jp": "{arg}が {arg}の術の{n}いきおいを 増した!{page}",
    "en": null
   },
   {
    "id": "b023_0125",
-   "jp": "{party}{party}は{n}{party}の術を{n}となえようとした!{page}",
+   "jp": "{arg}{arg}は{n}{arg}の術を{n}となえようとした!{page}",
    "en": null
   },
   {
    "id": "b023_0126",
-   "jp": "しかし 怪しげな光のせいで{n}{party}の術を{n}となえてしまった!{page}",
+   "jp": "しかし 怪しげな光のせいで{n}{arg}の術を{n}となえてしまった!{page}",
    "en": null
   },
   {
@@ -646,7 +646,7 @@
   },
   {
    "id": "b023_0128",
-   "jp": "{party}{party}には{n}{party}の術が{n}つかえない!{page}",
+   "jp": "{arg}{arg}には{n}{arg}の術が{n}つかえない!{page}",
    "en": null
   }
  ]

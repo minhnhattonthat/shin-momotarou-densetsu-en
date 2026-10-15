@@ -86,7 +86,7 @@
   },
   {
    "id": "b136_0016",
-   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}ヘイ{hira} {kata}ヘイ{hira}!{n} {party} じゃねーかー!{n} ありがとうよ! {kata}ヘイ{hira} {kata}ヘイ{hira}!」{n}「じゃあ! 仲間に なってやるぜ!{n} {kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}ヘイ{hira} {kata}ヘイ{hira}!」{n}",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}ヘイ{hira} {kata}ヘイ{hira}!{n} {arg} じゃねーかー!{n} ありがとうよ! {kata}ヘイ{hira} {kata}ヘイ{hira}!」{n}「じゃあ! 仲間に なってやるぜ!{n} {kata}ヘイ{hira} {kata}ヘイ{hira}! {kata}ヘイ{hira} {kata}ヘイ{hira}!」{n}",
    "en": null
   },
   {
@@ -106,7 +106,7 @@
   },
   {
    "id": "b136_0020",
-   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! てめえ!{n} どこに {party}が{n} あるんだよ! {kata}ヘイ{hira} {kata}ヘイ{hira}!」{n}「ふざけたこと しやがって!{n} いい夢 見せてやるぜ!」{n}",
+   "jp": "「{kata}ヘイ{hira} {kata}ヘイ{hira}! てめえ!{n} どこに {arg}が{n} あるんだよ! {kata}ヘイ{hira} {kata}ヘイ{hira}!」{n}「ふざけたこと しやがって!{n} いい夢 見せてやるぜ!」{n}",
    "en": null
   }
  ]

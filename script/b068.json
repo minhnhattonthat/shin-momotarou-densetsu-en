@@ -101,17 +101,17 @@
   },
   {
    "id": "b068_0019",
-   "jp": "「{party} で ございますね!{n} しばし お待ち{sub:C5}ませ!」{n}",
+   "jp": "「{arg} で ございますね!{n} しばし お待ち{sub:C5}ませ!」{n}",
    "en": null
   },
   {
    "id": "b068_0020",
-   "jp": "「当店 じまんの{n} {party} で ございます!」{n}{n}「どうぞ ごゆっくり{n} おめしあがり {sub:C5}!」{n}{0B}",
+   "jp": "「当店 じまんの{n} {arg} で ございます!」{n}{n}「どうぞ ごゆっくり{n} おめしあがり {sub:C5}!」{n}{0B}",
    "en": null
   },
   {
    "id": "b068_0021",
-   "jp": "{kata}モグモグ{hira} {kata}ゴックン{hira}!{n}{n}{n}{sub:A0}たちは {party}を{n}たらふく 食べた!{n}",
+   "jp": "{kata}モグモグ{hira} {kata}ゴックン{hira}!{n}{n}{n}{sub:A0}たちは {arg}を{n}たらふく 食べた!{n}",
    "en": null
   },
   {
@@ -136,27 +136,27 @@
   },
   {
    "id": "b068_0026",
-   "jp": "「{party}が {num}尾!」{n}{n}",
+   "jp": "「{arg}が {num}尾!」{n}{n}",
    "en": null
   },
   {
    "id": "b068_0027",
-   "jp": "「{party}が {num}尾!」{n}{n}",
+   "jp": "「{arg}が {num}尾!」{n}{n}",
    "en": null
   },
   {
    "id": "b068_0028",
-   "jp": "「{party}が {num}尾!」{n}{n}",
+   "jp": "「{arg}が {num}尾!」{n}{n}",
    "en": null
   },
   {
    "id": "b068_0029",
-   "jp": "「{party}が {num}尾!」{n}{n}",
+   "jp": "「{arg}が {num}尾!」{n}{n}",
    "en": null
   },
   {
    "id": "b068_0030",
-   "jp": "「{party}が {num}尾!」{n}{n}",
+   "jp": "「{arg}が {num}尾!」{n}{n}",
    "en": null
   },
   {

@@ -41,17 +41,17 @@
   },
   {
    "id": "b230_0007",
-   "jp": "{party}{n}「{kata}ワン{hira} {kata}ワン{hira}! {kata}ボク{hira}たちにだって{n} 希望が あるんですよ えんま様!」",
+   "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}! {kata}ボク{hira}たちにだって{n} 希望が あるんですよ えんま様!」",
    "en": null
   },
   {
    "id": "b230_0008",
-   "jp": "{party}{n}「{kata}キャッ{hira} {kata}キャッ{hira}! 希望がなきゃ{n} 不幸な人は 生きていけないよ!」",
+   "jp": "{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}! 希望がなきゃ{n} 不幸な人は 生きていけないよ!」",
    "en": null
   },
   {
    "id": "b230_0009",
-   "jp": "{party}{n}「{kata}ケン{hira} {kata}ケン{hira}! 希望は{n} めざめているときの 夢ですよね!」",
+   "jp": "{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}! 希望は{n} めざめているときの 夢ですよね!」",
    "en": null
   },
   {
@@ -131,12 +131,12 @@
   },
   {
    "id": "b230_0025",
-   "jp": "{party}は 牢に ふれた!{n}{n}{n}{party}の 体力が{n}呪いを こめた牢の ために{n}うしなわれていく!",
+   "jp": "{arg}は 牢に ふれた!{n}{n}{n}{arg}の 体力が{n}呪いを こめた牢の ために{n}うしなわれていく!",
    "en": null
   },
   {
    "id": "b230_0026",
-   "jp": "{party}は{n}ついに 力つきた!{n}{n}{party}は そのばに{n}がくりと たおれふした!{n}",
+   "jp": "{arg}は{n}ついに 力つきた!{n}{n}{arg}は そのばに{n}がくりと たおれふした!{n}",
    "en": null
   },
   {
@@ -356,17 +356,17 @@
   },
   {
    "id": "b230_0070",
-   "jp": "{party}{n}「{kata}ワン{hira} {kata}ワン{hira}! 酒香童子さま!」{n}",
+   "jp": "{arg}{n}「{kata}ワン{hira} {kata}ワン{hira}! 酒香童子さま!」{n}",
    "en": null
   },
   {
    "id": "b230_0071",
-   "jp": "{party}{n}「{kata}キャッ{hira} {kata}キャッ{hira}! 酒香童子さま!」{n}",
+   "jp": "{arg}{n}「{kata}キャッ{hira} {kata}キャッ{hira}! 酒香童子さま!」{n}",
    "en": null
   },
   {
    "id": "b230_0072",
-   "jp": "{party}{n}「{kata}ケン{hira} {kata}ケン{hira}! 酒香童子さま!」{n}",
+   "jp": "{arg}{n}「{kata}ケン{hira} {kata}ケン{hira}! 酒香童子さま!」{n}",
    "en": null
   },
   {

@@ -66,7 +66,7 @@
   },
   {
    "id": "b174_0012",
-   "jp": "{kata}イヌ{hira}の{party}は {kata}ニセ{hira}ものだった!{n}{n}{n}{kata}サル{hira}の{party}は {kata}ニセ{hira}ものだった!{n}{n}{n}{kata}キジ{hira}の{party}は {kata}ニセ{hira}ものだった!{n}{n}",
+   "jp": "{kata}イヌ{hira}の{arg}は {kata}ニセ{hira}ものだった!{n}{n}{n}{kata}サル{hira}の{arg}は {kata}ニセ{hira}ものだった!{n}{n}{n}{kata}キジ{hira}の{arg}は {kata}ニセ{hira}ものだった!{n}{n}",
    "en": null
   },
   {

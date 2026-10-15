@@ -6,7 +6,7 @@
  "strings": [
   {
    "id": "b082_0000",
-   "jp": "「そうでしたね!{n} {kata}イヌ{hira} {kata}サル{hira} {kata}キジ{hira}の 名前は{n} {party} {party} {party}ね!」",
+   "jp": "「そうでしたね!{n} {kata}イヌ{hira} {kata}サル{hira} {kata}キジ{hira}の 名前は{n} {arg} {arg} {arg}ね!」",
    "en": null
   },
   {
@@ -21,7 +21,7 @@
   },
   {
    "id": "b082_0003",
-   "jp": "「やっぱり そうでしたか!{n} {kata}イヌ{hira} {kata}サル{hira} {kata}キジ{hira}の 名前は{n} {party} {party} {party}ね!」",
+   "jp": "「やっぱり そうでしたか!{n} {kata}イヌ{hira} {kata}サル{hira} {kata}キジ{hira}の 名前は{n} {arg} {arg} {arg}ね!」",
    "en": null
   },
   {
@@ -41,7 +41,7 @@
   },
   {
    "id": "b082_0007",
-   "jp": "「そうでしたね!{n} {kata}イヌ{hira} {kata}サル{hira} {kata}キジ{hira}の 名前は{n} {party} {party} {party}ね!」",
+   "jp": "「そうでしたね!{n} {kata}イヌ{hira} {kata}サル{hira} {kata}キジ{hira}の 名前は{n} {arg} {arg} {arg}ね!」",
    "en": null
   },
   {

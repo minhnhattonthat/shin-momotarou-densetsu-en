@@ -11,12 +11,12 @@
   },
   {
    "id": "b151_0001",
-   "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {sub:A0}さん!{n} あいたかったー! {kata}オイラ{hira}だ!{n} {kata}サル{hira}の {party}だ!」{n}「おこしに つけた きびだんご!{n} ひとつ {sub:C9}に {sub:C5}な?{n} 旅のおともを いたしましょう!」",
+   "jp": "「{kata}キャッ{hira} {kata}キャッ{hira}! {sub:A0}さん!{n} あいたかったー! {kata}オイラ{hira}だ!{n} {kata}サル{hira}の {arg}だ!」{n}「おこしに つけた きびだんご!{n} ひとつ {sub:C9}に {sub:C5}な?{n} 旅のおともを いたしましょう!」",
    "en": null
   },
   {
    "id": "b151_0002",
-   "jp": "{sub:A0}は きびだんごを{n}{kata}サル{hira}の {party}に て{sub:C9}た!{n}",
+   "jp": "{sub:A0}は きびだんごを{n}{kata}サル{hira}の {arg}に て{sub:C9}た!{n}",
    "en": null
   },
   {

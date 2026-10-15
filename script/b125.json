@@ -11,12 +11,12 @@
   },
   {
    "id": "b125_0001",
-   "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} {sub:C9}です!{n} {kata}キジ{hira}の {party}です!」{n}「とっても こわかったけど{n} きっと たすけてくださるって{n} {party}は 信じてました!」{n}「おこしに つけた きびだんご!{n} ひとつ {sub:C9}に {sub:C5}な?{n} 旅のおともを いたしましょう!」",
+   "jp": "「{kata}ケン{hira} {kata}ケン{hira}! {sub:A0}さん!{n} {sub:C9}です!{n} {kata}キジ{hira}の {arg}です!」{n}「とっても こわかったけど{n} きっと たすけてくださるって{n} {arg}は 信じてました!」{n}「おこしに つけた きびだんご!{n} ひとつ {sub:C9}に {sub:C5}な?{n} 旅のおともを いたしましょう!」",
    "en": null
   },
   {
    "id": "b125_0002",
-   "jp": "{sub:A0}は きびだんごを{n}{kata}キジ{hira}の {party}に 手{sub:C9}た!{n}",
+   "jp": "{sub:A0}は きびだんごを{n}{kata}キジ{hira}の {arg}に 手{sub:C9}た!{n}",
    "en": null
   },
   {

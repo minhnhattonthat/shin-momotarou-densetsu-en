@@ -41,6 +41,6 @@ def test_blocks_cover_text_range():
 
 
 def test_lzss_roundtrip():
-    for b in BLOCKS[:40]:
+    for b in BLOCKS:
         enc = lzss_encode(b['data'])
         assert lzss_decode_upto(enc, 0, len(enc)) == b['data']
