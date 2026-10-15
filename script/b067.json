@@ -7,97 +7,97 @@
   {
    "id": "b067_0000",
    "jp": "「もうすぐ 冬が 来る!{n} 早く {kata}ダイコン{hira}を{n} 漬けこまないと!」",
-   "en": null
+   "en": "\"Winter's coming soon! Gotta hurry and get the daikon pickling!\""
   },
   {
    "id": "b067_0001",
    "jp": "「順安の 漬物は{n} ごはんだけでも おいしいよ!{n} お茶づけなら なおさらだ!」",
-   "en": null
+   "en": "\"Jun'an's pickles make even plain rice delicious! And over rice with tea, even more so!\""
   },
   {
    "id": "b067_0002",
    "jp": "「順安の たくわんと 千枚漬けは{n} 冬だけの はんばいで ございます」{n}{n}「いまは こうして{n} {kata}ダイコン{hira}を 漬けこんでいます{n} {kata}ダイコン{hira}を お持ちの方ですか?」",
-   "en": null
+   "en": "\"Jun'an's Pickled Radish and Senmai-zuke are sold only in winter.\"{n}{n}\"Right now we're pickling daikon, as you see. Do you happen to have any Daikon Radish?\""
   },
   {
    "id": "b067_0003",
    "jp": "「{kata}ダイコン{hira}を こちらで{n} おあずかりしますか?」{n}",
-   "en": null
+   "en": "\"Shall we keep your Daikon Radish here for you?\"{n}"
   },
   {
    "id": "b067_0004",
    "jp": "「あいにく こちらでは {kata}ダイコン{hira}を{n} 64本以上 おあずかりする{n} 場所が ございません」{n}「たくわんか 千枚漬けを{n} そろそろ お作りに なっては?」{n}",
-   "en": null
+   "en": "\"I'm afraid we haven't the room to keep more than 64 Daikon Radish here.\"{n}\"Perhaps it's time you had some Pickled Radish or Senmai-zuke made?\"{n}"
   },
   {
    "id": "b067_0005",
    "jp": "「お持ちの {kata}ダイコン{hira}は{n} {num}本の ようですが{n} 何本 あずけますか?",
-   "en": null
+   "en": "\"You seem to have {num} Daikon Radish. How many will you leave with us?"
   },
   {
    "id": "b067_0006",
    "jp": "「はい {num}本{n} たしかに いただきました!」{n}",
-   "en": null
+   "en": "\"Very well, {num} radish. Received with thanks!\"{n}"
   },
   {
    "id": "b067_0007",
    "jp": "「{kata}ダイコン{hira}を 8本で{n} 順安の たくわんを{n} 作って さしあげます」{n}「{kata}ダイコン{hira} 16本で{n} 順安の 千枚漬けを{n} 作って さしあげます」{n}「お持ちいただいた {kata}ダイコン{hira}は{n} こちらに 64本までなら{n} あずけておくことも できます」",
-   "en": null
+   "en": "\"With 8 Daikon Radish, we'll make you Jun'an's Pickled Radish.\"{n}\"With 16 Daikon Radish, we'll make you Jun'an's Senmai-zuke.\"{n}\"We can also keep up to 64 of the Daikon Radish you bring here for you.\""
   },
   {
    "id": "b067_0008",
    "jp": "「おいしい {kata}ダイコン{hira}を{n} お持ちいただくと 順安の漬物を{n} 作って さしあげます」",
-   "en": null
+   "en": "\"Bring us tasty Daikon Radish and we'll make you Jun'an's pickles.\""
   },
   {
    "id": "b067_0009",
    "jp": "「いままで あなたが{n} お持ちいただいた {kata}ダイコン{hira}は{n} {num}本で ございます」",
-   "en": null
+   "en": "\"So far you've brought us {num} Daikon Radish in all.\""
   },
   {
    "id": "b067_0010",
    "jp": "「たくわんを 作るのに{n} あと {num}本たりないのですが…{n}",
-   "en": null
+   "en": "\"To make Pickled Radish, you're still {num} radish short...{n}"
   },
   {
    "id": "b067_0011",
    "jp": "「たくわんが {num}本 作れますが{n} お作り いたしましょうか?」{n}",
-   "en": null
+   "en": "\"We can make {num} Pickled Radish. Shall we make them for you?\"{n}"
   },
   {
    "id": "b067_0012",
    "jp": "「{sub:BD}す{n} {num}本 お作りいたしました」{n}",
-   "en": null
+   "en": "\"Thank you very much. We've made {num} for you.\"{n}"
   },
   {
    "id": "b067_0013",
    "jp": "「{hero}さん!{n}{sub:D7}いっぱいですよ」{n}",
-   "en": null
+   "en": "\"{hero}! Your Item Bag is full!\"{n}"
   },
   {
    "id": "b067_0014",
    "jp": "「いままで あなたが{n} お持ちいただいた {kata}ダイコン{hira}は{n} {num}本で ございます」",
-   "en": null
+   "en": "\"So far you've brought us {num} Daikon Radish in all.\""
   },
   {
    "id": "b067_0015",
    "jp": "「千枚漬けを つくるのに{n} あと {num}本たりないのですが…{n}",
-   "en": null
+   "en": "\"To make Senmai-zuke, you're still {num} radish short...{n}"
   },
   {
    "id": "b067_0016",
    "jp": "「千枚漬けが {num}枚 作れますが{n} お作り いたしましょうか?」{n}",
-   "en": null
+   "en": "\"We can make {num} Senmai-zuke. Shall we make them for you?\"{n}"
   },
   {
    "id": "b067_0017",
    "jp": "「{sub:BD}した」{n} {num}本 お作りいたしました」{n}",
-   "en": null
+   "en": "\"Thank you very much.\"{n} We've made {num} for you.\"{n}"
   },
   {
    "id": "b067_0018",
    "jp": "「{hero}さん!{n}{sub:D7}いっぱいですよ」{n}",
-   "en": null
+   "en": "\"{hero}! Your Item Bag is full!\"{n}"
   }
  ]
 }

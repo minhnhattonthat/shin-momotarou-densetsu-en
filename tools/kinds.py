@@ -25,4 +25,5 @@ def jp_cells(jp, subs=None):
 
 
 def kind(block):
+    block = MIRROR.get(block, block)
     return 'name' if block in NAME_BLOCKS else 'dlg'

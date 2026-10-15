@@ -7,47 +7,47 @@
   {
    "id": "b038_0000",
    "jp": "{num}回戦!",
-   "en": null
+   "en": "Round {num}!"
   },
   {
    "id": "b038_0001",
    "jp": "最終戦!",
-   "en": null
+   "en": "Final round!"
   },
   {
    "id": "b038_0002",
    "jp": "  {c3}{num}点",
-   "en": null
+   "en": "  {c3}{num} points"
   },
   {
    "id": "b038_0003",
    "jp": " {c3}{num}点",
-   "en": null
+   "en": " {c3}{num} points"
   },
   {
    "id": "b038_0004",
    "jp": "{c3}{num}点",
-   "en": null
+   "en": "{c3}{num} points"
   },
   {
    "id": "b038_0005",
    "jp": "「そうか! やさしいねえ!{n} おいらの 身を あんじて{n} わざと 手を 抜いたんだな!」{n}「でも 今度だけだぜ!{n} 男と男の 真剣'勝負に{n} なさけは 無用なんだからな!」{n}「これに こりずに{n} また 来てくれ! 待ってるぜ!」{n}",
-   "en": null
+   "en": "\"I get it! You're a softie! You were worried about me, so you went easy on purpose!\"{n}\"But just this once! When two men have a real showdown, there's no room for mercy!\"{n}\"Don't let this put you off--come again! I'll be waiting!\"{n}"
   },
   {
    "id": "b038_0006",
    "jp": "「なかなかの 身のこなしだな!{n} 猿飛佐助(さるとび・さすけ)かと{n} おもっちまったよ!!」{n}「これに こりずに{n} また 来てくれ! 待ってるぜ!」{n}",
-   "en": null
+   "en": "\"You sure move nimbly! For a second I thought you were Sarutobi Sasuke!!\"{n}\"Don't let this put you off--come again! I'll be waiting!\"{n}"
   },
   {
    "id": "b038_0007",
    "jp": "「おしい! おしいぞ!{n} あと {num}点だ!{n} いだてんの桃と 呼ばせてくれ!」{n}「ぜひ また 来てくれ!{n} 今度こそ 100点を{n} 見せてくれ!」",
-   "en": null
+   "en": "\"So close! So close! Just {num} more points! Let me call you Momo the Swift as Idaten!\"{n}\"Be sure to come again! Show me a perfect 100 next time!\""
   },
   {
    "id": "b038_0008",
    "jp": "「きえーーー－－{kata}ッ{hira}! 100点!{n} {kata}ポコポコ{hira}おいらが まるで{n} 歯がたたないとは おそれいった!」{n}「攻守ともに すきなし!{n} あんた めんきょかいでんだ!{n} 鬼なんて もう 目じゃないね!」",
-   "en": null
+   "en": "\"Kieeeeeeeh! 100 points! I'm floored--even Bop-Bop me couldn't lay a finger on you!\"{n}\"No gaps in offense or defense! You're a fully licensed master! The oni won't stand a chance now!\""
   }
  ]
 }

@@ -7,32 +7,32 @@
   {
    "id": "b034_0000",
    "jp": "「それでは 第{num}問!」",
-   "en": null
+   "en": "\"And now, question No. {num}!\""
   },
   {
    "id": "b034_0001",
    "jp": "「それでは 最後の問題!」",
-   "en": null
+   "en": "\"And now, the final question!\""
   },
   {
    "id": "b034_0002",
    "jp": "「まさか? ひょっとして{n} 前作を {kata}プレイ{hira}して いないのか?」{n}{n}「そうだよな!{n} あんたに かぎって{n} そんなこと ないよな!」{n}「これに こりずに{n} また きてくれ! まってるぜ!」{n}",
-   "en": null
+   "en": "\"No way? Could it be...{n} you never played the first game?\"{n}{n}\"Nah, of course not!{n} Not someone like you!\"{n}\"Don't let this put you off--come again! I'll be waiting!\"{n}"
   },
   {
    "id": "b034_0003",
    "jp": "「なかなかの きおく力だな!{n} 文武'両道に すぐれた{n} {sub:A0}さんだけの ことはある!」{n}「これに こりずに{n} また きてくれ! まってるぜ!」{n}",
-   "en": null
+   "en": "\"That's some memory you've got! Master of both pen and sword--just what I'd expect from Momotaro!\"{n}\"Don't let this put you off--come again! I'll be waiting!\"{n}"
   },
   {
    "id": "b034_0004",
    "jp": "「おしい! おしいぞ!{n} あと {num}点だ!{n} 桃{kata}カルト{hira}・{kata}キング{hira}と なれるぞ!」{n}「また きてくれ!{n} こんどこそ 100点を{n} 見せてくれ! まってるぜ!」",
-   "en": null
+   "en": "\"So close! So close! Just {num} more points! You could be crowned the Momo Trivia King!\"{n}\"Come again! Show me a perfect 100 next time! I'll be waiting!\""
   },
   {
    "id": "b034_0005",
    "jp": "「…すげえ!」{n}{n}{n}「まさか 生きているうちに{n} 100点が おがめるなんて{n} 夢にも おもわなかったぜ!」{n}「{kata}グレ{hira}ー{kata}ト{hira}! {kata}ブ{hira}ー{kata}ティフル{hira}!{n} {kata}ワンダフル{hira}! {kata}アンビリ{hira}ー{kata}バボ{hira}ー!{n} {kata}エクセレント{hira}! {kata}ダイナマイト{hira}!」{n}「ぜひ また きてくれ!{n} あんたなら いつでも{n} 大かんげいだぜ!」",
-   "en": null
+   "en": "\"...Amazing!\"{n}{n}{n}\"I never dreamed I'd live to see a perfect 100!\"{n}\"Great! Beautiful!{n} Wonderful! Unbelievaboo!{n} Excellent! Dynamite!\"{n}\"Be sure to come again! You're welcome here anytime!\""
   }
  ]
 }

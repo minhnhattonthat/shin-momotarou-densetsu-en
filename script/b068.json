@@ -7,232 +7,232 @@
   {
    "id": "b068_0000",
    "jp": "「料亭い志ゑへ ようこそ{n} おいで{sub:C5}ました!{n} お食事を なされますか?」",
-   "en": null
+   "en": "\"Welcome to the Ishie restaurant! Will you be dining with us?\""
   },
   {
    "id": "b068_0001",
    "jp": "「また おこし{sub:C5}ませ!」{n}{n}",
-   "en": null
+   "en": "\"Please come again!\"{n}{n}"
   },
   {
    "id": "b068_0002",
    "jp": "「では どうぞ こちらへ!」{n}{n}",
-   "en": null
+   "en": "\"Then right this way, please!\"{n}{n}"
   },
   {
    "id": "b068_0003",
    "jp": "「{sub:A0}さん!{n} 本日は 何を{n} めしあがりますか?」",
-   "en": null
+   "en": "\"Momotaro! What will you have today?\""
   },
   {
    "id": "b068_0004",
    "jp": "「また おこし{sub:C5}ませ!」{n}{n}",
-   "en": null
+   "en": "\"Please come again!\"{n}{n}"
   },
   {
    "id": "b068_0005",
    "jp": "「お金が たりませんよ!{n} おちついて 鬼たいじを{n} めざして{sub:C5} {sub:A0}さん!」",
-   "en": null
+   "en": "\"You haven't got enough money! Calm down and keep your eyes on defeating the oni, please, Momotaro!\""
   },
   {
    "id": "b068_0006",
    "jp": "「{sub:A0}さん{n} お食事は いかがでしたか?{n} お気に めしましたでしょうか?」",
-   "en": null
+   "en": "\"Momotaro, how was your meal? Was it to your liking?\""
   },
   {
    "id": "b068_0007",
    "jp": "「まあ… おくちに{n} あいませんでしたか…」{n}",
-   "en": null
+   "en": "\"Oh dear... it wasn't to your taste...\"{n}"
   },
   {
    "id": "b068_0008",
    "jp": "「それは よろしゅう ございました!{n} ……ところで {sub:A0}さん!」{n}",
-   "en": null
+   "en": "\"How very good to hear! ...By the way, Momotaro!\"{n}"
   },
   {
    "id": "b068_0009",
    "jp": "「新月の水晶は 手に入れましたか?{n} おむすび村の 甚八さんが{n} 鬼から 守っているそうですよ!」",
-   "en": null
+   "en": "\"Have you got the New Moon Quartz yet? They say Jinpachi in Omusubi Village is guarding it from the oni!\""
   },
   {
    "id": "b068_0010",
    "jp": "「びろ～んは 光る物を{n} 神様として あがめるそうです!」{n}{n}「びろ～んですか?{n} 北東の 森の中に 村を{n} 作って すんでいますよ!」",
-   "en": null
+   "en": "\"They say the Birooon worship shiny things as gods!\"{n}{n}\"The Birooon? They've built a village in the forest to the northeast and live there!\""
   },
   {
    "id": "b068_0011",
    "jp": "「北の海の 氷の島に 光る星が{n} 落ちて来て 島の 形が{n} かわってしまった そうですよ!」{n}「氷の島で 釣りを したら{n} 海の底に落ちた 光る星が{n} 釣れるかも しれませんね!」",
-   "en": null
+   "en": "\"They say a shining star fell on the Ice Island in the northern sea and changed the island's shape!\"{n}\"If you go fishing at the Ice Island, you might reel in that shining star from the bottom of the sea!\""
   },
   {
    "id": "b068_0012",
    "jp": "「しょじょ寺の 和尚さんの{n} 宝物のなかに {kata}キラキラ{hira}光る{n} 水晶が あるという 話ですよ!」{n}「何度も 足を運べば{n} 見せてくれるかも しれませんね」{n}",
-   "en": null
+   "en": "\"They say the priest of Shojo Temple has a sparkling crystal among his treasures!\"{n}\"If you visit him again and again, maybe he'll show it to you.\"{n}"
   },
   {
    "id": "b068_0013",
    "jp": "「びろ～んの 言葉は{n} 人間には ちょっと わかりません」{n}{n}「でも びろ～んに くわしい{n} はらだしがいる という話ですよ!」{n}",
-   "en": null
+   "en": "\"People can't really understand what the Birooon say.\"{n}{n}\"But I hear there's a Bellyman who knows all about the Birooon!\"{n}"
   },
   {
    "id": "b068_0014",
    "jp": "「大工の{kata}トメ{hira}さんが{n} 修業した からくり村は{n} 鬼のつめあとに あるそうです!」{n}「{kata}トメ{hira}さんは からくり村まで{n} 船で 行ったそうですよ!」{n}",
-   "en": null
+   "en": "\"They say Gadget Village, where Tome the carpenter learned his trade, is at the Oni's Claw Marks!\"{n}\"I hear Tome went all the way to Gadget Village by boat!\"{n}"
   },
   {
    "id": "b068_0015",
    "jp": "「雪だるまも 女の子です!{n} おくり物を もらえば{n} きっと よろこびますよ!」{n}「そうね…{n} 風鈴なんか しゃれてて{n} いいんじゃないかしら?」",
-   "en": null
+   "en": "\"A snowman is a girl too! I'm sure she'd be happy to get a present!\"{n}\"Let's see... Something stylish like a Wind Chime might be nice, don't you think?\""
   },
   {
    "id": "b068_0016",
    "jp": "「黒河童は {kata}キュウリ{hira}が 大好き!{n} {kata}キュウリ{hira}を あたえて こらしめれば{n} 仲間に なることが ありますよ!」",
-   "en": null
+   "en": "\"The Black Kappa loves Cucumber! Give one a Cucumber after you teach it a lesson, and it may join you!\""
   },
   {
    "id": "b068_0017",
    "jp": "「はらだしは 旅に出るとき{n} かならず お守りを{n} 持って行くそうですよ!」{n}「その お守りっていうのが{n} {kata}トカゲ{hira}のしっぽ なんだそうです!{n} ちょっと 気もち悪いですね…」",
-   "en": null
+   "en": "\"They say Bellymen always take a good luck charm with them when they travel!\"{n}\"And that charm is a Lizard Tail, apparently! Kind of creepy...\""
   },
   {
    "id": "b068_0018",
    "jp": "「お城に 温泉を 作って{n} のんびり くつろぐなんて{n} 夢みたいな お話ですね!」{n}「つかれは とれるし{n} おはだにも いいし!{n} 女の子にも 喜ばれるわ!」",
-   "en": null
+   "en": "\"Building a hot spring in your castle and relaxing at your leisure... It sounds like a dream!\"{n}\"It takes away your fatigue, and it's good for your skin! The girls would love it too!\""
   },
   {
    "id": "b068_0019",
    "jp": "「{arg} で ございますね!{n} しばし お待ち{sub:C5}ませ!」{n}",
-   "en": null
+   "en": "\"{arg}, is it? Please wait just a moment!\"{n}"
   },
   {
    "id": "b068_0020",
    "jp": "「当店 じまんの{n} {arg} で ございます!」{n}{n}「どうぞ ごゆっくり{n} おめしあがり {sub:C5}!」{n}{0B}",
-   "en": null
+   "en": "\"Here is our house specialty, {arg}!\"{n}{n}\"Please take your time and enjoy!\"{n}{0B}"
   },
   {
    "id": "b068_0021",
    "jp": "{kata}モグモグ{hira} {kata}ゴックン{hira}!{n}{n}{n}{sub:A0}たちは {arg}を{n}たらふく 食べた!{n}",
-   "en": null
+   "en": "Munch munch, gulp!{n}{n}{n}Momotaro and friends ate their fill of {arg}!{n}"
   },
   {
    "id": "b068_0022",
    "jp": "「銀次さんが 店を ついでから{n} いっそう 店が 明るくなり{n} だいはんじょう なんですよ!」",
-   "en": null
+   "en": "\"Ever since Ginji took over the place, it's gotten even livelier, and business is booming!\""
   },
   {
    "id": "b068_0023",
    "jp": "「海が とおいから{n} いい魚を 仕入れるのも{n} 一苦労 なんです!」",
-   "en": null
+   "en": "\"We're far from the sea, so getting good fish in is a real struggle!\""
   },
   {
    "id": "b068_0024",
    "jp": "「おや! {sub:A0}さん!{n} お手持ちの 魚を{n} 売って{sub:C5}ますか?」",
-   "en": null
+   "en": "\"Oh! Momotaro! Would you sell me the fish you've got there?\""
   },
   {
    "id": "b068_0025",
    "jp": "「そりゃ 残急だ!{n} 気が かわったら いつでも{n} 声を かけて{sub:C5}!」",
-   "en": null
+   "en": "\"Aw, that's a shame! If you change your mind, give me a shout anytime!\""
   },
   {
    "id": "b068_0026",
    "jp": "「{arg}が {num}尾!」{n}{n}",
-   "en": null
+   "en": "\"{arg}: {num}!\"{n}{n}"
   },
   {
    "id": "b068_0027",
    "jp": "「{arg}が {num}尾!」{n}{n}",
-   "en": null
+   "en": "\"{arg}: {num}!\"{n}{n}"
   },
   {
    "id": "b068_0028",
    "jp": "「{arg}が {num}尾!」{n}{n}",
-   "en": null
+   "en": "\"{arg}: {num}!\"{n}{n}"
   },
   {
    "id": "b068_0029",
    "jp": "「{arg}が {num}尾!」{n}{n}",
-   "en": null
+   "en": "\"{arg}: {num}!\"{n}{n}"
   },
   {
    "id": "b068_0030",
    "jp": "「{arg}が {num}尾!」{n}{n}",
-   "en": null
+   "en": "\"{arg}: {num}!\"{n}{n}"
   },
   {
    "id": "b068_0031",
    "jp": "「しめて {num}両で{n} 買いますよ! いかがです?」{n}",
-   "en": null
+   "en": "\"I'll buy the lot for {num} ryo! How about it?\"{n}"
   },
   {
    "id": "b068_0032",
    "jp": "「そりゃ 残急だ!{n} 気が かわったら いつでも{n} 声を かけて{sub:C5}!」",
-   "en": null
+   "en": "\"Aw, that's a shame! If you change your mind, give me a shout anytime!\""
   },
   {
    "id": "b068_0033",
    "jp": "「ありがとう ございました!」{n}{n}{n}「{kata}イキ{hira}の いい魚を{n} 持って来てくれれば いつでも{n} 買わせて {sub:D3}よ!」",
-   "en": null
+   "en": "\"Thank you very much!\"{n}{n}{n}\"Bring me fresh fish anytime and I'll gladly buy it!\""
   },
   {
    "id": "b068_0034",
    "jp": "「人を もてなす 心が{n} 無い者には 料理は 作れない!」{n}{n}「これは 銀次さんの 代に{n} なってからも かわらない{n} 先代からの おしえなんです!」",
-   "en": null
+   "en": "\"Someone without a heart for hospitality can't cook!\"{n}{n}\"That's a teaching from the old master that hasn't changed even now that Ginji runs the place!\""
   },
   {
    "id": "b068_0035",
    "jp": "「{sub:A0}さん! 鬼たいじが{n} はかどらなく なったら この店の{n} うまいものでも 食べて{sub:C5}!」{n}「腹が へっては{n} いくさは できぬ!」{n}{n}「おなかが ふくれたら{n} 何か 糸口が{n} 見つかるかも しれません!」",
-   "en": null
+   "en": "\"Momotaro! If your oni hunt gets stuck, come eat something tasty at this place!\"{n}\"You can't fight a war on an empty stomach!\"{n}{n}\"Once your belly's full, you might just find a lead!\""
   },
   {
    "id": "b068_0036",
    "jp": "「いつも うちの 主人が{n} おせわに なっております!」{n}{n}「銀次の 家内の{n} お浜で ございます!」{n}{n}「{sub:A0}さんの 話は{n} 主人から よ～く{n} うかがって いるんですよ!」{n}「どうぞ ごゆっくり{n} なさって {sub:C5}ませね!」{n}",
-   "en": null
+   "en": "\"My husband is always so much in your debt!\"{n}{n}\"I'm Hama, Ginji's wife!\"{n}{n}\"I've heard all about you from my husband, Momotaro!\"{n}\"Please, take your time and relax!\"{n}"
   },
   {
    "id": "b068_0037",
    "jp": "「ここは 日本一 おいしいと{n} ひょうばんの 料亭でしてね!」{n}{n}「{sub:C9}は 食い道楽なもんで{n} はるばる 寝太郎の村から{n} やってきました! 食べるぞー!」",
-   "en": null
+   "en": "\"This restaurant's said to be the tastiest in all Japan!\"{n}{n}\"I'm a real foodie, so I came all the way from Netaro's village! Time to eat!\""
   },
   {
    "id": "b068_0038",
    "jp": "「ここの すしを 食べたら{n} もう ほかの 店の{n} すしは 食べられないよ!」",
-   "en": null
+   "en": "\"Once you've had the sushi here, you can't eat sushi anywhere else!\""
   },
   {
    "id": "b068_0039",
    "jp": "「まさか よっさんの 腕を{n} むすこの 銀次さんが{n} こえるとは 思わんかったよ!」{n}「銀次さんの 包丁さばきは{n} みごとな もんですわい!」{n}",
-   "en": null
+   "en": "\"Never thought Yossan's boy Ginji would outdo his old man's skill!\"{n}\"Ginji's knife work is a sight to see!\"{n}"
   },
   {
    "id": "b068_0040",
    "jp": "「{sub:A0}さんも うわさを{n} 聞いて ここの 料理を{n} 食べに 来たのかい?」{n}「この店は {kata}オレ{hira}たち 都の{n} ほこりなんだ! {sub:A0}さんも{n} たらふく 食っていってくれよ!」",
-   "en": null
+   "en": "\"Momotaro, did you hear the rumors and come to eat the food here too?\"{n}\"This place is the pride of us folks in the Capital! Eat your fill too, Momotaro!\""
   },
   {
    "id": "b068_0041",
    "jp": "「う うんめー!{n} ここで {kata}フグ{hira}料理 食べるのが{n} {kata}オラ{hira}の 夢だったんだ!」{n}「……うっ!{n} うぐっ! うぐぐぐぐぐぐっ!」{n}{n}「………………ごっくん!」{n}{n}{n}「いや おはずかしい!{n} ほおばりすぎて のどに{n} つかえてしまいましたよ!」",
-   "en": null
+   "en": "\"S-so goood! Eatin' blowfish here's always been my dream!\"{n}\"...Ugh! Urk! Urgggggggh!\"{n}{n}\"..................Gulp!\"{n}{n}{n}\"Oh, how embarrassing! I stuffed my mouth so full it got stuck in my throat!\""
   },
   {
    "id": "b068_0042",
    "jp": "「{sub:A0}さん! あっしは{n} {sub:A0}さんに 何か あれば{n} いつでも 飛んで行きます!」{n}「ひとまず うちの店で{n} うまいもんでも 食って{n} 力を つけて おくんなさい!」",
-   "en": null
+   "en": "\"Momotaro! If anything ever happens to ya, I'll come runnin' anytime!\"{n}\"For now, eat somethin' tasty at my place and build up your strength!\""
   },
   {
    "id": "b068_0043",
    "jp": "「この お吸い物は{n} いい{kata}ダシ{hira}を 使わないと{n} 出ない 味だわ!」",
-   "en": null
+   "en": "\"You can't get this flavor in a clear soup without a good stock!\""
   },
   {
    "id": "b068_0044",
    "jp": "「りっぱな 店なのに{n} いばってないのが{n} い志ゑの えらい ところね!」",
-   "en": null
+   "en": "\"It's such a fine place, yet it doesn't put on airs. That's what's so great about Ishie!\""
   },
   {
    "id": "b068_0045",
    "jp": "「これは これは {sub:A0}さん!{n} むすこの 銀次が いつも{n} おせわに なっております!」{n}「{sub:A0}さんが こまったときは{n} いつでも お力に なれと{n} 銀次に 言ってるんですよ!」",
-   "en": null
+   "en": "\"Well, well, Momotaro! My son Ginji is always in your debt!\"{n}\"I keep telling Ginji to lend you a hand whenever you're in trouble!\""
   }
  ]
 }

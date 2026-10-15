@@ -7,92 +7,92 @@
   {
    "id": "b032_0000",
    "jp": "「はじめに この顔を{n} しっかりと おぼえてくれ!」{n}{n}「これと おんなじ ものを{n} 作ってもらうからね!{n} じゃあ! 行くよ! いいね!」",
-   "en": null
+   "en": "\"First, take a good look at this face and remember it!\"{n}{n}\"You're gonna make one just like it! All right, here we go! Ready?\""
   },
   {
    "id": "b032_0001",
    "jp": "「まずは ちょんまげだ!{n} ちゃんと あたまに のせてくれよ」{n}",
-   "en": null
+   "en": "\"First up, the topknot! Set it right on the head, now.\"{n}"
   },
   {
    "id": "b032_0002",
    "jp": "「よーし! つぎは まえがみだ!{n} まえがみしだいで{n} おとこまえに なるんだからな!」",
-   "en": null
+   "en": "\"All righty! Next, the bangs! The bangs make or break a handsome face!\""
   },
   {
    "id": "b032_0003",
    "jp": "「おーし! つぎは はちまきだ!{n} ぎゅぎゅっと しめてくれ!」{n}",
-   "en": null
+   "en": "\"Okay! Next, the headband! Tie it nice and tight!\"{n}"
   },
   {
    "id": "b032_0004",
    "jp": "「つぎは 左目だ!」{n}{n}",
-   "en": null
+   "en": "\"Next, the left eye!\"{n}{n}"
   },
   {
    "id": "b032_0005",
    "jp": "「よし! つぎは 右目だ!{n} 目は くちほどに{n} ものをいうって ぐらいだ!」",
-   "en": null
+   "en": "\"Good! Next, the right eye! They say the eyes speak as much as the mouth!\""
   },
   {
    "id": "b032_0006",
    "jp": "「いいぞいいぞ!{n} つぎは 左耳だ!{n} かべに耳あり しょうじに 目あり」",
-   "en": null
+   "en": "\"Nice, nice! Next, the left ear! Walls have ears and paper doors have eyes!\""
   },
   {
    "id": "b032_0007",
    "jp": "「あと少し! 右耳だ!{n} 3月3日は 耳の日ときたもんだ!」{n}",
-   "en": null
+   "en": "\"Almost done! The right ear! March 3rd is Ear Day, don't ya know!\"{n}"
   },
   {
    "id": "b032_0008",
    "jp": "「おし! おしまいは 口だ!{n} 口は わざわいの もと!{n} あんたも くるしんでないかい?」",
-   "en": null
+   "en": "\"Right! Last of all, the mouth! The mouth is the root of all trouble! Ain't yours giving you grief too?\""
   },
   {
    "id": "b032_0009",
    "jp": "「では みてみるぞ!{n} じしんは あるかな{n} できあがりが たのしみじゃ!」",
-   "en": null
+   "en": "\"Now let's have a look! Feeling confident? I can't wait to see how it turned out!\""
   },
   {
    "id": "b032_0010",
    "jp": "  {c3}{num}点",
-   "en": null
+   "en": "  {c3}{num} points"
   },
   {
    "id": "b032_0011",
    "jp": " {c3}{num}点",
-   "en": null
+   "en": " {c3}{num} points"
   },
   {
    "id": "b032_0012",
    "jp": "{c3}{num}点",
-   "en": null
+   "en": "{c3}{num} points"
   },
   {
    "id": "b032_0013",
    "jp": "「…………まさか! こんな顔が{n} あんたの しゅみか!{n} みんなには だまっといてやるよ!」{n}「これに こりずに{n} また きてくれ! まってるぜ!」{n}",
-   "en": null
+   "en": "\"..........No way! Is this the kind of face you're into?! I'll keep it a secret from everyone!\"{n}\"Don't let this put you off--come again! I'll be waiting!\"{n}"
   },
   {
    "id": "b032_0014",
    "jp": "「なかなか すばらしい{n} {kata}デッサン{hira}力だ!{n} まんが家に むいているぞ!」{n}「これに こりずに{n} また きてくれ! まってるぜ!」{n}",
-   "en": null
+   "en": "\"That's some mighty fine drawing skill! You're cut out to be a manga artist!\"{n}\"Don't let this put you off--come again! I'll be waiting!\"{n}"
   },
   {
    "id": "b032_0015",
    "jp": "「おしい! おしいぞ!{n} あと {num}点だ!{n} げい{sub:B1}家に なれるぞ!」{n}「ぜひ また きてくれ!{n} こんどこそ 100点を{n} 見せてくれ! まってるぜ!」",
-   "en": null
+   "en": "\"So close! So close! Just {num} more points! You could become an artist!\"{n}\"Be sure to come again! Show me a perfect 100 next time! I'll be waiting!\""
   },
   {
    "id": "b032_0016",
    "jp": "「…すげえ!」{n}{n}{n}「まさか 生きているうちに{n} 100点を おがめるなんて{n} 夢にも おもわなかったぜ!」{n}「{kata}グレ{hira}ー{kata}ト{hira}! {kata}ブ{hira}ー{kata}ティフル{hira}!{n} {kata}ワンダフル{hira}! {kata}アンビリ{hira}ー{kata}バボ{hira}ー!{n} {kata}エクセレント{hira}! {kata}ダイナマイト{hira}!」",
-   "en": null
+   "en": "\"...Amazing!\"{n}{n}{n}\"I never dreamed I'd live to see a perfect 100!\"{n}\"Great! Beautiful!{n} Wonderful! Unbelievaboo!{n} Excellent! Dynamite!\""
   },
   {
    "id": "b032_0017",
    "jp": "「ぜひ また きてくれ!{n} あんたなら いつでも{n} 大かんげいだぜ!」",
-   "en": null
+   "en": "\"Be sure to come again! You're welcome here anytime!\""
   }
  ]
 }

@@ -7,197 +7,197 @@
   {
    "id": "b065_0000",
    "jp": "「{sub:A0}さんも しけん{n} うけてみてよー! きっと{n} 高い点 とるんだろなー!」",
-   "en": null
+   "en": "\"Momotaro, take the test too! I bet you'd get a high score!\""
   },
   {
    "id": "b065_0001",
    "jp": "「だれが 漢字なんか{n} 作ったんだよー!{n} ぜんぜん おぼえらんないよー!」",
-   "en": null
+   "en": "\"Who invented kanji, anyway?! I can't remember any of 'em!\""
   },
   {
    "id": "b065_0002",
    "jp": "「{sub:A0}さんは いつ{n} べんきょう してるの?」{n}{n}「いつも {kata}ボク{hira}は ばんごはんを{n} 食べたら べんきょう{n} してるんだ えらいでしょ!」",
-   "en": null
+   "en": "\"Momotaro, when do you study?\"{n}{n}\"Me, I always study after dinner. Pretty great, huh!\""
   },
   {
    "id": "b065_0003",
    "jp": "「しけんの けっかは{n} ぜんぶ あのかべに{n} はりだされるよ!」",
-   "en": null
+   "en": "\"All the test results get posted on that wall!\""
   },
   {
    "id": "b065_0004",
    "jp": "「{sub:A0}さんは もちろん{n} 100点 とれるよね?」{n}{n}「鬼たいじ なんて{n} かしこくないと できないもんね!」{n}",
-   "en": null
+   "en": "\"Momotaro, of course you can get 100 points, right?\"{n}{n}\"You can't hunt oni unless you're smart!\"{n}"
   },
   {
    "id": "b065_0005",
    "jp": "「{kata}オッホン{hira}! {sub:A0}!{n} おぬしも 漢字の しけんを{n} うけていくかね? {kata}オッホン{hira}!」",
-   "en": null
+   "en": "\"Ahem! Momotaro! Will you take the kanji test too? Ahem!\""
   },
   {
    "id": "b065_0006",
    "jp": "「{kata}オッホン{hira}! ちしきを{n} ためしたい ときは{n} いつでも 来るがよい!」",
-   "en": null
+   "en": "\"Ahem! Come anytime you wish to test your knowledge!\""
   },
   {
    "id": "b065_0007",
    "jp": "「よろしい! おぬしの{n} 力を たしかめさせて{n} もらうぞ {kata}オッホン{hira}!」",
-   "en": null
+   "en": "\"Very well! Let me put your abilities to the test, ahem!\""
   },
   {
    "id": "b065_0008",
    "jp": "「{kata}オッホン{hira}! {sub:A0}{n} おぬしの 点数は{n} {num}点じゃ! {kata}オッホン{hira}!」",
-   "en": null
+   "en": "\"Ahem! Momotaro, your score is {num}! Ahem!\""
   },
   {
    "id": "b065_0009",
    "jp": "「{kata}ガビ{hira}ー{kata}ン{hira}! まさか!{n} {sub:A0}は まったく{n} 漢字が よめない {kata}オッホン{hira}!」{n}{sub:A0}の 心は 痛んだ!{n}{n}",
-   "en": null
+   "en": "\"Gaaah! Impossible! Momotaro can't read kanji at all! Ahem!\"{n}Momotaro's Heart was wounded!{n}{n}"
   },
   {
    "id": "b065_0010",
    "jp": "「たった1問か! {kata}オッホン{hira}!{n} 知力も きたえんとな!」{n}",
-   "en": null
+   "en": "\"Only one right answer! Ahem! You must train your wits too!\"{n}"
   },
   {
    "id": "b065_0011",
    "jp": "「ひくい 点 じゃのー!{n} こどもたちの 手本に {n} なってくれよ {kata}オッホン{hira}!」",
-   "en": null
+   "en": "\"What a low score! Be an example to the children, ahem!\""
   },
   {
    "id": "b065_0012",
    "jp": "「まあまあじゃな!{n} さらに たかい 点を{n} ねらうんじゃ {kata}オッホン{hira}!」",
-   "en": null
+   "en": "\"So-so! Aim for an even higher score, ahem!\""
   },
   {
    "id": "b065_0013",
    "jp": "「なかなかじゃな! {kata}オッホン{n}{hira} だが {sub:A0}なんだから{n} つねに 80点は とれんとな!」",
-   "en": null
+   "en": "\"Not bad at all! Ahem! But you're Momotaro--you should always score 80!\""
   },
   {
    "id": "b065_0014",
    "jp": "「鬼たいじを めざす {sub:A0}なら{n} つねに このくらいの 点は{n} とらなきゃな {kata}オッホン{hira}!」",
-   "en": null
+   "en": "\"A Momotaro who aims to defeat the oni should always score about this much, ahem!\""
   },
   {
    "id": "b065_0015",
    "jp": "「あっぱれ! {kata}オッホン{hira}!{n} 強い力と その知力が あれば{n} かならず 鬼たいじできるぞ!」",
-   "en": null
+   "en": "\"Splendid! Ahem! With your great strength and those wits, you'll surely defeat the oni!\""
   },
   {
    "id": "b065_0016",
    "jp": "「{kata}オッホン{hira}! ちしきを{n} ためしたい ときは{n} いつでも 来るがよい!」",
-   "en": null
+   "en": "\"Ahem! Come anytime you wish to test your knowledge!\""
   },
   {
    "id": "b065_0017",
    "jp": "まだ 順位は はりだされていない!{n}{n}",
-   "en": null
+   "en": "The rankings haven't been posted yet!{n}{n}"
   },
   {
    "id": "b065_0018",
    "jp": "「暗算は 頭の かいてんが{n} はやくないと できないんだ!」{n}{n}「{sub:A0}さんは きっと{n} 頭の かいてんが{n} 早いんだろうな!」",
-   "en": null
+   "en": "\"You can't do mental math unless your brain spins fast!\"{n}{n}\"I bet your brain spins real fast, Momotaro!\""
   },
   {
    "id": "b065_0019",
    "jp": "「{kata}ボク{hira}の家は 漬物屋だから{n} 暗算が できるように なれば{n} お手伝いが できるんだ!」",
-   "en": null
+   "en": "\"My family runs a pickle shop, so if I get good at mental math, I can help out!\""
   },
   {
    "id": "b065_0020",
    "jp": "「13＋2は 582!{n}{n}{n}「…なわけ ないぞー!」{n}{n}",
-   "en": null
+   "en": "\"13 + 2 is 582!\"{n}{n}{n}\"...As if! No way!\"{n}{n}"
   },
   {
    "id": "b065_0021",
    "jp": "「いつも かべに はりだされる{n} 点数を 見る前に かあちゃんの{n} 顔を 思い出しちゃうんだよー」",
-   "en": null
+   "en": "\"Every time, before I look at the scores posted on the wall, I picture my ma's face...\""
   },
   {
    "id": "b065_0022",
    "jp": "「ううっ! しけんの けっかは{n} まだ 出てないって{n} かあちゃんに {kata}ウソ{hira} ついちゃお!」",
-   "en": null
+   "en": "\"Ugh! I'll fib to my ma and tell her the test results ain't out yet!\""
   },
   {
    "id": "b065_0023",
    "jp": "「ほげほげ! {sub:A0}!{n} あんたも 暗算の しけんを{n} うけていくかね? ほげほげ!」",
-   "en": null
+   "en": "\"Hogehoge! Momotaro! Will you take the mental math test too? Hogehoge!\""
   },
   {
    "id": "b065_0024",
    "jp": "「ほげほげ! 算数は{n} だいじだぞ! ほげほげ!」{n}",
-   "en": null
+   "en": "\"Hogehoge! Arithmetic is important! Hogehoge!\"{n}"
   },
   {
    "id": "b065_0025",
    "jp": "「ほげほげ! 問題 出すから{n} せきに ついてくれ ほげほげ!」{n}",
-   "en": null
+   "en": "\"Hogehoge! I'll give you the problems, so take your seat, hogehoge!\"{n}"
   },
   {
    "id": "b065_0026",
    "jp": "「ほげほげ! けっかは{n} どうだったかな?{n} 点数を 見てほげー!」{n}「ほげほげ!{n} {sub:A0}の 点数は{n} {num}点だ ほげほげ!」",
-   "en": null
+   "en": "\"Hogehoge! How did it go? Let's see your score, hogeee!\"{n}\"Hogehoge! Momotaro's score is {num}, hogehoge!\""
   },
   {
    "id": "b065_0027",
    "jp": "「ほげー! {sub:A0}!{n} {kata}アホ{hira}やったんか ほげー!」{n} にげるしか ないぞー!」{n}{sub:A0}の 心は 痛んだ!{n}{n}",
-   "en": null
+   "en": "\"Hogeee! Momotaro! Were you a dummy all along, hogeee?!\"{n}\"Nothing for it but to run!\"{n}Momotaro's Heart was wounded!{n}{n}"
   },
   {
    "id": "b065_0028",
    "jp": "「ほげほげ! こんな 点で{n} はずかしほげ! ないしょに{n} してあげるから 10両くれほげ!」",
-   "en": null
+   "en": "\"Hogehoge! A score like this is shameful-hoge! Give me 10 ryo and I'll keep it secret-hoge!\""
   },
   {
    "id": "b065_0029",
    "jp": "「おーーーーい! {sub:A0}が{n} 10点しか とれなかったぞー!」{n}",
-   "en": null
+   "en": "\"Heeeeeey! Momotaro only got 10 points!\"{n}"
   },
   {
    "id": "b065_0030",
    "jp": "「ほげほげ! ほんなら{n} ないしょに してあげる!{n} お金は もらったままほげ!」",
-   "en": null
+   "en": "\"Hogehoge! Fine then, I'll keep it secret! And I'll keep the money too-hoge!\""
   },
   {
    "id": "b065_0031",
    "jp": "「ほげほげ! なさけない!{n} {kata}マンガ{hira}と {kata}ゲ{hira}ー{kata}ム{hira}ばっかで{n} 遊んでるからだぞ ほげほげ!」",
-   "en": null
+   "en": "\"Hogehoge! Pathetic! That's what you get for playing with manga and video games all day, hogehoge!\""
   },
   {
    "id": "b065_0032",
    "jp": "「ほげほげ! あんまり {n} ほめられたもんじゃ ないが{n} もう1回 うけたほうが いいな」",
-   "en": null
+   "en": "\"Hogehoge! Not exactly praiseworthy, but you'd better take it once more.\""
   },
   {
    "id": "b065_0033",
    "jp": "「ほげほげ! まあ 暗算で{n} このくらい 点を とれれば{n} 上出来じゃろう ほげほげ!」",
-   "en": null
+   "en": "\"Hogehoge! Well, for mental math, a score like this is pretty good, hogehoge!\""
   },
   {
    "id": "b065_0034",
    "jp": "「ほげほげ! すごいぞ!{n} これから 2度と でんたくを{n} 使うでないぞ! ほげほげ!」",
-   "en": null
+   "en": "\"Hogehoge! Amazing! From now on, don't you ever use a calculator again! Hogehoge!\""
   },
   {
    "id": "b065_0035",
    "jp": "「ほげほげ! どうだ?{n} 鬼たいじを やめて この{n} じゅくを つがんか?!」",
-   "en": null
+   "en": "\"Hogehoge! How about it? Quit hunting oni and take over this cram school?!\""
   },
   {
    "id": "b065_0036",
    "jp": "「ほえほげ! いつでも{n} しけん うけると いいぞー{n} ほげほげ! ほげほげ!」",
-   "en": null
+   "en": "\"Hoehoge! You can take the test anytime you like-hoge! Hogehoge! Hogehoge!\""
   },
   {
    "id": "b065_0037",
    "jp": "  第{num}問",
-   "en": null
+   "en": "  Question No. {num}"
   },
   {
    "id": "b065_0038",
    "jp": "まだ 順位は はりだされていない!{n}{n}",
-   "en": null
+   "en": "The rankings haven't been posted yet!{n}{n}"
   }
  ]
 }

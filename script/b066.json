@@ -7,37 +7,37 @@
   {
    "id": "b066_0000",
    "jp": "「いらっしゃいませ!{n} ようこそ 染物屋(そめものや)へ!」{n}{n}「1回 300両で{n} お着物を おすきな色に{n} 染めかえます!」",
-   "en": null
+   "en": "\"Welcome! Welcome to the dye shop!\"{n}{n}\"For 300 ryo a time, we'll dye your kimono any color you like!\""
   },
   {
    "id": "b066_0001",
    "jp": "「お金が たりませんよ!{n} おちついて 鬼たいじを {n} めざして{sub:C5} {sub:A0}さん!」",
-   "en": null
+   "en": "\"You haven't got enough money! Calm down and keep your eyes on defeating the oni, please, Momotaro!\""
   },
   {
    "id": "b066_0002",
    "jp": "「どなたの お着物を{n} 染めかえますか?」{n}",
-   "en": null
+   "en": "\"Whose kimono shall we dye?\"{n}"
   },
   {
    "id": "b066_0003",
    "jp": "「何色に 染めかえますか?」{n}{n}",
-   "en": null
+   "en": "\"What color shall we dye it?\"{n}{n}"
   },
   {
    "id": "b066_0004",
    "jp": "「では {arg}さん{n} こちらへ どうぞ!」{n}",
-   "en": null
+   "en": "\"Well then, {arg}, this way, please!\"{n}"
   },
   {
    "id": "b066_0005",
    "jp": "「はい! きれいに{n} 染めあがりました!」{n}{n}「{arg}さん!{n} とても おにあいですよ!」{n}",
-   "en": null
+   "en": "\"There! It's dyed beautifully!\"{n}{n}\"{arg}! It suits you wonderfully!\"{n}"
   },
   {
    "id": "b066_0006",
    "jp": "「また いらして{sub:C5}!」{n}{n}",
-   "en": null
+   "en": "\"Please come again!\"{n}{n}"
   }
  ]
 }

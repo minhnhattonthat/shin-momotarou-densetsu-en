@@ -7,57 +7,57 @@
   {
    "id": "b051_0000",
    "jp": "「松葉山は 鬼の物になったって?{n} 気のいい 稲妻(いなずま)仙人は{n} あの山 すんでて 大丈夫かな?」",
-   "en": null
+   "en": "\"I hear Mt. Matsuba's fallen to the oni? Is the good-natured Bolt Sage all right, living on that mountain?\""
   },
   {
    "id": "b051_0001",
    "jp": "「人気度が 下がったら 神社に{n} おさいせんを あげると{n} 回復することが ありますよ!」",
-   "en": null
+   "en": "\"If your Popularity goes down, making an offering at a shrine can sometimes restore it!\""
   },
   {
    "id": "b051_0002",
    "jp": "「おともの {kata}キジ{hira}さんが{n} 松葉山に すんでいましたけど{n} 無事で いらっしゃるでしょうか?」",
-   "en": null
+   "en": "\"Your companion the Pheasant lived on Mt. Matsuba... I do hope he's safe.\""
   },
   {
    "id": "b051_0003",
    "jp": "「松葉山を 鬼から{n} とりもどした そうですね!{n} 記急に これを どうぞ!」",
-   "en": null
+   "en": "\"I hear you took Mt. Matsuba back from the oni! Here, please take this to mark the occasion!\""
   },
   {
    "id": "b051_0004",
    "jp": "「旅人が 安心して 歩ける{n} 世の中を 願っています!」{n}",
-   "en": null
+   "en": "\"I pray for a world where travelers can walk about without fear!\"{n}"
   },
   {
    "id": "b051_0005",
    "jp": "「{sub:A0}さん! 浦島の村へ{n} 行くとちゅうに まよけ仙人の庵が{n} ありましたよ! 行きましたか?」",
-   "en": null
+   "en": "\"Momotaro! On the way to Urashima Village, there was the Charm Sage's hut! Did you go there?\""
   },
   {
    "id": "b051_0006",
    "jp": "「{sub:A0}さん! 大江山の{n} 黒い ゆかを ふんだら{n} かべが うごいたんですよ!」{n}「そんなこと ないですよね!{n} どうも 鬼が かならず{n} 何かしてるのかと かんぐっちまう」",
-   "en": null
+   "en": "\"Momotaro! On Mt. Oe, when I stepped on a black floor, the wall moved!\"{n}\"That can't really happen, can it! I can't help suspectin' the oni must be up to somethin'.\""
   },
   {
    "id": "b051_0007",
    "jp": "「やっと これで お客さんを{n} むかえられます!{n} いそいで おそうじ しなくちゃ!」",
-   "en": null
+   "en": "\"At last we can welcome guests again! Gotta hurry and clean up!\""
   },
   {
    "id": "b051_0008",
    "jp": "「{kata}オ{hira}ー! {kata}トラジティ{hira}!{n} 突風ぶり太夫 {kata}アルネ{hira}!{n} {kata}コノヨノ{hira} {kata}ジ{hira}・{kata}エンド{hira} {kata}アルネ{hira}!」{n}「{kata}カルラ{hira}! {kata}ドッグノ{hira} {kata}ココロ{n}{hira} {kata}ワカラナイヤツ{hira}! {kata}ワルイヤツ{hira}!」{n}",
-   "en": null
+   "en": "\"Ohhh! Tragedy! Toppu Buridayu, it is! This world is The End, it is!\"{n}\"Karura! He no understand the heart of a dog! Bad guy! Bad guy!\"{n}"
   },
   {
    "id": "b051_0009",
    "jp": "{sub:A0}のおじいさん{n}{sub:C2} {sub:A0}か!」{n}{n}「とらくま童子と くま童子という{n} 鬼が 来て わしらを{n} 助けてくれたのじゃ!」{n}「{sub:B6}は すばらしい{n} 友だちを たくさん 持ってるのー」{n}",
-   "en": null
+   "en": "Momotaro's Grandpa{n}\"Oh! Momotaro!\"{n}{n}\"A pair of oni called Torakuma Doji and Kuma Doji came and saved us!\"{n}\"You sure have a lot of wonderful friends, don't ya!\"{n}"
   },
   {
    "id": "b051_0010",
    "jp": "{sub:A0}のおばあさん{n}「{sub:A0}や… あたし じゃよ…{n} びっくり したかい?」{n}「鬼の みなさんが{n} 船まで 用意してくれたで{n} こうして 生きとるだ!」",
-   "en": null
+   "en": "Momotaro's Grandma{n}\"Momotaro... It's me... Did I give ya a fright?\"{n}\"The oni folks even got a boat ready for us, so here I am, alive and well!\""
   }
  ]
 }

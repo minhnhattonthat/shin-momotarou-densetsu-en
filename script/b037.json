@@ -7,47 +7,47 @@
   {
    "id": "b037_0000",
    "jp": "「では {num}回目です!」",
-   "en": null
+   "en": "\"Now, round No. {num}!\""
   },
   {
    "id": "b037_0001",
    "jp": "「では 最後です!」",
-   "en": null
+   "en": "\"Now, the final round!\""
   },
   {
    "id": "b037_0002",
    "jp": "  {c3}{num}点",
-   "en": null
+   "en": "  {c3}{num} points"
   },
   {
    "id": "b037_0003",
    "jp": " {c3}{num}点",
-   "en": null
+   "en": " {c3}{num} points"
   },
   {
    "id": "b037_0004",
    "jp": "{c3}{num}点",
-   "en": null
+   "en": "{c3}{num} points"
   },
   {
    "id": "b037_0005",
    "jp": "「{sub:A0}さん! まとあてだよ!{n} そんな へっぴりごしで 鬼たいじは{n} 本当に だいじょうぶなのか?」{n}「たのむ! {sub:A0}さん!{n} いまのは 見なかったことに{n} しておくからよ!」{n}「これに こりずに{n} また きてくれ! まってるぜ!」{n}",
-   "en": null
+   "en": "\"Momotaro! It's target practice! With a wobbly stance like that, are you really fit to fight the oni?\"{n}\"Please, Momotaro! I'll pretend I never saw that!\"{n}\"Don't let this put you off--come again! I'll be waiting!\"{n}"
   },
   {
    "id": "b037_0006",
    "jp": "「なかなかの うでまえ!{n} 武'勇の 人だねえ!」{n}{n}「これに こりずに{n} また きてくれ! まってるぜ!」{n}",
-   "en": null
+   "en": "\"Pretty good shooting! You're a true man of valor!\"{n}{n}\"Don't let this put you off--come again! I'll be waiting!\"{n}"
   },
   {
    "id": "b037_0007",
    "jp": "「おしい! おしいぞ!{n} あと {num}点だ!{n} {kata}オリンピック{hira}に でれるぞ!」{n}「また きてくれ!{n} こんどこそ 100点を{n} 見せてくれ! まってるぜ!」",
-   "en": null
+   "en": "\"So close! So close! Just {num} more points! You could go to the Olympics!\"{n}\"Come again! Show me a perfect 100 next time! I'll be waiting!\""
   },
   {
    "id": "b037_0008",
    "jp": "「やったぞ {sub:A0}さん!{n} 100点! 100点じゃないか!」{n}{n}「なすの よいちか{n} {kata}ウイリアム{hira}・{kata}テル{hira}か!{n} まさに 当代いちの 弓つかいだ!」{n}「ねらいをつける あんたの目に{n} {kata}ゾクッ{hira}ときたぜ!{n} また しびれさせてくれよ!」",
-   "en": null
+   "en": "\"You did it, Momotaro! 100 points! A perfect 100!\"{n}{n}\"Are you Nasu no Yoichi? Or William Tell? You're the finest archer of the age!\"{n}\"The look in your eye when you took aim gave me chills! Come thrill me again sometime!\""
   }
  ]
 }

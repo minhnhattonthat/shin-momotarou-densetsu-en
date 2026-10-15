@@ -58,6 +58,11 @@ Run `python -X utf8 tools/batches.py check <batch>` from the repo root and fix e
 - Notes from earlier batches: 順安 (pickle shop) = Jun'an; 辰巳 = Tatsumi; トメ = Tome (carpenter);
   『桃伝』 = the Famicom 'Momotaro Densetsu'; 四天王 = the Four Heavenly Kings; 臥龍 = Garyu (Sleeping Dragon).
   鬼道 = "Oni Arts" (鬼道吸い取り = Oni Arts Drain); つづら = wicker chest; 道具袋 = Item Bag.
+  Ashura's riddle poems (quote them exactly): 夜をこめて 黄泉路をわたる つのかくし -> 'Before the night is through, /
+  crossing the Road of Yomi, / the horn-hider'; よもつ国 たたえて咲くや 夢見草 -> 'The Land of Yomi-- / blooming
+  in its praise, / the dream-seeing flower'; 黄金さす みほとけまもる つばくらめ -> 'Golden-gleaming, / guarding
+  the holy Buddha, the tsubakurame'. 仙豆 = sage bean; 智将 = the Wise General; 稲妻仙人 = the Bolt Sage.
+  {sub:A0}のおじいさん / おばあさん = "Momotaro's Grandpa" / "Momotaro's Grandma" (other old folk: Old Man / Old Woman).
   "{arg}'s" (possessive) is fine. Keep each speaker line's name exactly as the glossary.
 
 ## Consistency

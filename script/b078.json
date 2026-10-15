@@ -7,122 +7,122 @@
   {
    "id": "b078_0000",
    "jp": "{c1}{sub:A0}のおばあさん{n}{c0}「{sub:A0}や! しっかりおし!」{n}",
-   "en": null
+   "en": "{c1}Momotaro's Grandma{n}{c0}\"Momotaro! Pull yourself together!\"{n}"
   },
   {
    "id": "b078_0001",
    "jp": "{c1}{sub:A0}のおじいさん{n}{c0}「{sub:A0}!」{n}{n}{c1}おばあさん{n}{c0}「{sub:A0}が こんなに{n} うなされるなんて!」{n}{c1}おじいさん{n}{c0}「よっぽど つらい おもいを{n} したんじゃろうなぁ……」{n}{c1}おばあさん{n}{c0}「ほんに… ほんに… こんな{n} つらそうな 顔をするなんて…」{n}{c1}おじいさん{n}{c0}「ふう………」{n}{n}{c1}おばあさん{n}{c0}「はあ………」{n}",
-   "en": null
+   "en": "{c1}Momotaro's Old Man{n}{c0}\"Momotaro!\"{n}{n}{c1}Old Woman{n}{c0}\"To think Momotaro'd have such awful nightmares!\"{n}{c1}Old Man{n}{c0}\"He must've gone through somethin' terrible......\"{n}{c1}Old Woman{n}{c0}\"Truly... truly... to see him make such a pained face...\"{n}{c1}Old Man{n}{c0}\"Phew.........\"{n}{n}{c1}Old Woman{n}{c0}\"Haah.........\"{n}"
   },
   {
    "id": "b078_0002",
    "jp": "{c1}おじいさん{n}{c0}「はて? 誰か おいでか?」{n}",
-   "en": null
+   "en": "{c1}Old Man{n}{c0}\"Hm? Is somebody there?\"{n}"
   },
   {
    "id": "b078_0003",
    "jp": "{c1}{kata}スリ{hira}の銀次{n}{c0}「も… も… {sub:A0}さんは{n} だいじょうぶ ですかい?」",
-   "en": null
+   "en": "{c1}Ginji the Pickpocket{n}{c0}\"I-Is... Is Momotaro all right?\""
   },
   {
    "id": "b078_0004",
    "jp": "{c1}おばあさん{n}{c0}「都の 銀次さん でねっか!{n} どろだらけで わかんなかったよ」",
-   "en": null
+   "en": "{c1}Old Woman{n}{c0}\"Why, it's Ginji from the Capital! Ya were so covered in mud, I didn't know ya!\""
   },
   {
    "id": "b078_0005",
    "jp": "{c1}{kata}スリ{hira}の銀次{n}{c0}「{sub:A0}さんは? {sub:A0}さんは?」{n}",
-   "en": null
+   "en": "{c1}Ginji the Pickpocket{n}{c0}\"How's Momotaro? How's Momotaro?\"{n}"
   },
   {
    "id": "b078_0006",
    "jp": "{c1}おじいさん{n}{c0}「も… {sub:A0}!{n} 気がついたか!」",
-   "en": null
+   "en": "{c1}Old Man{n}{c0}\"M... Momotaro! You've come to!\""
   },
   {
    "id": "b078_0007",
    "jp": "{c1}おばあさん{n}{c0}「だめだめ! やすんでなきゃ!{n} {kata}フラフラ{hira}で ねっか!」{0B}",
-   "en": null
+   "en": "{c1}Old Woman{n}{c0}\"No, no! You gotta rest! You're all wobbly!\"{0B}"
   },
   {
    "id": "b078_0008",
    "jp": "{c1}{kata}スリ{hira}の銀次{n}{c0}「{sub:A0}さん! {n} 無理をしちゃ いけねえ!」",
-   "en": null
+   "en": "{c1}Ginji the Pickpocket{n}{c0}\"Momotaro! You mustn't push yourself!\""
   },
   {
    "id": "b078_0009",
    "jp": "{c1}天の仙人{n}{c0}「{sub:A8}! {sub:A0}!{n} ひさしぶりぢゃの!」{n}{c1}天の仙人{n}{c0}「天の仙人ぢゃよ! わすれたか?」{n}{n}{c1}天の仙人{n}{c0}「しかし 強いやっちゃなあ!{n} {kata}ダイダ{hira}王子と いうやつ!」{n}{c1}天の仙人{n}{c0}「どうぢゃ? 今度は 誰も{n} 無理をしろと いわぬぢゃろ!」",
-   "en": null
+   "en": "{c1}the Heavenly Sage{n}{c0}\"Uhyahya... Momotaro! Long time no see!\"{n}{c1}the Heavenly Sage{n}{c0}\"It's me, the Heavenly Sage! Have you forgotten?\"{n}{n}{c1}the Heavenly Sage{n}{c0}\"But my, he's a strong one, that Prince Daida fellow!\"{n}{c1}the Heavenly Sage{n}{c0}\"Well? This time nobody's going to tell you to push yourself!\""
   },
   {
    "id": "b078_0010",
    "jp": "{c1}天の仙人{n}{c0}「鬼たいじは あきらめい!」{n}",
-   "en": null
+   "en": "{c1}the Heavenly Sage{n}{c0}\"Give up on the oni hunt!\"{n}"
   },
   {
    "id": "b078_0011",
    "jp": "{c1}天の仙人{n}{c0}「そうぢゃ! それがよい!」{n}",
-   "en": null
+   "en": "{c1}the Heavenly Sage{n}{c0}\"Just so! That's for the best!\"{n}"
   },
   {
    "id": "b078_0012",
    "jp": "{c1}天の仙人{n}{c0}「{sub:A8}! 愛と 勇気が{n} まだ 残っておったか!」{n}{c1}天の仙人{n}{c0}「{kata}ダイダ{hira}王子も {sub:A0}の{n} 術と 体力は うばえたが……」{n}{c1}天の仙人{n}{c0}「愛と勇気までは{n} うばえなかったようぢゃな…」",
-   "en": null
+   "en": "{c1}the Heavenly Sage{n}{c0}\"Uhyahya... So you've still got love and courage left!\"{n}{c1}the Heavenly Sage{n}{c0}\"Prince Daida may have stolen Momotaro's Arts and Health......\"{n}{c1}the Heavenly Sage{n}{c0}\"but it seems he couldn't steal his love and courage...\""
   },
   {
    "id": "b078_0013",
    "jp": "{c1}天の仙人{n}{c0}「これで 元気に なったぢゃろ!{n} 鬼たいじに むかうが よい!」",
-   "en": null
+   "en": "{c1}the Heavenly Sage{n}{c0}\"That should have you back in fine fettle! Off you go to defeat the oni!\""
   },
   {
    "id": "b078_0014",
    "jp": "{c1}おじいさん{n}{c0}「{sub:A0}や! すくないが{n} みじたくにでも {sub:B3}がええ!」{n}{sub:A0}は 100両を 手に入れた!{n}{n}",
-   "en": null
+   "en": "{c1}Old Man{n}{c0}\"Momotaro! It ain't much, but use it to get yourself ready!\"{n}Momotaro got 100 ryo!{n}{n}"
   },
   {
    "id": "b078_0015",
    "jp": "{c1}おばあさん{n}{c0}「{sub:A0}や! 体に 気をつけてね!{n} 旅の道中で たべておくれ!」",
-   "en": null
+   "en": "{c1}Old Woman{n}{c0}\"Momotaro! Take care of yourself! Eat this on your journey!\""
   },
   {
    "id": "b078_0016",
    "jp": "{c1}{kata}スリ{hira}の銀次{n}{c0}「それでは {sub:A0}さん!{n} まいりやしょうか!」",
-   "en": null
+   "en": "{c1}Ginji the Pickpocket{n}{c0}\"Well then, Momotaro! Shall we be off?\""
   },
   {
    "id": "b078_0017",
    "jp": "{c1}{kata}スリ{hira}の銀次{n}{c0}「{sub:A0}さんは まだ{n} 無理の きかねえ 体だ!」{n}{c1}{kata}スリ{hira}の銀次{n}{c0}「しばらくの あいだ あっしも{n} ごいっしょさせて いただきやす!」{n}銀次が 仲間に加わった!{n}{n}",
-   "en": null
+   "en": "{c1}Ginji the Pickpocket{n}{c0}\"You ain't fit to push yourself yet, Momotaro!\"{n}{c1}Ginji the Pickpocket{n}{c0}\"For a while, I'll be keepin' you company, if I may!\"{n}Ginji joined the party!{n}{n}"
   },
   {
    "id": "b078_0018",
    "jp": "「{sub:A0}や! きょうは{n} 家に とまって{n} 明日でかけるかい?」",
-   "en": null
+   "en": "\"Momotaro! Will ya stay home tonight and set off tomorrow?\""
   },
   {
    "id": "b078_0019",
    "jp": "おばあさん{n}「{sub:A0}や!{n} 体に 気をつけるんだよ!」",
-   "en": null
+   "en": "Old Woman{n}\"Momotaro! Take care of yourself!\""
   },
   {
    "id": "b078_0020",
    "jp": "「{sub:A0}や!{n} 無理を するんじゃないよ!」{n}",
-   "en": null
+   "en": "\"Momotaro! Don't you push yourself!\"{n}"
   },
   {
    "id": "b078_0021",
    "jp": "{c1}おばあさん{n}{c0}「ずっと こうして{n} うなされた ままですじゃ…」",
-   "en": null
+   "en": "{c1}Old Woman{n}{c0}\"He's been tossin' with nightmares like this the whole time...\""
   },
   {
    "id": "b078_0022",
    "jp": "{c1}おじいさん{n}{c0}「もう かれこれ{n} 3日たつのですよ 銀次さん!」",
-   "en": null
+   "en": "{c1}Old Man{n}{c0}\"It's been three days now, Ginji!\""
   },
   {
    "id": "b078_0023",
    "jp": "「{sub:A0}や! わしらは{n} ここで {sub:B6}の 無事を{n} いのっておるからの!」",
-   "en": null
+   "en": "\"Momotaro! We'll be right here, prayin' you come back safe!\""
   }
  ]
 }

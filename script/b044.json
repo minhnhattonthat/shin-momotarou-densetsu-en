@@ -7,212 +7,212 @@
   {
    "id": "b044_0000",
    "jp": "「{sub:A8}! {sub:A0}!{n} 仙界に 伝わる{n} 秘伝の品は いかがかな?」",
-   "en": null
+   "en": "\"Uhyahya...! Momotaro! Care for a secret treasure handed down in the realm of the sages?\""
   },
   {
    "id": "b044_0001",
    "jp": "「何を 買っていくのかの?」{n}{n}",
-   "en": null
+   "en": "\"What will you be buying?\"{n}{n}"
   },
   {
    "id": "b044_0002",
    "jp": "「{arg}ぢゃな?{n} {num}両に なるが{n} よろしいか?」",
-   "en": null
+   "en": "\"{arg}, is it? That will be {num} ryo. Is that agreeable?\""
   },
   {
    "id": "b044_0003",
    "jp": "「ぶわっかもん!{n} お金が たらんではないか!」{n}{n}「うそを つくようでは{n} 鬼たいじは ままならぬぞ!」{n}",
-   "en": null
+   "en": "\"Foooool! You haven't enough money!\"{n}{n}\"Telling fibs won't get the oni hunt done!\"{n}"
   },
   {
    "id": "b044_0004",
    "jp": "「誰が もつのかね?」{n}{n}",
-   "en": null
+   "en": "\"And who shall carry it?\"{n}{n}"
   },
   {
    "id": "b044_0005",
    "jp": "「おや? {arg}の{n}{sub:D7} いっぱいぢゃ!{n} ほかに 用は あるかの?」",
-   "en": null
+   "en": "\"Oh? {arg}'s{n}Item Bag is full! Is there anything else?\""
   },
   {
    "id": "b044_0006",
    "jp": "{arg}は{n}{arg}を 手に入れた!{n}{n}「わしらの ありがたい道具を{n} そまつに するで ないぞ!」{n}{n}「もっと 買って行くかね?」{n}{n}",
-   "en": null
+   "en": "{arg}{n}got {arg}!{n}{n}\"Do not treat our precious wares carelessly!\"{n}{n}\"Will you buy more?\"{n}{n}"
   },
   {
    "id": "b044_0007",
    "jp": "「ほかに 用は あるかの?」{n}{n}",
-   "en": null
+   "en": "\"Is there anything else?\"{n}{n}"
   },
   {
    "id": "b044_0008",
    "jp": "「どの 説明を 見るんぢゃ?」{n}{n}",
-   "en": null
+   "en": "\"Which explanation will you see?\"{n}{n}"
   },
   {
    "id": "b044_0009",
    "jp": "「ほかの 道具の{n} 説明を 見るかね?」{n}",
-   "en": null
+   "en": "\"Would you see the explanation for another item?\"{n}"
   },
   {
    "id": "b044_0010",
    "jp": "「道具には たよらぬか!{n} りっぱぢゃ! {sub:A8}!」{n}",
-   "en": null
+   "en": "\"You'll not rely on items! Splendid! Uhyahya...!\"{n}"
   },
   {
    "id": "b044_0011",
    "jp": "「さくらの木で 作る たんすは{n} 都で だいひょうばん なんです!{n} それが これでは… こまった!」{n}「とても このまま 都に もどって{n} さくらの木は なくなりましたとは{n} いえませんよ! こまった!」",
-   "en": null
+   "en": "\"Chests of drawers made from cherry wood are famous all over the Capital! And now look at this... What a mess!\"{n}\"There's no way I can go back to the Capital like this and tell 'em the cherry trees are all gone! What a mess!\""
   },
   {
    "id": "b044_0012",
    "jp": "「花咲かじいさんに さくらの{n} なえ木を いただいたんです!{n} 20年かけて そだてます!」",
-   "en": null
+   "en": "\"Old Man Hanasaka gave me some cherry saplings! I'll spend 20 years raisin' them!\""
   },
   {
    "id": "b044_0013",
    "jp": "「ちくしょー! 鬼たちが 持ってる{n} ひみつの地図って やつを{n} うばってやろうと したんだ!」{n}「でも とても かなわねえだ!{n} 役に立てなくて{n} 本当に すまねえだ!」",
-   "en": null
+   "en": "\"Dang it! I tried to snatch that secret map the oni have!\"{n}\"But I weren't no match for 'em! I'm real sorry I couldn't be of no use!\""
   },
   {
    "id": "b044_0014",
    "jp": "「心をいれかえた 鬼たちが{n} 村人の 手伝いを してくれる!{n} ふしぎな きぶんだな!」",
-   "en": null
+   "en": "\"The oni have turned over a new leaf and they're helpin' us villagers! Feels mighty strange!\""
   },
   {
    "id": "b044_0015",
    "jp": "「{sub:A0}さんや! そんなに{n} 鬼たいじ! 鬼たいじと いわず{n} ゆっくり 休んで いきなさいよ」",
-   "en": null
+   "en": "\"Momotaro, dear! Don't go on so about the oni hunt, the oni hunt! Stay a while and have yourself a good rest.\""
   },
   {
    "id": "b044_0016",
    "jp": "「さっきの 花火は{n} きれいじゃったの{kata}ォ{hira}!{n} めいどのみやげじゃ! {kata}ホッホ{hira}!」",
-   "en": null
+   "en": "\"That fireworks show just now sure was prettyyy! Somethin' to take with me to the other side! Ho-ho!\""
   },
   {
    "id": "b044_0017",
    "jp": "「{sub:A0}さん!{n} 銀次で ごぜえやす!」{n}{n}「金太郎の村が 祭りを{n} やってないなんて{n} どうも へんですぜ!」{n}「…で さぐってみたら{n} やっぱり 足柄山だ!」{n}{n}「金太郎さんも 村人も{n} 金を ほる つらい しごとを{n} 鬼たちに やらされてやした!」",
-   "en": null
+   "en": "\"Momotaro! It's me, Ginji!\"{n}{n}\"Kintaro's village not holdin' its festival? Somethin' smelled fishy to me!\"{n}\"...So I snooped around, and sure enough, it's Mt. Ashigara!\"{n}{n}\"Kintaro and the villagers were bein' worked to the bone by the oni, diggin' for gold!\""
   },
   {
    "id": "b044_0018",
    "jp": "「{sub:A0}さん! はやく{n} 足柄山の 洞窟へ 行きやしょう!」{n}",
-   "en": null
+   "en": "\"Momotaro! Let's hurry to the cave on Mt. Ashigara!\"{n}"
   },
   {
    "id": "b044_0019",
    "jp": "「そうこなくっちゃ いけねえ!」{n}{n}{n}「さっそく 足柄山に{n} 行きやしょう!」{n}",
-   "en": null
+   "en": "\"Now that's what I like to hear!\"{n}{n}{n}\"Let's head for Mt. Ashigara right away!\"{n}"
   },
   {
    "id": "b044_0020",
    "jp": "「そうですかい? そんなら{n} あっしは もうしばらく{n} あたりを さぐってきます!」",
-   "en": null
+   "en": "\"That so? Then I'll go snoop around these parts a little longer!\""
   },
   {
    "id": "b044_0021",
    "jp": "「いや! あの {kata}カルラ{hira}って 鳥の{n} なき声 聞いただけで{n} 寒気(さむけ)が するわ!」",
-   "en": null
+   "en": "\"Ugh! Just hearing that bird Karura's cry gives me the chills!\""
   },
   {
    "id": "b044_0022",
    "jp": "「あの 鳥みたいな 鬼の{n} {kata}カルラ{hira}の あとを つけていく{n} 笛の 男は 誰かしら?」{n}「すっごい 男前なのよ!」{n}{n}",
-   "en": null
+   "en": "\"Who's that man with the flute, tailing that birdlike oni Karura?\"{n}\"He's sooo handsome!\"{n}{n}"
   },
   {
    "id": "b044_0023",
    "jp": "「えっ! 何? {kata}ホント{hira}! あの{n} 笛を吹く すてきな 男の人!{n} 月にも いたんですって?」{n}「もう一度 あいたいわあ!」{n}{n}",
-   "en": null
+   "en": "\"Huh! What? Really! That dreamy man who plays the flute! He was on the Moon too?\"{n}\"I wanna see him again!\"{n}{n}"
   },
   {
    "id": "b044_0024",
    "jp": "「{kata}オラ{hira} 浦島に いっただ!{n} こんなときに 天の仙人さまが{n} 浦島を 呼ぶはずが ねえって!」{n}「けんども 浦島は{n} 大事な 用事かも しんねえって{n} でかけちまったんだよ!」",
-   "en": null
+   "en": "\"I told Urashima! The Heavenly Sage wouldn't go callin' for him at a time like this!\"{n}\"But Urashima said it might be somethin' important, and off he went!\""
   },
   {
    "id": "b044_0025",
    "jp": "「浦島! やっぱり 鬼に{n} だまされてたか! {sub:B6}の{n} おひとよしにも こまったもんだな」",
-   "en": null
+   "en": "\"Urashima! So the oni did trick ya after all! You're too good-natured for your own good.\""
   },
   {
    "id": "b044_0026",
    "jp": "「{sub:A0}さん! これ{n} うけとってくれや!」{n}",
-   "en": null
+   "en": "\"Momotaro! Here, take this!\"{n}"
   },
   {
    "id": "b044_0027",
    "jp": "「{sub:A0}さん!{n} のろまな やつだけど{n} 浦島を よろしくな!」",
-   "en": null
+   "en": "\"Momotaro! He's a slowpoke, but take good care of Urashima for me!\""
   },
   {
    "id": "b044_0028",
    "jp": "「わしらは やまはだに つもった{n} 雪の とけかたで たねまきの{n} じきを 毎年 きめるんじゃが…」{n}「今年は 鬼がいて 山を{n} 見に行くことも できん!」{n}",
-   "en": null
+   "en": "\"Every year we decide when to sow our seeds by how the snow on the mountainside melts...\"{n}\"But this year, with the oni about, we can't even go look at the mountain!\"{n}"
   },
   {
    "id": "b044_0029",
    "jp": "「雪道を 歩いてきた 旅人さんを{n} あたたかく むかえるのが{n} わしらの いきがいですじゃ!」",
-   "en": null
+   "en": "\"Givin' a warm welcome to travelers who've walked the snowy roads is what we live for!\""
   },
   {
    "id": "b044_0030",
    "jp": "「明      て  こ    {n}   じゃ ご   で !」{n}{n}「すみません! {kata}オラ{hira}!{n} きこえない ふりしてただ!{n} {kata}ハハハハ{hira}! 笑ってけろ!」",
-   "en": null
+   "en": "\"Hap      y   ew    {n}   ear   o   ou !\"{n}{n}\"Sorry! Me, I was just pretendin' I couldn't hear! Hahahaha! Go on, laugh!\""
   },
   {
    "id": "b044_0031",
    "jp": "「ひそかに {kata}オラ{hira}も{n} だじゃれ大会 ねらってるだ!」{n}{n}{c3}「やるだけ やっ{kata}ティム{hira}ー{kata}ル{hira}よ!」{n}{c0}{n}",
-   "en": null
+   "en": "\"I'm secretly aimin' to win the pun contest too!\"{n}{n}{c3}\"I'll do all I Khan!\"{n}{c0}{n}"
   },
   {
    "id": "b044_0032",
    "jp": "「   が   と{n} み           だ!{n}          こ     だ」{n}「{sub:A0}さん きこえねえだか?{n} もう一度 話すだな」{n}{n}「ましらが 歌うと{n} みずうみに 高波が 立つだ!{n} ましらは なんて こえ してんだ」",
-   "en": null
+   "en": "\"   ira   ings{n} la           ves!{n}          oice   ot\"{n}\"Momotaro, can't ya hear me? I'll say it again.\"{n}{n}\"When Mashira sings, big waves rise on the lake! What a voice that Mashira's got!\""
   },
   {
    "id": "b044_0033",
    "jp": "「いかん… もうすぐ 大事な{n} だじゃれ大会が あるってのに…」{n}{n}{c3}「きのう 酒を 飲みすぎて{n} もう {kata}ヘロン{hira} {kata}ヘロン{hira}!」{n}{c0}",
-   "en": null
+   "en": "\"This is bad... The big pun contest is comin' up soon...\"{n}{n}{c3}\"I drank too much sake yesterday and now I'm all heron-over!\"{n}{c0}"
   },
   {
    "id": "b044_0034",
    "jp": "「都が 火に つつまれたら{n} いままで みんなで きずきあげた{n} 歴史が きえてしまうんです!」",
-   "en": null
+   "en": "\"If the Capital goes up in flames, all the history we've built up together will be lost!\""
   },
   {
    "id": "b044_0035",
    "jp": "「都が こんなに 暗いのは{n} {sub:CE}の しわざです!」{n}{n}「しかも 暗くしてるのは{n} 都に 火をつけたとき{n} 美しいからと いうんです!」",
-   "en": null
+   "en": "\"It's Ashura's doing that the Capital is so dark!\"{n}{n}\"And what's more, he says he's keeping it dark because it'll look beautiful when he sets the Capital on fire!\""
   },
   {
    "id": "b044_0036",
    "jp": "「都の えらい人たちが{n} 蜂乃屋さんの 家に あつまって{n} そうだんしてる そうだ」",
-   "en": null
+   "en": "\"I hear the Capital's important folks have gathered at Hachinoya's house to talk things over.\""
   },
   {
    "id": "b044_0037",
    "jp": "「{sub:A0}さん! このあたりは{n} 船を作るのに いちばんいい{n} かしの木の 産地なんです!」{n}「{kata}イチイガシ{hira} {kata}ウバメガシ{hira} {kata}アラカシ{hira}と{n} いい材料が そろってるんです!{n} {kata}カルラ{hira}が ねらうわけよね!」",
-   "en": null
+   "en": "\"Momotaro! This area produces the best oak for building ships!\"{n}\"Ichii oak, ubame oak, arakashi oak... We've got all the fine timber you could want! No wonder Karura's after it!\""
   },
   {
    "id": "b044_0038",
    "jp": "「それにしても {kata}カルラ{hira}って{n} なんでも ほしくて{n} しかたがないのね!」{n}「ああいうやつこそ この村で{n} かしの木を 1本 大きくなるまで{n} そだててみれば いいのよ!」",
-   "en": null
+   "en": "\"Honestly, that Karura just has to have everything he sees!\"{n}\"Someone like him ought to try raising a single oak tree in this village until it's fully grown!\""
   },
   {
    "id": "b044_0039",
    "jp": "「海底にある 人魚の村を{n} ごぞんじですか?」{n}{n}「ここから ずーっと 南{n} 旅立ちの村の 西がわの{n} 海の底に あるという話ですわ!」",
-   "en": null
+   "en": "\"Do you know of the Mermaid Village on the seabed?\"{n}{n}\"They say it lies at the bottom of the sea, way, way to the south, west of Journey's Start Village!\""
   },
   {
    "id": "b044_0040",
    "jp": "「海底で くらしてる人たちは{n} 鬼の目を くらますために わざと{n} 目立たぬ所に すんでるんだと!」{n}「でも {sub:A0}さん!{n} あんたなら きっと{n} 見つけ出すに ちがいない!」",
-   "en": null
+   "en": "\"They say the folks who live on the seabed settle in out-of-the-way spots on purpose, to hide from the oni's eyes!\"{n}\"But Momotaro! I bet you'll find 'em for sure!\""
   },
   {
    "id": "b044_0041",
    "jp": "「左源内さんは 変わりものでな!」{n}{n}{n}「海底の岩に はりついて{n} くらしとるって うわさじゃよ!」{n}",
-   "en": null
+   "en": "\"Sagennai is an odd one!\"{n}{n}{n}\"Rumor has it he lives clinging to a rock on the seabed!\"{n}"
   }
  ]
 }

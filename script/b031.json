@@ -7,362 +7,362 @@
   {
    "id": "b031_0000",
    "jp": "「ここは みことのりを{n} つかさどる 神社でございます!」{n}",
-   "en": null
+   "en": "\"This is the shrine that presides over imperial decrees!\"{n}"
   },
   {
    "id": "b031_0001",
    "jp": "「ほかに ごようは {sub:D4}」{n}{n}",
-   "en": null
+   "en": "\"Is there anything else?\"{n}{n}"
   },
   {
    "id": "b031_0002",
    "jp": "「鬼たいじの 旅{n} お気をつけて {sub:C5}!」{n}",
-   "en": null
+   "en": "\"Please take care on your journey to defeat the oni!\"{n}"
   },
   {
    "id": "b031_0003",
    "jp": "「誰を おはらいすれば{n} よろしゅう{sub:D4}」{n}",
-   "en": null
+   "en": "\"Whom shall I purify?\"{n}"
   },
   {
    "id": "b031_0004",
    "jp": "「{arg}さんは{n} 呪われて おりません{n} 何かの まちがいでは?」",
-   "en": null
+   "en": "\"{arg} is not cursed. Is there some mistake?\""
   },
   {
    "id": "b031_0005",
    "jp": "「おはらいは 1回 {n} {num}両で やりまするが{n} おはらいを いたしますかな?」",
-   "en": null
+   "en": "\"A purification costs {num} ryo each time. Shall I perform one?\""
   },
   {
    "id": "b031_0006",
    "jp": "「お金が たりませんよ!{n} おちついて 鬼たいじを {n} めざして{sub:C5} {sub:A0}さん!」",
-   "en": null
+   "en": "\"You don't have enough money! Calm down and focus on defeating the oni, please, Momotaro!\""
   },
   {
    "id": "b031_0007",
    "jp": "「では 呪いを ときましょう!」{n}{n}",
-   "en": null
+   "en": "\"Then let us lift the curse!\"{n}{n}"
   },
   {
    "id": "b031_0008",
    "jp": "「よかったですね!{n} 呪いは 消えました!」{n}",
-   "en": null
+   "en": "\"Good news! The curse is gone!\"{n}"
   },
   {
    "id": "b031_0009",
    "jp": "「呪いを ほおっておくと{n} つらい旅に なりませんか?」{n}",
-   "en": null
+   "en": "\"If you leave a curse alone, won't it make your journey a hard one?\"{n}"
   },
   {
    "id": "b031_0010",
    "jp": "「誰も 呪われては{n} いないようですが?」{n}",
-   "en": null
+   "en": "\"It seems no one is cursed, though?\"{n}"
   },
   {
    "id": "b031_0011",
    "jp": "「これまでの 旅の話を{n} 聞かせてもらえますか?」{n}",
-   "en": null
+   "en": "\"Will you tell me the tale of your journey so far?\"{n}"
   },
   {
    "id": "b031_0012",
    "jp": "「いつもの 旅日記{num}に{n} しるしても よろしいですか?」{n}",
-   "en": null
+   "en": "\"May I record it in your usual Travel Diary {num}?\"{n}"
   },
   {
    "id": "b031_0013",
    "jp": "「たしかに しるしておきました!」{n}{n}{n}「鬼たいじの お役目{n} たいへんでしょうが 世のため{n} 人のため がんばって{sub:C5}!」",
-   "en": null
+   "en": "\"I have recorded it faithfully!\"{n}{n}{n}\"Your duty of defeating the oni must be hard, but please keep at it, for the world and for its people!\""
   },
   {
    "id": "b031_0014",
    "jp": "「それでは どの{n} 旅日記に しるしましょうか?」{n}",
-   "en": null
+   "en": "\"Then in which Travel Diary shall I record it?\"{n}"
   },
   {
    "id": "b031_0015",
    "jp": "「では また いつか{n} お聞かせ{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Then please tell me more someday!\"{n}"
   },
   {
    "id": "b031_0016",
    "jp": "「{sub:A0}どの!{n} これまでの 旅の話を{n} 旅日記に しるし ますぞ!」{n}「旅の話を きかせてもらえるかね?」{n}{n}",
-   "en": null
+   "en": "\"Ah, Momotaro!{n} I shall record the tale of your journey so far in a Travel Diary!\"{n}\"Will you tell me of your travels?\"{n}{n}"
   },
   {
    "id": "b031_0017",
    "jp": "「いつもの 旅日記{num}に{n} しるしても よろしいか?」{n}",
-   "en": null
+   "en": "\"May I record it in your usual Travel Diary {num}?\"{n}"
   },
   {
    "id": "b031_0018",
    "jp": "「たしかに しるしましたぞ!」{n}{n}{n}「鬼たいじの お役目{n} たいへんでしょうが 世のため{n} 人のため がんばって{sub:C5}!」",
-   "en": null
+   "en": "\"There, it is recorded!\"{n}{n}{n}\"Your duty of defeating the oni must be hard, but please keep at it, for the world and for its people!\""
   },
   {
    "id": "b031_0019",
    "jp": "「それでは どの{n} 旅日記に しるすのかな?」{n}",
-   "en": null
+   "en": "\"Then in which Travel Diary shall it be recorded?\"{n}"
   },
   {
    "id": "b031_0020",
    "jp": "「まだまだ 人に話すほどの{n} 旅は しておらぬのですな!」{n}",
-   "en": null
+   "en": "\"So you have yet to travel far enough to have a tale worth telling!\"{n}"
   },
   {
    "id": "b031_0021",
    "jp": "「私は 地蔵菩薩({sub:BF}ぼさつ){n} {sub:A0}! よく ここまで{n} たどりつきましたね」",
-   "en": null
+   "en": "\"I am Jizo Bosatsu.{n} Momotaro! You have done well to come this far.\""
   },
   {
    "id": "b031_0022",
    "jp": "「これまでの 鬼たいじの はなしを{n} 私に かたって くれませんか?」{n}",
-   "en": null
+   "en": "\"Will you tell me the story of your oni hunt so far?\"{n}"
   },
   {
    "id": "b031_0023",
    "jp": "「では また いつか{n} きくことに いたしましょう」{n}",
-   "en": null
+   "en": "\"Then I shall hear it another time.\"{n}"
   },
   {
    "id": "b031_0024",
    "jp": "「いぜんの 話は もう{n} わすれても いいのですね?」{n}",
-   "en": null
+   "en": "\"Is it all right to forget your earlier story, then?\"{n}"
   },
   {
    "id": "b031_0025",
    "jp": "「つらい おもいを したのですね{n} これまでの 話を 私は{n} 心に きざみましょう!」{n}「また 鬼たいじの 旅を{n} つづけるのですか?」{n}",
-   "en": null
+   "en": "\"You have been through painful times. I shall carve your story so far into my Heart!\"{n}\"Will you continue your journey to defeat the oni?\"{n}"
   },
   {
    "id": "b031_0026",
    "jp": "「これまでの 旅の話は{n} 私の心に ふかく{n} きざんでおきましょう!」{n}「世のため 人のために{n} はたらく {sub:A0}よ!{n} しばしの休みに つきなさい!」",
-   "en": null
+   "en": "\"I shall carve the story of your journey deep into my Heart!\"{n}\"Momotaro, you who toil for the world and its people! Take a little rest now!\""
   },
   {
    "id": "b031_0027",
    "jp": "「{arg}! {sub:B6}が{num}段に{n} なるには 心の数が あと{n} {num} ひつようです!」",
-   "en": null
+   "en": "\"{arg}! For you to reach Rank {num}, you still need {num} more Hearts!\""
   },
   {
    "id": "b031_0028",
    "jp": "「あなたは まだ{n} 巣立った ばかりの ひな鳥です!{n} あせらず そだちなさい!」",
-   "en": null
+   "en": "\"You are still a chick that has only just left the nest! Do not hurry; grow at your own pace!\""
   },
   {
    "id": "b031_0029",
    "jp": "「あなたは まだ{n} 力の 出し方を おぼえていません!{n} まず 力のげんかいを 知りなさい」",
-   "en": null
+   "en": "\"You have not yet learned how to bring out your strength! First, learn the limits of your power.\""
   },
   {
    "id": "b031_0030",
    "jp": "「鬼たいじは まだ これから!{n} 友情の力を 身につけるのですよ!」{n}",
-   "en": null
+   "en": "\"Your oni hunt has only just begun! Gain the power of friendship!\"{n}"
   },
   {
    "id": "b031_0031",
    "jp": "「鬼たいじは まだ これから!{n} すこしくらい 力を つけたとて{n} おもいあがっては いけません!」",
-   "en": null
+   "en": "\"Your oni hunt has only just begun! Gaining a little strength is no reason to grow conceited!\""
   },
   {
    "id": "b031_0032",
    "jp": "「たくさんの 友情が{n} ひつように なってきましたね!{n} 友をいたわる心を そだてなさい!」",
-   "en": null
+   "en": "\"You are coming to need much friendship! Nurture a heart that cares for your friends!\""
   },
   {
    "id": "b031_0033",
    "jp": "「苦しみも 悲しみも{n} わかちあえる 友が{n} できたようですね!」{n}「でも これから 本当の{n} 鬼たいじが はじまるのです!」{n}",
-   "en": null
+   "en": "\"It seems you have made friends who will share both your pain and your sorrow!\"{n}\"But now the real oni hunt begins!\"{n}"
   },
   {
    "id": "b031_0034",
    "jp": "「あなたは 友を いたわる心も{n} めばえてきたようですね!」{n}{n}「その心を 戦いを とおして{n} 鬼たちにも 伝えなさい!」{n}",
-   "en": null
+   "en": "\"It seems a heart that cares for your friends is blossoming in you too!\"{n}{n}\"Pass that heart on to the oni as well, through battle!\"{n}"
   },
   {
    "id": "b031_0035",
    "jp": "「よくぞ ここまで{n} 力を つけました!」{n}{n}「あとは 鬼をこらしめる{n} 心を そだてることです!」{n}",
-   "en": null
+   "en": "\"You have grown so strong!\"{n}{n}\"All that remains is to nurture a heart that can set the oni straight!\"{n}"
   },
   {
    "id": "b031_0036",
    "jp": "「{sub:A0}! あなたは どうやら{n} 愛と 友情の 何たるかを{n} 知ったようですね!」{n}「その力は まちがいなく{n} 鬼族に 伝わるはずです!」{n}{n}「さあ! 行きなさい!{n} 鬼たちを こらしめに!{n} 伐折羅王を! {kata}カルラ{hira}を!」",
-   "en": null
+   "en": "\"Momotaro! It seems you have come to know what love and friendship truly are!\"{n}\"That power will surely reach the oni!\"{n}{n}\"Now go! Go and set the oni straight! King Basara! And Karura!\""
   },
   {
    "id": "b031_0037",
    "jp": "「{sub:A0}! 鬼族は{n} 戦いを とおしてしか{n} 心を ひらくことが できません!」{n}「あなたの いまの 力なら{n} 鬼族の心を ひらくことが{n} できるはずです!」{n}「さあ! 行きなさい!{n} 鬼たちを こらしめに!{n} 伐折羅王を! {kata}カルラ{hira}を!」",
-   "en": null
+   "en": "\"Momotaro! The oni can only open their hearts through battle!\"{n}\"With the power you have now, you should be able to open the hearts of the oni!\"{n}\"Now go! Go and set the oni straight! King Basara! And Karura!\""
   },
   {
    "id": "b031_0038",
    "jp": "「まあ! {sub:A0}!{n} 99段にまで 心・技・体を{n} そだてあげたのですね!」{n}「あなたは もはや{n} 愛も 勇気も 希望も{n} 正義も 友情も 学びました!」{n}「学んだ 心を{n} 鬼たちに 伝える!」{n}{n}「それが あなたに{n} のこされた 最後のしごとです!」{n}{n}「さあ! 行きなさい!{n} 鬼たちを こらしめに!{n} 伐折羅王を! {kata}カルラ{hira}を!」",
-   "en": null
+   "en": "\"My! Momotaro! You have raised your heart, skill and body all the way to Rank 99!\"{n}\"You have learned love, courage, hope, justice and friendship!\"{n}\"Now, pass the heart you have learned on to the oni!\"{n}{n}\"That is the last task left to you!\"{n}{n}\"Now go! Go and set the oni straight! King Basara! And Karura!\""
   },
   {
    "id": "b031_0039",
    "jp": "「何を うらなって{n} ほしいのかな?」{n}",
-   "en": null
+   "en": "\"What would ya like your fortune told about?\"{n}"
   },
   {
    "id": "b031_0040",
    "jp": "「では 1両いただくが{n} よろしいかな?」{n}",
-   "en": null
+   "en": "\"Then I'll take 1 ryo. Is that all right?\"{n}"
   },
   {
    "id": "b031_0041",
    "jp": "「では このさき{n} じゅうぶん ちゅういして{n} すすむようにな」",
-   "en": null
+   "en": "\"Then take good care as you go on from here.\""
   },
   {
    "id": "b031_0042",
    "jp": "しかし {sub:A0}は{n}お金が 足りないことに{n}気が ついた!",
-   "en": null
+   "en": "But Momotaro{n}realized he didn't{n}have enough money!"
   },
   {
    "id": "b031_0043",
    "jp": "「ふむふむ…{n} 人気度を しりたいとな!」{n}{n}「されば うらなって しんぜよう!」{n}{n}{n}「{sub:A0}の いまの 人気度は………」{n}{n}{n}「{num}と 出た!」{n}{n}",
-   "en": null
+   "en": "\"Hmm, hmm...{n} So you wish to know your Popularity!\"{n}{n}\"Then I shall divine it for you!\"{n}{n}{n}\"Momotaro's current Popularity is.........\"{n}{n}{n}\"...{num}! So say the signs!\"{n}{n}"
   },
   {
    "id": "b031_0044",
    "jp": "「まずいぞ! まずいぞ!{n} {sub:A0}! {sub:B6}の 人気は{n} {kata}ガタ{hira}おち {kata}ガッタガタ{hira}だ!」{n}「はやく よいことを するのだ!{n} でないと とんでもないことに{n} なってしまうぞ! おー こわ!」",
-   "en": null
+   "en": "\"This is bad! This is bad! Momotaro! Your popularity has crashed, crashed right down to the ground!\"{n}\"Hurry up and do some good deeds! Or else something terrible is going to happen! Ooh, scary!\""
   },
   {
    "id": "b031_0045",
    "jp": "「ふむふむ なにやら 不吉な{n} よかんが するわい! これからの{n} おこないに きをつけることじゃ」",
-   "en": null
+   "en": "\"Hmm, hmm... I've got an ominous feeling about this! Mind how you behave from here on.\""
   },
   {
    "id": "b031_0046",
    "jp": "「{sub:A0}よ! まさか 女風呂を{n} のぞいたりするような わるいことを{n} しておらん じゃろうな?」",
-   "en": null
+   "en": "\"Momotaro! You haven't been doing anything wicked, like peeping into the women's bath, have you?\""
   },
   {
    "id": "b031_0047",
    "jp": "「{sub:A0}よ! いまの {sub:B6}は{n} いわゆる まあまあだ! 男たるもの{n} まあまあの人生では いかんぞ!」",
-   "en": null
+   "en": "\"Momotaro! Right now you're what folks call 'so-so'! A real man can't settle for a so-so life!\""
   },
   {
    "id": "b031_0048",
    "jp": "「{sub:A0}よ! 鬼をこらしめるだけでは{n} いかんのだ! 愛と勇気を{n} つたえる きもちで こらしめよ!」",
-   "en": null
+   "en": "\"Momotaro! It's not enough just to punish the oni! Punish them with the will to teach them love and courage!\""
   },
   {
    "id": "b031_0049",
    "jp": "「もうすこしだ! {sub:A0}!{n} 村での ひょうばんも{n} たいしたものじゃ!」{n}「いますこし がんばれば {n} かならずや よいことが{n} むこうから やってくるはずじゃ!」",
-   "en": null
+   "en": "\"Almost there, Momotaro! Your reputation in the village is quite something!\"{n}\"Keep at it a little longer, and good things are sure to come your way on their own!\""
   },
   {
    "id": "b031_0050",
    "jp": "「よくぞ ここまで 人気を{n} たかめたものじゃ!」{n}{n}「宿屋へ 行ってみよ!{n} 茶店へ 行ってみよ!{n} みんなが かんげいするはずじゃ!」",
-   "en": null
+   "en": "\"Well done raising your popularity this far!\"{n}{n}\"Go to the inn! Go to the teahouse! Everyone should welcome you!\""
   },
   {
    "id": "b031_0051",
    "jp": "「もはや 鬼たいじに ふさわしい{n} 愛と 勇気と 人気をそなえたな!」{n}{n}「{sub:B6}に ふさわしい しなの{n} かずかずが 村のあちこちで{n} まっているはずじゃ! 行け!」",
-   "en": null
+   "en": "\"You now have the love, courage and popularity fit for an oni hunt!\"{n}{n}\"All sorts of things worthy of you should be waiting around the village! Go!\""
   },
   {
    "id": "b031_0052",
    "jp": "「もはや だれもが {sub:B6}に{n} のぞんでいるのは たった ひとつ!{n} それは 鬼たいじだ {sub:A0}!」{n}「行け! 鬼たちに 本当の{n} 愛と 勇気の すばらしさを{n} つたえに 行くのだ!」",
-   "en": null
+   "en": "\"Now there's only one thing everyone wants from you! And that's defeating the oni, Momotaro!\"{n}\"Go! Go and teach the oni the true wonder of love and courage!\""
   },
   {
    "id": "b031_0053",
    "jp": "「わらべ鬼を とにかく さきに{n} こらしめることじゃ! あとあと{n} めんどうなことに なる!」{n}「{kata}カエル{hira}は 半分の かくりつで{n} 雨を よぶ! {kata}カエル{hira}が きらいなら{n} 早めに こらしめることじゃ!」",
-   "en": null
+   "en": "\"Punish the Child Oni first, no matter what! Otherwise it'll mean trouble later on!\"{n}\"The Frog calls rain half the time! If you don't like the Frog, punish it quick!\""
   },
   {
    "id": "b031_0054",
    "jp": "「青鬼と 会うまえに{n} 茶店で 道具を{n} かいそろえておくべきじゃ!」{n}「雷鬼は 術攻撃を しかけてくる{n} 食べ物を たくさん かっておくか{n} 早めに こらしめることじゃな!」",
-   "en": null
+   "en": "\"Before you meet the Blue Oni, you'd best stock up on gear at the teahouse!\"{n}\"The Thunder Oni attacks with Arts. Either buy plenty of food or punish it quick!\""
   },
   {
    "id": "b031_0055",
    "jp": "「このさき 呪い攻撃を する敵がおる{n} 呪いは 神社に いかないと{n} とけないので きをつけるのじゃ!」{n}「{kata}ハリネズミ{hira}は {kata}ハリ{hira}を 立てたときに{n} 攻撃すると 痛い目を みるぞ!{n} ころあいを みはからうのじゃ!」",
-   "en": null
+   "en": "\"Up ahead are foes that use curse attacks. Curses can only be lifted at a shrine, so be careful!\"{n}\"Attack the Hedgehog while it's got its spines up and you'll be sorry! Pick your moment!\""
   },
   {
    "id": "b031_0056",
    "jp": "「かがちは{n} ふいうちが とくいじゃ!{n} 体力の 回復に 気をつけるのじゃ」{n}「この先 呪い攻撃をしてくる{n} 鬼が たくさん出てくる!{n} 呪い消しを 持って行くことじゃ」",
-   "en": null
+   "en": "\"The Kagachi loves a surprise attack! Keep an eye on your Health!\"{n}\"Up ahead lots of oni use curse attacks! Take a Curse Cure with you!\""
   },
   {
    "id": "b031_0057",
    "jp": "「獄卒は ほうっておくと{n} どんどん 強くなる!{n} さっさと こらしめるのじゃ!」{n}「阿鬼は ほかの鬼たちと いっしょに{n} いると 力を はっきする!{n} さきに 戦うべきじゃ!」",
-   "en": null
+   "en": "\"Leave the Hell Guard alone and it keeps getting stronger! Punish it fast!\"{n}\"The Ah Oni shows its strength when it's with other oni! Fight it first!\""
   },
   {
    "id": "b031_0058",
    "jp": "「{kata}アカムカデ{hira}の 呪いには{n} きをつけることじゃ!{n} さもないと 長生きできんぞ!」{n}「水虎は 強力な 術攻撃を{n} してきよる! さっさと{n} たおさんと 苦戦するぞ!」",
-   "en": null
+   "en": "\"Watch out for the Red Centipede's curse! Or you won't live long!\"{n}\"The Suiko uses powerful Arts! Defeat it fast or you'll have a hard fight!\""
   },
   {
    "id": "b031_0059",
    "jp": "「どふもこふもは 心を みだすのが{n} とくいじゃ! 奇効丸があればよいが{n} なければ 早くこらしめるんじゃ!」{n}「獏は 夢に でてくるのではなく{n} 夢を 見せてくる! ただし それは{n} かならず 悪夢だということじゃ!」",
-   "en": null
+   "en": "\"The Domokomo is good at confusing the Heart! A Wonder Pill helps, but if you haven't got one, punish it fast!\"{n}\"The Baku doesn't appear in dreams--it makes you see dreams! Only, they're always nightmares!\""
   },
   {
    "id": "b031_0060",
    "jp": "「{kata}カラス{hira}天狗は 戦闘中に 空にとぶ{n} 空の敵には 攻撃しにくいから{n} 早めに こらしめることじゃ!」{n}「{kata}キツネ{hira}に ばかされて 見知らぬ{n} ところに 立っていた おとこの{n} はなしを 聞いたことがある!」",
-   "en": null
+   "en": "\"The Karasu Tengu flies into the sky in battle. Foes in the sky are hard to hit, so punish it quick!\"{n}\"I once heard of a man who was tricked by a Fox and found himself standing someplace he'd never seen!\""
   },
   {
    "id": "b031_0061",
    "jp": "「死霊は 敵の かなめ{n} かなめが いなくなれば{n} 敵は うごうの衆じゃ!」{n}「無無は うつし世の ものではない{n} まわりの ものに 目をむけぬと{n} こらしめることは かなわぬ!」",
-   "en": null
+   "en": "\"The Wraith is the foes' linchpin. Once it's gone, the rest are just a rabble!\"{n}\"The Mumu is not of this world. Unless you turn your eyes to what's around it, you can't punish it!\""
   },
   {
    "id": "b031_0062",
    "jp": "「{kata}オコビキ{hira}は 武'器での 攻撃が{n} つうようせんぞ! しっかり 技を{n} 回復させてから いくことじゃ!」{n}「ふらり火は 戦闘中に 強くなる{n} 強くなる前に こらしめないと{n} 苦戦することに なるぞ!」",
-   "en": null
+   "en": "\"The Okobiki can't be hurt by weapon attacks! Restore your Skill points well before you go!\"{n}\"The Furaribi grows stronger during battle. Punish it before it does, or you'll have a hard fight!\""
   },
   {
    "id": "b031_0063",
    "jp": "「{kata}ギンギツネ{hira}は {sub:D6}を みると{n} ねらってくる! 道具に たよらず{n} 戦えるように することじゃ!」{n}「なまはげは おともを さらっていき{n} 雪女は 強力な術を つかってくる!{n} どちらも ようちゅういじゃ!」",
-   "en": null
+   "en": "\"The Silver Fox goes after your Item Bag when it sees it! Learn to fight without relying on items!\"{n}\"The Namahage carries off your companions, and the Yuki-onna uses powerful Arts! Beware of both!\""
   },
   {
    "id": "b031_0064",
    "jp": "「のみ鬼は 小さいが{n} あなどると 痛い目にあうぞ!{n} 全力で 戦うのじゃ!」{n}「一文無しは 貧乏で{n} かわいそうなやつじゃ!{n} 愛をもって 改心させるのじゃ!」",
-   "en": null
+   "en": "\"The Flea Oni is small, but underestimate it and you'll be sorry! Fight with all you've got!\"{n}\"The Penniless is a poor, pitiful fellow! Reform him with love!\""
   },
   {
    "id": "b031_0065",
    "jp": "「天剛鬼は おぬしたちの だれかを{n} たてにする ことがある{n} 回復を 中心に 戦うことじゃ!」{n}「かちこしょは 武'器を つかっても{n} 元気になる だけじゃ!{n} あたまを つかって 戦うのじゃ!」{n}「そうひつのうは 重い武'器を{n} ふりまわしてくるので 当たると{n} ひどいきずを おうことになるぞ!」{n}「びろーんは 武'器で たたいても{n} すべってしまう! べつのもので{n} 戦うのが よかろう!」",
-   "en": null
+   "en": "\"The Tengoki sometimes uses one of you as a shield. Focus on healing as you fight!\"{n}\"Hitting the Kachikosho with weapons only perks it up! Use your head when you fight!\"{n}\"The Sohitsuno swings a heavy weapon around, so if it hits you, you'll be badly hurt!\"{n}\"Weapons just slip right off the Birooon! Better fight it with something else!\""
   },
   {
    "id": "b031_0066",
    "jp": "「血河漂は 力をためて 攻撃する!{n} 力を ためている間に{n} こらしめることじゃな!」{n}「悪邪童子は うでに 自信があるなら{n} 武'器を {sub:B3}がよい! さもなくば{n} 術をつかって 戦うのじゃ!」",
-   "en": null
+   "en": "\"The Kekkahyo builds up power before it attacks! Punish it while it's charging!\"{n}\"Against the Akuja Doji, use weapons if you trust your arm! If not, fight with Arts!\""
   },
   {
    "id": "b031_0067",
    "jp": "「黒河童は きゅうりが こうぶつじゃ{n} きゅうりを 食べている 間は{n} ほかのことを わすれるそうな!」{n}「金剛は あまりにも 強い!{n} {kata}ムリ{hira}をせず ひくときは{n} ひいたほうがよいじゃろう!」",
-   "en": null
+   "en": "\"The Black Kappa's favourite food is cucumber. They say while it's eating cucumber, it forgets everything else!\"{n}\"The Kongo is just too strong! Don't push yourself--when it's time to fall back, fall back!\""
   },
   {
    "id": "b031_0068",
    "jp": "「燈台鬼は 地上では 弱いが{n} 洞窟に 入ると とたんに{n} 強くなるのじゃ!」{n}「天燈鬼は おぬしたちの ひとりの{n} 動きを ふうじてしまう! 残りの{n} なかまで 力を あわせるのじゃ!」",
-   "en": null
+   "en": "\"The Lampstand Oni is weak above ground, but once you enter a cave it suddenly gets strong!\"{n}\"The Heaven Lamp Oni seals the movements of one of you! The rest of the party must work together!\""
   },
   {
    "id": "b031_0069",
    "jp": "「{kata}クジラ{hira}は 重い体のせいで よく{n} やすんでおるが ひとたび 動けば{n} 空をもゆるがす 力だそうじゃ!」{n}「{kata}サバフグ{hira}は ふくらむと 体に{kata}ハリ{hira}を{n} たててくる! 攻撃の ころあいを{n} みはからうのじゃ!」",
-   "en": null
+   "en": "\"The Whale rests a lot because of its heavy body, but they say once it moves, it has the power to shake the very sky!\"{n}\"The Mackerel Puffer puffs up and raises spines all over its body! Pick your moment to attack!\""
   },
   {
    "id": "b031_0070",
    "jp": "「{kata}ノコギリガザミ{hira}は 両手に {kata}ハサミ{hira}を{n} もっておる! 2ひきを あいてに{n} しとるようなもんじゃ!」{n}「竜鬼船は とてつもなく 強い!{n} さらに 魚雷も うちだしてくる!{n} {kata}サンゴ{hira}のお札は ひっけいじゃぞ!」",
-   "en": null
+   "en": "\"The Sawtooth Crab has claws on both hands! It's like taking on two at once!\"{n}\"The Dragon Oni Ship is tremendously strong! And it fires torpedoes too! A Coral Charm is a must!\""
   },
   {
    "id": "b031_0071",
    "jp": "「大身獄卒の息は 極寒の 吹雪じゃ!{n} 息に ふれぬように 早いうちに{n} こらしめるのが よかろう!」{n}「ももんじいは おぬしらの だれかの{n} おもいと ことばの つながりを{n} 断ち切ってしまう! きをつけよ!」",
-   "en": null
+   "en": "\"The Giant Hell Guard's breath is a freezing blizzard! Best punish it early, before its breath touches you!\"{n}\"The Momonjii cuts the tie between thoughts and words in one of you! Be careful!\""
   }
  ]
 }

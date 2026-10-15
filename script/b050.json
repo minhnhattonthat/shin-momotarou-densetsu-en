@@ -7,62 +7,62 @@
   {
    "id": "b050_0000",
    "jp": "「龍のうろこか…{n} はたして {sub:C9}の 腕で{n} せんじられるか しんぱいです」",
-   "en": null
+   "en": "\"A Dragon Scale... I do worry whether my skill is up to brewing it into medicine.\""
   },
   {
    "id": "b050_0001",
    "jp": "「も! {sub:A0}さん!{n} 龍のうろこを{n} 取っていらしたのですか!」{n}「そこまで 人のために{n} ぎせいを はらえるなんて!」{n}{n}「今度は {sub:C9}が{n} いじを 見せる 番ですね!」{n}{n}「龍のうろこを せんじましょう!{n} しっぱいは ゆるされない!」{n}",
-   "en": null
+   "en": "\"W-why, Momotaro! You've brought back a Dragon Scale!\"{n}\"To make such sacrifices for the sake of others!\"{n}{n}\"Now it's my turn to show what I'm made of!\"{n}{n}\"Let us brew the Dragon Scale! Failure is not an option!\"{n}"
   },
   {
    "id": "b050_0002",
    "jp": "医者{n}「ふーーーーーっ!{n} できました! できましたぞ!」{n}「さっそく 夜叉姫さまに{n} のませましょう!」{n}",
-   "en": null
+   "en": "Doctor{n}\"Phewwwwww!{n} It's done! It's done!\"{n}\"Let us have Princess Yasha drink it right away!\"{n}"
   },
   {
    "id": "b050_0003",
    "jp": "医者{n}「ほれ! ほおに 赤みが{n} さしてきましたわい!」{n}「ねいきも すっかり{n} おちつきもうした!」{n}{n}「もう だいじょうぶ!{n} ひとばん休めば 明日には{n} 熱も ひきましょう!」",
-   "en": null
+   "en": "Doctor{n}\"Look! The color is coming back to her cheeks!\"{n}\"Her breathing has settled down completely too!\"{n}{n}\"She'll be all right now! After a night's rest, her fever should be gone by tomorrow!\""
   },
   {
    "id": "b050_0004",
    "jp": "医者{n}「うーむ!」{n}{n}「お命 とりとめるは{n} むずかしゅうございます」{n}",
-   "en": null
+   "en": "Doctor{n}\"Hmmm!\"{n}{n}\"I'm afraid saving her life will be very difficult.\"{n}"
   },
   {
    "id": "b050_0005",
    "jp": "銀次{n}「{sub:A0}さん! あっしです!」{n}{n}「いろいろ 人に 聞いたんですが{n} 鬼の体まで わからねえと{n} いわれましてね!」{n}「ただね! この先の{n} 伏龍(ふくりゅう)の洞窟{n} ってのが あってね!」{n}「そこの 伏龍って 龍の{n} うろこを とってきて{n} せんじてのむと いいらしい!」",
-   "en": null
+   "en": "Ginji{n}\"Momotaro! It's me!\"{n}{n}\"I asked around all over, but folks said nobody knows about oni bodies!\"{n}\"But listen! Up ahead there's a place called Fukuryu Cave!\"{n}\"They say if ya fetch a scale from the dragon there, the Hidden Dragon, and brew it up and drink it, it'll do the trick!\""
   },
   {
    "id": "b050_0006",
    "jp": "医者{n}「も! {sub:A0}さん!{n} まさか 伏龍の洞窟へ!」{n}「生きてかえったものなど{n} いないそうですよ!」{n}",
-   "en": null
+   "en": "Doctor{n}\"W-why, Momotaro! Surely you're not going to Fukuryu Cave!\"{n}\"They say no one has ever come back alive!\"{n}"
   },
   {
    "id": "b050_0007",
    "jp": "銀次{n}「{sub:A0}さん! もちろん{n} 行くでやんしょ?」{n}「そうこなくちゃ!」{n}{n}{n}「伏龍の洞窟は たしか{n} ここから 南東の 山あいに{n} あるはずですぜ!」{n}「ちょっくら 行って{n} 龍のうろこ とやらを{n} さがしてきやしょうよ!」{n}「あっしも おともいたしやす!」{n}{n}",
-   "en": null
+   "en": "Ginji{n}\"Momotaro! You're goin', of course?\"{n}\"That's the spirit!\"{n}{n}{n}\"Fukuryu Cave oughta be in the mountains southeast of here, if I recall!\"{n}\"Let's pop over and hunt down this Dragon Scale thing!\"{n}\"I'll tag along with ya!\"{n}{n}"
   },
   {
    "id": "b050_0008",
    "jp": "医者{n}「{sub:A0}さん! どうしても {n} 伏龍の洞窟へ ゆかれるのですね!」{n}「それでは せめて{n} これを おもちくだされ!」{n}",
-   "en": null
+   "en": "Doctor{n}\"Momotaro! You're set on going to Fukuryu Cave, then!\"{n}\"Then at the very least, please take this with you!\"{n}"
   },
   {
    "id": "b050_0009",
    "jp": "夜叉姫{n}「……ここは…?{n} あ…! {sub:A0}さん…」{n}「そうか… {sub:C9}{n} 風神に 飛ばされて それで…{n} たおれていたのですね…」{n}「でも お兄さまが…」{n}{n}{n}「{kata}アジャセ{hira}王子が{n} みまもっていて くれたような…{n} そんな 夢を みました…」{n}「あっ! {sub:C9}なら{n} もう 大丈夫です!{n} めいわくかけて ごめんなさい!」{n}「こんどは {sub:C9}が{n} みなさんを おたすけできるよう{n} がんばりますね!」",
-   "en": null
+   "en": "Yasha{n}\"......Where am I...? Oh...! Momotaro...\"{n}\"I see... I was blown away by Fujin, and then... I must have collapsed...\"{n}\"But my brother...\"{n}{n}{n}\"I had a dream... that Prince Ajase was watching over me...\"{n}\"Oh! I'm all right now! I'm sorry for causing you all such trouble!\"{n}\"This time, I'll do my best so that I can help all of you!\""
   },
   {
    "id": "b050_0010",
    "jp": "医者{n}「なおったと いっても{n} 夜叉姫さんは やみあがりじゃ!」{n}「みなさん だいじにして{n} あげてくだされや!」{n}",
-   "en": null
+   "en": "Doctor{n}\"She may be cured, but Princess Yasha is only just over her illness!\"{n}\"Take good care of her, all of you!\"{n}"
   },
   {
    "id": "b050_0011",
    "jp": "「お…お兄さま………」{n}{n}",
-   "en": null
+   "en": "\"B-Brother.........\"{n}{n}"
   }
  ]
 }

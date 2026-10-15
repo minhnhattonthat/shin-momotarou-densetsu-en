@@ -7,102 +7,102 @@
   {
    "id": "b072_0000",
    "jp": "「ここは {kata}イヌ{hira}の{n} 品評会(ひんぴょうかい)を する{n} {kata}コンテスト{hira}会場です!」{n}「おつれさまの {kata}ワン{hira}ちゃんも{n} 出場されてみては いかがですか?」{n}",
-   "en": null
+   "en": "\"This is the contest hall for the dog show!\"{n}\"Why not enter your doggy companion too?\"{n}"
   },
   {
    "id": "b072_0001",
    "jp": "「突風ぶり太夫さんの よみかたが{n} わからないって? せいは とっぷう{n} 名は ぶりだいゆう{kata}サン{hira}だ!」{n}「しんぱん ひとすじ 40年の{n} 有名な 人なんだから{n} 知らないと はずかしいよ!」",
-   "en": null
+   "en": "\"Can't read the name of the judge, Toppu Buridayu? Family name Toppu, given name Buridayu!\"{n}\"He's been a judge for 40 years! Folks'd laugh at ya for not knowin' him!\""
   },
   {
    "id": "b072_0002",
    "jp": "「今年こそ うちの のり{kata}ピ{hira}ーを{n} ゆうしょう させるぞ! たらふく{n} {kata}イヌ{hira}まっしぐら 食べさせたんだ!」",
-   "en": null
+   "en": "\"This year for sure, my Noripi's gonna win! I fed him all the Doggy Dash he could eat!\""
   },
   {
    "id": "b072_0003",
    "jp": "「しんぱんの 突風ぶり太夫さんは{n} {kata}トップブリ{hira}ー{kata}ダ{hira}ーに ふさわしいが{n} はんていが きびしくていけねえ!」",
-   "en": null
+   "en": "\"The judge, Toppu Buridayu, sure lives up to his name -- a real top breeder! But his judgin's way too strict!\""
   },
   {
    "id": "b072_0004",
    "jp": "「うちの {kata}ミカミン{hira}が 今年も{n} ゆうしょう するざます!」{n}{n}「毎日 {kata}サバ{hira}の にぎり{n} 10{kata}キロ{hira} たべさせてるざますから{n} おっほっほっほ! お金もちざます」",
-   "en": null
+   "en": "\"My Mikamin shall win again this year, darling!\"{n}{n}\"I feed her ten kilos of mackerel sushi every day, you see. Oh-ho-ho-ho! I'm rich, darling!\""
   },
   {
    "id": "b072_0005",
    "jp": "「なかなか この {kata}コンテスト{hira}が{n} たのしみで 毎年 こうして{n} {kata}グキッ{hira}! う! ぎっくり腰が!」",
-   "en": null
+   "en": "\"I look forward to this contest so much, every year I come here and-- *crick*! Ugh! My back!\""
   },
   {
    "id": "b072_0006",
    "jp": "「{kata}マダマダ{hira} {kata}コンテスト{n}{hira} {kata}スタ{hira}ー{kata}ト{hira} {kata}シナイネ{hira}!」{n}{n}「鬼 {kata}デビル{hira} {kata}タイジ{n}{hira} {kata}ド{hira}ー{kata}シタネ{hira}! {kata}アソンデル{n}{hira} {kata}バアイジャ{hira} {kata}ナイデショネ{hira}!」",
-   "en": null
+   "en": "\"Contest no start yet-ne!\"{n}{n}\"Oni devil hunt, what happen-ne? You no have time for play-ne!\""
   },
   {
    "id": "b072_0007",
    "jp": "「{kata}レディス{hira} {kata}アンド{hira} {kata}ジェントルマン{hira}!{n} {kata}マイ{hira} {kata}ネ{hira}ー{kata}ム{hira} {kata}イズ{hira} 突風ぶり太夫!{n} {kata}クラシック{hira} {kata}ナ{hira} {kata}ナマエネ{hira}ー!」{n}「{kata}コンテスト{hira} {kata}スタ{hira}ー{kata}ト{hira} {kata}マデ{n}{hira} 3 {kata}ミニッツ{hira}! 3{kata}プンネ{hira}!{n} 出場{kata}スル{hira} {kata}ヨロシカ{hira}? {kata}ユ{hira}ー!」",
-   "en": null
+   "en": "\"Ladies and gentleman! My name is Toppu Buridayu! Very classic name-ne!\"{n}\"Contest start in three minute! Three minute-ne! You enter, okay? You!\""
   },
   {
    "id": "b072_0008",
    "jp": "「{kata}ソン{hira} {kata}ソンダ{hira}ー {kata}ソンデスト{hira}!{n} {kata}モッタイナイ{hira} {kata}アルネ{hira}!」{n}",
-   "en": null
+   "en": "\"Loss, losser, lossest! What a waste-ne!\"{n}"
   },
   {
    "id": "b072_0009",
    "jp": "「{kata}ソレジャ{hira} {kata}ジャスト{hira} {kata}タイム{hira} {kata}ネ{hira}!{n} {kata}スグ{hira} {kata}コンテスト{hira} {kata}スタ{hira}ー{kata}ト{hira} {kata}ネ{hira}!」{n}{n}「{kata}ユ{hira}ー {kata}ドッグ{hira} {kata}ネ{hira}ー{kata}ム{hira} {kata}イズ{n}{hira} {arg} {kata}アルネ{hira}!{n} {kata}ビュ{hira}ー{kata}リホ{hira}ー! {kata}ビュ{hira}ー{kata}リホ{hira}ー!」",
-   "en": null
+   "en": "\"Then just in time-ne! Contest start right now-ne!\"{n}{n}\"Your dog name is {arg}-ne! Beautiful! Beautiful!\""
   },
   {
    "id": "b072_0010",
    "jp": "「{kata}ディス{hira} {kata}イヤ{hira}ー!{n} {kata}ナンバ{hira}ー{kata}ワン{hira} {kata}ドッグ{hira} {kata}コンテスト{hira}!{n} {kata}マズ{hira} {kata}ハ{hira} {kata}ブモンショウ{hira} {kata}カラネ{hira}!」{n}「{kata}アタマ{hira} {kata}ノ{hira} {kata}ヨサ{hira} {kata}ブモン{hira}!」{n}{n}",
-   "en": null
+   "en": "\"This year! Number one dog contest! First is division prizes-ne!\"{n}\"Smartness division!\"{n}{n}"
   },
   {
    "id": "b072_0011",
    "jp": "「{kata}ツヅイテ{hira} {kata}コウキシン{hira} {kata}ブモン{hira}!」{n}{n}",
-   "en": null
+   "en": "\"Next, curiosity division!\"{n}{n}"
   },
   {
    "id": "b072_0012",
    "jp": "「{kata}ツヅイテ{hira} {kata}ミノコナシ{hira} {kata}ブモン{hira}!」{n}{n}",
-   "en": null
+   "en": "\"Next, agility division!\"{n}{n}"
   },
   {
    "id": "b072_0013",
    "jp": "「{kata}サイゴ{hira} {kata}ニ{n}{hira} {kata}ソウゴウ{hira} {kata}ユウショウ{hira} {kata}ハ{hira}?」{n}",
-   "en": null
+   "en": "\"And last, grand champion is...?\"{n}"
   },
   {
    "id": "b072_0014",
    "jp": "「{kata}ソウゴウ{hira} {kata}ユウショウ{hira} {kata}ハ{n}{hira} {arg} {kata}ニ{hira} {kata}ケッテ{hira}ーー{kata}イ{hira}!」{n}{n}「{kata}ユウショウ{hira} {kata}ショウキン{n}{hira} 10000両 {kata}プレゼント{hira}!」{n}",
-   "en": null
+   "en": "\"Grand champion is {arg}! Deciiiided!\"{n}{n}\"Champion prize money, 10000 ryo, present for you!\"{n}"
   },
   {
    "id": "b072_0015",
    "jp": "{hero}は{n}10000両 手に入れた!{n}",
-   "en": null
+   "en": "{hero} got{n}10000 ryo!{n}"
   },
   {
    "id": "b072_0016",
    "jp": "{hero}は{n}1000両{n}手に入れた!",
-   "en": null
+   "en": "{hero} got{n}1000 ryo!"
   },
   {
    "id": "b072_0017",
    "jp": "「{kata}ワン{hira} {kata}ワン{hira}!」{n}{n}",
-   "en": null
+   "en": "\"Woof woof!\"{n}{n}"
   },
   {
    "id": "b072_0018",
    "jp": "「{kata}ワン{hira} {kata}ワワン{hira}!」{n}{n}",
-   "en": null
+   "en": "\"Woof, woof-woof!\"{n}{n}"
   },
   {
    "id": "b072_0019",
    "jp": "「{kata}ワワン{hira} {kata}ワン{hira}!」{n}{n}",
-   "en": null
+   "en": "\"Woof-woof, woof!\"{n}{n}"
   }
  ]
 }

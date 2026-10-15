@@ -7,72 +7,72 @@
   {
    "id": "b064_0000",
    "jp": "「ここの 和菓子は{n} おいしいんだけど 値段が{n} 高いのが こまりもんでの!」",
-   "en": null
+   "en": "\"The sweets here are mighty tasty, but the prices are high--that's the trouble!\""
   },
   {
    "id": "b064_0001",
    "jp": "「こんどの {arg}は{n} 安くて おいしいや!」{n}",
-   "en": null
+   "en": "\"This new {arg} is cheap and tasty!\"{n}"
   },
   {
    "id": "b064_0002",
    "jp": "「お茶会には ここの{n} 和菓子じゃないと{n} はじまらないのよね!」",
-   "en": null
+   "en": "\"A tea party just can't start without sweets from this shop!\""
   },
   {
    "id": "b064_0003",
    "jp": "「いつ来ても {arg}が{n} 品切れなのよ! お茶会に{n} かかせないのに こまったわ!」",
-   "en": null
+   "en": "\"Whenever I come, {arg} is sold out! It's a must for tea parties--what a bother!\""
   },
   {
    "id": "b064_0004",
    "jp": "「和菓子の 虎信です{n} どれに しまひょか?」{n}",
-   "en": null
+   "en": "\"Toranobu Sweets, at your service. What'll it be?\"{n}"
   },
   {
    "id": "b064_0005",
    "jp": "「あいにく その品は いま{n} きらしておりまして{n} またのときに おねがいします」",
-   "en": null
+   "en": "\"I'm afraid we're out of that item just now. Please come again another time.\""
   },
   {
    "id": "b064_0006",
    "jp": "「{arg} ですね!{n} {num}両に なります!」{n}",
-   "en": null
+   "en": "\"{arg}, is it? That'll be {num} ryo!\"{n}"
   },
   {
    "id": "b064_0007",
    "jp": "「{sub:C1}さま{n} お金が たりないようで…」{n}",
-   "en": null
+   "en": "\"Dear customer, you seem to be short of money...\"{n}"
   },
   {
    "id": "b064_0008",
    "jp": "{sub:D5}もちますか?」{n}{n}",
-   "en": null
+   "en": "\"Who will carry it?\"{n}{n}"
   },
   {
    "id": "b064_0009",
    "jp": "「{arg}さん!{n}{sub:D7} いっぱいですよ!」{n}",
-   "en": null
+   "en": "\"{arg}! Your Item Bag is full!\"{n}"
   },
   {
    "id": "b064_0010",
    "jp": "{arg}は{n}{arg}を 手に入れた!{n}",
-   "en": null
+   "en": "{arg}{n}obtained {arg}!{n}"
   },
   {
    "id": "b064_0011",
    "jp": "「ほかに おもとめの 品は{n} {sub:D4}」{n}",
-   "en": null
+   "en": "\"Is there anything else you'd like?\"{n}"
   },
   {
    "id": "b064_0012",
    "jp": "「和菓子 虎信の{n} 主人でございます」{n}{n}「さきほど {sub:A0}さんと{n} 知りあいだという わかものが{n} みえられましてな」{n}「{arg} というのですが{n} みごとな 出来栄えでして{n} こんど うちに おくつもりです」",
-   "en": null
+   "en": "\"I am the master of Toranobu Sweets.\"{n}{n}\"A young man who says he knows you, Momotaro, came by a little while ago.\"{n}\"He brought something called {arg}. It's splendidly made, so I plan to stock it here.\""
   },
   {
    "id": "b064_0013",
    "jp": "「和菓子 虎信の{n} 主人でございます」{n}{n}「{sub:A0}さん! あれから{n} {arg}が{n} だいひょうばんに なりましてな!」{n}「辰巳'さんとこからの{n} 仕入れが 間にあわないんです」{n}{n}「いそがしすぎて{n} 辰巳さんの お母さんが また{n} たおれないかと しんぱいです!」",
-   "en": null
+   "en": "\"I am the master of Toranobu Sweets.\"{n}{n}\"Momotaro! Since then, {arg} has become a huge hit!\"{n}\"The supply from Tatsumi's place can't keep up.\"{n}{n}\"With all this work, I'm worried Tatsumi's mother will collapse again!\""
   }
  ]
 }

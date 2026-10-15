@@ -7,17 +7,17 @@
   {
    "id": "b033_0000",
    "jp": "「したの{kata}ヨ{hira}ー{kata}ヨ{hira}ーほど{n} つりにくいからの{n} では ゆくぞ!」{0B}",
-   "en": null
+   "en": "\"The lower the yo-yo, the harder it is to fish out. Here we go!\"{0B}"
   },
   {
    "id": "b033_0001",
    "jp": "げろ{n}げろげろ{n}げろげろげろ",
-   "en": null
+   "en": "Croak{n}Croak croak{n}Croak croak croak"
   },
   {
    "id": "b033_0002",
    "jp": "「またいつでもきてくれ!{0B}",
-   "en": null
+   "en": "\"Come again anytime!{0B}"
   }
  ]
 }

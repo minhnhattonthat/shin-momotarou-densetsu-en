@@ -7,497 +7,497 @@
   {
    "id": "b030_0000",
    "jp": "{sub:A0}は かけじくを ながめた!{n}{n}",
-   "en": null
+   "en": "Momotaro looked at the hanging scroll!{n}{n}"
   },
   {
    "id": "b030_0001",
    "jp": "「世の中 銭や!」{n}{n}",
-   "en": null
+   "en": "\"Money makes the world go round!\"{n}{n}"
   },
   {
    "id": "b030_0002",
    "jp": "「金が ないなら さようなら!」{n}{n}",
-   "en": null
+   "en": "\"No money? Then goodbye!\"{n}{n}"
   },
   {
    "id": "b030_0003",
    "jp": "「かりたら かえすな!{n} かえすなら かりるな!」{n}",
-   "en": null
+   "en": "\"If you borrow, don't repay!{n} If you'll repay, don't borrow!\"{n}"
   },
   {
    "id": "b030_0004",
    "jp": "「まじめに 生きても{n} ふまじめに 生きても{n} 死ぬときは 死ぬ!」",
-   "en": null
+   "en": "\"Live honestly,{n} live dishonestly,{n} when it's time to die, you die!\""
   },
   {
    "id": "b030_0005",
    "jp": "「じぶん勝手は 人に{n} にんたいの力を つける!」{n}",
-   "en": null
+   "en": "\"Being selfish builds{n} patience in others!\"{n}"
   },
   {
    "id": "b030_0006",
    "jp": "「金のあるやつ 強いやつ!」{n}{n}",
-   "en": null
+   "en": "\"Whoever has money is strong!\"{n}{n}"
   },
   {
    "id": "b030_0007",
    "jp": "「人の 不幸は 見ないふり!」{n}{n}",
-   "en": null
+   "en": "\"Pretend not to see others' misfortune!\"{n}{n}"
   },
   {
    "id": "b030_0008",
    "jp": "「{kata}タフ{hira}なやつでも 金には 弱い!」{n}{n}",
-   "en": null
+   "en": "\"Even tough guys are weak against money!\"{n}{n}"
   },
   {
    "id": "b030_0009",
    "jp": "{sub:A0}は つぼを のぞきこんだ!{n}{n}",
-   "en": null
+   "en": "Momotaro peered into the pot!{n}{n}"
   },
   {
    "id": "b030_0010",
    "jp": "水だ! 飲もう!{n}{n}",
-   "en": null
+   "en": "Water! Time for a drink!{n}{n}"
   },
   {
    "id": "b030_0011",
    "jp": "まだ 何も 入ってないようだ!{n}{n}",
-   "en": null
+   "en": "Looks like there's nothing in it yet!{n}{n}"
   },
   {
    "id": "b030_0012",
    "jp": "{sub:A0}は たなを しらべた{n}{n}",
-   "en": null
+   "en": "Momotaro searched the shelf.{n}{n}"
   },
   {
    "id": "b030_0013",
    "jp": "しかし なにも 見つからなかった{n}{n}",
-   "en": null
+   "en": "But he found nothing.{n}{n}"
   },
   {
    "id": "b030_0014",
    "jp": "{num}両 あります とりますか?{n}{n}",
-   "en": null
+   "en": "There's {num} ryo here. Take it?{n}{n}"
   },
   {
    "id": "b030_0015",
    "jp": "{sub:A0}は{n}{num}両をとった{n}",
-   "en": null
+   "en": "Momotaro{n}took {num} ryo.{n}"
   },
   {
    "id": "b030_0016",
    "jp": "{sub:A0}は 悪いことを{n}してしまった!{n}",
-   "en": null
+   "en": "Momotaro has{n}done something wrong!{n}"
   },
   {
    "id": "b030_0017",
    "jp": "{sub:A0}は かまを のぞきこんだ!{n}{n}",
-   "en": null
+   "en": "Momotaro peered into the cooking pot!{n}{n}"
   },
   {
    "id": "b030_0018",
    "jp": "かまは からっぽ だった!{n}{n}",
-   "en": null
+   "en": "The cooking pot was empty!{n}{n}"
   },
   {
    "id": "b030_0019",
    "jp": "おや! かまに なにかあるぞ!{n}{n}",
-   "en": null
+   "en": "Oh! There's something in the cooking pot!{n}{n}"
   },
   {
    "id": "b030_0020",
    "jp": "井戸だ!{n}水を 飲もう!{n}",
-   "en": null
+   "en": "A well!{n}Time for a drink of water!{n}"
   },
   {
    "id": "b030_0021",
    "jp": "{arg}は 水をくんで のんだ!{n}{n}",
-   "en": null
+   "en": "{arg} drew some water and drank it!{n}{n}"
   },
   {
    "id": "b030_0022",
    "jp": "まだ のみますか?{n}{n}",
-   "en": null
+   "en": "Drink some more?{n}{n}"
   },
   {
    "id": "b030_0023",
    "jp": "たき火だ!{n}{n}",
-   "en": null
+   "en": "A bonfire!{n}{n}"
   },
   {
    "id": "b030_0024",
    "jp": "「{sub:A0}さん! たき火に{n} あたって いきなよ!{n} あったかいよー!」",
-   "en": null
+   "en": "\"Momotaro! Come warm up{n} by the fire!{n} It's nice and toasty!\""
   },
   {
    "id": "b030_0025",
    "jp": "「{kata}サツマイモ{hira} もってたら{n} やいて あげるよ!」{n}",
-   "en": null
+   "en": "\"If you've got a Sweet Potato,{n} I'll roast it for you!\"{n}"
   },
   {
    "id": "b030_0026",
    "jp": "「いつでも 声かけてね!」{n}{n}",
-   "en": null
+   "en": "\"Just holler anytime!\"{n}{n}"
   },
   {
    "id": "b030_0027",
    "jp": "{sub:A0}は {kata}サツマイモ{hira}を{n}こどもに て{sub:C9}た!{n}{n}「おいしいのが やけるかな?」{n}{n}",
-   "en": null
+   "en": "Momotaro handed{n}the child a Sweet Potato!{n}{n}\"Will it roast up nice?\"{n}{n}"
   },
   {
    "id": "b030_0028",
    "jp": "「{sub:A0}さん おいしそうなのが{n} 焼けたよー!」{n}",
-   "en": null
+   "en": "\"Momotaro, a yummy-looking one{n} is done roasting!\"{n}"
   },
   {
    "id": "b030_0029",
    "jp": "「{sub:A0}さん ごめんねー!{n} まっくろこげに なっちゃったー!」{n}{n}{sub:A0}は 焼きいもを{n}手に入れることが できなかった!{n}",
-   "en": null
+   "en": "\"Momotaro, I'm sorry!{n} It got burned to a crisp!\"{n}{n}Momotaro{n}couldn't get a roasted sweet potato!{n}"
   },
   {
    "id": "b030_0030",
    "jp": "「{sub:B5} おみくじを{n} ひいていきませんか?」{n}",
-   "en": null
+   "en": "\"Chuchun! Would you like{n} to draw a fortune slip?\"{n}"
   },
   {
    "id": "b030_0031",
    "jp": "「{sub:B5}{n} では 100両 {sub:D3}!」{n}{n}「さて 何が 出るでしょうか?」{n}{n}{n}「{sub:B5} {sub:B5}",
-   "en": null
+   "en": "\"Chuchun!{n} Then that will be 100 ryo!\"{n}{n}\"Now, what will you draw?\"{n}{n}{n}\"Chuchun! Chuchun!"
   },
   {
    "id": "b030_0032",
    "jp": " 大吉と でました!」{n}",
-   "en": null
+   "en": " It's a Great Blessing!\"{n}"
   },
   {
    "id": "b030_0033",
    "jp": "天から いろんな ものが{n}ふってきたぞーーーーーっ!{n}",
-   "en": null
+   "en": "All sorts of things are{n}falling from the heavens!{n}"
   },
   {
    "id": "b030_0034",
    "jp": " 末吉と でました!」{n}",
-   "en": null
+   "en": " It's a Future Blessing!\"{n}"
   },
   {
    "id": "b030_0035",
    "jp": "ちかごろ 村での {sub:A0}の{n}ひょうばんが とみに{n}あがってきて いるようだ!",
-   "en": null
+   "en": "It seems Momotaro's{n}reputation in the village{n}has been rising lately!"
   },
   {
    "id": "b030_0036",
    "jp": " 小吉と でました!」{n}",
-   "en": null
+   "en": " It's a Small Blessing!\"{n}"
   },
   {
    "id": "b030_0037",
    "jp": "「{sub:D1}{n} お金が たりないんですが…」{n}",
-   "en": null
+   "en": "\"Dear customer!{n} You don't have enough money...\"{n}"
   },
   {
    "id": "b030_0038",
    "jp": "「また どうぞ {sub:B5}」{n}{n}",
-   "en": null
+   "en": "\"Come again! Chuchun!\"{n}{n}"
   },
   {
    "id": "b030_0039",
    "jp": "むむ? 何か とっても{n}よくないことが おきそうだぞ!{n}むむ? むむ? むむ?{n}おーーーーーーーーーっと!{n}{sub:A0}たちに 呪いが{n}かかってしまったぞーーーーっ!",
-   "en": null
+   "en": "Hmm? Something really{n}bad is about to happen!{n}Hmm? Hmm? Hmm?{n}Ohhhhhhhhh nooo!{n}A curse has fallen{n}on Momotaro and friends!"
   },
   {
    "id": "b030_0040",
    "jp": "おお! これから 何か{n}いいことが おきそうだぞ?{n}おお! おお! おお!",
-   "en": null
+   "en": "Ooh! Something good{n}is about to happen!{n}Ooh! Ooh! Ooh!"
   },
   {
    "id": "b030_0041",
    "jp": " 吉と でました!」{n}",
-   "en": null
+   "en": " It's a Blessing!\"{n}"
   },
   {
    "id": "b030_0042",
    "jp": "おお! 天から お金が{n}ふってきたぞーーーーーっ!{n}",
-   "en": null
+   "en": "Whoa! Money is falling{n}from the heavens!{n}"
   },
   {
    "id": "b030_0043",
    "jp": "合計 {num}両 ふってきた!{n}{n}",
-   "en": null
+   "en": "{num} ryo fell in all!{n}{n}"
   },
   {
    "id": "b030_0044",
    "jp": "{num}両 ふってきた!{n}{n}",
-   "en": null
+   "en": "{num} ryo fell down!{n}{n}"
   },
   {
    "id": "b030_0045",
    "jp": "{arg}が ふってきた!{n}{n}",
-   "en": null
+   "en": "{arg} fell down!{n}{n}"
   },
   {
    "id": "b030_0046",
    "jp": " 大凶と でました!」{n}{n}むむ? 何か とっても{n}よくないことが おきそうだぞ!{n}むむ? むむ? むむ?{n}おーーーーーーーーーっと!{n}{sub:A0}{arg}は お金を{n}半分落してしまったーーーー{kata}ッ{hira}!",
-   "en": null
+   "en": " It's a Great Curse!\"{n}{n}Hmm? Something really{n}bad is about to happen!{n}Hmm? Hmm? Hmm?{n}Ohhhhhhhhh nooo!{n}Momotaro{arg} dropped{n}half his money!"
   },
   {
    "id": "b030_0047",
    "jp": " 凶と でました!」{n}{n}むむ? 何か とっても{n}よくないことが おきそうだぞ!{n}むむ? むむ? むむ?",
-   "en": null
+   "en": " It's a Curse!\"{n}{n}Hmm? Something really{n}bad is about to happen!{n}Hmm? Hmm? Hmm?"
   },
   {
    "id": "b030_0048",
    "jp": "おーーーーーーーーーっと!",
-   "en": null
+   "en": "Ohhhhhhhhh nooo!"
   },
   {
    "id": "b030_0049",
    "jp": "{sub:A0}{arg}の 技が{n}半分に なってしまった!",
-   "en": null
+   "en": "Momotaro{arg}'s Skill{n}has been cut in half!"
   },
   {
    "id": "b030_0050",
    "jp": "おさいせんばこが あります!{n}お金を 入れますか?{n}",
-   "en": null
+   "en": "There's an offering box!{n}Put in some money?{n}"
   },
   {
    "id": "b030_0051",
    "jp": "いくら 入れますか?{n}{n}",
-   "en": null
+   "en": "How much will you put in?{n}{n}"
   },
   {
    "id": "b030_0052",
    "jp": "神様の こえが きこえてきた!{n}{n}",
-   "en": null
+   "en": "The voice of a god can be heard!{n}{n}"
   },
   {
    "id": "b030_0053",
    "jp": "「友を たいせつに しているか?{n} 人は ひとりでは{n} いきていけぬものぞ!」",
-   "en": null
+   "en": "\"Do you cherish your friends?{n} No one can live{n} all alone!\""
   },
   {
    "id": "b030_0054",
    "jp": "「どうぶつや 人間も 鬼も{n} すべて いきものなのじゃ!{n} にくしみあうなど ばかげておる」",
-   "en": null
+   "en": "\"Animals, humans and oni{n} are all living things!{n} Hating one another is foolish.\""
   },
   {
    "id": "b030_0055",
    "jp": "「鬼が にんげんより{n} すぐれているなど くだらぬことだ!{n} みな おなじだ! わかるな?」",
-   "en": null
+   "en": "\"Saying oni are better{n} than humans is nonsense!{n} All are equal! Understand?\""
   },
   {
    "id": "b030_0056",
    "jp": "「鬼たちの だれかが{n} よからぬことを かんがえただけだ{n} それが だれか つきとめよ!」",
-   "en": null
+   "en": "\"One of the oni{n} merely hatched a wicked plan.{n} Find out who it is!\""
   },
   {
    "id": "b030_0057",
    "jp": "「伐折羅王は {kata}カルラ{hira}に{n} だまされているだけだ!{n} {kata}カルラ{hira}を さきに こらしめよ!」",
-   "en": null
+   "en": "\"King Basara is merely{n} being deceived by Karura!{n} Punish Karura first!\""
   },
   {
    "id": "b030_0058",
    "jp": "「{kata}カルラ{hira}は {kata}ダイダ{hira}王子を{n} いのままに あやつって{n} 鬼たちを かしずかせたいのだ!」",
-   "en": null
+   "en": "\"Karura wants to control{n} Prince Daida like a puppet{n} and make the oni bow down!\""
   },
   {
    "id": "b030_0059",
    "jp": "「{kata}カルラ{hira}には 心を ゆるしあう{n} 友が いない! {sub:A0}よ!{n} {sub:B6}には 友が いるのだ!」",
-   "en": null
+   "en": "\"Karura has no friend{n} to open his heart to! Momotaro!{n} But you have friends!\""
   },
   {
    "id": "b030_0060",
    "jp": "「まいにち おなじことを{n} いわれれば ほんとうにきこえる{n} いまの 鬼の世界が そうじゃ!」",
-   "en": null
+   "en": "\"Hear the same thing{n} every day and it sounds true.{n} So it is in the oni world now!\""
   },
   {
    "id": "b030_0061",
    "jp": "「{sub:A0}よ! ひごろからの{n} たゆまぬ どりょく!{n} みんなは きづいておるぞ!」",
-   "en": null
+   "en": "\"Momotaro! Your tireless{n} everyday efforts!{n} Everyone has noticed them!\""
   },
   {
    "id": "b030_0062",
    "jp": "いろりだ!{n}{n}",
-   "en": null
+   "en": "A hearth!{n}{n}"
   },
   {
    "id": "b030_0063",
    "jp": "しかし {sub:A0}{arg}は{n}炭を もっていなかった!{n}",
-   "en": null
+   "en": "But Momotaro{arg}{n}had no Charcoal!{n}"
   },
   {
    "id": "b030_0064",
    "jp": "いろりの 火が 消えている!{n}{n}{n}いろりに 炭を入れますか?{n}{n}",
-   "en": null
+   "en": "The hearth fire has gone out!{n}{n}{n}Put Charcoal in the hearth?{n}{n}"
   },
   {
    "id": "b030_0065",
    "jp": "{sub:A0}は いろりに{n}炭を入れて 火を おこした!{n}",
-   "en": null
+   "en": "Momotaro put Charcoal{n}in the hearth and lit a fire!{n}"
   },
   {
    "id": "b030_0066",
    "jp": "あったかい!{n}{n}",
-   "en": null
+   "en": "How warm!{n}{n}"
   },
   {
    "id": "b030_0067",
    "jp": "{sub:A0}は いろりに{n}火をおこすのは やめにした!{n}",
-   "en": null
+   "en": "Momotaro decided not{n}to light a fire in the hearth!{n}"
   },
   {
    "id": "b030_0068",
    "jp": "あったかい!{n}{n}",
-   "en": null
+   "en": "How warm!{n}{n}"
   },
   {
    "id": "b030_0069",
    "jp": "{sub:A0}は{n}{kata}ダイコン{hira}を ひっこぬいた!{n}",
-   "en": null
+   "en": "Momotaro{n}pulled up a Daikon Radish!{n}"
   },
   {
    "id": "b030_0070",
    "jp": "{sub:A0}は 池を しらべた!{n}{n}",
-   "en": null
+   "en": "Momotaro searched the pond!{n}{n}"
   },
   {
    "id": "b030_0071",
    "jp": "あっ! {kata}コイ{hira}だ! {n}{n}{n}村の人たちも {kata}コイ{hira}を見て{n}よろこんだ!{n}",
-   "en": null
+   "en": "Oh! A carp!{n}{n}{n}The villagers were happy{n}to see the carp too!{n}"
   },
   {
    "id": "b030_0072",
    "jp": "あっ! {kata}カエル{hira}だ!{n}{n}",
-   "en": null
+   "en": "Oh! A Frog!{n}{n}"
   },
   {
    "id": "b030_0073",
    "jp": "つりざおは 浦島にしか{n}{sub:B3}ことが できない!{n}",
-   "en": null
+   "en": "Only Urashima can{n}use the Fishing Rod!{n}"
   },
   {
    "id": "b030_0074",
    "jp": "浦島は つりざおを{n}海に 投げ入れた!{n}{n}おっ! ひいてる! ひいてる!{n}{n}",
-   "en": null
+   "en": "Urashima cast the Fishing Rod{n}into the sea!{n}{n}Oh! A bite! A bite!{n}{n}"
   },
   {
    "id": "b030_0075",
    "jp": "{arg}が つれた!{n}{n}",
-   "en": null
+   "en": "{arg} was caught!{n}{n}"
   },
   {
    "id": "b030_0076",
    "jp": "{sub:A0}たちは{n}{arg}を 手に入れた!{n}",
-   "en": null
+   "en": "Momotaro and friends{n}got {arg}!{n}"
   },
   {
    "id": "b030_0077",
    "jp": "「へい らっしゃい!{n} うちの屋台は{n} 桃ふくわらいが 楽しめるよ!」",
-   "en": null
+   "en": "\"Step right up!{n} At my stall you can{n} play Peach Fukuwarai!\""
   },
   {
    "id": "b030_0078",
    "jp": "「へい らっしゃい!{n} うちの屋台では{n} 桃{kata}カルトクイズ{hira}が 楽しめるよ!」",
-   "en": null
+   "en": "\"Step right up!{n} At my stall you can{n} play the Peach Trivia Quiz!\""
   },
   {
    "id": "b030_0079",
    "jp": "「へい らっしゃい!{n} うちの屋台では{n} 桃まとあてが 楽しめるよ!」",
-   "en": null
+   "en": "\"Step right up!{n} At my stall you can enjoy{n} Peach Target Shooting!\""
   },
   {
    "id": "b030_0080",
    "jp": "「へい らっしゃい!{n} うちの屋台は {kata}ポコポコジャンケン{hira}が{n} 楽しめるよ!」",
-   "en": null
+   "en": "\"Step right up!{n} At my stall you can enjoy{n} Poko-Poko Rock-Paper-Scissors!\""
   },
   {
    "id": "b030_0081",
    "jp": "「へい らっしゃい!{n} うちの屋台では{n} 金魚すくいが 楽しめるよ!」",
-   "en": null
+   "en": "\"Step right up!{n} At my stall you can enjoy{n} goldfish scooping!\""
   },
   {
    "id": "b030_0082",
    "jp": "「へい らっしゃい!{n} うちの屋台は{n} 桃{kata}キャッチャ{hira}ーが 楽しめるよ!」",
-   "en": null
+   "en": "\"Step right up!{n} At my stall you can enjoy{n} the Peach Catcher!\""
   },
   {
    "id": "b030_0083",
    "jp": "「へい らっしゃい!{n} うちの屋台では{n} {kata}モグラ{hira}たたきが 楽しめるよ!」",
-   "en": null
+   "en": "\"Step right up!{n} At my stall you can enjoy{n} Whack-a-Mole!\""
   },
   {
    "id": "b030_0084",
    "jp": "「へい らっしゃい!{n} うちの屋台は{n} 桃{kata}パズル{hira}が 楽しめるよ!」",
-   "en": null
+   "en": "\"Step right up!{n} At my stall you can enjoy{n} the Peach Puzzle!\""
   },
   {
    "id": "b030_0085",
    "jp": "「どうだい? 100両だ!{n} 祭りの いい おもいでになるよ!」{n}",
-   "en": null
+   "en": "\"How about it? Just 100 ryo! It'll make a fine memory of the festival!\"{n}"
   },
   {
    "id": "b030_0086",
    "jp": "「もったいない! 祭りを{n} 半分そんしたような もんだよ!」{n}",
-   "en": null
+   "en": "\"What a waste! That's like missing out on half the festival!\"{n}"
   },
   {
    "id": "b030_0087",
    "jp": "「おおっと!{n} 夜店券を 持っているな?{n} 夜店券を {sub:B3}かい?」",
-   "en": null
+   "en": "\"Whoa there!{n} You've got a Night Stall Pass, don'tcha? Gonna use the Night Stall Pass?\""
   },
   {
    "id": "b030_0088",
    "jp": "「お金が たりませんよ!{n} おちついて 鬼たいじを{n} めざして{sub:C5} {sub:A0}さん!」",
-   "en": null
+   "en": "\"You don't have enough money! Calm down and focus on defeating the oni, please, Momotaro!\""
   },
   {
    "id": "b030_0089",
    "jp": "「いいかい?{n} 耳の穴 かっぽじって{n} よーく 聞きなよ!」",
-   "en": null
+   "en": "\"Listen up!{n} Clean out your ears{n} and listen good!\""
   },
   {
    "id": "b030_0090",
    "jp": "「{kata}ファミコン{hira}版『桃伝』と{n} 今回の『新桃伝』から あわせて{n} 5問 しゅつだい されるぞ!」{n}「1問 せいかいすると{n} 20点だ!」{n}",
-   "en": null
+   "en": "\"I'll ask you 5 questions, taken from the Famicom 'Momotaro Densetsu' and this new 'Shin Momotaro Densetsu'!\"{n}\"Each right answer is worth 20 points!\"{n}"
   },
   {
    "id": "b030_0091",
    "jp": "「まとは 全部で 6つある!」{n}{n}{n}「{kata}スポットライト{hira}が まとを{n} てらしたら すかさず{n} A{kata}ボタン{hira}で 矢を うちこめ!」{n}「矢は {kata}スポットライト{hira}の{n} まんなかに あたるはずだ!」{n}{n}「ただし!{n} 矢を うちこんでいいのは{n} 赤鬼のまと だけだ!」{n}「村人や お地蔵さまを{n} うっちまうと{n} 点数が 下がっちまうぜ!」",
-   "en": null
+   "en": "\"There are 6 targets in all!\"{n}{n}{n}\"When the spotlight lights up a target, shoot an arrow at it right away with the A Button!\"{n}\"The arrow should hit the middle of the spotlight!\"{n}{n}\"But listen!{n} The only targets you're allowed to shoot are the red oni!\"{n}\"Hit a villager or a Jizo statue and your score goes down!\""
   },
   {
    "id": "b030_0092",
    "jp": "「まずは おいらと{n} {kata}ジャンケン{hira}で 勝負だ!」{n}{n}「{kata}ジャンケン{hira}で 勝ったほうが{n} あいてを {kata}トンカチ{hira}で{n} なぐることが できるんだ!」{n}「はんたいに まけちまったら{n} {kata}タライ{hira}で あいての 攻撃を{n} ふせがなきゃならねえ!」{n}「十字{kata}ボタン{hira}の{n} 右で {kata}トンカチ{hira}!{n} 左で {kata}タライ{hira}だ!」{n}「なぐるか ふせぐか!{n} いっしゅんの はんだんが{n} 勝負の 決め手だぜ!」",
-   "en": null
+   "en": "\"First, you and me play rock-paper-scissors!\"{n}{n}\"Whoever wins rock-paper-scissors gets to bonk the other guy with a hammer!\"{n}\"But if you lose, you gotta block the other guy's attack with a washtub!\"{n}\"Right on the Control Pad is the hammer! Left is the washtub!\"{n}\"Bonk or block! A split-second call decides the match!\""
   },
   {
    "id": "b030_0093",
    "jp": "「金魚すくいの あみってのは{n} 水の中に 入れると{n} どんどん とけていくんだ!」{n}「毒で 体力が へるのと{n} にたようなもんさ!」{n}{n}「あみの体力が 0になる前に{n} すくった 金魚の 数で{n} 点数は きまるぞ!」{n}「あみは 十字{kata}ボタン{hira}で うごかせ!{n} B{kata}ボタン{hira}を おしっぱなしに{n} すると すばやく うごかせる!」{n}「あみを 水の中に{n} 出し入れするのは A{kata}ボタン{hira}!」{n}{n}「そおっと 金魚の 下に あみを{n} もぐりこませることが できたら{n} すかさず すくいあげろ!」",
-   "en": null
+   "en": "\"Thing about a goldfish net is, once you put it in the water, it starts dissolving fast!\"{n}\"Kinda like losing Health to poison!\"{n}{n}\"Your score is the number of goldfish you scoop up before the net's Health hits 0!\"{n}\"Move the net with the Control Pad! Hold down the B Button to move it quick!\"{n}\"Dip the net in and out of the water with the A Button!\"{n}{n}\"If you can slip the net gently under a goldfish, scoop it up right away!\""
   },
   {
    "id": "b030_0094",
    "jp": "「まず はじめに A{kata}ボタン{hira}を おす!{n} するってえと{n} {kata}クレ{hira}ー{kata}ン{hira}が 左に 動きはじめる!」{n}「{kata}クレ{hira}ー{kata}ン{hira}が 人形の 真上に きたら{n} さらに A{kata}ボタン{hira}だ!{n} {kata}クレ{hira}ー{kata}ン{hira}が 下がりはじめる!」{n}「人形が つかめそうに なったら{n} すかさず A{kata}ボタン{hira}で とどめだ!」{n}{n}「あとは {kata}クレ{hira}ー{kata}ン{hira}が かってに{n} 人形を はこんでくれる!」{n}{n}「{kata}クレ{hira}ー{kata}ン{hira}は 動かすのは{n} すべて A{kata}ボタン{hira}だけだ!{n} こいつを わすれんなよ!」",
-   "en": null
+   "en": "\"First off, press the A Button!{n} Then the crane starts moving left!\"{n}\"When the crane's right above a doll, press the A Button again! The crane starts going down!\"{n}\"When it looks like it can grab the doll, finish it off with the A Button!\"{n}{n}\"After that, the crane carries the doll over all by itself!\"{n}{n}\"The crane is worked with the A Button and nothing else! Don't you forget it!\""
   },
   {
    "id": "b030_0095",
    "jp": "「畑をあらす あくどい {kata}モグラ{hira}たちを{n} {kata}ハンマ{hira}ーで たたいて こらしめろ」{n}{n}「上下左右の 4つの穴は{n} それぞれ X B Y A{kata}ボタン{hira}で{n} たたくことが できるぞ!」",
-   "en": null
+   "en": "\"Bop those wicked moles ruining the fields with the hammer and teach 'em a lesson!\"{n}{n}\"You can hit the 4 holes -- top, bottom, left and right -- with the X, B, Y and A Buttons!\""
   },
   {
    "id": "b030_0096",
    "jp": "「この{kata}パズル{hira}は 15枚の {kata}バラバラ{hira}に{n} 並べられた {kata}パネル{hira}を きちんと{n} 並べなおす {kata}ゲ{hira}ー{kata}ム{hira}なんだ!」{n}「1枚だけ {kata}パネル{hira}が ぬけている{n} ところが あるから そこに…」{n}{n}「上下左右の どれかの {kata}パネル{hira}を{n} 十字{kata}ボタン{hira}で えらんで{n} A{kata}ボタン{hira}で {kata}スライド{hira}させる!」{n}「{kata}ギブアップ{hira} したいときは{n} Y{kata}ボタン{hira}を おせ!」{n}{n}「せいげん時間は 5分間!{n} できるのが 早いほど{n} 点数は {kata}アップ{hira}する!」",
-   "en": null
+   "en": "\"This puzzle is a game where you put 15 jumbled-up panels back in order!\"{n}\"There's one spot with a panel missing, so into that spot...\"{n}{n}\"Pick a panel above, below, left or right of it with the Control Pad, and slide it with the A Button!\"{n}\"If you wanna give up, press the Y Button!\"{n}{n}\"The time limit is 5 minutes! The faster you finish, the higher your score!\""
   },
   {
    "id": "b030_0097",
    "jp": "「…………と 言っても{n} 説明することも ないし{n} とにかく やってみてよ」",
-   "en": null
+   "en": "\"..........Well, there's nothing{n} to explain, really.{n} Just give it a try!\""
   },
   {
    "id": "b030_0098",
    "jp": "「じゃあ これ景品だよ!」{n}{n}",
-   "en": null
+   "en": "\"Here, this is your prize!\"{n}{n}"
   }
  ]
 }

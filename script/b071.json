@@ -7,102 +7,102 @@
   {
    "id": "b071_0000",
    "jp": "「大工の{kata}トメ{hira}さんは 何でも{n} つくれちゃうのよ!」{n}{n}「このあいだも {sub:C9}の うちに{n} {kata}ダイエットル{hira}ー{kata}ム{hira} つくってくれたの{n} はやく やせると いいわあ!」",
-   "en": null
+   "en": "\"Tome the carpenter can build anything!\"{n}{n}\"Just the other day he built a diet room in my house. I hope I slim down fast!\""
   },
   {
    "id": "b071_0001",
    "jp": "「{kata}トメ{hira}さんの うでが いいのは{n} からくりの村で 修行し{sub:BE}だ」{n}{n}「{kata}オラ{hira}も うでを あげたら{n} 海の むこうの からくりの村で{n} 修行させて もらうんだ!」",
-   "en": null
+   "en": "\"Tome's so skilled 'cause he trained in Gadget Village.\"{n}{n}\"Once I get better, I'm gonna go train in Gadget Village across the sea too!\""
   },
   {
    "id": "b071_0002",
    "jp": "「{kata}トメ{hira}さんは おなじものを{n} 2度と つくらないんだ!{n} すごいだろう!?」",
-   "en": null
+   "en": "\"Tome never builds the same thing twice! Ain't that amazing!?\""
   },
   {
    "id": "b071_0003",
    "jp": "「おう! おう! ちがごろ{n} {kata}オレ{hira}も 年とっちまっ{sub:BE}{n} もう しごとは やらねえんだ!」",
-   "en": null
+   "en": "\"Hey! Hey! I've gotten old lately, so I don't take jobs no more!\""
   },
   {
    "id": "b071_0004",
    "jp": "「おう! 大工の{kata}トメ{hira}でい!{n} 何でも つくっちゃうよー!{n} 何つくりゃいいんだ?」",
-   "en": null
+   "en": "\"Hey! I'm Tome the carpenter! I'll build ya anything! Whaddaya want built?\""
   },
   {
    "id": "b071_0005",
    "jp": "「おう! おう! おう!{n} まだ なわばりの糸を 使っていないだろ{n} 使ってから もう一度きな!」",
-   "en": null
+   "en": "\"Hey! Hey! Hey! You ain't used the Territory Thread yet, have ya? Use it, then come back!\""
   },
   {
    "id": "b071_0006",
    "jp": "「おう! おう! おう!{n} 持ち物が いっぱいじゃないか{n} {sub:D6}を あけてからきな!」",
-   "en": null
+   "en": "\"Hey! Hey! Hey! Your stuff's full up! Make room in your Item Bag, then come back!\""
   },
   {
    "id": "b071_0007",
    "jp": "「おう! おう! 城の いちを{n} かえたいってか?{n} 一度きりだぜ! こうかいするなよ!」",
-   "en": null
+   "en": "\"Hey! Hey! Ya wanna move your castle? Only once, mind! No regrets!\""
   },
   {
    "id": "b071_0008",
    "jp": "「じゃあ これを やるから{n} すきな ところに{n} 糸を はりな!」{n}「木や 川の 上には{n} お城を たてられないのは{n} しってんだろな!」",
-   "en": null
+   "en": "\"Then take this and stretch the thread wherever ya like!\"{n}\"Ya know you can't build a castle on trees or rivers, right?\""
   },
   {
    "id": "b071_0009",
    "jp": "「{arg}を{n} つくって ほしいんだな!{n} {num}両 くんねー!」",
-   "en": null
+   "en": "\"So ya want me to build {arg}! That'll be {num} ryo!\""
   },
   {
    "id": "b071_0010",
    "jp": "「じゃあ! いっちょ でかけるか!{n} 店のばんを たのむよー!」{n}",
-   "en": null
+   "en": "\"Right! Off I go, then! Mind the shop for me!\"{n}"
   },
   {
    "id": "b071_0011",
    "jp": "「それじゃな!」{n}{n}",
-   "en": null
+   "en": "\"See ya!\"{n}{n}"
   },
   {
    "id": "b071_0012",
    "jp": "「おう! おう! おう!{n} 大工の{kata}トメ{hira}さんを{n} だましちゃ いけねえな!」{n}「金が ないなら ないと{n} しょうじきに いわねえやつは{n} でえっきれーだぜ! おう!」",
-   "en": null
+   "en": "\"Hey! Hey! Hey! Don't you try foolin' Tome the carpenter!\"{n}\"Folks who won't own up honest when they got no money -- I can't stand 'em! Hey!\""
   },
   {
    "id": "b071_0013",
    "jp": "「どの せつめいを{n} みましょうか?」{n}",
-   "en": null
+   "en": "\"Which explanation would you like to see?\"{n}"
   },
   {
    "id": "b071_0014",
    "jp": "「城の なかに{n} 医者を おくことが できます!」{n}",
-   "en": null
+   "en": "\"You can put a doctor in your castle!\"{n}"
   },
   {
    "id": "b071_0015",
    "jp": "「城の なかに{n} 茶店を おくことが できます!」{n}",
-   "en": null
+   "en": "\"You can put a teahouse in your castle!\"{n}"
   },
   {
    "id": "b071_0016",
    "jp": "「城の なかに{n} ひのきのお風呂を つくることが{n} できます! こいつは いいぞ!」",
-   "en": null
+   "en": "\"You can build a cypress bath in your castle! Now that's nice!\""
   },
   {
    "id": "b071_0017",
    "jp": "城の なかに{n}いままでの {sub:A0}と 鬼との戦いを{n}みることが できるようになります!",
-   "en": null
+   "en": "In your castle, you'll be able to{n}watch Momotaro's battles with the oni so far!"
   },
   {
    "id": "b071_0018",
    "jp": "一度だけ お城の いちを{n}かえることが できます!{n}",
-   "en": null
+   "en": "You can move your castle,{n}but only once!{n}"
   },
   {
    "id": "b071_0019",
    "jp": "「ほかの せつめいを みますか?」{n}{n}",
-   "en": null
+   "en": "\"Would you like to see another explanation?\"{n}{n}"
   }
  ]
 }

@@ -7,137 +7,137 @@
   {
    "id": "b042_0000",
    "jp": "「{sub:A0}さん! 銀次です!{n} ほんとに 鬼どもは{n} ひでえこと しやがる!」{n}「とても ひとりじゃ 勝ち目がなくて{n} くやしいから せめて 鬼から{n} こいつを 盗んでめえりやした!」",
-   "en": null
+   "en": "\"Momotaro! It's Ginji! Them oni sure are doin' some rotten things!\"{n}\"I ain't got a chance against 'em alone, and it burned me up, so I at least stole this from 'em and brought it back!\""
   },
   {
    "id": "b042_0001",
    "jp": "「それじゃ {sub:A0}さん!{n} 身がるに なってから{n} 声をかけて {sub:C5}やし!」",
-   "en": null
+   "en": "\"Well then, Momotaro! Give me a holler once you've lightened your load!\""
   },
   {
    "id": "b042_0002",
    "jp": "「どうやら 花咲かじいさんの 家に{n} こしらえた 牢獄(ろうごく)の{n} 見取り図の ようです!」{n}「それじゃ あっしは これで!{n} もうしばらく あたりを{n} さぐってみます!」",
-   "en": null
+   "en": "\"Looks like a map of the prison they built in Old Man Hanasaka's house!\"{n}\"Well, I'll be off now! I'll do a bit more snoopin' around these parts!\""
   },
   {
    "id": "b042_0003",
    "jp": "「おかしいな{kata}ァ{hira}! この村には{n} ぜんぜん 子どもは いないし…{n} 若い 男も いない!」{n}「金太郎の村 名物{n} 祭りの じゅんびで{n} 男の人たちは 出かけてんのかな?」",
-   "en": null
+   "en": "\"That's strange! There ain't a single kid in this village... and no young men either!\"{n}\"Maybe the men are out getting ready for Kintaro Village's famous festival?\""
   },
   {
    "id": "b042_0004",
    "jp": "「すゞめのお宿2の 北{n} 橋を わたって ずっと 山に{n} むかって行くと 大江山だ!」{n}「あの山を こえるには{n} 浦島さんを さそったほうがいい!」{n}",
-   "en": null
+   "en": "\"North of Sparrow Inn 2, cross the bridge and head straight on toward the mountains, and you'll reach Mt. Oe!\"{n}\"To get over that mountain, you'd best ask Urashima to come along!\"{n}"
   },
   {
    "id": "b042_0005",
    "jp": "「{sub:A0}さん! 体は 弱っても{n} 武'器と防具は そのままだ!」{n}{n}「兵具屋の いちばん 強い{n} 武'器と 防具を そろえれば{n} 何とか 戦えるかも!」",
-   "en": null
+   "en": "\"Momotaro! Your body may be weak, but your weapons and armor are as good as ever!\"{n}{n}\"If you get the strongest weapons and armor at the armory, you might just manage a fight!\""
   },
   {
    "id": "b042_0006",
    "jp": "「しんぱいしていた とおり{n} 竜宮城が おそわれたそうですね!」{n}{n}「鬼たちは どこまで{n} しつこいんだ!」{n}",
-   "en": null
+   "en": "\"Just as I feared, they say the Dragon Palace was attacked!\"{n}{n}\"How far will those oni go?!\"{n}"
   },
   {
    "id": "b042_0007",
    "jp": "「大江山を こえて{n} 寝太郎の村に 行こうとしたけど{n} 鬼だらけで とても行けねえや!」",
-   "en": null
+   "en": "\"I tried to cross Mt. Oe to get to Netaro Village, but it's crawlin' with oni! No way I can get through!\""
   },
   {
    "id": "b042_0008",
    "jp": "「{sub:A0}さん!{n} 天の仙人さまの 塔には{n} 行かれましたか?」{n}「大江山から まっすぐ 南にくだった{n} 半島のはずれに たっていますよ!」",
-   "en": null
+   "en": "\"Momotaro! Have you been to the Heavenly Sage's tower?\"{n}\"Head straight south from Mt. Oe, and it stands at the tip of the peninsula!\""
   },
   {
    "id": "b042_0009",
    "jp": "「わるぎは ないんでしょうが…{n} 東に 行きたいのに 寝太郎って{n} 人のせいで 足どめくってるんです」",
-   "en": null
+   "en": "\"I'm sure he means no harm... but I want to go east, and this Netaro fellow has me stuck here.\""
   },
   {
    "id": "b042_0010",
    "jp": "「おかげで 東を 旅することが{n} できるように なりました!{n} これ つまらない ものですが…」",
-   "en": null
+   "en": "\"Thanks to you, I can travel east now! It's not much, but please take this...\""
   },
   {
    "id": "b042_0011",
    "jp": "「宿の みなさんは ほかほかの{n} なべの ように あたたかい…{n} もうすこし ここに いようかな」",
-   "en": null
+   "en": "\"Everyone at the inn is as warm as a piping-hot stew... Maybe I'll stay here a little longer.\""
   },
   {
    "id": "b042_0012",
    "jp": "「     が     {n}       し       て{n}  っ     て       !」{n}「{sub:A0}さん!{n} きこえませんでしたか?{n} もう一度 いいますね!」{n}「うう! 耳が いたい!{n} 大会の ゆうしょうを めざして{n} せっかく やってきたというのに!」",
-   "en": null
+   "en": "\"     ...is...     {n}       ...ing...       {n}  ...the...   ...ter...   !\"{n}\"Momotaro! Didn't you hear me? I'll say it once more!\"{n}\"Ow! My ears! I came all this way aiming to win the contest!\""
   },
   {
    "id": "b042_0013",
    "jp": "「この村で ゆうしょうするために{n} 10年間 修行してきたんだ!{n} ぜったい ゆうしょうするんだ!」{n}{c3}「でんわには でんわ!」{c0}{n}{n}{n}{c3}「何? それは{n} 10年前の お題 だって?{n} そんなの あ{kata}リンカ{hira}ー{kata}ン{hira}よ!」{c0}",
-   "en": null
+   "en": "\"I've trained ten whole years to win in this village! I'm gonna win, no matter what!\"{n}{c3}\"Why'd the phone get married? It had a nice ring to it!\"{c0}{n}{n}{n}{c3}\"What? That was the theme ten years ago? I can't Abe-lieve it, Lincoln!\"{c0}"
   },
   {
    "id": "b042_0014",
    "jp": "「えっ? 鬼たちが この都に{n} 火をつけるって?{n} なんてことを するんだ!」",
-   "en": null
+   "en": "\"What? The oni are going to set fire to the Capital? How could they do such a thing!\""
   },
   {
    "id": "b042_0015",
    "jp": "「{sub:CE}という 鬼は{n} 五重の塔を {kata}バラ{hira}のいばらで{n} かこんでしまった そうじゃ!」{n}「何を かんがえているんじゃ?{n} {sub:CE}ってのは?」{n}",
-   "en": null
+   "en": "\"They say an oni called Ashura surrounded the Five-Tier Pagoda with thorny rose vines!\"{n}\"What's that Ashura thinking, anyway?\"{n}"
   },
   {
    "id": "b042_0016",
    "jp": "「{kata}カルラ{hira}は やまんばの洞窟で{n} 船大工たちに 竜の形の船を{n} 作らせてましたよ!」",
-   "en": null
+   "en": "\"Karura had the shipwrights in the Hag's Cave building a dragon-shaped ship!\""
   },
   {
    "id": "b042_0017",
    "jp": "「やまんばの洞窟で 船大工たちが{n} むりやり 船を作らされてたけど{n} 浦島さんも いたような……」",
-   "en": null
+   "en": "\"The shipwrights were forced to build a ship in the Hag's Cave... and I think Urashima was there too...\""
   },
   {
    "id": "b042_0018",
    "jp": "「この村が 気に入ったんで{n} 船大工を めざしてみます!」{n}{n}「だから これはもう{n} いらないから どうぞ!{n} はははは! 新品ですよ!」",
-   "en": null
+   "en": "\"I like this village so much, I'm going to try to become a shipwright!\"{n}{n}\"So I don't need this anymore--here, take it! Hahaha! It's brand new!\""
   },
   {
    "id": "b042_0019",
    "jp": "「はははは! じつは{n} {kata}ドングリ{hira}が かしの木の{n} 実だとは 知りませんでした!」",
-   "en": null
+   "en": "\"Hahaha! Truth is, I never knew acorns came from oak trees!\""
   },
   {
    "id": "b042_0020",
    "jp": "「勇気の剣'で 海をひらいて{n} 鬼が島へ 行ったんで やんしょ?{n} 知ってますぜ! 有名な話ですから」{n}「この島の 北のみさきで{n} 勇気の剣'を かかげたら{n} 海が われたって やつでしょ?」",
-   "en": null
+   "en": "\"You parted the sea with the Valor Sword and went to Onigashima, didn't ya? I know all about it! It's a famous story.\"{n}\"You raised the Valor Sword on the northern cape of this island, and the sea split in two, right?\""
   },
   {
    "id": "b042_0021",
    "jp": "「羅生門さまが 来て{n} 黄泉の塔を つかえと{n} おっしゃって {sub:C5}ました!」{n}「さっそく 黄泉の塔にも{n} すんでもらうことに しました!{n} こういうときだけに 助かります!」",
-   "en": null
+   "en": "\"Rashomon came and told us to use the Tower of Yomi!\"{n}\"We had folks move into the Tower of Yomi right away! It's a real help at times like these!\""
   },
   {
    "id": "b042_0022",
    "jp": "「{kata}オラ{hira}は ほほえみの村から{n} 来ただども だじゃれ伊之助さんが{n} {kata}オラ{hira}を 助けて……ううっ!」{n}「なんで あんな いい人が{n} 死ななきゃ いけねえんだよ!」{n}",
-   "en": null
+   "en": "\"I came from Smile Village, and Inosuke the Punster, he saved me... *sob*!\"{n}\"Why'd a good man like him have to die?!\"{n}"
   },
   {
    "id": "b042_0023",
    "jp": "「わしは 鬼のつめあとに ある{n} からくりの村の からくり職人さ!」{n}{n}「からくり村で 城を{n} 強くしなすったかい?」{n}",
-   "en": null
+   "en": "\"I'm a gadget maker from Gadget Village, out at the Oni's Claw Marks!\"{n}{n}\"Did ya make your castle stronger in Gadget Village?\"{n}"
   },
   {
    "id": "b042_0024",
    "jp": "「だったら 海に もぐって{n} よく 岩かべを{n} さがして みるこった!」{n}「左源内さんの庵なら ちょうど{n} ここを出てすぐ上の 海の中!{n} 海底の岩穴が それだよ!」",
-   "en": null
+   "en": "\"Then dive into the sea and search the rock walls real careful!\"{n}\"Sagennai's Hut is in the sea just above here, right outside! That rock hole on the seabed is it!\""
   },
   {
    "id": "b042_0025",
    "jp": "「まずは からくり村で{n} 城を 強くするこった!」{n}",
-   "en": null
+   "en": "\"First things first: go make your castle stronger in Gadget Village!\"{n}"
   },
   {
    "id": "b042_0026",
    "jp": "「{sub:A0}さん! 寝太郎の村の橋から{n} 南に くだった海のまん中あたりに{n} 海底の さけ目が ある!」{n}「その 海底の さけ目が{n} 海の底ふかくにある 奈落の底の{n} 入り口なんだそうですよ!」",
-   "en": null
+   "en": "\"Momotaro! Head south from the bridge at Netaro Village to about the middle of the sea, and there's a rift in the seabed!\"{n}\"They say that rift is the entrance to the Abyss, deep at the bottom of the sea!\""
   }
  ]
 }

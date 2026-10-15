@@ -7,152 +7,152 @@
   {
    "id": "b082_0000",
    "jp": "「そうでしたね!{n} {kata}イヌ{hira} {kata}サル{hira} {kata}キジ{hira}の 名前は{n} {arg} {arg} {arg}ね!」",
-   "en": null
+   "en": "\"Of course! So the names of the Dog, the Monkey and the Pheasant are {arg}, {arg} and {arg}!\""
   },
   {
    "id": "b082_0001",
    "jp": "「{sub:A0}さん! おともの{n} {kata}イヌ{hira} {kata}サル{hira} {kata}キジ{hira}の{n} みなさんは お元気ですか?」{n}「たしか お名前は…{n} {kata}ポチ{hira} {kata}モンタ{hira} {kata}キ{hira}ー{kata}コ{hira}さんと{n} おっしゃい ましたっけ?」",
-   "en": null
+   "en": "\"Momotaro! How are your companions, the Dog, the Monkey and the Pheasant? Are they well?\"{n}\"If I remember right, their names were... Pochi, Monta and Kiko, weren't they?\""
   },
   {
    "id": "b082_0002",
    "jp": "「{kata}ポチ{hira} {kata}モンタ{hira} {kata}キ{hira}ー{kata}コ{hira}さんですね?」{n}{n}",
-   "en": null
+   "en": "\"It's Pochi, Monta and Kiko, right?\"{n}{n}"
   },
   {
    "id": "b082_0003",
    "jp": "「やっぱり そうでしたか!{n} {kata}イヌ{hira} {kata}サル{hira} {kata}キジ{hira}の 名前は{n} {arg} {arg} {arg}ね!」",
-   "en": null
+   "en": "\"I knew it! So the names of the Dog, the Monkey and the Pheasant are {arg}, {arg} and {arg}!\""
   },
   {
    "id": "b082_0004",
    "jp": "「あれ? ちがいましたか?」{n}{n}{n}「じゃあ おともの{n} みなさんの 名前を{n} おしえて いただけますか?」{n}「{kata}イヌ{hira}の 名前を{n} おしえて{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Huh? Did I get them wrong?\"{n}{n}{n}\"Then could you tell me the names of your companions?\"{n}\"Please tell me the Dog's name!\"{n}"
   },
   {
    "id": "b082_0005",
    "jp": "「{kata}サル{hira}の 名前を{n} おしえて{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Please tell me the Monkey's name!\"{n}"
   },
   {
    "id": "b082_0006",
    "jp": "「{kata}キジ{hira}の 名前を{n} おしえて{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Please tell me the Pheasant's name!\"{n}"
   },
   {
    "id": "b082_0007",
    "jp": "「そうでしたね!{n} {kata}イヌ{hira} {kata}サル{hira} {kata}キジ{hira}の 名前は{n} {arg} {arg} {arg}ね!」",
-   "en": null
+   "en": "\"Of course! So the names of the Dog, the Monkey and the Pheasant are {arg}, {arg} and {arg}!\""
   },
   {
    "id": "b082_0008",
    "jp": "「{sub:A0}さん!{n} ちかくの海で とれた{n} {kata}コンブ{hira}ですじゃ!」{n}「不老不死の 仙人が{n} 山ほど 食べる というくらい{n} 若がえりに きくらしい!」{n}{sub:A0}たちは {kata}コンブ{hira}を{n}食べてみた!{n}",
-   "en": null
+   "en": "\"Momotaro! This here's kelp, caught in the sea nearby!\"{n}\"They say the immortal sages eat heaps of it, so it must be good for making ya young again!\"{n}Momotaro and the others{n}tried eating the kelp!{n}"
   },
   {
    "id": "b082_0009",
    "jp": "しかし こうかは なかった!{n}{n}{n}「{kata}コンブ{hira}でも {kata}ダメ{hira}か!{n} 鬼め! なんちゅうことを!」{n}",
-   "en": null
+   "en": "But it had no effect!{n}{n}{n}\"Not even kelp works?! Those oni! What've they gone and done?!\"{n}"
   },
   {
    "id": "b082_0010",
    "jp": "「昔 海の宝と 月の宝を{n} とりかえっこしたという{n} いいつたえが あるんですよ!」{n}「竜宮城に行けば 何か{n} わかるかも しれませんよ!」{n}",
-   "en": null
+   "en": "\"There's a legend that long ago, the treasure of the sea and the treasure of the Moon were traded for each other!\"{n}\"If you go to the Dragon Palace, you might find something out!\"{n}"
   },
   {
    "id": "b082_0011",
    "jp": "「そうですか! 静かの村から{n} 月の宮殿まで 行けなかったのですか{n} かぐや姫さまが しんぱいですね」",
-   "en": null
+   "en": "\"I see! So you couldn't get from Quiet Village to the Moon Palace. I'm worried about Princess Kaguya.\""
   },
   {
    "id": "b082_0012",
    "jp": "「鹿角仙人さまは 梅が とれると{n} 梅をつけて うめぼしにして{n} {sub:C9}たちに くれるんですよ」{n}「ほんとうに 鹿角仙人さまは{n} おやさしい おかたですね」{n}",
-   "en": null
+   "en": "\"When the plums are ripe, Sage Rokkaku pickles them into umeboshi and gives them to us.\"{n}\"Sage Rokkaku truly is such a kind soul.\"{n}"
   },
   {
    "id": "b082_0013",
    "jp": "「こまったわ! こどもが{n} 泣きやまなくって!{n} {kata}シャボン{hira}玉が あれば…」{n}「どなたか {kata}シャボン{hira}玉を{n} お持ちの方は{n} いらっしゃらないかしら?」",
-   "en": null
+   "en": "\"Oh dear! My child won't stop crying! If only I had a Soap Bubble...\"{n}\"Is there anyone who might have a Soap Bubble?\""
   },
   {
    "id": "b082_0014",
    "jp": "「えっ! ありが…{n} あんた うそついたわね!{n} にせの {sub:A0}さんかい?」",
-   "en": null
+   "en": "\"Oh! Thank... Wait, you lied to me! Are you some fake Momotaro?\""
   },
   {
    "id": "b082_0015",
    "jp": "「よかったわ!{n} ほーら {kata}ケン{hira}坊!{n} {kata}シャボン{hira}玉だよ!」{n}「おかげで なきやみました!{n} {sub:BD}す」{n}{n}「これは ほんの おれいです!{n} ぜひ うけとって{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Thank goodness! Look, Little Ken! Soap Bubbles!\"{n}\"Thanks to you, he's stopped crying! Thank you so much.\"{n}{n}\"This is just a small token of thanks! Please, take it!\"{n}"
   },
   {
    "id": "b082_0016",
    "jp": "「こまったわ! {kata}ケン{hira}坊は{n} {kata}シャボン{hira}玉じゃないと なかなか{n} 泣きやまないんですよー!」",
-   "en": null
+   "en": "\"Oh dear! Unless he gets a Soap Bubble, Little Ken just won't stop crying!\""
   },
   {
    "id": "b082_0017",
    "jp": "「おかげで なきやみました!{n} {sub:BD}す」{n}",
-   "en": null
+   "en": "\"Thanks to you, he's stopped crying! Thank you so much.\"{n}"
   },
   {
    "id": "b082_0018",
    "jp": "「え～ん え～ん!」{n}{n}",
-   "en": null
+   "en": "\"Waaah! Waaah!\"{n}{n}"
   },
   {
    "id": "b082_0019",
    "jp": "「わ～い わ～い!{n} {kata}シャボン{hira}玉だー!」{n}",
-   "en": null
+   "en": "\"Yay! Yay! Soap Bubbles!\"{n}"
   },
   {
    "id": "b082_0020",
    "jp": "「わし        れ   {n}  んぱん   !   が{n}  いご   つ  と   に!」{n}「 ったく    ら   つ !{n}      く  しが 」{n}{n}「何? きこえませなんだか?{n} もう一度 いいますぞ!」{n}{n}「わしは 天下一だじゃれ大会の{n} しんぱん じゃ! これが{n} 最後の おつとめというのに!」{n}「まったく! ましらの やつめ!{n} う! ぎっくりごしが!」{n}",
-   "en": null
+   "en": "\"I'm   ...the   {n}  ...udge  !  ...is{n}  ...ast   ...uty  ...ow!\"{n}\" ...ood   ...ess   ...shira!{n}      ...y   ...ack!\"{n}{n}\"What? You couldn't hear me? I'll say it again!\"{n}{n}\"I'm the judge of the Grand Pun Contest! And this was to be my very last time on duty!\"{n}\"Blast that Mashira! Ow! My back's gone out!\"{n}"
   },
   {
    "id": "b082_0021",
    "jp": "「わしは 天下一だじゃれ大会の{n} しんぱん ですじゃ!」{n}{n}「あんたの おかげで{n} 最後の しんぱんを{n} 無事に つとめられます!」{n}「たいした おれいも できません{n} どうか これを{n} おうけとり{sub:C5}!」",
-   "en": null
+   "en": "\"I'm the judge of the Grand Pun Contest!\"{n}{n}\"Thanks to you, I can serve as judge one last time without a hitch!\"{n}\"I can't offer much in thanks, but please, accept this!\""
   },
   {
    "id": "b082_0022",
    "jp": "「夜        は{n}  の        ん{n} な          !」{n}「{sub:A0}さん きこえねえだか?{n} もう一度 話すだな」{n}{n}「夜になると ましらは{n} 村のいっけん いっけんを{n} ながして まわるんじゃ!」",
-   "en": null
+   "en": "\"At     ...ight{n}  ...ra        ...es{n} ...ery         !\"{n}\"Momotaro, couldn't ya hear me? I'll say it again.\"{n}{n}\"Come nightfall, Mashira goes round singin' at every single house in the village!\""
   },
   {
    "id": "b082_0023",
    "jp": "「だじゃれ伊之助さんの 最後の{n} しんぱんぶりを 見に行くべえ!」{n}{n}「あの りっぱな さばきが{n} 見れなくなるかと おもうと{n} さびしいなあ! ぐすん!」",
-   "en": null
+   "en": "\"Let's go see Inosuke the Punster judge for the last time!\"{n}{n}\"It's sad to think we won't get to see his fine rulings no more! *Sniff*!\""
   },
   {
    "id": "b082_0024",
    "jp": "「かぐや姫さまを お助けくだせー!{n} でないと 黄泉の塔で 死んだ{n} 村のもんが うかばれねえだ!」",
-   "en": null
+   "en": "\"Please save Princess Kaguya! Or else the folks from our village who died at the Tower of Yomi won't rest in peace!\""
   },
   {
    "id": "b082_0025",
    "jp": "「大変だども この年で 人さまの{n} 手助けが できるなんて{n} しあわせだと おもわなきゃ!」",
-   "en": null
+   "en": "\"It's hard work, but at my age, I oughta be happy I can still lend folks a hand!\""
   },
   {
    "id": "b082_0026",
    "jp": "「さまよう島って あるんですってね?{n} 北の 海を うごいてるそうよ!」{n}",
-   "en": null
+   "en": "\"They say there's a Drifting Isle, you know? Apparently it moves around the northern sea!\"{n}"
   },
   {
    "id": "b082_0027",
    "jp": "「鬼の みなさんが どこからか{n} すこしづつ お米を{n} はこんでくれるので 助かります」",
-   "en": null
+   "en": "\"The oni bring us rice little by little from somewhere or other. It's a real help.\""
   },
   {
    "id": "b082_0028",
    "jp": "「{sub:A0}さんに {kata}ボク{hira}は{n} 助けられたんです!{n} こういうときこそ がんばらなきゃ」",
-   "en": null
+   "en": "\"Momotaro saved me! A time like this is exactly when I've gotta do my best!\""
   },
   {
    "id": "b082_0029",
    "jp": "「みなさーーーん!{n} とまる所の ない人は{n} 黄泉の塔へ 行って{sub:C5}!」{n}「すゞめのお宿の ほうへも{n} わずかながらの 人数なら{n} まだ とまれまーーーーす!」",
-   "en": null
+   "en": "\"Everyoooone! If you've got nowhere to stay, please go to the Tower of Yomi!\"{n}\"There's still room at the Sparrow Inn too, for a few more peopleeeee!\""
   }
  ]
 }

@@ -7,62 +7,62 @@
   {
    "id": "b073_0000",
    "jp": "「あー いい 湯だなあ!」{n}{n}",
-   "en": null
+   "en": "\"Aaah, what a nice bath!\"{n}{n}"
   },
   {
    "id": "b073_0001",
    "jp": "{sub:A0}たちの 体力と 技は{n}全{sub:B4}{n}",
-   "en": null
+   "en": "Momotaro and friends' Health and Skill{n}were fully restored!{n}"
   },
   {
    "id": "b073_0002",
    "jp": "「{sub:A0}さん! そろそろ{n} 鬼たいじに 出かけませんか?」",
-   "en": null
+   "en": "\"Momotaro! Isn't it about time we went off to defeat the oni?\""
   },
   {
    "id": "b073_0003",
    "jp": "「{sub:A0}さん! 都中に{n} 言いふらしますよ!{n} うそ! うそ! おたのしみに!」",
-   "en": null
+   "en": "\"Momotaro! I'm gonna tell the whole Capital about this! Kidding! Kidding! Stay tuned!\""
   },
   {
    "id": "b073_0004",
    "jp": "「さあ! がんばって{n} 鬼たいじを 続けましょう!」",
-   "en": null
+   "en": "\"Now! Let's keep up the oni hunt with all we've got!\""
   },
   {
    "id": "b073_0005",
    "jp": "はらだしは おんせんが だいすきだ!{n}「はー! 極楽(ごくらく)!」{n}地獄の 鬼が 何を いう!{n}{n}そろそろ かえりますか?{n}",
-   "en": null
+   "en": "Bellyman loves hot springs!{n}\"Haaah! This is heaven!\"{n}Says an oni from Hell!{n}{n}Ready to head back?{n}"
   },
   {
    "id": "b073_0006",
    "jp": "では どうぞ ごゆっくり!{n}{n}かえりたいときは{n}A{kata}ボタン{hira}を おして{sub:C5}!",
-   "en": null
+   "en": "Then please, take your time!{n}{n}When you want to leave,{n}please press the A Button!"
   },
   {
    "id": "b073_0007",
    "jp": "「にいちゃん にいちゃん!{n} ちゃんと お金を はらってよ!」{n}",
-   "en": null
+   "en": "\"Hey mister, hey mister! Pay up properly, will ya!\"{n}"
   },
   {
    "id": "b073_0008",
    "jp": "「ここは 銭湯だよ!{n} ひとり 10両で{n} あせを ながして いくかい?」",
-   "en": null
+   "en": "\"This here's the bathhouse! Wanna wash off your sweat for 10 ryo a head?\""
   },
   {
    "id": "b073_0009",
    "jp": "「{sub:A0}さん! たまには{n} 旅の つかれを 落とさなきゃ!」{n}",
-   "en": null
+   "en": "\"Momotaro! Ya gotta wash off the travel weariness once in a while!\"{n}"
   },
   {
    "id": "b073_0010",
    "jp": "「なんでえ! なんでえ!{n} 金持ってねえのか!{n} おととい 来やがれってんだ!」",
-   "en": null
+   "en": "\"What's this! What's this! No money? Get outta here and don't come back!\""
   },
   {
    "id": "b073_0011",
    "jp": "「おう! {num}人さんで {num}両だね!{n} ゆっくり あったまって くんな!」{n}",
-   "en": null
+   "en": "\"Right! That's {num} ryo for a party of {num}! Take your time and warm up good!\"{n}"
   }
  ]
 }

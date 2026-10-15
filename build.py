@@ -27,7 +27,7 @@ EXP_END = 0x400000
 QA = {}  # id -> English, from --qa
 NO_WIN = False
 WIN_ONLY = set()
-RESERVED = (0x4F15C, 0x4F1E0)  # VWF width tables (fontgen.WIDTH_FREE) + patches.FIXED12_CODE
+RESERVED = (0x4F15C, 0x4F220)  # VWF width tables (fontgen.WIDTH_FREE) + patches.FIXED12_CODE
 WINMAP = {}  # window region id -> CPU address in the built ROM (written next to the ROM for tools/debug)
 
 
@@ -147,7 +147,8 @@ def build(marker_mode=False, out_path=None, only=None):
                 txt = marker(s['id'], s['jp'])
                 plain += encode_en(txt)
             elif s.get('en') is not None:
-                en = wrap_text(s['en']) if kinds.kind(n) == 'dlg' else s['en']
+                # names print in 12 px window mode, where code 50 keeps a full Japanese cell: use the 6 px blank
+                en = wrap_text(s['en']) if kinds.kind(n) == 'dlg' else s['en'].replace(' ', '\xa0')
                 plain += encode_en(en)
             else:
                 plain += T.encode(s['jp'])

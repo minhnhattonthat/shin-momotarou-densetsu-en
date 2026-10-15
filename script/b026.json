@@ -622,232 +622,232 @@
   {
    "id": "b026_0123",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} {kata}オレ{hira}さまの 盗みを{n} よーく みておきな!」",
-   "en": null
+   "en": "\"Hey! Hey! Hey!{n} Watch me steal, and watch real close!\""
   },
   {
    "id": "b026_0124",
    "jp": "な なんと!{n}そこに {arg}が{n}くわわった!{n}とるぞ! とるぞ!{n}かれいな 合体盗み技!{n}{page}",
-   "en": null
+   "en": "Wh-what's this!?{n}{arg} has joined in!{n}Swipe it! Swipe it!{n}A dazzling tag-team theft!{n}{page}"
   },
   {
    "id": "b026_0125",
    "jp": "{arg}{arg}は{n}{arg}{arg}から{n}{num}両 盗んだ!{page}",
-   "en": null
+   "en": "{arg}{arg} robbed{n}{arg}{arg}{n}of {num} ryo!{page}"
   },
   {
    "id": "b026_0126",
    "jp": "{arg}{arg}は{n}どろを 投げつけた!{n}{kata}ベシャッ{hira}!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}flung mud!{n}Splat!{page}"
   },
   {
    "id": "b026_0127",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} 道具を 盗んで{n} ほしいんだな!? {kata}ヘイ{hira}!」",
-   "en": null
+   "en": "\"Hey! Hey! Hey!{n} So ya want me to swipe an item, huh!? Hey!\""
   },
   {
    "id": "b026_0128",
    "jp": "{arg}{arg}は きたない 体から{n}{kata}ノミ{hira}と {kata}シラミ{hira}を はなった!{n}{page}",
-   "en": null
+   "en": "{arg}{arg} let loose fleas and lice{n}from that filthy body!{n}{page}"
   },
   {
    "id": "b026_0129",
    "jp": "おおっ!? {arg}{arg}は{n}{arg}{arg}に じぶんの{n}こかんを おしつけた!{n}く くっさーーーーー!{n}{n}{page}",
-   "en": null
+   "en": "Whoa!? {arg}{arg}{n}pressed that crotch right up against{n}{arg}{arg}!{n}Th-the STEEEEENCH!{n}{n}{page}"
   },
   {
    "id": "b026_0130",
    "jp": "{arg}{arg}は{n}こかんの においに たえた!{n}{page}",
-   "en": null
+   "en": "{arg}{arg}{n}endured the crotch stench!{n}{page}"
   },
   {
    "id": "b026_0131",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} どうだ! どうだ!{n} どうだ! なんだ!?」{n}「しまった! 攻撃{n} わすれちまった!{n} ああ むせきにん!」{page}",
-   "en": null
+   "en": "\"Hey! Hey! Hey!{n} How's that! How's that! How's that! Huh!?\"{n}\"Dang! I plumb forgot to attack! Ain't I irresponsible!\"{page}"
   },
   {
    "id": "b026_0132",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} この銭っこで{n} 崑崙の玉でも かいな!」{n}{arg}{arg}は{n}{num}両の銭を ばらまいた!{n}{page}",
-   "en": null
+   "en": "\"Hey! Hey! Hey!{n} Take this cash and go buy yerself a Kunlun Orb!\"{n}{arg}{arg}{n}scattered {num} ryo in coins!{n}{page}"
   },
   {
    "id": "b026_0133",
    "jp": "しかし!{n}{n}{page}{n}「{kata}ヒドイ{hira}のねん!{n} もったいないのねん!{n} {arg}が ひろうのねん!」{page}{n}よこから あらわれた {arg}が{n}お金を ひろってしまった!{n}{page}",
-   "en": null
+   "en": "But!{n}{n}{page}{n}\"How cruel, nen! What a waste, nen! {arg} will pick it up, nen!\"{page}{n}{arg} popped out from the side{n}and picked up the money!{n}{page}"
   },
   {
    "id": "b026_0134",
    "jp": "げげっ! 天の邪鬼が く{sub:CD}{n}天の邪鬼の 子どもたちを{n}吐き出した! {kata}オエェッ{hira}!{page}",
-   "en": null
+   "en": "Eeugh! Amanojaku spat{n}baby Amanojaku{n}out of its mouth! Bleaaargh!{page}"
   },
   {
    "id": "b026_0135",
    "jp": "「{sub:D0} おれの酒が{n} 香めないってのか!?{n} さあ のめ! それ のめ!」{page}{n}{arg}{arg}は{n}むりに のまされて{n}かくらんして しまった!{page}",
-   "en": null
+   "en": "\"Hey! Hey!{n} Ya sayin' my sake ain't fit to drink!? Come on, drink! Drink up!\"{page}{n}{arg}{arg}{n}was forced to drink{n}and got all confused!{page}"
   },
   {
    "id": "b026_0136",
    "jp": "「でたでたでたーっ!{n} 悪夢の くちづけ攻撃!{n} んーーーー! {kata}ブッチュ{hira}!」{page}",
-   "en": null
+   "en": "\"Here it comes, here it comes, here it comes! The nightmare kiss attack! Mmmmmm! Smoooch!\"{page}"
   },
   {
    "id": "b026_0137",
    "jp": "{arg}{arg}は{n}{arg}{arg}の 体力を{n}{num}吸い上げた!{page}",
-   "en": null
+   "en": "{arg}{arg} drained{n}{arg}{arg}'s Health{n}by {num}!{page}"
   },
   {
    "id": "b026_0138",
    "jp": "「おらおらーっ!{n} おれは よっぱらったぞぉ!{n} なーんか もんくあっかー!」{page}{n}{arg}{arg}は 酒ぐせが悪かった!{page}",
-   "en": null
+   "en": "\"Hoo-ah! I'm drrrunk, I tell ya! Got a problem with that!?\"{page}{n}{arg}{arg} turned out to be a mean drunk!{page}"
   },
   {
    "id": "b026_0139",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} {sub:D0} {kata}ヘイ{hira}!{n} うっ!? したかんだ!」{page}",
-   "en": null
+   "en": "\"Hey! Hey! Hey!{n} Hey! Hey! Hey!{n} Ow!? I bit my tongue!\"{page}"
   },
   {
    "id": "b026_0140",
    "jp": "{arg}{arg}は お茶を入れた!{n}「{arg}{arg}{kata}サン{hira}!!{n} そちゃですが おひとつ どーぞ!」{n}「あんげー!? しまった!{n} 毒を入れるのを{n} わすれちまったぜ!」{page}",
-   "en": null
+   "en": "{arg}{arg} made tea!{n}\"{arg}{arg}!! It's only plain tea, but please, have a cup!\"{n}\"Whaaat!? Dang it! I forgot to put the poison in!\"{page}"
   },
   {
    "id": "b026_0141",
    "jp": "でたー{kata}ッ{hira}! {arg}{arg}の{n}ひきょうな はんそく攻撃!{n}{page}{n}{arg}{arg}は するどい あごを{n}{arg}{arg}の きゅうしょに{n}つきさした! きくーーーー{kata}ッ{hira}!{page}",
-   "en": null
+   "en": "Here it comes! {arg}{arg}'s{n}dirty foul-play attack!{n}{page}{n}{arg}{arg} jabbed a pointy chin{n}into {arg}{arg}'s{n}weak spot! That's gotta huuuurt!{page}"
   },
   {
    "id": "b026_0142",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} 毒毒毒毒毒毒毒毒毒ーーー!」{n}{n}やけになった {arg}{arg}は{n}あたり いちめんに{n}猛毒のけむりを はきだした!{page}",
-   "en": null
+   "en": "\"Hey! Hey! Hey!{n} Poison poison poison poison poison poison poison poisooooon!\"{n}{n}In desperation, {arg}{arg}{n}spewed deadly poison smoke{n}all over the place!{page}"
   },
   {
    "id": "b026_0143",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} これを やるから いいかげん{n} かんべんしろ! なっ!?」{n}{arg}{arg}は {arg}{arg}の もっていた{n}{arg}をかってに{n}{arg}{arg}に さしだした!",
-   "en": null
+   "en": "\"Hey! Hey! Hey!{n} I'll give ya this, so cut me some slack already! Deal!?\"{n}{arg}{arg} took{n}{arg}{arg}'s {arg} without asking{n}and offered it to {arg}{arg}!"
   },
   {
    "id": "b026_0144",
    "jp": "{arg}{arg}の みぐるしさに{n}あきれた {arg}{arg}は{n}{arg}を手に さった!{page}",
-   "en": null
+   "en": "Disgusted by how pathetic{n}{arg}{arg} was, {arg}{arg}{n}left, taking {arg}!{page}"
   },
   {
    "id": "b026_0145",
    "jp": "しかし {arg}{arg}は{n}{arg}を{n}うけとろうと しなかった!{page}",
-   "en": null
+   "en": "But {arg}{arg}{n}refused to accept{n}{arg}!{page}"
   },
   {
    "id": "b026_0146",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} {kata}オレ{hira}だって たまには{n} いいことも するんだぞ!」{n}{arg}{arg}は {arg}{arg}の技を{n}{num}吸い上げた!{n}{page}",
-   "en": null
+   "en": "\"Hey! Hey! Hey!{n} Even I do a good deed now and then, ya know!\"{n}{arg}{arg} drained{n}{arg}{arg}'s Skill points{n}by {num}!{n}{page}"
   },
   {
    "id": "b026_0147",
    "jp": "そして その技を{n}{arg}{arg}に ふりわけた!{n}{page}",
-   "en": null
+   "en": "Then those Skill points were{n}shared out among {arg}{arg}!{n}{page}"
   },
   {
    "id": "b026_0148",
    "jp": "「{sub:D0}{n} かんしゃ しろよな!」{n}{page}",
-   "en": null
+   "en": "\"Hey! Hey!{n} You'd better be grateful!\"{n}{page}"
   },
   {
    "id": "b026_0149",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} おれは 強いものが 好きだ!{n} ……てなわけで あばよ!」{n}なんと! {arg}{arg}は{n}あっさりと{n}敵に ねがえってしまった!{page}",
-   "en": null
+   "en": "\"Hey! Hey! Hey!{n} I like strong folks! ...So, see ya!\"{n}What!? {arg}{arg}{n}casually switched sides{n}to the enemy!{page}"
   },
   {
    "id": "b026_0150",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} いい おしめりじゃねえか!」{n}{page}",
-   "en": null
+   "en": "\"Hey! Hey! Hey!{n} Nice little rain shower we're havin', ain't it!\"{n}{page}"
   },
   {
    "id": "b026_0151",
    "jp": "{arg}{arg}の ひとことが{n}天気を あっというまに{n}日照りに かえて しまった!{n}おそるべき! {arg}{arg}!{n}{n}{page}",
-   "en": null
+   "en": "With one word from {arg}{arg},{n}the weather turned{n}to drought in an instant!{n}Fearsome! {arg}{arg}!{n}{n}{page}"
   },
   {
    "id": "b026_0152",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} このなかで いちばん{n} 体力が すくないのは {arg}{arg}だ!」{n}「攻撃するなら {arg}{arg}に しろ!{n} まかり まちがっても{n} おれを 攻撃するんじゃ ないぞ!」{n}おそるべき! {arg}{arg}!{n}{n}{page}",
-   "en": null
+   "en": "\"Hey! Hey! Hey!{n} The one here with the least Health is {arg}{arg}!\"{n}\"If you're gonna attack, go for {arg}{arg}! Don't you dare attack me, no way, no how!\"{n}Fearsome! {arg}{arg}!{n}{n}{page}"
   },
   {
    "id": "b026_0153",
    "jp": "「{sub:D0} {kata}ヘイ{hira}!{n} これでも くらいな!」{n}{n}なんと! {arg}{arg}は{n}{arg}{arg}を ぶんなげた!{n}{n}「しまった! まちがえた!」{n}{n}{page}",
-   "en": null
+   "en": "\"Hey! Hey! Hey!{n} Eat this!\"{n}{n}What!? {arg}{arg}{n}hurled {arg}{arg}!{n}{n}\"Oops! Wrong one!\"{n}{n}{page}"
   },
   {
    "id": "b026_0154",
    "jp": "「しぜんに さわやか!{n} すっきり! {kata}ナチュラル{hira}攻撃!」{n}{page}",
-   "en": null
+   "en": "\"Naturally refreshing!{n} Crisp and clean! Natural Attack!\"{n}{page}"
   },
   {
    "id": "b026_0155",
    "jp": "「つづけて ひびくぞ!{n} れんぞく! {kata}スラ{hira}ー攻撃!」{n}{page}",
-   "en": null
+   "en": "\"Echoing on and on!{n} Nonstop! Slur Attack!\"{n}{page}"
   },
   {
    "id": "b026_0156",
    "jp": "「{kata}スパッ{hira}と いっぱつ!{n} かいしん! {kata}スタッカ{hira}ー{kata}ト{hira}攻撃!」{n}{page}",
-   "en": null
+   "en": "\"One clean, sharp hit!{n} Critical! Staccato Attack!\"{n}{page}"
   },
   {
    "id": "b026_0157",
    "jp": "「こきゅうは ぴったり!{n} みわくの! {kata}デュエット{hira}攻撃!」{n}{page}",
-   "en": null
+   "en": "\"Breathing in perfect sync!{n} Enchanting! Duet Attack!\"{n}{page}"
   },
   {
    "id": "b026_0158",
    "jp": "「よせる小波 おとこぶし!{n} げきれつ! {kata}リピ{hira}ー{kata}ト{hira}攻撃!」{n}{page}",
-   "en": null
+   "en": "\"Rolling waves, a manly ballad!{n} Ferocious! Repeat Attack!\"{n}{page}"
   },
   {
    "id": "b026_0159",
    "jp": "「かいかつ しゅんびん!{n} しっぷう! {kata}アレグロ{hira}攻撃!」{n}{page}",
-   "en": null
+   "en": "\"Cheerful and nimble!{n} Swift as the wind! Allegro Attack!\"{n}{page}"
   },
   {
    "id": "b026_0160",
    "jp": "「はげしく あらぶる!{n} もえろ! {kata}フォルテッシモ{hira}攻撃!」{n}{page}",
-   "en": null
+   "en": "\"Fierce and raging!{n} Burn! Fortissimo Attack!\"{n}{page}"
   },
   {
    "id": "b026_0161",
    "jp": "「ほらほら 下げるぞ!{n} げんわく! {kata}デクレシェンド{hira}攻撃!」{n}{page}",
-   "en": null
+   "en": "\"Here we go, bringing it down!{n} Bewitching! Decrescendo Attack!\"{n}{page}"
   },
   {
    "id": "b026_0162",
    "jp": "「ばりばり たたくぞ!{n} ごうりき! {kata}クレッシェンド{hira}攻撃!」{n}{page}",
-   "en": null
+   "en": "\"Pounding hard and loud!{n} Mighty! Crescendo Attack!\"{n}{page}"
   },
   {
    "id": "b026_0163",
    "jp": "「すばやく 上げるぞ!{n} そっこう! {kata}シャ{hira}ー{kata}プ{hira}攻撃!」{n}{page}",
-   "en": null
+   "en": "\"Quickly raising it up!{n} Lightning-fast! Sharp Attack!\"{n}{page}"
   },
   {
    "id": "b026_0164",
    "jp": "「すばやく 下げるぞ!{n} しょうげき! {kata}フラット{hira}攻撃!」{n}{page}",
-   "en": null
+   "en": "\"Quickly bringing it down!{n} Shocking! Flat Attack!\"{n}{page}"
   },
   {
    "id": "b026_0165",
    "jp": "「じつりょく しょうぶだ!{n} かれい! {kata}アカペラ{hira}攻撃!」{n}{page}",
-   "en": null
+   "en": "\"A true test of skill!{n} Splendid! A Cappella Attack!\"{n}{page}"
   },
   {
    "id": "b026_0166",
    "jp": "「こきゅうを あわせろ!{n} めいそう! {kata}ブレス{hira}攻撃!」{n}{page}",
-   "en": null
+   "en": "\"Breathe as one!{n} Meditation! Breath Attack!\"{n}{page}"
   },
   {
    "id": "b026_0167",
    "jp": "「元気よ ふたたび!{n} ゆうじょう! {kata}アニマ{hira}攻撃!」{n}{page}",
-   "en": null
+   "en": "\"Vigor, return once more!{n} Friendship! Anima Attack!\"{n}{page}"
   },
   {
    "id": "b026_0168",
    "jp": "「やさしく 元気に!{n} あいじょう! {kata}アニマ{hira}ー{kata}ト{hira}攻撃!」{n}{page}",
-   "en": null
+   "en": "\"Gentle and lively!{n} Love! Animato Attack!\"{n}{page}"
   }
  ]
 }

@@ -7,247 +7,247 @@
   {
    "id": "b063_0000",
    "jp": "「ふたつめの 歌は{n} もっと わかんねえ!」{n}{n}『よもつ国{n} たたえて咲くや{n} 夢見草(ゆめみぐさ)』{n}「いっそ 鬼たちに{n} しはいされた ほうが{n} らくかもしれん…」",
-   "en": null
+   "en": "\"The second poem makes even less sense!\"{n}{n}'The Land of Yomi--{n} blooming in its praise,{n} the dream-seeing flower'{n}\"Maybe it'd be easier just to let the oni rule us...\""
   },
   {
    "id": "b063_0001",
    "jp": "「3つの なぞを といてしまうとは{n} みなさんは ほんとうに{n} すばらしい かたがたです!」",
-   "en": null
+   "en": "\"To solve all 3 riddles... you truly are wonderful people!\""
   },
   {
    "id": "b063_0002",
    "jp": "「つばくらめってのは{n} {kata}ツバメ{hira}の ことなんだってさ!{n} だからって わかんねえんだけど」",
-   "en": null
+   "en": "\"They say 'tsubakurame' means a swallow! Not that it helps me figure it out.\""
   },
   {
    "id": "b063_0003",
    "jp": "「わからん!{n} {sub:CE}の なぞかけは{n} わしには ちっとも わからん!」",
-   "en": null
+   "en": "\"I don't get it! Ashura's riddles are completely beyond me!\""
   },
   {
    "id": "b063_0004",
    "jp": "「さいしょの 『よもつ国』は{n} 地獄の ことじゃ!{n} 地獄に 咲く花のことか?」",
-   "en": null
+   "en": "\"The first bit, 'the Land of Yomi', means Hell! So is it a flower that blooms in Hell?\""
   },
   {
    "id": "b063_0005",
    "jp": "「おたのみもうします!{n} 都は あなたがたが{n} 最後の たよりなのじゃ!」",
-   "en": null
+   "en": "\"We beg of you! You are the Capital's last hope!\""
   },
   {
    "id": "b063_0006",
    "jp": "「{sub:A0}さん! ひえんの術は{n} もともと {kata}ツバメ{hira}が 飛ぶすが{sub:BE}{n} 生まれたのでは なかったかな?」",
-   "en": null
+   "en": "\"Momotaro! Wasn't the Swallow Wing Art born from the way swallows fly?\""
   },
   {
    "id": "b063_0007",
    "jp": "「さいしょの 『夜(よ)をこめて』は{n} 夜のうちに といういみじゃ…」{n}",
-   "en": null
+   "en": "\"The first part, 'Before the night is through', means while it is still night...\"{n}"
   },
   {
    "id": "b063_0008",
    "jp": "「2番目の『たたえて咲くや』は{n} 鬼たちを ほめろということか?」{n}",
-   "en": null
+   "en": "\"The second part, 'blooming in its praise'... does it mean we're to praise the oni?\"{n}"
   },
   {
    "id": "b063_0009",
    "jp": "「{sub:CE}は えんま様に{n} まなんだと 聞く! ならば{n} 目が さめるかも しれませんな!」",
-   "en": null
+   "en": "\"I hear Ashura studied under King Enma! If so, perhaps Ashura can be brought to their senses!\""
   },
   {
    "id": "b063_0010",
    "jp": "「つばくらめさえ わかれば{n} なぞが とけると おもうのだが…」{n}",
-   "en": null
+   "en": "\"If only we knew what 'tsubakurame' meant, I think we could solve the riddle...\"{n}"
   },
   {
    "id": "b063_0011",
    "jp": "「{sub:CE}は 酒香童子と 並ぶ{n} 鬼のなかでも 1 2を あらそう{n} 力と 知力を 持ってるそうじゃ!」",
-   "en": null
+   "en": "\"They say Ashura, along with Shuko Doji, has the strength and wits to rank first or second among all the oni!\""
   },
   {
    "id": "b063_0012",
    "jp": "「3つ目の歌も 手が出ん!{n} 『黄金(こがね)さす{n}  みほとけまもる つばくらめ』」",
-   "en": null
+   "en": "\"I can't crack the third poem either!{n}'Golden-gleaming,{n}  guarding the holy Buddha, the tsubakurame'\""
   },
   {
    "id": "b063_0013",
    "jp": "「なぞを といていただいて{n} ほんとうに {sub:BD}す!{n} これを おおさめ{sub:C5}!」",
-   "en": null
+   "en": "\"Thank you so much for solving the riddles! Please accept this!\""
   },
   {
    "id": "b063_0014",
    "jp": "「{sub:CE}も 本当は{n} 悪い鬼では ないのでしょうね」{n}",
-   "en": null
+   "en": "\"Maybe Ashura isn't really a bad oni at heart.\"{n}"
   },
   {
    "id": "b063_0015",
    "jp": "「う～ん! むずかしすぎて{n} 頭が いたくなってきた!」{n}",
-   "en": null
+   "en": "\"Ugh! It's so hard, my head's starting to hurt!\"{n}"
   },
   {
    "id": "b063_0016",
    "jp": "「『黄泉路(よみじ)をわたる』……」{n}{n}{n}「黄泉路ってのは 地獄のことだろ?{n} 地獄を歩くで 誰かを 殺せ{n} ……ってことか? まさかなあ」",
-   "en": null
+   "en": "\"'Crossing the Road of Yomi'......\"{n}{n}{n}\"The Road of Yomi means Hell, right? Walk through Hell, so go kill somebody... is that it? Nah, couldn't be.\""
   },
   {
    "id": "b063_0017",
    "jp": "「『黄金(こがね)さす{n}  みほとけ…』と いうからには{n} ほとけさんが 金色なんじゃろな!」",
-   "en": null
+   "en": "\"Since it says 'Golden-gleaming,{n}  guarding the holy Buddha...', I reckon the Buddha must be golden!\""
   },
   {
    "id": "b063_0018",
    "jp": "「夢見草は かざし草とも{n} あだな草とも あけぼの草とも{n} いうそうじゃ! さて?」",
-   "en": null
+   "en": "\"They say the dream-seeing flower is also called the hair-sprig flower, the fleeting flower and the dawn flower! Now what?\""
   },
   {
    "id": "b063_0019",
    "jp": "「都が めざす 美しさは{n} {sub:A0}さんの 持つ{n} やさしさに なることでしょう」",
-   "en": null
+   "en": "\"The beauty the Capital strives for will surely be the kindness that Momotaro has.\""
   },
   {
    "id": "b063_0020",
    "jp": "「なぞかけの 『つのかくし』なら{n} はなよめだと おもうんじゃが…{n} はなよめを どうすればいいんじゃ」",
-   "en": null
+   "en": "\"The riddle's 'horn-hider' is a bride's headdress, so it means a bride, I reckon... but what're we supposed to do with a bride?\""
   },
   {
    "id": "b063_0021",
    "jp": "「『みほとけまもる…』というのは{n} ぶつぞうを あんちしてる{n} 場所のこと じゃないのかな?」",
-   "en": null
+   "en": "\"Doesn't 'guarding the holy Buddha...' mean a place where a Buddha statue is enshrined?\""
   },
   {
    "id": "b063_0022",
    "jp": "「夢見草か… 誰か 花について{n} くわしい人は おらんのか?」{n}",
-   "en": null
+   "en": "\"The dream-seeing flower, eh... Isn't there anyone who knows a lot about flowers?\"{n}"
   },
   {
    "id": "b063_0023",
    "jp": "「みなさんが ひっしに{n} ちえを しぼっている すがたに{n} 心を 打たれました!」{n}「どうか {sub:CE}との 戦いが{n} 無事に すみますように!」{n}",
-   "en": null
+   "en": "\"Seeing you all rack your brains so hard has touched my heart!\"{n}\"I pray your battle with Ashura ends safely!\"{n}"
   },
   {
    "id": "b063_0024",
    "jp": "「{sub:CE}は 鬼たちの あいだでも{n} 智将(ちしょう)と 呼ばれるほど!{n} むずかしい なぞを 出すものだ」",
-   "en": null
+   "en": "\"Even among the oni, Ashura is known as the Wise General! No wonder the riddles are so hard.\""
   },
   {
    "id": "b063_0025",
    "jp": "{sub:C2} {sub:A0}さん!{n} これは しつれい! てまえは{n} 蜂乃屋(はちのや)と もうします」{n}「{sub:C9}たちが こうして{n} あつまっていますのも…」{n}",
-   "en": null
+   "en": "\"Oh! Momotaro! Forgive my manners! I am called Hachinoya.\"{n}\"The reason we're all gathered here like this...\"{n}"
   },
   {
    "id": "b063_0026",
    "jp": "{sub:C2} これは これは!{n}{n}{n}「『黄金さす みほとけまもる{n} つばくらめ』は ひえんの城の{n} 黄金のぶつぞうで…」{n}「『よもつ国{n}  たたえて咲くや 夢見草』とは{n} 花咲かの村の さくら でしたか!」{n}「これほどの 知力を おもちなら{n} 智将(ちしょう){sub:CE}も{n} かたなしで ございましょう!」",
-   "en": null
+   "en": "\"Oh! My, my!\"{n}{n}{n}\"'Golden-gleaming, guarding the holy Buddha, the tsubakurame' was the golden Buddha statue of Swallow Wing Castle...\"{n}\"And 'The Land of Yomi--blooming in its praise, the dream-seeing flower' was the cherry tree of Hanasaka Village!\"{n}\"With wits such as yours, even Ashura the Wise General must be put to shame!\""
   },
   {
    "id": "b063_0027",
    "jp": "{sub:C2}」{n}{n}{n}「『よもつ国{n}  たたえて咲くや 夢見草』とは{n} さくらのことで ございましたか!」{n}「地獄を いわうかのように 咲く{n} さくらの木とは! {sub:CE}のやつ{n} どこまで 人を {kata}バカ{hira}にするのか!」",
-   "en": null
+   "en": "\"Oh!\"{n}{n}{n}\"So 'The Land of Yomi--blooming in its praise, the dream-seeing flower' was a cherry tree!\"{n}\"A cherry tree that blooms as if celebrating Hell! How far will that Ashura go to make fools of people!\""
   },
   {
    "id": "b063_0028",
    "jp": "「ふんまん やるかたないですな!{n} しかし 時間が ございません!{n} 残る ひとつを よろしく!」",
-   "en": null
+   "en": "\"Infuriating, isn't it! But there's no time! Please take care of the last one!\""
   },
   {
    "id": "b063_0029",
    "jp": "「しかし これで {sub:CE}が{n} 歌にたくした 3つの 美しいものは{n} すべて そろいましたな!」{n}「{sub:A0}さんたちの 知力と 武'勇は{n} 智将(ちしょう){sub:CE}も{n} かたなしで ございましょう!」",
-   "en": null
+   "en": "\"But with this, all three beautiful things Ashura hid in his poems have been found!\"{n}\"Your wits and valor, Momotaro, would put even Ashura the master strategist to shame!\""
   },
   {
    "id": "b063_0030",
    "jp": "{sub:C2} これは{n} まばゆい ばかりの{n} 黄金のぶつぞう!」{n}「なるほど 『黄金さす{n} みほとけまもる つばくらめ』は{n} ひえんの城の ことでしたか!」",
-   "en": null
+   "en": "\"Oh! Why, this is... a dazzling golden Buddha statue!\"{n}\"I see! So 'Golden-gleaming, guarding the Buddha, the swallow' meant Swallow Wing Castle!\""
   },
   {
    "id": "b063_0031",
    "jp": "「あとは もうひとつの{n} なぞを とくだけで ございますな」{n}{n}「夜叉姫さまの はなよめいしょうを{n} いそがねば なりますまいな!」{n}",
-   "en": null
+   "en": "\"Now all that's left is to solve the one remaining riddle.\"{n}{n}\"We must hurry with Princess Yasha's bridal costume!\"{n}"
   },
   {
    "id": "b063_0032",
    "jp": "「しかし これで {sub:CE}が{n} 歌にたくした 3つの 美しいものは{n} すべて そろいましたな!」{n}「{sub:A0}さんたちの 知力と 武'勇は{n} 智将(ちしょう){sub:CE}も{n} かたなしで ございましょう!」",
-   "en": null
+   "en": "\"But with this, all three beautiful things Ashura hid in his poems have been found!\"{n}\"Your wits and valor, Momotaro, would put even Ashura the master strategist to shame!\""
   },
   {
    "id": "b063_0033",
    "jp": "「残る なぞの ほうも{n} どうか よろしく{n} おねがいいたします!」",
-   "en": null
+   "en": "\"Please, I beg you, take care of the remaining riddle too!\""
   },
   {
    "id": "b063_0034",
    "jp": "「では 夜叉姫さまを{n} お呼びいたしましょう!」{n}",
-   "en": null
+   "en": "\"Then let us call for Princess Yasha!\"{n}"
   },
   {
    "id": "b063_0035",
    "jp": "蜂乃屋{n}「では みなさま{n} まいりましょうか!」",
-   "en": null
+   "en": "Hachinoya{n}\"Well then, everyone, shall we go?\""
   },
   {
    "id": "b063_0036",
    "jp": "蜂乃屋{n}「このような わけで{n} こまりきっているのです…」",
-   "en": null
+   "en": "Hachinoya{n}\"And that's why we're at our wits' end...\""
   },
   {
    "id": "b063_0037",
    "jp": "夜叉姫{n}「しんぱいは いりません!」{n}{n}『夜(よ)をこめて{n} 黄泉路(よみじ)をわたる{n} つのかくし!』{n}「さいしょの{n} 『夜(よ)をこめて』は{n} きょうじゅうに…」{n}「2番目の 『黄泉路をわたる』の{n} 黄泉路(よみじ)は{n} 地獄の 道のこと!」{n}「3番目の 『つのかくし』は{n} みんなも おもいついていた{n} はなよめいしょうが ただしいわ!」{n}「はなよめすがたの むすめを{n} きょうじゅうに{n} 地獄まで つれて行け! つまり…」{n}「はなよめを さしだせ!{n} という いみよ!」{n}{n}蜂乃屋{n}「ほう! なるほど!」{n}{n}「しかし はなよめと{n} いわれても…」{n}{n}夜叉姫{n}「それなら かんたんよ!{n} {sub:C9}が はなよめに なるの!」",
-   "en": null
+   "en": "Yasha{n}\"Don't worry!\"{n}{n}'Ere the night is through,{n} down the road to Yomi,{n} a horn-hiding hood!'{n}\"The first part, 'Ere the night is through,' means by the end of today...\"{n}\"The second part, 'down the road to Yomi'--the road to Yomi is the road to Hell!\"{n}\"The third part, 'a horn-hiding hood,' is the bridal hood, just as everyone guessed!\"{n}\"Bring a girl dressed as a bride all the way to Hell by the end of today! In other words...\"{n}\"It means 'Hand over a bride!'\"{n}{n}Hachinoya{n}\"Oh! I see!\"{n}{n}\"But where are we to find a bride...\"{n}{n}Yasha{n}\"That's easy! I'll be the bride!\""
   },
   {
    "id": "b063_0038",
    "jp": "「時間が ないわ!」{n}{n}",
-   "en": null
+   "en": "\"There's no time!\"{n}{n}"
   },
   {
    "id": "b063_0039",
    "jp": "「{sub:C9}が きがえてる あいだに{n} {sub:A0}さんたちは あとの{n} 2つの なぞを とくのよ!」{n}「そして よういが できたら{n} {sub:CE}のいる 五重の塔に{n} いっしょに のりこめばいいわ!」",
-   "en": null
+   "en": "\"While I change, Momotaro, you and the others solve the other two riddles!\"{n}\"Then, once we're ready, we can storm the Five-Tier Pagoda where Ashura is, together!\""
   },
   {
    "id": "b063_0040",
    "jp": "「ね! {sub:A0}さん{n} そうしましょう?」{n}",
-   "en": null
+   "en": "\"Right, Momotaro? Let's do that!\"{n}"
   },
   {
    "id": "b063_0041",
    "jp": "蜂乃屋{n}「それでは 夜叉姫さんも{n} ただでは すみますまい!」{n}夜叉姫{n}「みやぶられても {sub:A0}さんたちと{n} いっしょに 戦ってみせるわ!」",
-   "en": null
+   "en": "Hachinoya{n}\"But then you won't get off lightly yourself, Princess Yasha!\"{n}Yasha{n}\"Even if they see through me, I'll fight right alongside Momotaro and the others!\""
   },
   {
    "id": "b063_0042",
    "jp": "蜂乃屋{n}「ありがたや! この 蜂乃屋!{n} おれいの 言葉も ありません!」{n}「さっそく あちらで {n} 夜叉姫さまの はなよめいしょうの{n} かりぬいを いたしましょう!」",
-   "en": null
+   "en": "Hachinoya{n}\"Bless you! I, Hachinoya, have no words to thank you!\"{n}\"Let us go over there at once and tack together Princess Yasha's bridal costume!\""
   },
   {
    "id": "b063_0043",
    "jp": "「なぞかけ とは むずかしい!{n} お金で すむほうが ましじゃ!!」{n}",
-   "en": null
+   "en": "\"Riddles are so hard! I'd rather pay my way out of it with money!!\"{n}"
   },
   {
    "id": "b063_0044",
    "jp": "銀次{n}「{sub:A0}さん! あっしです!{n} {kata}スリ{hira}の銀次です!」",
-   "en": null
+   "en": "Ginji{n}\"Momotaro! It's me! Ginji the Pickpocket!\""
   },
   {
    "id": "b063_0045",
    "jp": "「{sub:CE}の なぞで{n} なやんでいるようですね?{n} いい じょうほうを つかみやした」{n}「つばくらめは {kata}ツバメ{hira}!{n} {kata}ツバメ{hira}は ひえん!{n} ひえんといえば あの仙人ですよ!」{n}「それです! それです!{n} さすがに {sub:A0}さん!{n} かんが いいや!」",
-   "en": null
+   "en": "\"Looks like Ashura's riddles got ya stumped? I dug up some good info.\"{n}\"'Tsubakurame' is an old word for swallow! A swallow means Swallow Wing! And Swallow Wing means that sage!\"{n}\"That's it! That's it! Sharp as ever, Momotaro! Ya got good instincts!\""
   },
   {
    "id": "b063_0046",
    "jp": "「夢見草に ついて{n} なやんでませんか?」{n}{n}「なやむわけですよ!{n} 夢見草というから あっしは{n} そこらじゅうの 草をさがしやした」{n}「夢見草は 草じゃなくて{n} 木だったんですよ! しかも{n} さくらの べつの名前なんです」{n}「おどろいた でやんしょう?{n} さくらと いえば {sub:A0}さん!{n} あの村の あの人だ!」",
-   "en": null
+   "en": "\"Ya stumped over the dreamgrass?\"{n}{n}\"No wonder! 'Cause it's called dreamgrass, I went searchin' every patch of grass around.\"{n}\"But dreamgrass ain't grass, it's a tree! What's more, it's another name for the cherry blossom!\"{n}\"Surprised, ain't ya? And speakin' of cherry blossoms, Momotaro--it's that fella in that village!\""
   },
   {
    "id": "b063_0047",
    "jp": "「これからも 鬼たいじ{n} がんばって{sub:C5}!」{n}",
-   "en": null
+   "en": "\"Keep up the oni hunt, please!\"{n}"
   },
   {
    "id": "b063_0048",
    "jp": "「それじゃ あっしは また{n} じょうほうを あつめてきやす!」{n}",
-   "en": null
+   "en": "\"Well then, I'm off to gather more info!\"{n}"
   }
  ]
 }

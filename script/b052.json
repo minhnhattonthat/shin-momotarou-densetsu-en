@@ -7,67 +7,67 @@
   {
    "id": "b052_0000",
    "jp": "「ぼうや! 虹の色って{n} どういう 順番で{n} 7色か 知ってる?」{n}「赤 だいだい色 黄色{n} みどり色 青… それから?」{n}",
-   "en": null
+   "en": "\"Hey, kid! Do you know what order the 7 colors of the rainbow go in?\"{n}\"Red, orange, yellow, green, blue... and then?\"{n}"
   },
   {
    "id": "b052_0001",
    "jp": "「う～んとね! 青の つぎが…{n} こん色? あい色っていうの?{n} 青より こい色! そんで…」{n}「最後が わかんないや!」{n}{n}",
-   "en": null
+   "en": "\"Ummm! After blue comes... navy? Or is it called indigo? The color that's darker than blue! And then...\"{n}\"I don't know the last one!\"{n}{n}"
   },
   {
    "id": "b052_0002",
    "jp": "「{sub:B5}{n} ちかごろ お宿のそばで{n} 笛の音が 聞こえるんです」{n}「いったい 誰が{n} 吹いているのでしょう?{n} とても 悲しい 音なのです」",
-   "en": null
+   "en": "\"Chuchun! Lately we've been hearing a flute near the inn.\"{n}\"Who on earth could be playing it? It's such a sad sound.\""
   },
   {
    "id": "b052_0003",
    "jp": "「むすめさんが 寒がっているので{n} まきを 集めてます!」{n}{n}「{sub:C9}に できるもんは{n} このくらいですから!{n} {sub:A0}さんは 龍のうろこを!」",
-   "en": null
+   "en": "\"The young lady is cold, so I'm gathering firewood!\"{n}{n}\"This is about all I can do! Momotaro, you get the Dragon Scale!\""
   },
   {
    "id": "b052_0004",
    "jp": "「やあ! むすめさん!{n} なおったんだ よかったねー!」{n}{n}「ところで さっき 背の高い{n} やさしそうな男が あんたの{n} 病気のことを 聞いてきたけど…」{n}「しりあい なのかい?」{n}{n}",
-   "en": null
+   "en": "\"Hey there, young lady! You're all better! That's great!\"{n}{n}\"By the way, a tall, kind-looking man came asking about your illness a while ago...\"{n}\"Is he someone you know?\"{n}{n}"
   },
   {
    "id": "b052_0005",
    "jp": "「おや? {sub:A0}さん! {n} あの 鬼のむすめさんは {n} ごいっしょじゃ ないんですか?」{n}「なーにね さっき 背の高い{n} やさしそうな男が むすめさんの{n} ようすを 気にしてい{sub:BE}さ!」",
-   "en": null
+   "en": "\"Oh? Momotaro! Isn't that oni girl with you?\"{n}\"Well, ya see, a tall, kind-looking man was just here, worried about how the young lady was doing!\""
   },
   {
    "id": "b052_0006",
    "jp": "「{sub:B5} この村の 北にある{n} まんきん仙人の庵に 行きましたか?{n} うっかりすると 見落としますよ!」",
-   "en": null
+   "en": "\"Chuchun! Have you been to Sage Mankin's hut north of this village? It's easy to miss!\""
   },
   {
    "id": "b052_0007",
    "jp": "「{sub:B5} {sub:A0}さん!{n} 人魚の村は 旅立ちの村の{n} 近くに あるそうよ!」",
-   "en": null
+   "en": "\"Chuchun! Momotaro! They say Mermaid Village is near Journey's Start Village!\""
   },
   {
    "id": "b052_0008",
    "jp": "「{sub:B5} {sub:A0}さん!{n} 月の水晶は すべて{n} あつまりましたか?」{n}「最後の 水晶は{n} 三途(さんず)の川の 鬼が{n} 持ってる ようですよ!」",
-   "en": null
+   "en": "\"Chuchun! Momotaro! Have you gathered all the Moon Quartz?\"{n}\"It seems the last quartz is held by the oni of the Sanzu River!\""
   },
   {
    "id": "b052_0009",
    "jp": "「{sub:B5} {sub:A0}さん!{n} 森の鳥たちが きゅうに{n} さわぎだしています!」{n}「何か おきないと{n} いいんですけどね!」{n}",
-   "en": null
+   "en": "\"Chuchun! Momotaro! The birds of the forest have suddenly started making a fuss!\"{n}\"I hope nothing's going to happen!\"{n}"
   },
   {
    "id": "b052_0010",
    "jp": "「{sub:B5} {sub:A0}さん!{n} 森の鳥たちが きゅうに{n} さわぎだしています!」",
-   "en": null
+   "en": "\"Chuchun! Momotaro! The birds of the forest have suddenly started making a fuss!\""
   },
   {
    "id": "b052_0011",
    "jp": "「しこめじゃよ! 氷の塔も{n} 海のなかに 沈んじまいよった!」{n}{n}「氷で つめたい 塔だったが{n} あたしには あたたかい{n} 場所だったんじゃよ!」{n}「{kata}カルラ{hira}!」{n}{n}{n}「{sub:B6}の 野望というのは{n} 美しい 大地を{n} よごすこと だったのかい?」",
-   "en": null
+   "en": "\"It's Shikome! The Ice Tower's gone and sunk into the sea, too!\"{n}{n}\"It was a cold tower made of ice, but to me it was a warm place!\"{n}\"Karura!\"{n}{n}{n}\"Was this ambition of yours just about defiling this beautiful land?\""
   },
   {
    "id": "b052_0012",
    "jp": "「ああ! {sub:A0}さん!{n} 和菓子の 辰巳'です!」{n}{n}「おかあさんが! おかあさんが!{n} ああ! これから いったい{n} どうやって 生きていけば…うっ!」",
-   "en": null
+   "en": "\"Oh! Momotaro! It's me, Tatsumi of the sweet shop!\"{n}{n}\"My mother! My mother! Oh! How am I supposed to go on living now... *sob*!\""
   }
  ]
 }

@@ -7,12 +7,12 @@
   {
    "id": "b039_0000",
    "jp": "「しっかりねらって うってくれたまえ。」{0B}",
-   "en": null
+   "en": "\"Take careful aim before you shoot.\"{0B}"
   },
   {
    "id": "b039_0001",
    "jp": "「ごくろうさまでした。{n} とくてんは {num}てんでした。{n} またいらして{sub:C5}ね。」{0B}",
-   "en": null
+   "en": "\"Thank you for your hard work. Your score was {num} points. Please come again.\"{0B}"
   }
  ]
 }

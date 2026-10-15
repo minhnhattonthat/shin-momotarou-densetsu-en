@@ -20,9 +20,22 @@ SPECIAL_WITH_ARG = {0x53, 0x44, 0x64, 0x5A, 0x4E, 0x49}
 EOL_SLACK = 8  # a run that ends its line may grow the window by this many 6 px cells (QA-checked)
 
 
+# Pointer tables some code reads into $B9-$BB: (file offset of entry 0, stride, lo/hi offset, bank offset, count)
+TABLES = [
+    (0x5B477, 5, 0, 2, 4),   # 85:B3A6 status-bar style windows (index $0C)
+    (0x59EFF, 4, 1, 3, 3),   # 85:9E9B windows by $1620
+]
+
+
 def loaders(rom):
     """[(offset of lo/hi operand, offset of bank operand, target file offset)]"""
     out = []
+    for base, stride, lo_off, bank_off, count in TABLES:
+        for k in range(count):
+            e = base + k * stride
+            lo = int.from_bytes(rom[e + lo_off:e + lo_off + 2], 'little')
+            bank = rom[e + bank_off]
+            out.append((e + lo_off, e + bank_off, ((bank << 16) | lo) & 0x3FFFFF))
     for m in LOADER.finditer(rom):
         lo = int.from_bytes(m.group(1), 'little')
         bank = m.group(2)[0]

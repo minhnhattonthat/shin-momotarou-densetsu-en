@@ -7,152 +7,152 @@
   {
    "id": "b027_0000",
    "jp": "{arg}{arg}は{n}怪しげな うごきで{n}呪いの力を はなった!{page}",
-   "en": null
+   "en": "{arg}{arg} made{n}strange movements{n}and unleashed the power of a curse!{page}"
   },
   {
    "id": "b027_0001",
    "jp": "{arg}{arg}は 呪われてしまった!{page}",
-   "en": null
+   "en": "{arg}{arg} was cursed!{page}"
   },
   {
    "id": "b027_0002",
    "jp": "しかし {arg}{arg}には{n}効きめが なかった!{page}",
-   "en": null
+   "en": "But it had no effect{n}on {arg}{arg}!{page}"
   },
   {
    "id": "b027_0003",
    "jp": "{arg}{arg}の{n}最大体力が {num}下がった!{page}",
-   "en": null
+   "en": "{arg}{arg}'s{n}maximum Health dropped by {num}!{page}"
   },
   {
    "id": "b027_0004",
    "jp": "{arg}{arg}の{n}腹が いっぱいになった!{n}{sub:C0}や きびだんごを{n}食べることが できなくなった!{n}{page}",
-   "en": null
+   "en": "{arg}{arg}'s{n}stomach is stuffed full!{n}Can no longer eat{n}rice balls or millet dumplings!{n}{page}"
   },
   {
    "id": "b027_0005",
    "jp": "{arg}{arg}の{n}{sub:D6}が 開かなくなった!{page}",
-   "en": null
+   "en": "{arg}{arg}'s{n}Item Bag won't open anymore!{page}"
   },
   {
    "id": "b027_0006",
    "jp": "{arg}{arg}は 呪われてしまった!{page}",
-   "en": null
+   "en": "{arg}{arg} was cursed!{page}"
   },
   {
    "id": "b027_0007",
    "jp": "{arg}{arg}は 船に のると{n}吐き気を もよおすように なった!{page}",
-   "en": null
+   "en": "{arg}{arg} now gets{n}seasick on boats!{page}"
   },
   {
    "id": "b027_0008",
    "jp": "{arg}{arg}は あと 128歩で{n}力つきてしまう!{page}",
-   "en": null
+   "en": "{arg}{arg} will collapse{n}in 128 more steps!{page}"
   },
   {
    "id": "b027_0009",
    "jp": "{arg}{arg}の{n}最大技の数が {num}下がった!{page}",
-   "en": null
+   "en": "{arg}{arg}'s{n}maximum Skill points dropped by {num}!{page}"
   },
   {
    "id": "b027_0010",
    "jp": "{arg}{arg}は{n}声が 出なくなってしまった!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}can no longer make a sound!{page}"
   },
   {
    "id": "b027_0011",
    "jp": "{arg}{arg}は{n}仲間を 呼んだ!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}called for help!{page}"
   },
   {
    "id": "b027_0012",
    "jp": "しかし{n}仲間は かけつけてくれなかった!{page}",
-   "en": null
+   "en": "But{n}no help came!{page}"
   },
   {
    "id": "b027_0013",
    "jp": "{arg}({arg})が{n}かけつけた!{page}",
-   "en": null
+   "en": "{arg} ({arg}){n}came running!{page}"
   },
   {
    "id": "b027_0014",
    "jp": "{arg}が かけつけた!{page}",
-   "en": null
+   "en": "{arg} came running!{page}"
   },
   {
    "id": "b027_0015",
    "jp": "{arg}{arg}は{n}口から 毒の息を 吐いた!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}breathed poison from its mouth!{page}"
   },
   {
    "id": "b027_0016",
    "jp": "しかし {arg}{arg}は{n}毒の息を はねかえした!{page}",
-   "en": null
+   "en": "But {arg}{arg}{n}repelled the poison breath!{page}"
   },
   {
    "id": "b027_0017",
    "jp": "{arg}{arg}は{n}口から 猛毒の息を 吐いた!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}breathed deadly poison from its mouth!{page}"
   },
   {
    "id": "b027_0018",
    "jp": "しかし {arg}{arg}は{n}猛毒の息を はねかえした!{page}",
-   "en": null
+   "en": "But {arg}{arg}{n}repelled the deadly poison breath!{page}"
   },
   {
    "id": "b027_0019",
    "jp": "{arg}{arg}は{n}口から 猛毒の息を 吐いた!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}breathed deadly poison from its mouth!{page}"
   },
   {
    "id": "b027_0020",
    "jp": "{arg}{arg}は{n}口から もっけの毒を 吐いた!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}spat mokke poison from its mouth!{page}"
   },
   {
    "id": "b027_0021",
    "jp": "{arg}{arg}は{n}もっけの毒に おかされた!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}was afflicted by mokke poison!{page}"
   },
   {
    "id": "b027_0022",
    "jp": "しかし {arg}{arg}は{n}もっけの毒を はねかえした!{page}",
-   "en": null
+   "en": "But {arg}{arg}{n}repelled the mokke poison!{page}"
   },
   {
    "id": "b027_0023",
    "jp": "{arg}{arg}は{n}口から しびれ薬を 吹きつけてきた!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}sprayed a numbing drug from its mouth!{page}"
   },
   {
    "id": "b027_0024",
    "jp": "しかし {arg}{arg}は{n}しびれ薬を はねかえした!{page}",
-   "en": null
+   "en": "But {arg}{arg}{n}repelled the numbing drug!{page}"
   },
   {
    "id": "b027_0025",
    "jp": "{arg}{arg}は{n}空高く まいあがった!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}soared high into the sky!{page}"
   },
   {
    "id": "b027_0026",
    "jp": "{arg}{arg}は{n}かみついてきた!{page}",
-   "en": null
+   "en": "{arg}{arg}{n}lunged with a bite!{page}"
   },
   {
    "id": "b027_0027",
    "jp": "{arg}{arg}の 体力が{n}{num} 吸い取られてしまった!{page}",
-   "en": null
+   "en": "{arg}{arg}'s Health{n}was drained by {num}!{page}"
   },
   {
    "id": "b027_0028",
    "jp": "しかし{n}なにも おきなかった!{n}{page}",
-   "en": null
+   "en": "But{n}nothing happened!{n}{page}"
   },
   {
    "id": "b027_0029",
    "jp": "鬼界の力が 鬼の 体に 流れこむ!{page}",
-   "en": null
+   "en": "The power of the Oni Realm flows into the oni's body!{page}"
   }
  ]
 }

@@ -7,82 +7,82 @@
   {
    "id": "b083_0000",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! {kata}チュ{hira}ー {kata}チュ{hira}ー!{n} おむすびころりん すっとんとん!」{n}{n}「{sub:A0}さん! ありがとう!{n} どうぞ おむすび めしあがれ!」{n}",
-   "en": null
+   "en": "\"Squeak squeak! Squeak squeak! Rice ball rolling, down the hole, roly-poly!\"{n}{n}\"Thank you, Momotaro! Please, have a rice ball!\"{n}"
   },
   {
    "id": "b083_0001",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! {kata}チュ{hira}ー {kata}チュ{hira}ー!{n} おむすびころりん すっとんとん!{n} {sub:A0}さん! ありがとう!」",
-   "en": null
+   "en": "\"Squeak squeak! Squeak squeak! Rice ball rolling, down the hole, roly-poly! Thank you, Momotaro!\""
   },
   {
    "id": "b083_0002",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! {sub:A0}さん!{n} 村長(むらおさ)の 甚八さんが{n} {sub:A0}さんに あいたがってたよ!」",
-   "en": null
+   "en": "\"Squeak squeak! Momotaro! Jinpachi, the village chief, said he wanted to see you, Momotaro!\""
   },
   {
    "id": "b083_0003",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! {sub:A0}さん!{n} 人気度が 30をきると どの店も{n} 値段が 倍になるそうです」{n}「でも {sub:A0}さんは 人気者だから{n} しんぱい ありませんよね!」{n}",
-   "en": null
+   "en": "\"Squeak squeak! Momotaro! They say if your Popularity drops below 30, every shop doubles its prices.\"{n}\"But you're so popular, Momotaro, you've got nothing to worry about!\"{n}"
   },
   {
    "id": "b083_0004",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! この先の{n} すゞめのお宿1には{n} つづら屋さんが あるそうです」{n}「大きな つづらと {n} 小さな つづらで{n} いろんな物が 当たるそうです!」",
-   "en": null
+   "en": "\"Squeak squeak! I hear there's a wicker chest shop ahead at Sparrow Inn 1.\"{n}\"They say you can win all sorts of things with a big wicker chest and a small wicker chest!\""
   },
   {
    "id": "b083_0005",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! {sub:A0}さん!{n} 旅の人が とても よろこんでくれて{n} 村を 作ったかいが ありました」",
-   "en": null
+   "en": "\"Squeak squeak! Momotaro! Travelers are so happy with it, building the village was worth it.\""
   },
   {
    "id": "b083_0006",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! すゞめのお宿の{n} そばにいる 雷鬼(らいき)は{n} 雷鳴の術を となえてきます!」{n}「めったに 来ないので{n} 安心してると{n} とんでもない目に あいますよ!」",
-   "en": null
+   "en": "\"Squeak squeak! The Thunder Oni near the Sparrow Inn casts the Thunderclap Art!\"{n}\"It doesn't show up often, but if you let your guard down, you'll be in for a nasty surprise!\""
   },
   {
    "id": "b083_0007",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! {sub:A0}さん!{n} ここから すゞめのお宿1までは{n} かなりの 道のりです!」{n}「兵具屋や 茶店も{n} ありますから 旅じたくを{n} ととのえて おでかけ{sub:C5}!」",
-   "en": null
+   "en": "\"Squeak squeak! Momotaro! It's quite a long way from here to Sparrow Inn 1!\"{n}\"There's an arms shop and a teahouse, so get ready for your journey before you set out!\""
   },
   {
    "id": "b083_0008",
    "jp": "「人間と 鬼と {kata}ネズミ{hira}と{n} 力を あわせて 村を 作る!{n} すばらしいことじゃ!」",
-   "en": null
+   "en": "\"Humans, oni and mice joining forces to build a village! Now that's a wonderful thing!\""
   },
   {
    "id": "b083_0009",
    "jp": "「この 洞窟の おかげで{n} 鬼に あわずに 旅が できます!{n} {sub:A0}さん ありがとう!」",
-   "en": null
+   "en": "\"Thanks to this cave, we can travel without running into oni! Thank you, Momotaro!\""
   },
   {
    "id": "b083_0010",
    "jp": "「{sub:C0}は おいしいし{n} しばらく この村で{n} ゆるゆると いたしましょうか!」",
-   "en": null
+   "en": "\"The rice balls are delicious, so why don't we take it easy in this village for a while?\""
   },
   {
    "id": "b083_0011",
    "jp": "「{sub:A0}さんの おかげで{n} 目が さめました!」{n}{n}「このまま 地獄は {kata}カルラ{hira}のために{n} とりかえしの つかないことに{n} なってしまうのでしょうか?」",
-   "en": null
+   "en": "\"Thanks to you, Momotaro, my eyes have been opened!\"{n}{n}\"Will Hell be ruined beyond repair like this, all because of Karura?\""
   },
   {
    "id": "b083_0012",
    "jp": "「見ず知らずの 旅の人に{n} こんなに 親切にできるなんて…」{n}{n}「これが えんま様が{n} おっしゃられていた{n} やさしさの心 なんですね!」",
-   "en": null
+   "en": "\"To be so kind to a traveler you've never even met...\"{n}{n}\"So this is the kind heart King Enma spoke of!\""
   },
   {
    "id": "b083_0013",
    "jp": "「{sub:A0}さん! これを どうぞ!{n} これを 持ってるだけで{n} しばらく 鬼に あわずにすみます」",
-   "en": null
+   "en": "\"Momotaro! Please, take this! Just carrying it will keep the oni away for a while.\""
   },
   {
    "id": "b083_0014",
    "jp": "「{sub:A0}さん! {sub:C9}たちは{n} 遠い昔の 鬼の すばらしさを{n} わすれてしまった 気がします」",
-   "en": null
+   "en": "\"Momotaro! I feel like we've forgotten how wonderful the oni were in the distant past.\""
   },
   {
    "id": "b083_0015",
    "jp": "「{kata}チュ{hira}ー {kata}チュ{hira}ー! {sub:A0}さん!{n} 旅の人を おもてなしする村が{n} こんなに りっぱに できました!」{n}「ところで {sub:A0}さん!」{n}{n}{n}「地われに 橋を かけてるときに{n} こんなものが 見つかったんです!{n} {sub:A0}さんが おさがしの品では?」",
-   "en": null
+   "en": "\"Squeak squeak! Momotaro! Our village for welcoming travelers has turned out just splendid!\"{n}\"By the way, Momotaro!\"{n}{n}{n}\"We found this while we were building a bridge over the crevasse! Is this the thing you've been looking for, Momotaro?\""
   },
   {
    "id": "b083_0016",
