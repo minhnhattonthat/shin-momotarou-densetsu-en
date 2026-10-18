@@ -7,7 +7,7 @@ import argparse, hashlib, subprocess, sys, zipfile, zlib
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SKILL = Path(r'H:\translation\batch\.claude\skills\translate-retro-game\scripts')
+SKILL = Path(r'H:\translation\batch\.agents\skills\translate-retro-game\scripts')
 ORIG = ROOT / 'rom' / 'Shin Momotarou Densetsu (Japan) (Rev 1).sfc'
 OUT = ROOT / 'release'
 

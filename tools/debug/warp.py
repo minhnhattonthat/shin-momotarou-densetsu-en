@@ -12,7 +12,7 @@ import argparse, json, subprocess, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-SKILL = Path(r'H:\translation\batch\.claude\skills\translate-retro-game')
+SKILL = Path(r'H:\translation\batch\.agents\skills\translate-retro-game')
 EMU = SKILL / 'scripts' / 'emu.py'
 STATE = ROOT / 'work' / 'states' / 'field_idle.mss'
 OPEN_MENU = '20 -;6 down;30 -;8 a;50 -'

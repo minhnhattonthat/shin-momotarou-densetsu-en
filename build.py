@@ -29,7 +29,7 @@ QA = {}  # id -> English, from --qa
 NO_WIN = False
 SKIP = set(os.environ.get('SMD_SKIP', '').split(','))  # debugging: gfx,namevar,measure,fixed12
 WIN_ONLY = set()
-RESERVED = (0x4F15C, 0x4F2A0)  # VWF width tables (fontgen.WIDTH_FREE) + patches.FIXED12_CODE
+RESERVED = (0x4F15C, 0x4F2C0)  # VWF width tables (fontgen.WIDTH_FREE) + patches FIXED12/ALIGN/PAD code
 WINMAP = {}  # window region id -> CPU address in the built ROM (written next to the ROM for tools/debug)
 
 
@@ -133,6 +133,26 @@ def insert_windows(rom, pos):
     return pos
 
 
+# Opening credits (86:852E): table of (start tile column, block 19 string) pairs, each string pre-rendered on a
+# 32-tile row. Right-side credits start at columns 18-21; English (6 px per char) ran past column 32 and wrapped
+# to the left edge. Re-anchor them to end at column 30 (the left ones start at column 2).
+CREDITS_TABLE = 0x6862A
+
+
+def credits_columns(rom, docs):
+    strs = docs[19]['strings']
+    i = CREDITS_TABLE
+    while rom[i] != 0xFF:
+        col, idx = rom[i], rom[i + 1]
+        en = strs[idx].get('en')
+        if en:
+            tiles = -(-6 * len(en) // 8)
+            if col > 2:
+                rom[i] = min(col, 30 - tiles)
+            assert rom[i] + tiles <= 32, f'credit {idx} too long'
+        i += 2
+
+
 def build(marker_mode=False, out_path=None, only=None):
     rom = bytearray(ROM.read_bytes())
     docs = load_script()
@@ -151,6 +171,8 @@ def build(marker_mode=False, out_path=None, only=None):
             elif s.get('en') is not None:
                 # names print in 12 px window mode, where code 50 keeps a full Japanese cell: use the 6 px blank
                 en = wrap_text(s['en']) if kinds.kind(n) == 'dlg' else s['en'].replace(' ', '\xa0')
+                if n == 1:  # dictionary fragments also print inside names ("Rice Ball" item); \xa0 = space width
+                    en = en.replace(' ', '\xa0')
                 plain += encode_en(en)
             else:
                 plain += T.encode(s['jp'])
@@ -174,6 +196,8 @@ def build(marker_mode=False, out_path=None, only=None):
         pos += len(blob)
     if not NO_WIN:
         pos = insert_windows(rom, pos)
+    if 19 in changed:
+        credits_columns(rom, docs)
     if 'gfx' not in SKIP:
         pos = gfx.apply(rom, pos)
     fontgen.build_font(rom)

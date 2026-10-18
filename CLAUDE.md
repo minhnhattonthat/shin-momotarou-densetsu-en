@@ -1,11 +1,11 @@
 # Shin Momotarou Densetsu (SNES, 1993, Hudson Soft) English translation
 
-Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro-game\SKILL.md). Read it before ROM, text or QA work.
+Skill: translate-retro-game (H:\translation\batch\.agents\skills\translate-retro-game\SKILL.md). Read it before ROM, text or QA work.
 
 ## Commands (run from repo root)
 - Build:    `python -X utf8 build.py`           -> build/smd_en.sfc (`--marker` = id marker build)
 - Check:    `python -X utf8 tools/check.py`     (tests + lint; the pre-commit hook runs this)
-- Smoke:    `python -X utf8 H:/translation/batch/.claude/skills/translate-retro-game/scripts/emu.py build/smd_en.sfc --out work/qa/smoke --route tools/routes/boot.txt --smoke`
+- Smoke:    `python -X utf8 H:/translation/batch/.agents/skills/translate-retro-game/scripts/emu.py build/smd_en.sfc --out work/qa/smoke --route tools/routes/boot.txt --smoke`
 - Extract:  `python -X utf8 tools/extract.py` (writes script/bNNN.json; never overwrites without --force)
 - Release:  `python -X utf8 tools/release.py` (patch + verify; never publish)
 
@@ -35,8 +35,15 @@ Skill: translate-retro-game (H:\translation\batch\.claude\skills\translate-retro
 - Title logo English (tools/gfx.py title_logo: chr entry 0x30320 relocated, map rewritten in place + 00 end).
 - Fixed 6 px mode centres narrow glyphs (patches.FIXED12 at 84:F240).
 - Savestates from older builds are stale (RAM caches script pointers): make new ones from cold boot (work/qa/cold6).
-- QA: cold boot -> opening -> field (work/states/field_en2.mss, current build), status screen fixed
-  (winscript.TRAILER_EXTRA), all 87 window regions warp-rendered (work/qa/warp/page_*.png), 3 labels shortened.
+- QA: cold boot -> opening -> field (work/states/field_en2.mss, current build), all 87 window regions
+  warp-rendered (work/qa/warp/page_*.png), 3 labels shortened.
+- Window trailers (winscript.trailer_len): 3 B per variable code + 3 per cursor slot; header 38 = handler address
+  (vars only). Cut short = battle freeze. Line-end pad uses tile columns (patches PAD_CODE), measure rounds up.
+- Window spaces (code 50) snap to the next tile + 8 px, not 12 px: winscript.en_run pads to the Japanese end tile
+  (\xa0 to a tile edge first, else stale tile). Name fields (patches NAMEVAR) pad from the pen's pixel offset and
+  always skip the leftover pad bytes (else the colour code after them adds 2 tiles).
+- Cold-boot QA without saves: idle title -> attract demos (battles, deterministic); New Game + mash A -> prologue,
+  opening credits (86:862A column table, build.credits_columns), Moon field with level-40 Momotaro (~f45000).
 - Released v1.0 locally: release/shin-momotarou-densetsu_en.zip (bps sha1 59fff1b8..., patched crc32 67AA87DA).
 - Not done: real battle/shop playthrough (warp only); status top-row see-through cell.
 - Open: names in old saves stay JP; icons Lv/HP/SP/ry/Cu/Po/Pa are abbreviations (tile-size, flagged).

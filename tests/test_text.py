@@ -44,3 +44,22 @@ def test_lzss_roundtrip():
     for b in BLOCKS:
         enc = lzss_encode(b['data'])
         assert lzss_decode_upto(enc, 0, len(enc)) == b['data']
+
+
+def test_window_trailers():
+    import winscript as W
+    # data after the 00 that menu code reads through the script's end pointer (cut short -> battle crash)
+    assert W.trailer_len(ROM, 0x2E3ED) == 60  # battle enemy list: 12 variable entries + 8 handler pointers
+    assert W.trailer_len(ROM, 0x5BFC2) == 54  # status window: 18 variable entries
+    assert W.trailer_len(ROM, 0x2E8FA) == 9   # 1 slot, its handler pointer listed 3 times
+    assert W.trailer_len(ROM, 0x3CB16) == 18  # header 38 (handler code right after): 6 variable entries only
+    assert W.trailer_len(ROM, 0x1CF7A) == 57  # header 38 elsewhere: 19 variable entries
+
+
+def test_window_run_padding():
+    import winscript as W
+    # a space snaps the pen to the next 8 px tile, then +8: pad to the tile the Japanese run ends in
+    assert W.en_run('話す  ', 4, 'Talk') == 'Talk  '
+    assert W.en_run('強さ  ', 4, 'Status') == 'Status'  # one space put "Lead" a tile right
+    assert W.en_run('位 ', 2, '.') == '.\xa0\xa0\xa0'     # drawn blanks first: a space leaves the "." tile unwritten
+    assert W.en_run('身のこなし ', 6, 'Agility') == 'Agility\xa0   '

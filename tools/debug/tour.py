@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(ROOT / 'tools'))
 import kinds
 
-SKILL = Path(r'H:\translation\batch\.claude\skills\translate-retro-game')
+SKILL = Path(r'H:\translation\batch\.agents\skills\translate-retro-game')
 EMU = SKILL / 'scripts' / 'emu.py'
 STATE = ROOT / 'work' / 'states' / 'field_idle.mss'
 ROUTE = '20 -;6 down;30 -;8 a;50 -;8 down;20 -;8 down;20 -;8 down;20 -;8 a;60 -'

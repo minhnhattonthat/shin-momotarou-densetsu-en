@@ -128,9 +128,8 @@ def extract(rom):
 
 
 def en_run(jp, cells, en, slack=0):
-    """English for a run: Japanese leading spaces doubled, then the label, padded to 2 x cells.
+    """English for a run: Japanese leading spaces, then the label, padded to the tile the Japanese run ends in.
     slack: extra chars allowed for a run that ends its line (the window grows to its longest line)."""
-    # Window mode: code 50 (' ') keeps a 12 px cell, every English glyph and the narrow blank \xa0 take 6 px.
     if en.startswith('^'):  # exact text, no lead/limit: the line may grow (single-line or end-aligned windows)
         lead, label = 0, en[1:].replace(' ', '\xa0')
         slack = 10 ** 6
@@ -140,10 +139,28 @@ def en_run(jp, cells, en, slack=0):
     room = 12 * cells - 12 * lead - 6 * len(label)
     if room < -6 * slack:
         raise ValueError(f'{en!r} longer than {2 * (cells - lead)} chars')
-    room = max(room, 0)
-    # The odd 6 px goes before the trailing spaces: a run ending in the drawn blank \xa0 right before a number
-    # variable left a stale tile there (status window "Defense S244").
-    return ' ' * lead + label + '\xa0' * (room % 12 // 6) + ' ' * (room // 12)
+    # Pad to the tile the Japanese run ends in ("Status" + one space put "Lead" a tile right of "Items"). A glyph
+    # tile is only written once the pen leaves it and a space does not ("1." showed a stale tile): drawn blanks
+    # \xa0 up to a tile boundary first, then spaces.
+    end = _tile(_pen(jp.replace("'", ''), 12))
+    pen, fill = _pen(' ' * lead + label, 6), ''
+    while pen % 8 and _tile(pen + 6) <= end:
+        pen, fill = pen + 6, fill + '\xa0'
+    while _tile(pen) < end:
+        pen, fill = _pen(' ', 6, pen), fill + ' '
+    return ' ' * lead + label + fill
+
+
+def _tile(px):
+    return -(-px // 8)
+
+
+def _pen(text, glyph, px=0):
+    """Pen after drawing text in window mode: a space (code 50) snaps to the next 8 px tile and adds 8 px
+    (84:C030); any other character advances `glyph` px (Japanese 12, English and \\xa0 6)."""
+    for c in text:
+        px = 8 * _tile(px) + 8 if c == ' ' else px + glyph
+    return px
 
 
 def rebuild(rom, start, en_by_id, encode_en):
@@ -175,12 +192,20 @@ def rebuild(rom, start, en_by_id, encode_en):
 
 
 def trailer_len(rom, start):
-    """Bytes after the terminator that travel with a relocated script: 3 per cursor slot (handler pointers)."""
-    _, toks, end = tokens(rom, start)
+    """Bytes after the terminator that travel with a relocated script: the variable table (3 per 21 53/44/..
+    code), then the handler pointers (3 per cursor slot). Header command 38 gives one absolute handler address
+    instead, usually the code right after the variable table: then only the table travels."""
+    hdr, toks, end = tokens(rom, start)
     slots = sum(1 for k, b in toks if k == 'code' and b == b'\x21\x3e')
-    return max(3 * slots, TRAILER_EXTRA.get(start, 0))
-
-
-# Screens that keep other data after the 00, read through the script's end pointer (found in QA):
-# status window: a 0x35-byte variable table (garbage name/values and stray text without it).
-TRAILER_EXTRA = {0x5BFC2: 0x35}
+    nvars = sum(1 for k, b in toks if k == 'code' and len(b) == 3 and b[0] == 0x21 and b[1] in SPECIAL_WITH_ARG)
+    i = 0
+    while i < len(hdr):
+        if hdr[i] == 0x38:
+            handler = int.from_bytes(hdr[i + 1:i + 4], 'little') & 0x3FFFFF
+            return min(max(handler - end, 0), 3 * nvars)
+        i += 1 + HDR[hdr[i]]
+    n = 3 * (slots + nvars)
+    # Some menus list more handler pointers than they draw slots (repeats of the last one): take those too.
+    while n >= 3 and rom[end + n - 1] >= 0x80 and rom[end + n:end + n + 3] == rom[end + n - 3:end + n]:
+        n += 3
+    return n

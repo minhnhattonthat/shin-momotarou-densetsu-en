@@ -43,7 +43,8 @@ FIXED12_TAIL = bytes([
 # Window name variables (21 53 n, printer 84:BEAE): the field is n Japanese cells; each printed char decremented
 # the count (DEX) and swallowed one padding space of the script. English chars are half a cell, so the count is
 # kept in half cells: doubled at entry, one script pad byte swallowed per two chars, and the end padding is
-# 6 px per remaining half cell (in 8 px tiles) over ceil(X/2) skipped pad bytes.
+# 6 px per remaining half cell over ceil(X/2) skipped pad bytes, in 8 px tiles counted from the pen's pixel
+# offset $12C9 (the next tile starts after a part-filled one), so every name ends the field on the same column.
 NAMEVAR_AT = 0x4F1E0  # bank 84 free space (build.RESERVED)
 NAMEVAR_CODE = bytes([
     # +00 entry: JSR $BB4E (field length) ; ASL A ; RTS
@@ -51,10 +52,16 @@ NAMEVAR_CODE = bytes([
     # +05 per char: TXA ; BEQ ret (field full: a longer name overflows instead of eating the script) ;
     #              DEX ; TXA ; AND #1 ; BNE ret ; JSR $BB39 ; ret: RTS
     0x8A, 0xF0, 0x09, 0xCA, 0x8A, 0x29, 0x01, 0xD0, 0x03, 0x20, 0x39, 0xBB, 0x60,
-    # +12 end: TXA ; BEQ ret ; STA $00 ; ASL A ; CLC ; ADC $00 ; CLC ; ADC #2 ; LSR A ; LSR A ; PHA ;
-    #        TXA ; INC A ; LSR A ; TAX ; PLA ; ret: RTS
-    0x8A, 0xF0, 0x11, 0x85, 0x00, 0x0A, 0x18, 0x65, 0x00, 0x18, 0x69, 0x02, 0x4A, 0x4A, 0x48,
-    0x8A, 0x1A, 0x4A, 0xAA, 0x68, 0x60,
+    # +12 end: TXA ; BEQ ret ; LDA $12C9 ; BNE +2 ; LDA #8 ; DEC A ; PHA (px ? px-1 : 7) ;
+    #        TXA ; ASL A ; STA $00 ; ASL A ; CLC ; ADC $00 ; CLC ; ADC 1,S ; LSR A x3 ; STA 1,S (tiles) ;
+    #        TXA ; INC A ; LSR A ; TAX ; PLA ; BNE ret ;
+    #        0 tiles (the caller then skips no pad bytes, and the colour code after them ran on a part-filled tile:
+    #        +2 tiles, "Millet Dumpling" pushed the item list border off screen): skip them here, as 84:BF3E does:
+    #        loop: JSR $BB39 ; INC $1392 ; DEX ; BNE loop ; TXA ; ret: RTS
+    0x8A, 0xF0, 0x2A, 0xAD, 0xC9, 0x12, 0xD0, 0x02, 0xA9, 0x08, 0x3A, 0x48,
+    0x8A, 0x0A, 0x85, 0x00, 0x0A, 0x18, 0x65, 0x00, 0x18, 0x63, 0x01, 0x4A, 0x4A, 0x4A, 0x83, 0x01,
+    0x8A, 0x1A, 0x4A, 0xAA, 0x68, 0xD0, 0x0A,
+    0x20, 0x39, 0xBB, 0xEE, 0x92, 0x13, 0xCA, 0xD0, 0xF7, 0x8A, 0x60,
 ])
 NAMEVAR_SITES = [
     # (offset, original bytes, new bytes)
@@ -82,15 +89,42 @@ def _namevar(rom):
 
 
 # Window width measure (84:BFE3): every character counted 3 units (12 px, unit = 4 px). English glyphs are 6 px:
-# count 1 unit on even and 2 on odd characters (3 per pair). 84:C02C INC $09 ; BRA $C033 -> JMP to this code.
+# 2 units on the 1st, 3rd.. and 1 on the 2nd, 4th.. glyph of a run (rounded up, never short of the drawn width).
+# 84:C02C INC $09 ; BRA $C033 -> JMP to this code.
 MEASURE_AT = 0x4F220
 MEASURE_CODE = bytes([
     0xE6, 0x09,        # INC $09
-    0xA5, 0x0A,        # LDA $0A      characters so far on this line
+    0xA5, 0x0A,        # LDA $0A      items so far on this line (even at the start of a glyph run, see below)
     0x4A,              # LSR A
-    0x90, 0x02,        # BCC +2
+    0xB0, 0x02,        # BCS +2
     0xE6, 0x09,        # INC $09
     0x4C, 0x37, 0xC0,  # JMP $C037    (INC $0A ; next)
+])
+# Spaces, the cursor cell and the other listed codes (84:C030: units to even = 8 px boundary, +2) align the pen to a
+# tile, so the glyph run after them restarts its 6 px phase: round $0A up to even there.
+ALIGN_AT = 0x4F2A0
+ALIGN_CODE = bytes([
+    0x20, 0xA5, 0xC0,  # JSR $C0A5    units to even
+    0xE6, 0x09, 0xE6, 0x09,  # INC $09 x2
+    0xA5, 0x0A,        # LDA $0A
+    0x1A, 0x1A,        # INC A x2
+    0x29, 0xFE,        # AND #$FE
+    0x85, 0x0A,        # STA $0A
+    0x4C, 0x01, 0xC0,  # JMP $C001    next
+])
+# Line end (84:C172): the game pads (max units - drawn units) / 2 tiles before the right border. The drawn count
+# ($1394) still adds 12 px per English glyph, so no line was padded and each border landed where its text ended
+# (field menu: jagged right edge). Pad to the frame's right column instead: $12DF (left border) + 1 + W,
+# W = ($138F + 1) / 2 as the top border (84:C0CB).
+PAD_AT = 0x4F2B2
+PAD_CODE = bytes([
+    0xAD, 0x8F, 0x13,  # LDA $138F
+    0x1A, 0x4A,        # INC A ; LSR A    W
+    0x38,              # SEC
+    0x6D, 0xDF, 0x12,  # ADC $12DF        right border column
+    0x38,              # SEC
+    0xED, 0x0B, 0x03,  # SBC $030B        tiles to pad (borrow: the line is wider than the frame)
+    0x60,              # RTS
 ])
 
 
@@ -99,6 +133,16 @@ def _measure(rom):
     assert rom[MEASURE_AT:MEASURE_AT + len(MEASURE_CODE)] == b'\xff' * len(MEASURE_CODE)
     rom[MEASURE_AT:MEASURE_AT + len(MEASURE_CODE)] = MEASURE_CODE
     rom[0x4C02C:0x4C02F] = bytes([0x4C, MEASURE_AT & 0xFF, (MEASURE_AT >> 8) & 0xFF])
+    assert rom[0x4C030:0x4C03B] == bytes([0x20, 0xA5, 0xC0, 0xE6, 0x09, 0xE6, 0x09, 0xE6, 0x0A, 0x80, 0xC6])
+    assert rom[ALIGN_AT:PAD_AT + len(PAD_CODE)] == b'\xff' * (PAD_AT + len(PAD_CODE) - ALIGN_AT)
+    rom[ALIGN_AT:ALIGN_AT + len(ALIGN_CODE)] = ALIGN_CODE
+    rom[0x4C030:0x4C033] = bytes([0x4C, ALIGN_AT & 0xFF, (ALIGN_AT >> 8) & 0xFF])
+    # 84:C172 PHX ; LDA $138F ; SEC ; SBC $1394 ; BCC $C1AD ; LSR A ; BEQ $C1AD (STA $030F follows)
+    assert rom[0x4C172:0x4C17F] == bytes([0xDA, 0xAD, 0x8F, 0x13, 0x38, 0xED, 0x94, 0x13, 0x90, 0x31, 0x4A,
+                                          0xF0, 0x2E])
+    rom[PAD_AT:PAD_AT + len(PAD_CODE)] = PAD_CODE
+    rom[0x4C172:0x4C17F] = bytes([0xDA, 0x20, PAD_AT & 0xFF, (PAD_AT >> 8) & 0xFF, 0x90, 0x35, 0xF0, 0x33,
+                                  0xEA, 0xEA, 0xEA, 0xEA, 0xEA])
 
 
 def apply(rom, skip=()):

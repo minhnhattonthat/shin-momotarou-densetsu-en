@@ -36,6 +36,12 @@ Notes
   so the joke still works in English.
 - The ROM is expanded to 4 MB (HiROM); use an emulator or flash cart that supports it.
 
+Changes
+-------
+v1.1: fixed a freeze in battle (enemy list window); aligned menu, battle Arts list, item list
+      and shop borders; opening credits no longer wrap; prologue page fits its box.
+v1.0: first release.
+
 Known issues
 ------------
 - Status icons are single 8x8 tiles, so they use short tags: Lv (level), HP, SP, ry (ryo),
