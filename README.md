@@ -15,4 +15,10 @@ You need your own ROM under `rom/` (gitignored). See `CLAUDE.md` for the command
 - `tbl/kanji.txt`: kanji table
 - `glossary.md`: naming rulings
 
+## Support
+
+If you enjoy this translation, you can support my work on Ko-fi:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/minhnhattonthat)
+
 Translation, tools and patch were produced with AI assistance (Claude, Anthropic) under the direction of the project owner. Original game © 1993 Hudson Soft / Sakuma Akira.
