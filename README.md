@@ -4,6 +4,9 @@ Unofficial English fan translation of **Shin Momotarou Densetsu** ("The New Lege
 
 **No game data is included.** Download the BPS patch from the [latest release](../../releases/latest) and apply it to your own headerless No-Intro dump, `Shin Momotarou Densetsu (Japan) (Rev 1).sfc` (CRC32 4A653411). The release README lists the hashes and patching steps. The patched ROM is 4 MB HiROM.
 
+**Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
+helps most.
+
 ## What is translated
 All dialogue, menus, item/art/monster names, the name entry screen, the family tree and command chart, status icons, the opening and ending credits and the title logo. See the release README for known issues.
 
