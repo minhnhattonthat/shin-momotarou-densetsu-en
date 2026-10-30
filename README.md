@@ -7,8 +7,18 @@ Unofficial English fan translation of **Shin Momotarou Densetsu** ("The New Lege
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
-## What is translated
-All dialogue, menus, item/art/monster names, the name entry screen, the family tree and command chart, status icons, the opening and ending credits and the title logo. See the release README for known issues.
+## Translation status
+| Part | Status |
+|---|---|
+| Dialogue / story | Translated |
+| Menus, item/art/monster names, family tree, command chart | Translated |
+| Battle and shop screens | Translated (checked with a debug warp; the game was not played through to the end) |
+| Status icons | Translated (single 8x8 tiles, so short tags: Lv, HP, SP, ry, Cu, Po, Pa) |
+| Name entry | Translated (saves from the Japanese version keep their Japanese names) |
+| Title screen | Translated (logo in English; the small calligraphy signature in the corner is left as drawn) |
+| Opening and ending credits | Translated |
+
+Known issues: the status screen's top row has one blank (see-through) cell at its right end; details in the release README.
 
 ## Building from source
 You need your own ROM under `rom/` (gitignored). See `CLAUDE.md` for the commands (`python -X utf8 build.py`, `tools/check.py`, `tools/release.py`) and `docs/re/text.md` for the text engine research.
